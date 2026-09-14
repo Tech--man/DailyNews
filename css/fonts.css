@@ -1,0 +1,11 @@
+/* 自托管字体聚合入口 —— fonts/ 目录由 scripts/vendor-fonts.sh 从 @fontsource 拷贝生成。
+   各包 css 内部以相对路径引用 ./files/*.woff2，并带 unicode-range 分片（按用字懒加载）。 */
+@import url("../fonts/noto-serif-sc/400.css");
+@import url("../fonts/noto-serif-sc/700.css");
+@import url("../fonts/noto-serif-sc/900.css");
+@import url("../fonts/playfair-display/400.css");
+@import url("../fonts/playfair-display/400-italic.css");
+@import url("../fonts/playfair-display/700.css");
+@import url("../fonts/old-standard-tt/400.css");
+@import url("../fonts/im-fell-english/400.css");
+@import url("../fonts/im-fell-english/400-italic.css");

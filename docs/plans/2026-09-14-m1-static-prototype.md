@@ -1,4 +1,4 @@
-# 每日新報（DayilyNew）M1 静态版式原型 · 实施计划
+# 每日新報（DailyNews）M1 静态版式原型 · 实施计划
 
 > **For Claude:** 使用 superpowers:executing-plans 逐任务执行本计划。本计划为纯视觉原型，以「截图 + 验收清单」代替单元测试作为每个任务的过关条件。
 

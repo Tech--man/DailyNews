@@ -1,0 +1,4 @@
+# 本项目自成 pnpm 工作区根，阻止 pnpm 向上寻到 ~/pnpm-workspace.yaml
+# （家目录工作区由 CherryStudio 工具链管理，与本仓库安装相互干扰）
+packages:
+  - '.'

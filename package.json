@@ -1,0 +1,16 @@
+{
+  "name": "dailynews",
+  "version": "0.1.0",
+  "private": true,
+  "description": "每日新報 —— 复古报纸风每日新闻站（M1 静态原型）",
+  "type": "module",
+  "scripts": {
+    "vendor:fonts": "bash scripts/vendor-fonts.sh"
+  },
+  "dependencies": {
+    "@fontsource/im-fell-english": "^5.3.0",
+    "@fontsource/noto-serif-sc": "^5.3.0",
+    "@fontsource/old-standard-tt": "^5.3.0",
+    "@fontsource/playfair-display": "^5.3.0"
+  }
+}

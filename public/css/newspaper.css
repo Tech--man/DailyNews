@@ -492,25 +492,6 @@ body.paper::after {
   .archive-list a { grid-template-columns: 1fr; row-gap: 2px; }
 }
 
-.colophon {
-  border-top: 3px double var(--ink);
-  padding: 18px 0 48px;
-}
-
-.colophon p {
-  font-size: 12.5px;
-  color: var(--ink-soft);
-  line-height: 2;
-  text-align: center;
-}
-
-.colophon-nav a { padding: 0 2px; }
-
-.colophon-fine {
-  font-size: 11.5px;
-  letter-spacing: .22em;
-}
-
 /* ---------- 13. 響應式退化（< 900px 單欄堆疊） ---------- */
 
 @media (max-width: 900px) {
@@ -561,3 +542,117 @@ body.paper::after {
     margin: 16px auto 0;
   }
 }
+
+/* ---------- 14. 打印樣式（A4 豎版適配） ----------
+   保留報紙版式（網格/多欄/雙線），整體縮排；去掉噪點、暗角、
+   文字陰影等費墨且在紙上發悶的效果；加斷頁控制。 */
+
+@page {
+  size: A4 portrait;
+  margin: 12mm;
+}
+
+@media print {
+  body.paper {
+    background: #fff;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  body.paper::before,
+  body.paper::after { display: none; }
+
+  .sheet { max-width: 100%; padding: 0; }
+
+  body { font-size: 9.5pt; line-height: 1.6; }
+
+  .masthead { padding: 0 0 4mm; }
+  .masthead-title { font-size: 34pt; text-shadow: none; }
+  .masthead-latin { font-size: 9pt; }
+  .masthead-side { font-size: 7.5pt; line-height: 1.7; }
+  .masthead-sub { font-size: 7pt; }
+
+  .sections li { font-size: 9.5pt; padding: 4pt 16pt; }
+
+  .front-grid { column-gap: 6mm; row-gap: 5mm; padding: 5mm 0 6mm; }
+
+  .headline-title { font-size: 20pt; }
+  .headline-lead { font-size: 9pt; }
+  .headline-body { column-gap: 6mm; }
+  .body-first::first-letter { font-size: 2.6em; }
+
+  .secondary-title { font-size: 12pt; }
+  .half-title { font-size: 11.5pt; }
+  .briefs-title { font-size: 11pt; }
+  .briefs-list li, .half p, .supplement-main p { font-size: 8.5pt; }
+  .ad-body { font-size: 8pt; }
+  .supplement-title, .ad-head { font-size: 12pt; }
+
+  .halves, .supplement { padding: 5mm 0; }
+
+  .colophon { padding: 4mm 0 0; }
+  .colophon-nav { display: none; }
+
+  a { border-bottom: none; }
+  .source-line a { border-bottom: 1px solid var(--rule); }
+
+  /* 斷頁控制：小版塊不跨頁，標題不落單 */
+  .secondary, .briefs, .half, .ad-box, .weather-box, .briefs-list li { break-inside: avoid; }
+  .headline-title, .secondary-title, .half-title, .briefs-title, .ad-head { break-after: avoid; }
+
+  /* 打印版面寬（A4 ≈ 794px）會命中 <900px 響應式斷點，
+     此處位於文件末尾，顯式恢復桌面版式。 */
+  .masthead { grid-template-columns: 1fr auto 1fr; }
+  .masthead-side { text-align: left; }
+  .masthead-right { text-align: right; }
+
+  .front-grid { display: grid; grid-template-columns: repeat(12, 1fr); }
+  .headline { grid-column: 1 / 6; }
+  .secondary { grid-column: 6 / 9; }
+  .briefs {
+    grid-column: 9 / 13;
+    border-left: 1px solid var(--rule);
+    border-right: 1px solid var(--rule);
+    border-top: none;
+    padding: 0 5mm;
+  }
+  .headline-body { column-count: 3; }
+
+  .halves { grid-template-columns: 1fr 1fr; }
+  .half { padding-right: 6mm; }
+  .half + .half {
+    border-left: 1px solid var(--rule);
+    border-top: none;
+    margin-top: 0;
+    padding: 0 0 0 6mm;
+  }
+
+  .supplement { grid-template-columns: 7fr 5fr; }
+  .supplement--adonly { grid-template-columns: 7fr 5fr; }
+  .supplement--adonly .ad-box { max-width: none; margin: 0; }
+
+  .ad-box { padding: 8mm 16mm 7mm 9mm; }
+  .seal { position: absolute; top: 12mm; right: 7mm; margin: 0; }
+
+  .archive-list a { grid-template-columns: auto auto 1fr; }
+}
+
+.colophon {
+  border-top: 3px double var(--ink);
+  padding: 18px 0 48px;
+}
+
+.colophon p {
+  font-size: 12.5px;
+  color: var(--ink-soft);
+  line-height: 2;
+  text-align: center;
+}
+
+.colophon-nav a { padding: 0 2px; }
+
+.colophon-fine {
+  font-size: 11.5px;
+  letter-spacing: .22em;
+}
+

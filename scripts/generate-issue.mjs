@@ -7,7 +7,7 @@ import { dirname, join } from 'node:path';
 import { XMLParser } from 'fast-xml-parser';
 import {
   stripHtml, truncate, normalizeTitle, dedupeByTitle,
-  classify, withScores, selectLayout, lunarLine,
+  classify, withScores, selectLayout, lunarLine, wmoDesc,
 } from './lib.mjs';
 import { renderOg } from './og.mjs';
 
@@ -115,6 +115,31 @@ function parseDate(s) {
   return Number.isNaN(t) ? null : t;
 }
 
+/* ---------- 天氣（open-meteo，免 key） ---------- */
+
+async function fetchWeather(city, timeoutMs) {
+  const geoUrl = `https://geocoding-api.open-meteo.com/v1/search?name=${encodeURIComponent(city)}&count=1&language=zh&format=json`;
+  const geo = JSON.parse(await fetchText(geoUrl, timeoutMs));
+  const hit = geo?.results?.[0];
+  if (!hit) throw new Error(`地理編碼無結果：${city}`);
+
+  const fcUrl = `https://api.open-meteo.com/v1/forecast?latitude=${hit.latitude}&longitude=${hit.longitude}`
+    + `&daily=temperature_2m_max,temperature_2m_min,weather_code&timezone=Asia%2FShanghai&forecast_days=1`;
+  const fc = JSON.parse(await fetchText(fcUrl, timeoutMs));
+  const d = fc?.daily;
+  if (!d?.temperature_2m_max?.length || !d?.temperature_2m_min?.length) throw new Error('預報數據為空');
+
+  const tmin = Math.round(d.temperature_2m_min[0]);
+  const tmax = Math.round(d.temperature_2m_max[0]);
+  return {
+    city,
+    temp: `${tmin}~${tmax}℃`,
+    desc: wmoDesc(d.weather_code?.[0]),
+    lat: hit.latitude,
+    lon: hit.longitude,
+  };
+}
+
 /* ---------- 主流程 ---------- */
 
 async function main() {
@@ -173,6 +198,15 @@ async function main() {
 
   const pick = selectLayout(pool, { briefs });
 
+  // 天氣：免 key 源，失敗降級為 null（渲染層隱藏天氣方塊）
+  let weather = null;
+  try {
+    weather = await fetchWeather(CONFIG.weather?.city ?? '杭州', fetchTimeoutMs);
+    console.log(`✓ 天氣 ${weather.city} ${weather.desc} ${weather.temp}`);
+  } catch (e) {
+    console.warn(`⚠ 天氣獲取失敗（忽略）：${e.message}`);
+  }
+
   const article = it => it && ({
     title: it.title,
     lead: truncate(it.summary, 80),
@@ -183,8 +217,8 @@ async function main() {
   const issue = {
     issue: issueNo(dateStr),
     date: dateStr,
-    lunar: lunarLine(dateStr),   // 農曆＋當前節氣期，本地計算；天氣接真實數據屬後續打磨
-    weather: null,
+    lunar: lunarLine(dateStr),   // 農曆＋當前節氣期，本地計算
+    weather,
     headline: article(pick.headline),
     secondary: article(pick.secondary),
     briefs: pick.briefs.map(it => ({ title: it.title, category: it.category, source: it.source, link: it.link })),

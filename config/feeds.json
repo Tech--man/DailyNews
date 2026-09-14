@@ -10,6 +10,9 @@
     { "name": "華爾街見聞", "url": "https://dedicated.wallstreetcn.com/rss.xml", "weight": 3, "category": "財經" },
     { "name": "鈦媒體", "url": "https://www.tmtpost.com/feed", "weight": 2, "category": "財經" }
   ],
+  "weather": {
+    "city": "杭州"
+  },
   "limits": {
     "perFeed": 8,
     "briefs": 7,

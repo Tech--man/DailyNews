@@ -27,6 +27,27 @@ export function lunarLine(dateStr) {
   return term ? `${lunar} · ${toTrad(term)}` : lunar;
 }
 
+/* ---------- 天氣 ---------- */
+
+/** WMO weather_code → 繁體描述（open-meteo 口徑），未知碼回退多雲 */
+export function wmoDesc(code) {
+  if (typeof code !== 'number' || code < 0 || code > 99) return '多雲';
+  if (code === 0 || code === 1) return '晴';
+  if (code === 2) return '多雲';
+  if (code === 3) return '陰';
+  if (code === 45 || code === 48) return '霧';
+  if (code >= 51 && code <= 55) return '毛毛雨';
+  if (code === 56 || code === 57) return '凍毛毛雨';
+  if (code >= 61 && code <= 65) return '雨';
+  if (code === 66 || code === 67) return '凍雨';
+  if (code >= 71 && code <= 75) return '雪';
+  if (code === 77) return '霰';
+  if (code >= 80 && code <= 82) return '陣雨';
+  if (code === 85 || code === 86) return '陣雪';
+  if (code >= 95) return '雷雨';
+  return '多雲';
+}
+
 const ENTITIES = {
   amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ', ldquo: '「', rdquo: '」',
 };

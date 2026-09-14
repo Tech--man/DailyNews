@@ -2,8 +2,24 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import {
   stripHtml, truncate, normalizeTitle, levenshtein, similarity,
-  dedupeByTitle, classify, scoreArticle, withScores, selectLayout, lunarLine,
+  dedupeByTitle, classify, scoreArticle, withScores, selectLayout, lunarLine, wmoDesc,
 } from '../scripts/lib.mjs';
+
+/* ---------- 天氣碼 ---------- */
+
+test('wmoDesc WMO 天气码转繁体描述', () => {
+  assert.equal(wmoDesc(0), '晴');
+  assert.equal(wmoDesc(2), '多雲');
+  assert.equal(wmoDesc(3), '陰');
+  assert.equal(wmoDesc(45), '霧');
+  assert.equal(wmoDesc(61), '雨');
+  assert.equal(wmoDesc(75), '雪');
+  assert.equal(wmoDesc(81), '陣雨');
+  assert.equal(wmoDesc(95), '雷雨');
+  assert.equal(wmoDesc(99), '雷雨');
+  assert.equal(wmoDesc(null), '多雲');
+  assert.equal(wmoDesc(1234), '多雲');
+});
 
 /* ---------- 農曆與節氣 ---------- */
 

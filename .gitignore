@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+.mimosa/
+.v2c/
+.video_agent/

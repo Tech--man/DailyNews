@@ -1,14 +1,15 @@
 ---
 // 報紙頁面外殼：head、字體與樣式、紙張質感 class、OG meta。
+import BASE from '../lib/base.mjs';
 interface Props {
   title: string;
   description?: string;
-  ogImage?: string;       // 如 '/og/2026-09-15.png'（將以 site 為基準轉絕對地址）
+  ogImage?: string;       // 如 '/og/2026-09-15.png'（自動補 base 前綴，以 site 為基準轉絕對地址）
   ogTitle?: string;
   ogDescription?: string;
 }
 const { title, description = '每日新報——以民國報紙版式呈現當日新聞的靜態站點。', ogImage, ogTitle, ogDescription } = Astro.props;
-const ogUrl = ogImage && Astro.site ? new URL(ogImage, Astro.site).href : undefined;
+const ogUrl = ogImage && Astro.site ? new URL(`${BASE}${ogImage.replace(/^\//, '')}`, Astro.site).href : undefined;
 ---
 <!DOCTYPE html>
 <html lang="zh-Hant">
@@ -18,8 +19,8 @@ const ogUrl = ogImage && Astro.site ? new URL(ogImage, Astro.site).href : undefi
   <title>{title}</title>
   <meta name="description" content={description}>
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%239B2B26'/%3E%3Ctext x='16' y='22' font-family='serif' font-weight='bold' font-size='16' fill='%23F4EFE2' text-anchor='middle'%3E新%3C/text%3E%3C/svg%3E">
-  <link rel="stylesheet" href="/css/fonts.css">
-  <link rel="stylesheet" href="/css/newspaper.css">
+  <link rel="stylesheet" href={`${BASE}css/fonts.css`}>
+  <link rel="stylesheet" href={`${BASE}css/newspaper.css`}>
   { ogUrl && (
     <>
       <meta property="og:title" content={ogTitle ?? title}>

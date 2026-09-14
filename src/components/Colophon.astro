@@ -1,6 +1,7 @@
 ---
 // 版尾
 import { cnIssue } from '../lib/dateCn.mjs';
+import BASE from '../lib/base.mjs';
 interface Props { issueNo: number; prevDate?: string | null }
 const { issueNo, prevDate } = Astro.props;
 const issueCn = cnIssue(issueNo);
@@ -9,9 +10,9 @@ const issueCn = cnIssue(issueNo);
   <p>本報文字均整理自公開報導，僅存標題與摘要；原文版權歸各來源所有。本版為靜態排印試驗，不代表任何機構立場。</p>
   <p class="colophon-nav">
     {issueCn} ·
-    {prevDate ? <a href={`/issue/${prevDate}/`}>上一期</a> : <span>已是最早一期</span>} ·
-    <a href="/archive/">過刊瀏覽</a> ·
-    <a href="/">回到頭版</a>
+    {prevDate ? <a href={`${BASE}issue/${prevDate}/`}>上一期</a> : <span>已是最早一期</span>} ·
+    <a href={`${BASE}archive/`}>過刊瀏覽</a> ·
+    <a href={BASE}>回到頭版</a>
   </p>
   <p class="colophon-fine">每日新報 Daily News · 復古排印試驗 · 零腳本靜態頁面</p>
 </footer>

@@ -4,6 +4,7 @@ import Masthead from '../components/Masthead.astro';
 import Colophon from '../components/Colophon.astro';
 import { listIssueDates, loadIssue } from '../lib/issues.mjs';
 import { cnDate, cnIssue } from '../lib/dateCn.mjs';
+import BASE from '../lib/base.mjs';
 
 const dates = listIssueDates();
 const rows = dates.map(d => {
@@ -20,7 +21,7 @@ const latest = dates[0];
     <ul class="archive-list">
       {rows.map(r => (
         <li>
-          <a href={`/issue/${r.date}/`}>
+          <a href={`${BASE}issue/${r.date}/`}>
             <span class="archive-issue">{cnIssue(r.issueNo)}</span>
             <span class="archive-date">{cnDate(r.date)}</span>
             <span class="archive-headline">{r.headline}</span>

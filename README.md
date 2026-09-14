@@ -12,6 +12,7 @@
 - [x] M3 Astro 渲染層（`/` 最新期、`/issue/[date]/`、`/archive/`）
 - [x] M4 自動化（`.github/workflows/daily-issue.yml`，北京時間每日 06:00）
 - [x] M5 打印樣式（A4）、農曆節氣、OG 分享圖、天氣、LLM 標題改寫（可選增強）
+- [x] 部署：GitHub Pages（https://tech--man.github.io/DailyNews/）
 
 ## 常用命令
 
@@ -40,6 +41,17 @@ export LLM_MODEL=glm-4-flash                                # 可選
 ```
 
 改寫要求 8–12 字繁體報紙體、禁感嘆問號；不合格輸出一律回退原標題。
+
+## 部署（GitHub Pages）
+
+- 站點地址：https://tech--man.github.io/DailyNews/
+- 推送 `main` 即自動測試、構建並部署（`.github/workflows/deploy.yml`）
+- 每日定時出刊提交新期後主動 `workflow_dispatch` 上述部署工作流
+  （定時任務用 GITHUB_TOKEN 推送不會觸發 push 事件，須顯式觸發）
+- 項目頁掛在 `/DailyNews/` 子路徑：`astro.config.mjs` 的 `base` 已配置，
+  站內連結統一走 `src/lib/base.mjs` 的 BASE 前綴
+- 定時出刊在 GitHub Actions 上默認無 `LLM_API_KEY`，改寫自動跳過、保留原標題；
+  如需線上啟用改寫，在倉庫 Secrets 添加同名變量即可
 
 ## 版權約束
 

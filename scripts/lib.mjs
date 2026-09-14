@@ -1,5 +1,31 @@
-// 純函數庫：清洗 / 去重 / 分類 / 打分 / 選稿。
-// 不做任何 IO，全部可單測（見 tests/lib.test.mjs）。
+// 純函數庫：清洗 / 去重 / 分類 / 打分 / 選稿 / 農曆節氣。
+// 不做任何 IO（solarlunar 僅查本地數據表），全部可單測（見 tests/lib.test.mjs）。
+import solarlunar from 'solarlunar';
+
+/* ---------- 農曆與節氣 ---------- */
+
+// 節氣與閏月用字簡→繁（其餘節氣名簡繁同形）
+const TRAD = { 惊蛰: '驚蟄', 谷雨: '穀雨', 小满: '小滿', 芒种: '芒種', 处暑: '處暑', 腊: '臘', 闰: '閏' };
+const toTrad = s => s.replace(/惊蛰|谷雨|小满|芒种|处暑|腊|闰/g, m => TRAD[m]);
+
+/**
+ * 報頭農曆行：「農曆八月初五 · 白露」。
+ * 節氣取「當前節氣期」——自當日回看至多 16 日內最近一個已到的節氣，
+ * 而非僅節氣當日顯示（報紙慣例）。
+ */
+export function lunarLine(dateStr) {
+  const [y, m, d] = dateStr.split('-').map(Number);
+  if (!y || !m || !d) return '';
+  const info = solarlunar.solar2lunar(y, m, d);
+  if (!info || typeof info !== 'object') return '';
+  let term = '';
+  for (let i = 0; i < 16 && !term; i++) {
+    const t = new Date(Date.UTC(y, m - 1, d - i));
+    term = solarlunar.solar2lunar(t.getUTCFullYear(), t.getUTCMonth() + 1, t.getUTCDate()).term || '';
+  }
+  const lunar = '農曆' + toTrad(info.monthCn) + toTrad(info.dayCn);
+  return term ? `${lunar} · ${toTrad(term)}` : lunar;
+}
 
 const ENTITIES = {
   amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ', ldquo: '「', rdquo: '」',

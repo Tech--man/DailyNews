@@ -7,7 +7,7 @@ import { dirname, join } from 'node:path';
 import { XMLParser } from 'fast-xml-parser';
 import {
   stripHtml, truncate, normalizeTitle, dedupeByTitle,
-  classify, withScores, selectLayout,
+  classify, withScores, selectLayout, lunarLine,
 } from './lib.mjs';
 
 const ROOT = dirname(dirname(fileURLToPath(import.meta.url)));
@@ -182,7 +182,7 @@ async function main() {
   const issue = {
     issue: issueNo(dateStr),
     date: dateStr,
-    lunar: '',          // 農曆/節氣接真實數據屬 M5
+    lunar: lunarLine(dateStr),   // 農曆＋當前節氣期，本地計算；天氣接真實數據屬後續打磨
     weather: null,
     headline: article(pick.headline),
     secondary: article(pick.secondary),

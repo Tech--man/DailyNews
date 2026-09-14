@@ -2,8 +2,32 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import {
   stripHtml, truncate, normalizeTitle, levenshtein, similarity,
-  dedupeByTitle, classify, scoreArticle, withScores, selectLayout,
+  dedupeByTitle, classify, scoreArticle, withScores, selectLayout, lunarLine,
 } from '../scripts/lib.mjs';
+
+/* ---------- 農曆與節氣 ---------- */
+
+test('lunarLine 春节锚点：2024-02-10 为正月初一，当前节气期为立春', () => {
+  assert.equal(lunarLine('2024-02-10'), '農曆正月初一 · 立春');
+});
+
+test('lunarLine 节气期回看：2024-03-06 落在惊蛰期内且转繁体', () => {
+  assert.ok(lunarLine('2024-03-06').endsWith('· 驚蟄'));
+});
+
+test('lunarLine 2026-09-15 为農曆八月初五 · 白露', () => {
+  assert.equal(lunarLine('2026-09-15'), '農曆八月初五 · 白露');
+});
+
+test('lunarLine 腊月转臘月，节气当日直接命中', () => {
+  const line = lunarLine('2026-01-20');
+  assert.ok(line.includes('臘月初二'));
+  assert.ok(line.endsWith('· 大寒'));
+});
+
+test('lunarLine 非法日期返回空串', () => {
+  assert.equal(lunarLine('garbage'), '');
+});
 
 /* ---------- 清洗 ---------- */
 

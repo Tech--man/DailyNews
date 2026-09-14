@@ -1,0 +1,19 @@
+{
+  "$comment": "RSS 源清单。weight 为来源权重（1–5），打分时与时效、关键词命中共同决定排序。全部为中文源：M2 阶段不做 LLM 翻译/改写，英文源标题无法直接上版。36氪/联合早报/界面/虎嗅的 RSS 已失效（2026-09-14 实测），改用下列在役源。",
+  "feeds": [
+    { "name": "Solidot", "url": "https://www.solidot.org/index.rss", "weight": 3, "category": "科技" },
+    { "name": "少數派", "url": "https://sspai.com/feed", "weight": 2, "category": "科技" },
+    { "name": "IT之家", "url": "https://www.ithome.com/rss/", "weight": 2, "category": "科技" },
+    { "name": "愛范兒", "url": "https://www.ifanr.com/feed", "weight": 2, "category": "科技" },
+    { "name": "V2EX", "url": "https://www.v2ex.com/index.xml", "weight": 1, "category": "科技" },
+    { "name": "BBC中文", "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml", "weight": 3, "category": "國際" },
+    { "name": "華爾街見聞", "url": "https://dedicated.wallstreetcn.com/rss.xml", "weight": 3, "category": "財經" },
+    { "name": "鈦媒體", "url": "https://www.tmtpost.com/feed", "weight": 2, "category": "財經" }
+  ],
+  "limits": {
+    "perFeed": 8,
+    "briefs": 7,
+    "fetchTimeoutMs": 15000,
+    "minFeedsOk": 3
+  }
+}

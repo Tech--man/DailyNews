@@ -10,6 +10,7 @@ import {
   classify, withScores, selectLayout, lunarLine, wmoDesc,
 } from './lib.mjs';
 import { renderOg } from './og.mjs';
+import { maybeRewrite } from './rewrite.mjs';
 
 const ROOT = dirname(dirname(fileURLToPath(import.meta.url)));
 const CONFIG = JSON.parse(readFileSync(join(ROOT, 'config/feeds.json'), 'utf8'));
@@ -197,6 +198,24 @@ async function main() {
   console.log(`合計 ${pool.length} 條（去重後）${failed.length ? `；失敗源：${failed.join('；')}` : ''}`);
 
   const pick = selectLayout(pool, { briefs });
+
+  // LLM 標題改寫（可選）：未設 LLM_API_KEY 自動跳過；失敗保留原標題
+  const targets = [pick.headline, pick.secondary, pick.sections['財經'], pick.sections['科技']].filter(Boolean);
+  try {
+    const rewrites = await maybeRewrite(targets.map(t => t.title));
+    if (!rewrites) {
+      console.log('LLM 未啟用（未設 LLM_API_KEY），保留原標題');
+    } else {
+      targets.forEach((a, i) => {
+        if (rewrites[i] && rewrites[i] !== a.title) {
+          console.log(`✎ 標題改寫：「${a.title}」→「${rewrites[i]}」`);
+          a.title = rewrites[i];
+        }
+      });
+    }
+  } catch (e) {
+    console.warn(`⚠ 標題改寫失敗（保留原標題）：${e.message?.slice(0, 150)}`);
+  }
 
   // 天氣：免 key 源，失敗降級為 null（渲染層隱藏天氣方塊）
   let weather = null;

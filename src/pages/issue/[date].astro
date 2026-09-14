@@ -21,7 +21,7 @@ const issue = loadIssue(date!);
 const dates = listIssueDates();
 const prevDate = dates[dates.indexOf(date!) + 1] ?? null;
 ---
-<Page title={`每日新報 · ${cnDate(date!)}`}>
+<Page title={`每日新報 · ${cnDate(date!)}`} ogImage={`/og/${date}.png`} ogDescription={issue.headline?.title}>
   <Masthead issueNo={issue.issue} date={date!} lunar={issue.lunar} />
   <SectionBar />
   <main class="front-grid">

@@ -21,6 +21,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: 緩存 OG 字體
+        uses: actions/cache@v4
+        with:
+          path: .og-fonts
+          key: og-fonts-notoserifcjk-v1
+
       - uses: pnpm/action-setup@v4
         with:
           version: 11

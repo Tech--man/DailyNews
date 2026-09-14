@@ -15,7 +15,7 @@ import { cnDate } from '../lib/dateCn.mjs';
 const { date, issue } = latestIssue();
 const prevDate = listIssueDates().find(d => d !== date) ?? null;
 ---
-<Page title={`每日新報 · ${cnDate(date)}`}>
+<Page title={`每日新報 · ${cnDate(date)}`} ogImage={`/og/${date}.png`} ogDescription={issue.headline?.title}>
   <Masthead issueNo={issue.issue} date={date} lunar={issue.lunar} />
   <SectionBar />
   <main class="front-grid">

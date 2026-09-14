@@ -9,6 +9,7 @@ import {
   stripHtml, truncate, normalizeTitle, dedupeByTitle,
   classify, withScores, selectLayout, lunarLine,
 } from './lib.mjs';
+import { renderOg } from './og.mjs';
 
 const ROOT = dirname(dirname(fileURLToPath(import.meta.url)));
 const CONFIG = JSON.parse(readFileSync(join(ROOT, 'config/feeds.json'), 'utf8'));
@@ -196,6 +197,14 @@ async function main() {
   mkdirSync(outDir, { recursive: true });
   const outPath = join(outDir, `${dateStr}.json`);
   writeFileSync(outPath, JSON.stringify(issue, null, 2) + '\n');
+
+  // OG 分享圖：失敗降級為警告（站點仍可構建，僅 og:image 缺失）
+  try {
+    const ogPath = await renderOg(issue, dateStr);
+    console.log(`✓ ${ogPath}`);
+  } catch (e) {
+    console.warn(`⚠ OG 圖生成失敗（忽略）：${e.message?.slice(0, 200)}`);
+  }
 
   console.log(`選稿：頭條「${issue.headline?.title ?? '—'}」/ 次條 ${issue.secondary ? 1 : 0} / 簡訊 ${issue.briefs.length} / 半版 ${issue.sections.length}`);
   console.log(`已寫出 ${outPath}`);

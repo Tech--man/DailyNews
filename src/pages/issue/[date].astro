@@ -1,0 +1,36 @@
+---
+import Page from '../../layouts/Page.astro';
+import Masthead from '../../components/Masthead.astro';
+import SectionBar from '../../components/SectionBar.astro';
+import Headline from '../../components/Headline.astro';
+import Secondary from '../../components/Secondary.astro';
+import Briefs from '../../components/Briefs.astro';
+import BodyColumns from '../../components/BodyColumns.astro';
+import Halves from '../../components/Halves.astro';
+import Supplement from '../../components/Supplement.astro';
+import Colophon from '../../components/Colophon.astro';
+import { listIssueDates, loadIssue } from '../../lib/issues.mjs';
+import { cnDate } from '../../lib/dateCn.mjs';
+
+export function getStaticPaths() {
+  return listIssueDates().map(date => ({ params: { date } }));
+}
+
+const { date } = Astro.params;
+const issue = loadIssue(date!);
+const dates = listIssueDates();
+const prevDate = dates[dates.indexOf(date!) + 1] ?? null;
+---
+<Page title={`每日新報 · ${cnDate(date!)}`}>
+  <Masthead issueNo={issue.issue} date={date!} lunar={issue.lunar} />
+  <SectionBar />
+  <main class="front-grid">
+    <Headline article={issue.headline} />
+    <Secondary article={issue.secondary} />
+    <Briefs briefs={issue.briefs} weather={issue.weather} />
+    {issue.headline?.body?.length > 0 && <BodyColumns paragraphs={issue.headline.body} />}
+  </main>
+  <Halves sections={issue.sections ?? []} />
+  <Supplement issueNo={issue.issue} supplement={issue.supplement ?? null} />
+  <Colophon issueNo={issue.issue} prevDate={prevDate} />
+</Page>

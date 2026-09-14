@@ -1,0 +1,20 @@
+---
+// 頭條：大標題 + 導語（+主圖，僅在數據帶圖時出現——模板 B）
+interface Props {
+  article: { title: string; lead?: string; source?: string; link?: string; image?: string };
+}
+const { article } = Astro.props;
+---
+<article class="headline">
+  <p class="kicker">本報頭條</p>
+  <h2 class="headline-title">{article.title}</h2>
+  { article.lead && <p class="headline-lead">{article.lead}</p> }
+  { article.image &&
+    <figure class="photo photo-main">
+      <img src={article.image} alt="">
+    </figure>
+  }
+  { article.source &&
+    <p class="source-line">來源：{article.source}{article.link && <a href={article.link} target="_blank" rel="noopener noreferrer"> · 閱讀原文</a>}</p>
+  }
+</article>

@@ -1,0 +1,21 @@
+---
+// 半版分欄（財經 / 科技），由數據驅動，缺哪版就不渲染哪版
+interface Props {
+  sections: { name: string; articles: { title: string; lead?: string; source?: string; link?: string }[] }[];
+}
+const { sections } = Astro.props;
+---
+{ sections.length > 0 && (
+<section class="halves">
+  {sections.map(sec => sec.articles.map(a => (
+    <article class="half">
+      <p class="half-kicker">{sec.name}</p>
+      <h3 class="half-title">{a.title}</h3>
+      {a.lead && <p>{a.lead}</p>}
+      {a.source &&
+        <p class="source-line">來源：{a.source}{a.link && <a href={a.link} target="_blank" rel="noopener noreferrer"> · 原文</a>}</p>
+      }
+    </article>
+  )))}
+</section>
+) }

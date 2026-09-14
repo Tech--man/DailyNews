@@ -4,3 +4,5 @@ node_modules/
 .v2c/
 .video_agent/
 .zcode/
+dist/
+.astro/

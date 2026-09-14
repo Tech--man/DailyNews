@@ -1,0 +1,22 @@
+---
+// 報頭三段式：期數售價 · 每日新報 · 日期星期
+import { cnDate, cnWeek, cnIssue } from '../lib/dateCn.mjs';
+interface Props { issueNo: number; date: string }
+const { issueNo, date } = Astro.props;
+---
+<header class="masthead">
+  <div class="masthead-side masthead-left">
+    <p class="issue-no">{cnIssue(issueNo)}</p>
+    <p class="issue-price">零售價 貳角</p>
+  </div>
+  <div class="masthead-center">
+    <p class="masthead-latin">The Daily News</p>
+    <h1 class="masthead-title">每日新報</h1>
+    <p class="masthead-sub">創刊於二〇二五年 · 每日出版</p>
+  </div>
+  <div class="masthead-side masthead-right">
+    <p class="date-cn">{cnDate(date)}</p>
+    <p class="date-week">{cnWeek(date)}</p>
+    { Astro.props.lunar && <p class="date-lunar">{Astro.props.lunar}</p> }
+  </div>
+</header>

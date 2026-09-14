@@ -186,7 +186,7 @@ async function main() {
     weather: null,
     headline: article(pick.headline),
     secondary: article(pick.secondary),
-    briefs: pick.briefs.map(it => ({ title: it.title, source: it.source, link: it.link })),
+    briefs: pick.briefs.map(it => ({ title: it.title, category: it.category, source: it.source, link: it.link })),
     sections: Object.entries(pick.sections)
       .filter(([, it]) => it)
       .map(([name, it]) => ({ name, articles: [{ ...article(it), lead: truncate(it.summary, 120) }] })),

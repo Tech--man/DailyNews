@@ -4,52 +4,59 @@
   "lunar": "",
   "weather": null,
   "headline": {
+    "title": "特朗普抨击Anthropic CEO：AI发展不能踩刹车，美国有“高智商总统”就足够",
+    "lead": "特朗普公开抨击Anthropic首席执行官Dario Amodei呼吁放缓AI发展的立场，将业界日益高涨的安全警告定性为\"阴谋\"，并重申美国领先优势不容动摇。 ",
+    "source": "華爾街見聞",
+    "link": "https://wallstreetcn.com/articles/3781728"
+  },
+  "secondary": {
     "title": "AI开发放缓担忧升温，美股低开，费城半导体指数跌6%，10年期美债收益率三年来首破5%，布油涨破109",
     "lead": "AI巨头联手呼吁放慢前沿模型开发节奏，叠加油价飙升重燃通胀忧虑，全球股市承压。 周一，美股盘初，纳斯达克指数下跌1.2%，标普500指数下跌0.8%。费城半导体",
     "source": "華爾街見聞",
     "link": "https://wallstreetcn.com/articles/3781670"
   },
-  "secondary": {
-    "title": "利息雪球越滚越大！若美联储年内加息75基点，美国一年利息支出将增加500亿美元",
-    "lead": "美国财政状况正面临来自利率与债务双重压力的严峻考验。 随着美联储预计年内再度加息，叠加美国国债规模首次突破40万亿美元，利息支出的螺旋式上升正成为华盛顿最难以回",
-    "source": "華爾街見聞",
-    "link": "https://wallstreetcn.com/articles/3781722"
-  },
   "briefs": [
     {
-      "title": "集体踩刹车，微软加入OpenAI、Anthropic，表态放缓AI前沿开发",
+      "title": "利息雪球越滚越大！若美联储年内加息75基点，美国一年利息支出将增加500亿美元",
+      "category": "財經",
       "source": "華爾街見聞",
-      "link": "https://wallstreetcn.com/articles/3781726"
+      "link": "https://wallstreetcn.com/articles/3781722"
+    },
+    {
+      "title": "欧盟天然气价格创2022年底以来新高，低库存背景下冬季寒潮将引发价格冲击",
+      "category": "國際",
+      "source": "華爾街見聞",
+      "link": "https://wallstreetcn.com/articles/3781727"
     },
     {
       "title": "中国地震局与苹果公司沟通推进地震预警信息接入 iOS",
+      "category": "民生",
       "source": "Solidot",
       "link": "https://www.solidot.org/story?sid=85374"
     },
     {
       "title": "日本无意结婚的男女比例都超两成",
+      "category": "國際",
       "source": "Solidot",
       "link": "https://www.solidot.org/story?sid=85371"
     },
     {
       "title": "红海局势再度升温，胡塞武装大规模袭击沙特空军基地",
+      "category": "財經",
       "source": "華爾街見聞",
       "link": "https://wallstreetcn.com/articles/3781724"
     },
     {
       "title": "AI 时代隐晦式安全已死",
+      "category": "科技",
       "source": "Solidot",
       "link": "https://www.solidot.org/story?sid=85370"
     },
     {
       "title": "10年期美债收益率冲破5%！“预言家”警告：抛售还没结束",
+      "category": "財經",
       "source": "華爾街見聞",
       "link": "https://wallstreetcn.com/articles/3781729"
-    },
-    {
-      "title": "微信蠕虫事件敲响 AI 安全警钟",
-      "source": "Solidot",
-      "link": "https://www.solidot.org/story?sid=85369"
     }
   ],
   "sections": [
@@ -57,10 +64,10 @@
       "name": "財經",
       "articles": [
         {
-          "title": "多国央行同步加息，能源冲击正在重写全球央行的利率剧本",
-          "lead": "持续半年的中东能源冲击，正在迫使全球央行重新审视“暂时性通胀”逻辑。油价上涨原本被视为一次性供给冲击，但随着能源供应受阻持续时间拉长，并叠加关税、供应链扰动和地缘冲突，市场开始担心通胀预期重新升温，央行“看穿”能源冲击的政策空间正在收窄。 ",
+          "title": "对冲基金刚刚重建科技多头，纳斯达克关键支撑却已开始松动",
+          "lead": "纳斯达克100指数（NDX）正逼近持续数月的震荡区间下沿。此前指数虽维持高位整理，但科技股仓位快速回升、技术结构开始转弱，使市场对下行突破的敏感度明显上升。 盘前交易已经释放出进一步走弱的信号： NDX期货跌破此前的上升趋势线，并失守100",
           "source": "華爾街見聞",
-          "link": "https://wallstreetcn.com/articles/3781720"
+          "link": "https://wallstreetcn.com/articles/3781730"
         }
       ]
     },
@@ -68,10 +75,10 @@
       "name": "科技",
       "articles": [
         {
-          "title": "AI数据隐私担忧升温，英伟达、Palantir等限制Anthropic模型使用，微软借机争夺企业客户",
-          "lead": "随着AI深入企业核心业务，数据安全和知识产权保护正成为企业选择AI模型时越来越重要的考量。 9月14日，据The Information报道， 英伟达、Palantir和博思艾伦汉密尔顿等大型企业近期已限制使用Anthropic旗舰模型Fa",
+          "title": "集体踩刹车，微软加入OpenAI、Anthropic，表态放缓AI前沿开发",
+          "lead": "微软发布了一份针对旗下人工智能模型的临时行为准则，明确设定多项限制，成为继三巨头之后，最新一家公开表态放缓AI前沿开发步伐的科技巨头。 微软AI业务负责人Mustafa Suleiman表示，这份准则已酝酿约五个月，但公司选择在当前这一时间",
           "source": "華爾街見聞",
-          "link": "https://wallstreetcn.com/articles/3781723"
+          "link": "https://wallstreetcn.com/articles/3781726"
         }
       ]
     }

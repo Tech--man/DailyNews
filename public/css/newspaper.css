@@ -428,6 +428,29 @@ body.paper::after {
 
 /* ---------- 12. 版尾 ---------- */
 
+/* ---------- 12b. M3 增量：來源行 / 僅廣告態 / 單欄正文 ---------- */
+
+.source-line {
+  font-size: 12px;
+  color: var(--ink-soft);
+  margin-top: 8px;
+}
+
+.headline .source-line { text-align: center; }
+
+.secondary .source-line,
+.half .source-line { text-align: right; margin-top: 4px; }
+
+.headline-body.body-single { column-count: 1; }
+
+.supplement--adonly { grid-template-columns: 1fr; }
+
+.supplement--adonly .ad-box {
+  max-width: 620px;
+  width: 100%;
+  margin: 0 auto;
+}
+
 .colophon {
   border-top: 3px double var(--ink);
   padding: 18px 0 48px;

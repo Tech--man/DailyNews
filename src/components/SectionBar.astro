@@ -1,0 +1,9 @@
+---
+// 欄目條
+const SECTIONS = ['要聞', '財經', '科技', '文化', '體育', '國際'];
+---
+<nav class="sections" aria-label="版面欄目">
+  <ul>
+    {SECTIONS.map(s => <li>{s}</li>)}
+  </ul>
+</nav>

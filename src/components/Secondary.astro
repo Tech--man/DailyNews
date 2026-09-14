@@ -1,0 +1,21 @@
+---
+// 次條
+interface Props {
+  article?: { title: string; lead?: string; source?: string; link?: string; image?: string } | null;
+}
+const { article } = Astro.props;
+---
+{ article && (
+<article class="secondary">
+  <h3 class="secondary-title">{article.title}</h3>
+  { article.image &&
+    <figure class="photo photo-small">
+      <img src={article.image} alt="">
+    </figure>
+  }
+  { article.lead && <p class="secondary-body">{article.lead}</p> }
+  { article.source &&
+    <p class="source-line">來源：{article.source}{article.link && <a href={article.link} target="_blank" rel="noopener noreferrer"> · 原文</a>}</p>
+  }
+</article>
+) }

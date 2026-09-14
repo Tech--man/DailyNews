@@ -1,0 +1,77 @@
+- generic [ref=f4e2]:
+  - banner [ref=f4e3]:
+    - generic [ref=f4e4]:
+      - paragraph [ref=f4e5]: 第〇四二九期
+      - paragraph [ref=f4e6]: 零售價 貳角
+    - generic [ref=f4e7]:
+      - paragraph [ref=f4e8]: The Daily News
+      - heading "每日新報" [level=1] [ref=f4e9]
+      - paragraph [ref=f4e10]: 創刊於二〇二五年 · 每日出版
+    - generic [ref=f4e11]:
+      - paragraph [ref=f4e12]: 二〇二六年九月十五日
+      - paragraph [ref=f4e13]: 星期二
+  - navigation "版面欄目" [ref=f4e14]:
+    - list [ref=f4e15]:
+      - listitem [ref=f4e16]: 要聞
+      - listitem [ref=f4e17]: 財經
+      - listitem [ref=f4e18]: 科技
+      - listitem [ref=f4e19]: 文化
+      - listitem [ref=f4e20]: 體育
+      - listitem [ref=f4e21]: 國際
+  - main [ref=f4e22]:
+    - article [ref=f4e23]:
+      - paragraph [ref=f4e24]: 本報頭條
+      - heading "特朗普抨击Anthropic CEO：AI发展不能踩刹车，美国有“高智商总统”就足够" [level=2] [ref=f4e25]
+      - paragraph [ref=f4e26]: 特朗普公开抨击Anthropic首席执行官Dario Amodei呼吁放缓AI发展的立场，将业界日益高涨的安全警告定性为"阴谋"，并重申美国领先优势不容动摇。
+      - paragraph [ref=f4e27]:
+        - text: 來源：華爾街見聞
+        - link "· 閱讀原文" [ref=f4e28] [cursor=pointer]:
+          - /url: https://wallstreetcn.com/articles/3781728
+    - article [ref=f4e29]:
+      - heading "AI开发放缓担忧升温，美股低开，费城半导体指数跌6%，10年期美债收益率三年来首破5%，布油涨破109" [level=3] [ref=f4e30]
+      - paragraph [ref=f4e31]: AI巨头联手呼吁放慢前沿模型开发节奏，叠加油价飙升重燃通胀忧虑，全球股市承压。 周一，美股盘初，纳斯达克指数下跌1.2%，标普500指数下跌0.8%。费城半导体
+      - paragraph [ref=f4e32]:
+        - text: 來源：華爾街見聞
+        - link "· 原文" [ref=f4e33] [cursor=pointer]:
+          - /url: https://wallstreetcn.com/articles/3781670
+    - complementary [ref=f4e34]:
+      - heading "今日簡訊" [level=3] [ref=f4e35]
+      - list [ref=f4e36]:
+        - listitem [ref=f4e37]: 財經利息雪球越滚越大！若美联储年内加息75基点，美国一年利息支出将增加500亿美元
+        - listitem [ref=f4e38]: 國際欧盟天然气价格创2022年底以来新高，低库存背景下冬季寒潮将引发价格冲击
+        - listitem [ref=f4e39]: 民生中国地震局与苹果公司沟通推进地震预警信息接入 iOS
+        - listitem [ref=f4e40]: 國際日本无意结婚的男女比例都超两成
+        - listitem [ref=f4e41]: 財經红海局势再度升温，胡塞武装大规模袭击沙特空军基地
+        - listitem [ref=f4e42]: 科技AI 时代隐晦式安全已死
+        - listitem [ref=f4e43]: 財經10年期美债收益率冲破5%！“预言家”警告：抛售还没结束
+  - generic [ref=f4e44]:
+    - article [ref=f4e45]:
+      - paragraph [ref=f4e46]: 財經
+      - heading "对冲基金刚刚重建科技多头，纳斯达克关键支撑却已开始松动" [level=3] [ref=f4e47]
+      - paragraph [ref=f4e48]: 纳斯达克100指数（NDX）正逼近持续数月的震荡区间下沿。此前指数虽维持高位整理，但科技股仓位快速回升、技术结构开始转弱，使市场对下行突破的敏感度明显上升。 盘前交易已经释放出进一步走弱的信号： NDX期货跌破此前的上升趋势线，并失守100
+      - paragraph [ref=f4e49]:
+        - text: 來源：華爾街見聞
+        - link "· 原文" [ref=f4e50] [cursor=pointer]:
+          - /url: https://wallstreetcn.com/articles/3781730
+    - article [ref=f4e51]:
+      - paragraph [ref=f4e52]: 科技
+      - heading "集体踩刹车，微软加入OpenAI、Anthropic，表态放缓AI前沿开发" [level=3] [ref=f4e53]
+      - paragraph [ref=f4e54]: 微软发布了一份针对旗下人工智能模型的临时行为准则，明确设定多项限制，成为继三巨头之后，最新一家公开表态放缓AI前沿开发步伐的科技巨头。 微软AI业务负责人Mustafa Suleiman表示，这份准则已酝酿约五个月，但公司选择在当前这一时间
+      - paragraph [ref=f4e55]:
+        - text: 來源：華爾街見聞
+        - link "· 原文" [ref=f4e56] [cursor=pointer]:
+          - /url: https://wallstreetcn.com/articles/3781726
+  - generic [ref=f4e58]:
+    - paragraph [ref=f4e59]: 訂閱啟事
+    - paragraph [ref=f4e60]: 本報每日清晨六時出版，薈集當日新聞要目與各版精華。全年訂閱價洋拾元正，郵費在內；零售每份貳角。訂戶請向各地郵局或報房接洽。
+    - paragraph [ref=f4e61]: 廣告部謹啟
+    - generic [aria-hidden] [ref=f4e62]:
+      - generic [ref=f4e63]: 每日新報
+      - generic [ref=f4e65]: 第〇四二九期
+  - contentinfo [ref=f4e66]:
+    - paragraph [ref=f4e67]: 本報文字均整理自公開報導，僅存標題與摘要；原文版權歸各來源所有。本版為靜態排印試驗，不代表任何機構立場。
+    - paragraph [ref=f4e68]:
+      - text: 第〇四二九期 ·已是最早一期 ·
+      - link "回到頭版" [ref=f4e69] [cursor=pointer]:
+        - /url: /
+    - paragraph [ref=f4e70]: 每日新報 Daily News · 復古排印試驗 · 零腳本靜態頁面

@@ -2,3 +2,5 @@
 # （家目录工作区由 CherryStudio 工具链管理，与本仓库安装相互干扰）
 packages:
   - '.'
+allowBuilds:
+  esbuild: true

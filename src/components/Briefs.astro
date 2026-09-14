@@ -1,0 +1,26 @@
+---
+// 簡訊欄 + 天氣方塊（weather 為 null 時隱藏）
+interface Props {
+  briefs: { title: string; category?: string; source: string; link: string }[];
+  weather?: { city: string; temp: string; desc: string } | null;
+}
+const { briefs, weather } = Astro.props;
+---
+<aside class="briefs">
+  <h3 class="briefs-title">今日簡訊</h3>
+  <ol class="briefs-list">
+    {briefs.map(b => (
+      <li>
+        {b.category && <span class="brief-tag">{b.category}</span>}{b.title}
+      </li>
+    ))}
+  </ol>
+  { weather && (
+    <div class="weather-box">
+      <div class="weather-info">
+        <p class="weather-city">{weather.city}</p>
+        <p class="weather-desc">{weather.desc} {weather.temp}</p>
+      </div>
+    </div>
+  ) }
+</aside>

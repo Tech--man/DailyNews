@@ -1,0 +1,16 @@
+---
+// 頭條正文多欄流動（數據帶 body 段落時；≥2 段走三欄，否則單欄）
+interface Props {
+  paragraphs?: string[];
+  lead?: string;
+}
+const { paragraphs, lead } = Astro.props;
+const body = (paragraphs && paragraphs.length ? paragraphs : (lead ? [lead] : []));
+---
+{ body.length > 0 && (
+<article class:list={['headline-body', { 'body-single': body.length < 2 }]}>
+  {body.map((p, i) => (
+    <p class={i === 0 ? 'body-first' : undefined} set:html={p} />
+  ))}
+</article>
+) }

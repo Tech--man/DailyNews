@@ -1,5 +1,499 @@
 /* ============================================================
    每日新報 · M1 靜態版式原型
-   Task 3/4 將填充：色板變量、版面網格、分隔線體系、字體排印、
-   紙張質感三件套、印章與響應式退化。
+   色板與網格依 docs/dev-plan.md 視覺規範：
+   容器 1180px / 12 欄 / 列距 24px / 正文欄寬 320–360px
+   全站不用圓角、不用陰影（印章圓形除外——那是印章，不是版塊）。
    ============================================================ */
+
+/* ---------- 0. 變量與基礎 ---------- */
+
+:root {
+  --paper:      #F4EFE2;  /* 紙底 */
+  --paper-dark: #E8E1CF;  /* 紙暗（廣告位） */
+  --ink:        #1C1A17;  /* 墨黑 */
+  --ink-soft:   #6B6558;  /* 淡墨 */
+  --red:        #9B2B26;  /* 套紅 */
+  --rule:       #8C8578;  /* 灰調分隔線 */
+
+  --serif: "Noto Serif SC", "Source Han Serif SC", "Songti SC", "STSong", "SimSun", serif;
+  --latin: "Playfair Display", "Old Standard TT", Georgia, "Times New Roman", serif;
+  --ornament: "IM Fell English", "Playfair Display", Georgia, serif;
+
+  --sheet-w: 1180px;
+  --gutter: 40px;
+  --col-gap: 24px;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 15.5px;
+  line-height: 1.75;
+}
+
+img { display: block; max-width: 100%; height: auto; }
+ul, ol { list-style: none; }
+
+p { text-align: justify; text-justify: inter-ideograph; }
+
+a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid var(--rule);
+}
+a:focus-visible { outline: 1px dashed var(--red); outline-offset: 3px; }
+
+::selection { background: var(--red); color: var(--paper); }
+
+.sheet {
+  max-width: var(--sheet-w);
+  margin: 0 auto;
+  padding: 26px var(--gutter) 0;
+}
+
+/* ---------- 1. 紙張質感三件套（噪點 / 暗角；灰度圖見 .photo） ---------- */
+
+body.paper::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 90;
+  pointer-events: none;
+  background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg'><filter id='n'><feTurbulence baseFrequency='0.8' numOctaves='4'/></filter><rect width='100%' height='100%' filter='url(%23n)' opacity='0.35'/></svg>");
+  mix-blend-mode: multiply;
+  opacity: .5;
+}
+
+body.paper::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 91;
+  pointer-events: none;
+  background: radial-gradient(ellipse at center, transparent 60%, rgba(90, 70, 40, .18) 100%);
+}
+
+/* ---------- 2. 報頭 ---------- */
+
+.masthead {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: end;
+  gap: 16px;
+  padding: 10px 0 16px;
+  border-bottom: 3px double var(--ink);
+}
+
+.masthead-side {
+  font-size: 13px;
+  color: var(--ink-soft);
+  line-height: 2;
+  letter-spacing: .08em;
+}
+
+.issue-no, .date-cn {
+  font-weight: 700;
+  color: var(--ink);
+  font-size: 14px;
+}
+
+.masthead-right { text-align: right; }
+
+.masthead-center { text-align: center; }
+
+.masthead-latin {
+  font-family: var(--ornament);
+  font-style: italic;
+  font-size: 15px;
+  letter-spacing: .35em;
+  color: var(--red);
+}
+
+.masthead-title {
+  font-size: 88px;
+  font-weight: 900;
+  line-height: 1.08;
+  letter-spacing: .22em;
+  margin-right: -.22em;   /* 抵消末字字距，保證視覺居中 */
+  text-shadow: 1px 0 0 var(--ink), -1px 0 0 var(--ink),
+               0 1px 0 var(--ink), 0 -1px 0 var(--ink);  /* 加粗筆畫的雙鉤感 */
+}
+
+.masthead-sub {
+  font-size: 12.5px;
+  letter-spacing: .5em;
+  margin-right: -.5em;
+  color: var(--ink-soft);
+}
+
+/* ---------- 3. 欄目條 ---------- */
+
+.sections { border-bottom: 1px solid var(--rule); }
+
+.sections ul {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.sections li {
+  padding: 9px 34px;
+  font-size: 16.5px;
+  font-weight: 700;
+  letter-spacing: .45em;
+  margin-right: -.45em;
+  cursor: default;
+}
+
+.sections li + li { border-left: 1px solid var(--rule); }
+.sections li:hover { color: var(--red); }
+
+/* ---------- 4. 頭版主區（12 欄網格） ---------- */
+
+.front-grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  column-gap: var(--col-gap);
+  row-gap: 22px;
+  padding: 26px 0 30px;
+}
+
+.headline { grid-column: 1 / 6; }
+.secondary { grid-column: 6 / 9; }
+.briefs { grid-column: 9 / 13; }
+
+/* ---------- 5. 頭條 ---------- */
+
+.kicker {
+  font-size: 12.5px;
+  font-weight: 700;
+  letter-spacing: .55em;
+  color: var(--red);
+  margin-bottom: 12px;
+}
+
+.headline-title {
+  font-size: 46px;
+  font-weight: 900;
+  line-height: 1.3;
+  letter-spacing: .06em;
+  text-align: center;
+  text-align-last: center;
+}
+
+.headline-lead {
+  margin: 14px 0 18px;
+  font-size: 15px;
+  color: var(--ink-soft);
+  text-align: center;
+  text-align-last: center;
+}
+
+/* ---------- 6. 照片（統一灰度老照片處理） ---------- */
+
+.photo img {
+  width: 100%;
+  border: 1px solid var(--rule);
+  filter: grayscale(1) contrast(1.15) sepia(.15);
+}
+
+.photo figcaption {
+  margin-top: 7px;
+  font-size: 12px;
+  color: var(--ink-soft);
+  letter-spacing: .06em;
+  text-align: center;
+}
+
+/* ---------- 7. 次條 ---------- */
+
+.secondary-title {
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: .03em;
+  text-align: center;
+  text-align-last: center;
+  margin-bottom: 12px;
+}
+
+.secondary .photo { margin-bottom: 12px; }
+
+.secondary-body { font-size: 14.5px; margin-bottom: 9px; }
+
+/* ---------- 8. 簡訊欄 ---------- */
+
+.briefs {
+  border-left: 1px solid var(--rule);
+  border-right: 1px solid var(--rule);
+  padding: 0 22px;
+}
+
+.briefs-title {
+  font-size: 18px;
+  font-weight: 900;
+  letter-spacing: .5em;
+  margin-right: -.5em;
+  text-align: center;
+  padding-bottom: 9px;
+  border-bottom: 1px solid var(--ink);
+}
+
+.briefs-list li {
+  font-size: 14px;
+  line-height: 1.7;
+  padding: 7px 0 8px;
+  border-bottom: 1px dotted var(--rule);
+}
+.briefs-list li:last-child { border-bottom: none; }
+
+.brief-tag {
+  color: var(--red);
+  font-weight: 700;
+  font-size: 12.5px;
+  margin-right: .5em;
+}
+
+.weather-box {
+  margin-top: 16px;
+  padding: 14px 12px 12px;
+  border: 1px solid var(--rule);
+  display: grid;
+  justify-items: center;
+  gap: 2px;
+}
+
+.weather-icon { color: var(--ink); }
+
+.weather-city { font-size: 16px; font-weight: 700; letter-spacing: .3em; margin-right: -.3em; }
+
+.weather-desc { font-size: 14px; color: var(--ink-soft); }
+
+.weather-note {
+  margin-top: 6px;
+  font-size: 12px;
+  color: var(--ink-soft);
+  letter-spacing: .25em;
+  margin-right: -.25em;
+}
+
+/* ---------- 9. 頭條正文（跨滿 12 欄，三欄流動，欄寬約 350px） ---------- */
+
+.headline-body {
+  grid-column: 1 / 13;
+  border-top: 1px solid var(--rule);
+  padding-top: 24px;
+  column-count: 3;
+  column-gap: var(--col-gap);
+  column-rule: 1px solid var(--rule);
+}
+
+.headline-body p {
+  margin-bottom: 10px;
+  orphans: 2;
+  widows: 2;
+}
+
+/* 首字下沉：約佔兩至三行 */
+.body-first::first-letter {
+  float: left;
+  font-size: 3.1em;
+  line-height: 1;
+  font-weight: 900;
+  padding: 4px 10px 0 0;
+}
+
+/* ---------- 10. 半版分欄（財經 / 科技） ---------- */
+
+.halves {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-top: 3px double var(--ink);
+  padding: 24px 0 28px;
+}
+
+.half { padding-right: var(--col-gap); }
+
+.half + .half {
+  border-left: 1px solid var(--rule);
+  padding-left: var(--col-gap);
+  padding-right: 0;
+}
+
+/* 欄目標：套紅細框 */
+.half-kicker, .supplement-kicker {
+  display: inline-block;
+  padding: 1px 14px 2px;
+  border: 1px solid var(--red);
+  color: var(--red);
+  font-size: 14.5px;
+  font-weight: 900;
+  letter-spacing: .4em;
+  margin-right: -.4em;
+}
+
+.half-title {
+  font-size: 21px;
+  font-weight: 700;
+  line-height: 1.55;
+  margin: 12px 0 9px;
+}
+
+.half p { font-size: 14.5px; margin-bottom: 9px; }
+
+/* ---------- 11. 副刊 · 廣告位 ---------- */
+
+.supplement {
+  display: grid;
+  grid-template-columns: 7fr 5fr;
+  gap: var(--col-gap);
+  border-top: 3px double var(--ink);
+  padding: 24px 0 32px;
+}
+
+.supplement-title {
+  font-size: 24px;
+  font-weight: 900;
+  letter-spacing: .3em;
+  margin: 12px 0 10px;
+}
+
+.supplement-main p { font-size: 14.5px; margin-bottom: 9px; }
+
+.ad-box {
+  position: relative;
+  background: var(--paper-dark);
+  border: 1px solid var(--rule);
+  padding: 24px 118px 20px 26px;
+}
+
+.ad-head {
+  font-size: 19px;
+  font-weight: 900;
+  letter-spacing: .6em;
+  margin-right: -.6em;
+  text-align: center;
+  padding-bottom: 9px;
+  border-bottom: 1px solid var(--ink);
+  margin-bottom: 13px;
+}
+
+.ad-body { font-size: 13.5px; line-height: 1.85; }
+
+.ad-sign { text-align: right; font-size: 13px; margin-top: 9px; color: var(--ink-soft); }
+
+/* 套紅印章：唯一允許圓形之處 */
+.seal {
+  position: absolute;
+  top: 42px;
+  right: 20px;
+  width: 92px;
+  height: 92px;
+  border: 3px solid var(--red);
+  border-radius: 50%;
+  color: var(--red);
+  display: grid;
+  place-content: center;
+  text-align: center;
+  transform: rotate(-8deg);
+  mix-blend-mode: multiply;
+  opacity: .88;
+}
+
+.seal::before {
+  content: '';
+  position: absolute;
+  inset: 4px;
+  border: 1px solid var(--red);
+  border-radius: 50%;
+}
+
+.seal-name {
+  font-size: 20px;
+  font-weight: 900;
+  letter-spacing: .1em;
+  line-height: 1.35;
+}
+
+.seal-issue {
+  font-size: 9.5px;
+  letter-spacing: .1em;
+  margin-top: 3px;
+}
+
+/* ---------- 12. 版尾 ---------- */
+
+.colophon {
+  border-top: 3px double var(--ink);
+  padding: 18px 0 48px;
+}
+
+.colophon p {
+  font-size: 12.5px;
+  color: var(--ink-soft);
+  line-height: 2;
+  text-align: center;
+}
+
+.colophon-nav a { padding: 0 2px; }
+
+.colophon-fine {
+  font-size: 11.5px;
+  letter-spacing: .22em;
+}
+
+/* ---------- 13. 響應式退化（< 900px 單欄堆疊） ---------- */
+
+@media (max-width: 900px) {
+  .sheet { padding: 18px 20px 0; }
+
+  .masthead { grid-template-columns: 1fr; text-align: center; }
+  .masthead-side, .masthead-right { text-align: center; }
+  .masthead-title { font-size: 54px; }
+
+  .sections li { padding: 8px 16px; letter-spacing: .2em; margin-right: -.2em; }
+
+  .front-grid { grid-template-columns: 1fr; row-gap: 20px; }
+
+  .headline,
+  .secondary,
+  .briefs,
+  .headline-body { grid-column: 1 / -1; grid-row: auto; }
+
+  .headline-title { font-size: 32px; }
+
+  .briefs {
+    border-left: none;
+    border-right: none;
+    border-top: 1px solid var(--rule);
+    padding: 18px 0 0;
+  }
+
+  .headline-body { column-count: 1; }
+
+  .halves { grid-template-columns: 1fr; }
+
+  .half { padding-right: 0; }
+
+  .half + .half {
+    border-left: none;
+    padding-left: 0;
+    border-top: 1px solid var(--rule);
+    margin-top: 6px;
+    padding-top: 18px;
+  }
+
+  .supplement { grid-template-columns: 1fr; }
+
+  .ad-box { padding: 22px 24px 18px; }
+
+  .seal {
+    position: static;
+    margin: 16px auto 0;
+  }
+}

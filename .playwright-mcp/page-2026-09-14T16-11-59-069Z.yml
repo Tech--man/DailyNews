@@ -1,0 +1,31 @@
+- generic [ref=f5e2]:
+  - banner [ref=f5e3]:
+    - generic [ref=f5e4]:
+      - paragraph [ref=f5e5]: 第〇四二九期
+      - paragraph [ref=f5e6]: 零售價 貳角
+    - generic [ref=f5e7]:
+      - paragraph [ref=f5e8]: The Daily News
+      - heading "每日新報" [level=1] [ref=f5e9]
+      - paragraph [ref=f5e10]: 創刊於二〇二五年 · 每日出版
+    - generic [ref=f5e11]:
+      - paragraph [ref=f5e12]: 二〇二六年九月十五日
+      - paragraph [ref=f5e13]: 星期二
+  - generic [ref=f5e14]:
+    - heading "過刊瀏覽" [level=2] [ref=f5e15]
+    - list [ref=f5e16]:
+      - listitem [ref=f5e17]:
+        - link "第〇四二九期 二〇二六年九月十五日 特朗普抨击Anthropic CEO：AI发展不能踩刹车，美国有“高智商总统”就足够" [ref=f5e18] [cursor=pointer]:
+          - /url: /issue/2026-09-15/
+          - generic [ref=f5e19]: 第〇四二九期
+          - generic [ref=f5e20]: 二〇二六年九月十五日
+          - generic [ref=f5e21]: 特朗普抨击Anthropic CEO：AI发展不能踩刹车，美国有“高智商总统”就足够
+  - contentinfo [ref=f5e22]:
+    - paragraph [ref=f5e23]: 本報文字均整理自公開報導，僅存標題與摘要；原文版權歸各來源所有。本版為靜態排印試驗，不代表任何機構立場。
+    - paragraph [ref=f5e24]:
+      - text: 第〇四二九期 ·已是最早一期 ·
+      - link "過刊瀏覽" [ref=f5e25] [cursor=pointer]:
+        - /url: /archive/
+      - text: ·
+      - link "回到頭版" [ref=f5e26] [cursor=pointer]:
+        - /url: /
+    - paragraph [ref=f5e27]: 每日新報 Daily News · 復古排印試驗 · 零腳本靜態頁面

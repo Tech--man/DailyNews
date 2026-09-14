@@ -1,0 +1,33 @@
+---
+import Page from '../layouts/Page.astro';
+import Masthead from '../components/Masthead.astro';
+import Colophon from '../components/Colophon.astro';
+import { listIssueDates, loadIssue } from '../lib/issues.mjs';
+import { cnDate, cnIssue } from '../lib/dateCn.mjs';
+
+const dates = listIssueDates();
+const rows = dates.map(d => {
+  const it = loadIssue(d);
+  return { date: d, issueNo: it.issue, headline: it.headline?.title ?? '' };
+});
+const latest = dates[0];
+---
+<Page title="每日新報 · 過刊瀏覽">
+  <Masthead issueNo={rows[0]?.issueNo ?? 1} date={latest} />
+  <section class="archive">
+    <h2 class="archive-title">過刊瀏覽</h2>
+    { rows.length === 0 && <p class="archive-empty">尚無過刊。</p> }
+    <ul class="archive-list">
+      {rows.map(r => (
+        <li>
+          <a href={`/issue/${r.date}/`}>
+            <span class="archive-issue">{cnIssue(r.issueNo)}</span>
+            <span class="archive-date">{cnDate(r.date)}</span>
+            <span class="archive-headline">{r.headline}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+  <Colophon issueNo={rows[0]?.issueNo ?? 1} prevDate={null} />
+</Page>

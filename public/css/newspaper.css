@@ -451,6 +451,47 @@ body.paper::after {
   margin: 0 auto;
 }
 
+/* ---------- 13. 歸檔頁 ---------- */
+
+.archive {
+  border-top: 1px solid var(--rule);
+  padding: 26px 0 34px;
+}
+
+.archive-title {
+  font-size: 22px;
+  font-weight: 900;
+  letter-spacing: .5em;
+  margin-right: -.5em;
+  text-align: center;
+  padding-bottom: 12px;
+}
+
+.archive-list li { border-bottom: 1px dotted var(--rule); }
+
+.archive-list a {
+  display: grid;
+  grid-template-columns: auto auto 1fr;
+  column-gap: 18px;
+  align-items: baseline;
+  padding: 11px 2px;
+  border-bottom: none;
+}
+
+.archive-issue { color: var(--red); font-weight: 700; font-size: 14px; letter-spacing: .08em; }
+
+.archive-date { font-size: 13.5px; color: var(--ink-soft); letter-spacing: .05em; }
+
+.archive-headline { font-size: 15px; font-weight: 700; }
+
+.archive-list a:hover .archive-headline { color: var(--red); }
+
+.archive-empty { text-align: center; color: var(--ink-soft); padding: 24px 0; }
+
+@media (max-width: 900px) {
+  .archive-list a { grid-template-columns: 1fr; row-gap: 2px; }
+}
+
 .colophon {
   border-top: 3px double var(--ink);
   padding: 18px 0 48px;

@@ -1,0 +1,65 @@
+# 每日新報 · 每日出刊
+# 北京時間每日 06:00（= UTC 22:00）抓取 RSS 生成當日期數，
+# 有變更才提交。遠端倉庫與部署激活待用戶授權推送後生效。
+name: daily-issue
+
+on:
+  schedule:
+    - cron: '0 22 * * *'   # UTC 22:00 = Asia/Shanghai 06:00
+  workflow_dispatch: {}     # 支持手動觸發
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-issue
+  cancel-in-progress: false
+
+jobs:
+  build-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: 安裝依賴
+        run: pnpm install --frozen-lockfile
+
+      - name: 單元測試
+        run: pnpm test
+
+      # 晨報語義：以北京日期為「今天」。UTC 22:00 時 runner 的 UTC 日期
+      # 仍是前一日，必須顯式設 TZ。
+      - name: 生成當日期
+        env:
+          TZ: Asia/Shanghai
+        run: pnpm run build:issue
+
+      - name: 驗證站點構建
+        run: pnpm build
+
+      - name: 提交期數據
+        id: commit
+        run: |
+          git config user.name  "daily-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add issues/
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "無新期數據，跳過提交"
+          else
+            git commit -m "chore: issue $(TZ=Asia/Shanghai date +%F)"
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: 推送
+        if: steps.commit.outputs.changed == 'true'
+        run: git push

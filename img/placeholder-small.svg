@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-label="動車組列車黑白插圖">
+  <defs>
+    <pattern id="halftone" width="7" height="7" patternUnits="userSpaceOnUse">
+      <circle cx="3.5" cy="3.5" r="1.2" fill="#1C1A17"/>
+    </pattern>
+  </defs>
+
+  <!-- 天空與地面 -->
+  <rect width="480" height="320" fill="#d9d3c3"/>
+  <rect y="238" width="480" height="82" fill="#b3ac99"/>
+
+  <!-- 遠山 -->
+  <path d="M0 238 L90 196 L180 238 Z" fill="#a49d8a"/>
+  <path d="M140 238 L250 182 L360 238 Z" fill="#8a8474"/>
+
+  <!-- 軌道 -->
+  <g stroke="#6B6558" stroke-width="3">
+    <line x1="0" y1="272" x2="480" y2="272"/>
+    <line x1="0" y1="292" x2="480" y2="292"/>
+  </g>
+  <g stroke="#6B6558" stroke-width="2" opacity="0.7">
+    <line x1="30" y1="264" x2="30" y2="298"/>
+    <line x1="110" y1="264" x2="110" y2="298"/>
+    <line x1="190" y1="264" x2="190" y2="298"/>
+    <line x1="270" y1="264" x2="270" y2="298"/>
+    <line x1="350" y1="264" x2="350" y2="298"/>
+    <line x1="430" y1="264" x2="430" y2="298"/>
+  </g>
+
+  <!-- 列車頭 -->
+  <rect x="96" y="128" width="308" height="112" rx="16" fill="#3a362f"/>
+  <rect x="330" y="144" width="58" height="44" rx="6" fill="#d9d3c3"/>
+  <circle cx="372" cy="212" r="9" fill="#efe9d9"/>
+  <g stroke="#3a362f" stroke-width="5" fill="none">
+    <path d="M170 128 L170 96 L258 96"/>
+    <path d="M150 96 L190 96"/>
+  </g>
+  <g stroke="#8c8578" stroke-width="3">
+    <line x1="96" y1="188" x2="330" y2="188" opacity="0.6"/>
+  </g>
+
+  <!-- 半調網點 -->
+  <rect width="480" height="320" fill="url(#halftone)" opacity="0.16"/>
+</svg>

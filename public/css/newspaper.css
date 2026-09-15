@@ -1,63 +1,164 @@
 /* ============================================================
-   每日新報 · M1 靜態版式原型
-   色板與網格依 docs/dev-plan.md 視覺規範：
-   容器 1180px / 12 欄 / 列距 24px / 正文欄寬 320–360px
-   全站不用圓角、不用陰影（印章圓形除外——那是印章，不是版塊）。
+   每日新報 · v3 動態排版系統
+   ------------------------------------------------------------
+   三層機制，保證「不管內容如何，版面都成立」：
+   1. 有界    —— 一切可變文本有行數硬上限（--l 鉗制 + 尾部漸隱），
+                標題一律 text-wrap: balance，任何輸入撐不破網格；
+   2. 裝配    —— 構建時由 src/lib/fit.mjs 量好行數，注入
+                --l / --cols / --measure，本文只負責執行；
+   3. 閉合    —— 同行文章等高（grid stretch + 來源行釘底），
+                欄間全部以線系閉合，高度差被框線「合法化」。
+   ------------------------------------------------------------
+   令牌即法律：字號 9 檔、行高 3 檔、間距 4px 基 7 檔、線系 4 級。
+   全站 rem（打印只需縮 html 字號即整報縮放）；無圓角、無陰影
+   （印章除外——那是印章，不是版塊）。
+   版面常量的唯一事實來源是本文的 :root；src/lib/fit.mjs 與之
+   對拍（tests/fit.test.mjs）。
    ============================================================ */
 
-/* ---------- 0. 變量與基礎 ---------- */
+/* ---------- 0. 令牌 ---------- */
 
 :root {
+  /* 墨色 */
   --paper:      #F4EFE2;  /* 紙底 */
   --paper-dark: #E8E1CF;  /* 紙暗（廣告位） */
   --ink:        #1C1A17;  /* 墨黑 */
-  --ink-soft:   #6B6558;  /* 淡墨 */
+  --ink-soft:   #5D574B;  /* 淡墨（紙上對比度 ≈ 5:1，小字可讀） */
   --red:        #9B2B26;  /* 套紅 */
-  --rule:       #8C8578;  /* 灰調分隔線 */
+  --rule:       #8C8578;  /* 灰調線 */
 
+  /* 字族 */
   --serif: "Noto Serif SC", "Source Han Serif SC", "Songti SC", "STSong", "SimSun", serif;
+  --serif-en: "Old Standard TT", Georgia, "Times New Roman", "Noto Serif SC", serif;
   --latin: "Playfair Display", "Old Standard TT", Georgia, "Times New Roman", serif;
   --ornament: "IM Fell English", "Playfair Display", Georgia, serif;
 
+  /* 字號 9 檔（rem；打印整體縮放的槓桿） */
+  --fs-fine:    0.75rem;    /* 12 眉注 · 來源 · 圖說 · 版尾 */
+  --fs-note:    0.8125rem;  /* 13 副文 · 報頭側欄 · 導語 */
+  --fs-brief:   0.875rem;   /* 14 簡訊 · 版塊正文 */
+  --fs-body:    0.9375rem;  /* 15 正文 */
+  --fs-h4:      1.0625rem;  /* 17 欄目頭 */
+  --fs-h3:      1.1875rem;  /* 19 版塊文章標題 */
+  --fs-h2:      1.4375rem;  /* 23 次條 · 副刊 · 通欄標題 */
+  --fs-h1:      2.5rem;     /* 40 頭條標題 */
+  --fs-display: 5.5rem;     /* 88 報頭 */
+
+  /* 行高 3 檔 */
+  --lh-display: 1.25;  /* 顯示級：報頭 / 頭條 */
+  --lh-title:   1.5;   /* 標題級 */
+  --lh-body:    1.7;   /* 正文級 */
+
+  /* 間距 4px 基 7 檔 */
+  --sp-1: 0.25rem;  /*  4 */
+  --sp-2: 0.5rem;   /*  8 */
+  --sp-3: 0.75rem;  /* 12 */
+  --sp-4: 1rem;     /* 16 */
+  --sp-5: 1.5rem;   /* 24 */
+  --sp-6: 2rem;     /* 32 */
+  --sp-7: 3rem;     /* 48 */
+
+  /* 線系 4 級：雙線隔大區，墨線封欄目，灰線分區塊，點線斷列表 */
+  --rl-double: 3px double var(--ink);
+  --rl-ink:    1px solid var(--ink);
+  --rl-hair:   1px solid var(--rule);
+  --rl-dot:    1px dotted var(--rule);
+
+  /* 版面 */
   --sheet-w: 1180px;
-  --gutter: 40px;
-  --col-gap: 24px;
+  --gutter: 2.5rem;  /* 40 */
+  --gap: 1.5rem;     /* 24 */
 }
+
+/* ---------- 1. 基座 ---------- */
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
-html { -webkit-text-size-adjust: 100%; }
+html { font-size: 100%; -webkit-text-size-adjust: 100%; }
 
 body {
   background: var(--paper);
   color: var(--ink);
   font-family: var(--serif);
-  font-size: 15.5px;
-  line-height: 1.75;
+  font-size: var(--fs-body);
+  line-height: var(--lh-body);
 }
 
 img { display: block; max-width: 100%; height: auto; }
 ul, ol { list-style: none; }
 
-p { text-align: justify; text-justify: inter-ideograph; }
+p {
+  text-align: justify;
+  text-justify: inter-ideograph;
+  text-wrap: pretty;
+}
 
 a {
   color: inherit;
   text-decoration: none;
-  border-bottom: 1px solid var(--rule);
+  border-bottom: var(--rl-hair);
 }
 a:focus-visible { outline: 1px dashed var(--red); outline-offset: 3px; }
 
 ::selection { background: var(--red); color: var(--paper); }
 
+/* 標題永不孤字：多行均衡 */
+.headline-title, .secondary-title, .section-title,
+.supplement-title, .archive-title, .masthead-title { text-wrap: balance; }
+
+/* 鉗制兜底 · v4 三檔：--l-full/mid/narrow 由構建時 fit.mjs 按檔注入，
+   容器查詢按檔取用（默認 full）。--fade-* 為該檔是否漸隱（0/1）。
+   full 檔 = 設計鉗制（版面語言）；mid/narrow = 守護鉗制（放寬安全網）。
+   mid/narrow 另有 line-clamp 守護網（見下），估算誤差最多提前漸隱，不會無漸隱硬裁。 */
+.headline-lead, .secondary-body, .section-body,
+.brief-line, .brief-lead, .translated-lead {
+  display: block;
+  max-height: calc(var(--l-cur, var(--l-full, 3)) * 1.7em);
+  overflow: hidden;
+  --l-cur: var(--l-full, 3);
+  --fade-cur: var(--fade-full, 0);
+}
+
+/* 漸隱開關：--fade-cur=1 時尾部溶解（無省略號）。calc 技巧讓容器查詢可按檔切換。 */
+.headline-lead, .secondary-body, .section-body,
+.brief-line, .brief-lead, .translated-lead {
+  -webkit-mask-image: linear-gradient(to bottom,
+    #000 calc(100% - 2em * var(--fade-cur, 0)),
+    rgb(0 0 0 / calc(100% * (1 - var(--fade-cur, 0)))));
+  mask-image: linear-gradient(to bottom,
+    #000 calc(100% - 2em * var(--fade-cur, 0)),
+    rgb(0 0 0 / calc(100% * (1 - var(--fade-cur, 0)))));
+}
+
+/* 守護網（mid/narrow）：構建時估算 +1 行安全餘量後仍可能低估（罕見）。
+   line-clamp 是運行時精確值——即使估算失誤，也只提前漸隱，絕不無漸隱硬裁。
+   full 檔不用（版面恆定由設計鉗制保證，且 line-clamp 會吃掉等高網格的餘量）。 */
+@container sheet (max-width: 1099px) {
+  .headline-lead, .secondary-body, .section-body,
+  .brief-line, .brief-lead, .translated-lead {
+    -webkit-line-clamp: var(--l-mid, var(--l-full, 3));
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}
+@container sheet (max-width: 599px) {
+  .headline-lead, .secondary-body, .section-body,
+  .brief-line, .brief-lead, .translated-lead {
+    -webkit-line-clamp: var(--l-narrow, var(--l-mid, var(--l-full, 3)));
+  }
+}
+
+/* ---------- 2. 紙張與版心 ---------- */
+
 .sheet {
   max-width: var(--sheet-w);
   margin: 0 auto;
-  padding: 26px var(--gutter) 0;
+  padding: var(--sp-5) var(--gutter) 0;
+  container: sheet / inline-size;
 }
 
-/* ---------- 1. 紙張質感三件套（噪點 / 暗角；灰度圖見 .photo） ---------- */
-
+/* 紙張質感：噪點 + 暗角（灰度照片見 .photo） */
 body.paper::before {
   content: '';
   position: fixed;
@@ -78,62 +179,74 @@ body.paper::after {
   background: radial-gradient(ellipse at center, transparent 60%, rgba(90, 70, 40, .18) 100%);
 }
 
-/* ---------- 2. 報頭 ---------- */
+/* ---------- 3. 報頭 ---------- */
 
 .masthead {
   display: grid;
   grid-template-columns: 1fr auto 1fr;
   align-items: end;
-  gap: 16px;
-  padding: 10px 0 16px;
-  border-bottom: 3px double var(--ink);
+  gap: var(--sp-4);
+  padding: var(--sp-2) 0 var(--sp-4);
+  border-bottom: var(--rl-double);
 }
 
 .masthead-side {
-  font-size: 13px;
+  font-size: var(--fs-note);
   color: var(--ink-soft);
-  line-height: 2;
+  line-height: var(--lh-body);
   letter-spacing: .08em;
 }
 
 .issue-no, .date-cn {
   font-weight: 700;
   color: var(--ink);
-  font-size: 14px;
 }
 
 .masthead-right { text-align: right; }
-
 .masthead-center { text-align: center; }
 
 .masthead-latin {
   font-family: var(--ornament);
   font-style: italic;
-  font-size: 15px;
+  font-size: var(--fs-note);
   letter-spacing: .35em;
+  text-indent: .35em;
   color: var(--red);
 }
 
 .masthead-title {
-  font-size: 88px;
+  font-size: var(--fs-display);
   font-weight: 900;
-  line-height: 1.08;
+  line-height: var(--lh-display);
   letter-spacing: .22em;
-  margin-right: -.22em;   /* 抵消末字字距，保證視覺居中 */
+  text-indent: .22em;   /* 抵消末字字距，保證視覺居中（居中塊用縮進而非負邊距——後者會把盒子推出容器，打印時撐出橫向溢出） */
   text-shadow: 1px 0 0 var(--ink), -1px 0 0 var(--ink),
-               0 1px 0 var(--ink), 0 -1px 0 var(--ink);  /* 加粗筆畫的雙鉤感 */
+               0 1px 0 var(--ink), 0 -1px 0 var(--ink);  /* 雙鉤加粗的刊名筆意 */
 }
 
 .masthead-sub {
-  font-size: 12.5px;
+  font-size: var(--fs-fine);
   letter-spacing: .5em;
-  margin-right: -.5em;
+  text-indent: .5em;
   color: var(--ink-soft);
 }
 
-/* ---------- 3. 欄目條 ---------- */
+/* 語言切換（報頭右下） */
+.lang-switch {
+  margin-top: var(--sp-2);
+  font-size: var(--fs-note);
+  letter-spacing: .08em;
+}
+.lang-switch a {
+  border: var(--rl-hair);
+  padding: 0 var(--sp-2) 1px;
+  color: var(--ink-soft);
+}
+.lang-switch a:hover { border-color: var(--red); color: var(--red); }
 
-.sections { border-bottom: 1px solid var(--rule); }
+/* ---------- 4. 欄目條 ---------- */
+
+.sections { border-bottom: var(--rl-hair); }
 
 .sections ul {
   display: flex;
@@ -142,258 +255,382 @@ body.paper::after {
 }
 
 .sections li {
-  padding: 9px 34px;
-  font-size: 16.5px;
+  padding: var(--sp-3) 2rem;
+  font-size: var(--fs-h4);
   font-weight: 700;
   letter-spacing: .45em;
   margin-right: -.45em;
-  cursor: default;
 }
 
-.sections li + li { border-left: 1px solid var(--rule); }
+.sections li + li { border-left: var(--rl-hair); }
 .sections li:hover { color: var(--red); }
+.sections li a { border-bottom: none; }
+.sections li a:hover { color: var(--red); }
 
-/* ---------- 4. 頭版主區（12 欄網格） ---------- */
+/* 多源共識標記（頭條來源可信度） */
+.consensus {
+  margin-left: .6em;
+  padding-left: .6em;
+  border-left: var(--rl-hair);
+  font-size: var(--fs-fine);
+  font-weight: 400;
+  letter-spacing: .1em;
+  color: var(--ink-soft);
+}
+
+/* ---------- 5. 頭版主區 ----------
+   左 8 欄為新聞區（頭條 → 次條 → 正文雙欄流動），
+   右 4 欄為簡訊直欄，縱貫兩行——欄高差由豎線合法化，
+   整個折面由下方版帶的雙線收口。 */
 
 .front-grid {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
-  column-gap: var(--col-gap);
-  row-gap: 22px;
-  padding: 26px 0 30px;
+  column-gap: var(--gap);
+  row-gap: var(--sp-5);
+  padding: var(--sp-5) 0 var(--sp-6);
 }
 
 .headline { grid-column: 1 / 6; }
-.secondary { grid-column: 6 / 9; }
-.briefs { grid-column: 9 / 13; }
 
-/* ---------- 5. 頭條 ---------- */
+.secondary {
+  grid-column: 6 / 9;
+  border-left: var(--rl-hair);
+  margin-left: calc(var(--gap) / -2);
+  padding-left: calc(var(--gap) / 2 + var(--sp-2));
+}
+
+.briefs {
+  grid-column: 9 / 13;
+  grid-row: 1 / 3;
+  align-self: start;
+  border-left: var(--rl-hair);
+  margin-left: calc(var(--gap) / -2);
+  padding-left: calc(var(--gap) / 2 + var(--sp-3));
+  padding-right: var(--sp-2);
+}
+
+.headline-body {
+  grid-column: 1 / 9;
+  border-top: var(--rl-hair);
+  padding-top: var(--sp-5);
+}
+
+/* ---------- 6. 頭條 ---------- */
 
 .kicker {
-  font-size: 12.5px;
+  font-size: var(--fs-fine);
   font-weight: 700;
-  letter-spacing: .55em;
+  letter-spacing: .4em;
   color: var(--red);
-  margin-bottom: 12px;
+  margin-bottom: var(--sp-3);
 }
 
 .headline-title {
-  font-size: 46px;
+  font-size: var(--fs-h1);
   font-weight: 900;
-  line-height: 1.3;
-  letter-spacing: .06em;
+  line-height: var(--lh-display);
+  letter-spacing: .04em;
   text-align: center;
-  text-align-last: center;
 }
 
 .headline-lead {
-  margin: 14px 0 18px;
-  font-size: 15px;
+  margin-top: var(--sp-3);
+  font-size: var(--fs-body);
+  line-height: var(--lh-body);
   color: var(--ink-soft);
   text-align: center;
-  text-align-last: center;
 }
 
-/* ---------- 6. 照片（統一灰度老照片處理） ---------- */
+.headline .photo { margin-top: var(--sp-3); }
+.headline .source-line { text-align: center; }
+
+/* ---------- 7. 照片（統一灰度老照片處理；定比防抖） ---------- */
 
 .photo img {
   width: 100%;
-  border: 1px solid var(--rule);
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  border: var(--rl-hair);
   filter: grayscale(1) contrast(1.15) sepia(.15);
 }
 
 .photo figcaption {
-  margin-top: 7px;
-  font-size: 12px;
+  margin-top: var(--sp-2);
+  font-size: var(--fs-fine);
   color: var(--ink-soft);
   letter-spacing: .06em;
   text-align: center;
 }
 
-/* ---------- 7. 次條 ---------- */
+/* ---------- 8. 次條 ---------- */
+
+.secondary .photo { margin-bottom: var(--sp-3); }
 
 .secondary-title {
-  font-size: 23px;
+  font-size: var(--fs-h2);
   font-weight: 700;
-  line-height: 1.5;
-  letter-spacing: .03em;
+  line-height: var(--lh-title);
+  letter-spacing: .02em;
   text-align: center;
-  text-align-last: center;
-  margin-bottom: 12px;
+  margin-bottom: var(--sp-3);
 }
 
-.secondary .photo { margin-bottom: 12px; }
-
-.secondary-body { font-size: 14.5px; margin-bottom: 9px; }
-
-/* ---------- 8. 簡訊欄 ---------- */
-
-.briefs {
-  border-left: 1px solid var(--rule);
-  border-right: 1px solid var(--rule);
-  padding: 0 22px;
+.secondary-body {
+  font-size: var(--fs-brief);
+  line-height: var(--lh-body);
 }
+
+/* ---------- 9. 簡訊直欄 ----------
+   ≤9 條：單列帶導語；>9 條轉 dense 雙列、只留標題——
+   信息密度隨欄高降級，直欄永不懸空。 */
 
 .briefs-title {
-  font-size: 18px;
+  font-size: var(--fs-h4);
   font-weight: 900;
   letter-spacing: .5em;
-  margin-right: -.5em;
+  text-indent: .5em;
   text-align: center;
-  padding-bottom: 9px;
-  border-bottom: 1px solid var(--ink);
+  padding-bottom: var(--sp-2);
+  border-bottom: var(--rl-ink);
 }
 
 .briefs-list li {
-  font-size: 14px;
-  line-height: 1.7;
-  padding: 7px 0 8px;
-  border-bottom: 1px dotted var(--rule);
+  font-size: var(--fs-brief);
+  line-height: var(--lh-body);
+  padding: var(--sp-2) 0;
+  border-bottom: var(--rl-dot);
 }
 .briefs-list li:last-child { border-bottom: none; }
 
 .brief-tag {
   color: var(--red);
   font-weight: 700;
-  font-size: 12.5px;
-  margin-right: .5em;
+  font-size: var(--fs-fine);
+  margin-right: .4em;
 }
+
+.brief-lead {
+  margin-top: var(--sp-1);
+  font-size: var(--fs-note);
+  line-height: var(--lh-body);
+  color: var(--ink-soft);
+  text-align: left;
+}
+
+.briefs--dense .briefs-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: var(--sp-3);
+}
+.briefs--dense .brief-lead { display: none; }
 
 .weather-box {
-  margin-top: 16px;
-  padding: 14px 12px 12px;
-  border: 1px solid var(--rule);
+  margin-top: var(--sp-4);
+  padding: var(--sp-3);
+  border: var(--rl-hair);
+}
+
+.weather-info {
   display: grid;
   justify-items: center;
-  gap: 2px;
+  gap: var(--sp-1);
 }
 
-.weather-icon { color: var(--ink); }
+.weather-city {
+  font-size: var(--fs-body);
+  font-weight: 700;
+  letter-spacing: .3em;
+  margin-right: -.3em;
+}
 
-.weather-city { font-size: 16px; font-weight: 700; letter-spacing: .3em; margin-right: -.3em; }
-
-.weather-desc { font-size: 14px; color: var(--ink-soft); }
-
-.weather-note {
-  margin-top: 6px;
-  font-size: 12px;
+.weather-desc {
+  font-size: var(--fs-brief);
   color: var(--ink-soft);
-  letter-spacing: .25em;
-  margin-right: -.25em;
 }
 
-/* ---------- 9. 頭條正文（跨滿 12 欄，三欄流動，欄寬約 350px） ---------- */
+/* ---------- 10. 頭條正文（跨 8 欄；欄數由構建時 fit 決定） ---------- */
 
 .headline-body {
-  grid-column: 1 / 13;
-  border-top: 1px solid var(--rule);
-  padding-top: 24px;
-  column-count: 3;
-  column-gap: var(--col-gap);
-  column-rule: 1px solid var(--rule);
+  column-count: var(--cols, 2);
+  column-gap: var(--gap);
+  column-rule: var(--rl-hair);
 }
 
 .headline-body p {
-  margin-bottom: 10px;
+  margin-bottom: var(--sp-2);
   orphans: 2;
   widows: 2;
 }
 
-/* 首字下沉：約佔兩至三行 */
+/* 首字下沉 */
 .body-first::first-letter {
   float: left;
-  font-size: 3.1em;
+  font-size: 3em;
   line-height: 1;
   font-weight: 900;
-  padding: 4px 10px 0 0;
+  padding: var(--sp-1) var(--sp-2) 0 0;
 }
 
-/* ---------- 10. 半版分欄（財經 / 科技） ---------- */
+/* ---------- 11. 各版（版帶 · 數據驅動 1–3 篇） ---------- */
 
-.halves {
+.sections-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  border-top: 3px double var(--ink);
-  padding: 24px 0 28px;
+  column-gap: calc(var(--gap) * 2);
+  border-top: var(--rl-double);
+  padding: var(--sp-5) 0 var(--sp-6);
 }
 
-.half { padding-right: var(--col-gap); }
-
-.half + .half {
-  border-left: 1px solid var(--rule);
-  padding-left: var(--col-gap);
-  padding-right: 0;
+/* 每塊保留底線：格線全部閉合，不依賴行數奇偶 */
+.section-block {
+  border-bottom: var(--rl-hair);
+  padding-bottom: var(--sp-4);
 }
 
-/* 欄目標：套紅細框 */
-.half-kicker, .supplement-kicker {
+/* 版名：套紅細框（與副刊眉注同一系統） */
+.section-label, .supplement-kicker {
   display: inline-block;
-  padding: 1px 14px 2px;
+  padding: 2px var(--sp-3) 3px;
   border: 1px solid var(--red);
   color: var(--red);
-  font-size: 14.5px;
+  font-size: var(--fs-note);
   font-weight: 900;
   letter-spacing: .4em;
   margin-right: -.4em;
 }
 
-.half-title {
-  font-size: 21px;
-  font-weight: 700;
-  line-height: 1.55;
-  margin: 12px 0 9px;
+.section-articles {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: var(--gap);
+  margin-top: var(--sp-3);
 }
 
-.half p { font-size: 14.5px; margin-bottom: 9px; }
+/* 版式語言：永無孤篇、首篇層級恆在
+   1 篇通欄；2 篇並肩；3 篇首篇通欄、後兩篇並肩；
+   4 篇首篇通欄 + 兩篇並肩 + 末篇通欄（對稱收尾，層級保留）；
+   5 篇首篇通欄 + 2×2 半欄（層級保留）。 */
+.section-articles.count-1 .section-article,
+.section-articles.count-3 .section-article:first-child,
+.section-articles.count-4 .section-article:first-child,
+.section-articles.count-4 .section-article:last-child,
+.section-articles.count-5 .section-article:first-child { grid-column: 1 / -1; }
 
-/* ---------- 11. 副刊 · 廣告位 ---------- */
+/* 並肩行之右篇：點線分隔（補償進列距正中） */
+.count-2 .section-article:nth-child(2),
+.count-3 .section-article:nth-child(3),
+.count-4 .section-article:nth-child(3),
+.count-5 .section-article:nth-child(3),
+.count-5 .section-article:nth-child(5) {
+  border-left: var(--rl-dot);
+  margin-left: calc(var(--gap) / -2);
+  padding-left: calc(var(--gap) / 2);
+}
+
+/* count-4 末篇通欄與中間並肩行的分隔（頂線收口） */
+.count-4 .section-article:last-child {
+  border-top: var(--rl-dot);
+  margin-top: var(--sp-3);
+  padding-top: var(--sp-3);
+}
+
+/* 文章卡：等高伸縮 + 來源行釘底 → 每行底邊像素級對齊 */
+.section-article {
+  display: flex;
+  flex-direction: column;
+}
+
+.section-title {
+  font-size: var(--fs-h3);
+  font-weight: 700;
+  line-height: var(--lh-title);
+  margin-bottom: var(--sp-2);
+}
+
+.section-articles .is-lead .section-title { font-size: var(--fs-h2); }
+
+.section-body {
+  font-size: var(--fs-brief);
+  line-height: var(--lh-body);
+}
+
+.section-article .source-line {
+  margin-top: auto;
+  padding-top: var(--sp-2);
+}
+
+/* ---------- 12. 副刊 · 廣告位 ---------- */
 
 .supplement {
   display: grid;
   grid-template-columns: 7fr 5fr;
-  gap: var(--col-gap);
-  border-top: 3px double var(--ink);
-  padding: 24px 0 32px;
+  gap: var(--gap);
+  border-top: var(--rl-double);
+  padding: var(--sp-5) 0 var(--sp-6);
 }
 
 .supplement-title {
-  font-size: 24px;
+  font-size: var(--fs-h2);
   font-weight: 900;
-  letter-spacing: .3em;
-  margin: 12px 0 10px;
+  letter-spacing: .12em;
+  margin: var(--sp-3) 0 var(--sp-2);
 }
 
-.supplement-main p { font-size: 14.5px; margin-bottom: 9px; }
+/* 正文欄數與行寬由構建時 fit 決定：單欄收在 34em，雙欄各 ≈300px */
+.supplement-body {
+  column-count: var(--cols, 1);
+  column-gap: var(--gap);
+  column-rule: var(--rl-hair);
+  max-width: var(--measure, none);
+}
+.supplement-body p {
+  font-size: var(--fs-body);
+  margin-bottom: var(--sp-2);
+  orphans: 2;
+  widows: 2;
+}
+.supplement-main .source-line { margin-top: var(--sp-3); }
 
+/* 廣告框：height 拉滿列高——留白成為框內呼吸，而非懸空 */
 .ad-box {
   position: relative;
+  height: 100%;
   background: var(--paper-dark);
-  border: 1px solid var(--rule);
-  padding: 24px 118px 20px 26px;
+  border: var(--rl-hair);
+  padding: var(--sp-5) 7.25rem var(--sp-4) var(--sp-5);  /* 右側讓位印章 */
 }
 
 .ad-head {
-  font-size: 19px;
+  font-size: var(--fs-h4);
   font-weight: 900;
-  letter-spacing: .6em;
-  margin-right: -.6em;
+  letter-spacing: .5em;
+  text-indent: .5em;
   text-align: center;
-  padding-bottom: 9px;
-  border-bottom: 1px solid var(--ink);
-  margin-bottom: 13px;
+  padding-bottom: var(--sp-2);
+  border-bottom: var(--rl-ink);
+  margin-bottom: var(--sp-3);
 }
 
-.ad-body { font-size: 13.5px; line-height: 1.85; }
+.ad-body {
+  font-size: var(--fs-note);
+  line-height: var(--lh-body);
+}
 
-.ad-sign { text-align: right; font-size: 13px; margin-top: 9px; color: var(--ink-soft); }
+.ad-sign {
+  text-align: right;
+  font-size: var(--fs-note);
+  margin-top: var(--sp-3);
+  color: var(--ink-soft);
+}
 
-/* 套紅印章：唯一允許圓形之處 */
+/* 套紅印章：全站唯一允許圓形之處 */
 .seal {
   position: absolute;
-  top: 42px;
-  right: 20px;
-  width: 92px;
-  height: 92px;
+  top: var(--sp-5);
+  right: var(--sp-4);
+  width: 5.75rem;
+  height: 5.75rem;
   border: 3px solid var(--red);
   border-radius: 50%;
   color: var(--red);
@@ -414,138 +651,305 @@ body.paper::after {
 }
 
 .seal-name {
-  font-size: 20px;
+  font-size: var(--fs-h4);
   font-weight: 900;
   letter-spacing: .1em;
-  line-height: 1.35;
+  line-height: 1.3;
 }
 
 .seal-issue {
-  font-size: 9.5px;
+  font-size: var(--fs-fine);
   letter-spacing: .1em;
-  margin-top: 3px;
+  margin-top: var(--sp-1);
 }
 
-/* ---------- 12. 版尾 ---------- */
-
-/* ---------- 12b. M3 增量：來源行 / 僅廣告態 / 單欄正文 ---------- */
-
-.source-line {
-  font-size: 12px;
-  color: var(--ink-soft);
-  margin-top: 8px;
-}
-
-.headline .source-line { text-align: center; }
-
-.secondary .source-line,
-.half .source-line { text-align: right; margin-top: 4px; }
-
-.headline-body.body-single { column-count: 1; }
-
+/* 僅廣告態：單欄居中 */
 .supplement--adonly { grid-template-columns: 1fr; }
-
 .supplement--adonly .ad-box {
   max-width: 620px;
   width: 100%;
+  height: auto;
   margin: 0 auto;
 }
 
-/* ---------- 13. 歸檔頁 ---------- */
+/* ---------- 13. 域外譯訊 ---------- */
+
+.translated {
+  border-top: var(--rl-double);
+  padding: var(--sp-5) 0 var(--sp-6);
+}
+
+.translated-title {
+  font-size: var(--fs-h4);
+  font-weight: 900;
+  letter-spacing: .4em;
+  text-indent: .4em;
+  text-align: center;
+  padding-bottom: var(--sp-2);
+  border-bottom: var(--rl-ink);
+  margin-bottom: var(--sp-4);
+}
+
+.translated-list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: calc(var(--gap) * 1.5);
+  row-gap: var(--sp-4);
+}
+
+.translated-list li { break-inside: avoid; }
+
+.translated-head {
+  font-size: var(--fs-body);
+  font-weight: 700;
+  line-height: var(--lh-title);
+}
+
+.translated-src {
+  display: block;
+  margin-top: var(--sp-1);
+  font-size: var(--fs-fine);
+  color: var(--ink-soft);
+  font-weight: 400;
+}
+
+.translated-lead {
+  margin-top: var(--sp-1);
+  font-size: var(--fs-note);
+  line-height: var(--lh-body);
+  color: var(--ink-soft);
+}
+
+/* ---------- 14. 歸檔頁 ---------- */
 
 .archive {
-  border-top: 1px solid var(--rule);
-  padding: 26px 0 34px;
+  padding: var(--sp-5) 0 var(--sp-6);
 }
 
 .archive-title {
-  font-size: 22px;
+  font-size: var(--fs-h2);
   font-weight: 900;
   letter-spacing: .5em;
-  margin-right: -.5em;
+  text-indent: .5em;
   text-align: center;
-  padding-bottom: 12px;
+  padding-bottom: var(--sp-3);
 }
 
-.archive-list li { border-bottom: 1px dotted var(--rule); }
+.archive-list li { border-bottom: var(--rl-dot); }
 
 .archive-list a {
   display: grid;
   grid-template-columns: auto auto 1fr;
-  column-gap: 18px;
+  column-gap: var(--sp-4);
   align-items: baseline;
-  padding: 11px 2px;
+  padding: var(--sp-3) 2px;
   border-bottom: none;
 }
 
-.archive-issue { color: var(--red); font-weight: 700; font-size: 14px; letter-spacing: .08em; }
-
-.archive-date { font-size: 13.5px; color: var(--ink-soft); letter-spacing: .05em; }
-
-.archive-headline { font-size: 15px; font-weight: 700; }
+.archive-issue { color: var(--red); font-weight: 700; letter-spacing: .08em; }
+.archive-date { font-size: var(--fs-note); color: var(--ink-soft); letter-spacing: .05em; }
+.archive-headline { font-size: var(--fs-body); font-weight: 700; }
 
 .archive-list a:hover .archive-headline { color: var(--red); }
 
-.archive-empty { text-align: center; color: var(--ink-soft); padding: 24px 0; }
+.archive-empty { text-align: center; color: var(--ink-soft); padding: var(--sp-5) 0; }
 
-@media (max-width: 900px) {
-  .archive-list a { grid-template-columns: 1fr; row-gap: 2px; }
+/* ---------- 15. 來源行 / 版尾 ---------- */
+
+.source-line {
+  font-size: var(--fs-fine);
+  color: var(--ink-soft);
+  /* 塊內流式時 margin-top:auto 恆為 0；在 flex 文章卡中則釘底 */
+  margin-top: auto;
+  padding-top: var(--sp-2);
 }
 
-/* ---------- 13. 響應式退化（< 900px 單欄堆疊） ---------- */
+.secondary .source-line,
+.supplement-main .source-line { text-align: right; }
 
-@media (max-width: 900px) {
-  .sheet { padding: 18px 20px 0; }
+.colophon {
+  border-top: var(--rl-double);
+  padding: var(--sp-4) 0 var(--sp-7);
+}
 
+.colophon p {
+  font-size: var(--fs-note);
+  color: var(--ink-soft);
+  line-height: var(--lh-body);
+  text-align: center;
+}
+
+.colophon-nav a { padding: 0 2px; }
+
+.colophon-fine {
+  font-size: var(--fs-fine);
+  letter-spacing: .22em;
+  text-indent: .22em;
+}
+
+/* ---------- 16. 英文版標題：Playfair Display ----------
+   中文版混排不受影響；譯訊（頁內跨語內容）不換字族。 */
+
+:lang(en) .headline-title,
+:lang(en) .secondary-title,
+:lang(en) .section-title,
+:lang(en) .supplement-title,
+:lang(en) .archive-headline {
+  font-family: var(--latin);
+  font-weight: 700;
+  letter-spacing: .01em;
+}
+
+/* 英文版欄目頭（簡訊 / 譯訊 / 廣告 / 過刊）同宗 */
+:lang(en) .briefs-title,
+:lang(en) .translated-title,
+:lang(en) .ad-head,
+:lang(en) .archive-title {
+  font-family: var(--latin);
+  font-weight: 700;
+}
+
+/* 窄欄西文兩端對齊易拉詞距：英文版正文自動斷字 */
+:lang(en) p { hyphens: auto; }
+
+/* 英文版正文走 Latin 字優先的字族——CJK 字體的彎引號 ''"" 是全角字形，
+   英文所有格會排成 world' s；Latin 字族給出比例字形，CJK 字退居兜底。 */
+:lang(en) body { font-family: var(--serif-en); }
+
+/* ---------- 17. 容器查詢 · 中幅（版心 < 1000px；打印 A4 自動落入） ---------- */
+
+@container sheet (max-width: 1099px) {
+  /* v4：mid 檔取守護鉗制 */
+  .headline-lead, .secondary-body, .section-body,
+  .brief-line, .brief-lead, .translated-lead {
+    --l-cur: var(--l-mid, var(--l-full, 3));
+    --fade-cur: var(--fade-mid, var(--fade-full, 0));
+  }
+  /* 欄目條收窄：中幅與打印（A4 ≈ 703px 亦落入此檔）均不換行 */
+  .sections li {
+    padding: var(--sp-2) 1.25rem;
+    font-size: var(--fs-body);
+    letter-spacing: .2em;
+    margin-right: -.2em;
+  }
+
+  .front-grid { grid-template-columns: 1fr 1fr; }
+
+  .headline { grid-column: 1 / -1; }
+
+  .secondary {
+    grid-column: 1 / 2;
+    border-left: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  .briefs {
+    grid-column: 2 / 3;
+    grid-row: auto;
+    padding-left: calc(var(--gap) / 2 + var(--sp-2));
+    padding-right: 0;
+  }
+
+  .headline-body { grid-column: 1 / -1; }
+
+  .headline-title { font-size: 2.125rem; }  /* 34 */
+
+  .sections-grid { grid-template-columns: 1fr; }
+
+  .supplement { grid-template-columns: 1fr; }
+  .supplement .ad-box { margin-top: var(--sp-5); }
+  .supplement--adonly .ad-box { margin-top: 0; }
+}
+
+@container sheet (max-width: 759px) {
   .masthead { grid-template-columns: 1fr; text-align: center; }
-  .masthead-side, .masthead-right { text-align: center; }
-  .masthead-title { font-size: 54px; }
+  .masthead-side { text-align: center; }
+  .masthead-title { font-size: 3.5rem; }  /* 56 */
+}
 
-  .sections li { padding: 8px 16px; letter-spacing: .2em; margin-right: -.2em; }
+/* ---------- 18. 容器查詢 · 窄幅（版心 < 600px） ---------- */
 
-  .front-grid { grid-template-columns: 1fr; row-gap: 20px; }
+@container sheet (max-width: 599px) {
+  /* v4：narrow 檔取守護鉗制 */
+  .headline-lead, .secondary-body, .section-body,
+  .brief-line, .brief-lead, .translated-lead {
+    --l-cur: var(--l-narrow, var(--l-mid, var(--l-full, 3)));
+    --fade-cur: var(--fade-narrow, var(--fade-mid, var(--fade-full, 0)));
+  }
+  .sections li {
+    padding: var(--sp-2) var(--sp-4);
+    font-size: var(--fs-body);
+    letter-spacing: .2em;
+    margin-right: -.2em;
+  }
+
+  .front-grid { grid-template-columns: 1fr; row-gap: var(--sp-5); }
 
   .headline,
   .secondary,
   .briefs,
-  .headline-body { grid-column: 1 / -1; grid-row: auto; }
+  .headline-body { grid-column: 1 / -1; }
 
-  .headline-title { font-size: 32px; }
+  .secondary {
+    border-left: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
 
   .briefs {
     border-left: none;
-    border-right: none;
-    border-top: 1px solid var(--rule);
-    padding: 18px 0 0;
+    margin-left: 0;
+    padding: var(--sp-4) 0 0;
+    border-top: var(--rl-hair);
   }
+
+  .headline-title { font-size: 1.75rem; }  /* 28 */
 
   .headline-body { column-count: 1; }
 
-  .halves { grid-template-columns: 1fr; }
+  .briefs--dense .briefs-list { grid-template-columns: 1fr; }
 
-  .half { padding-right: 0; }
-
-  .half + .half {
+  .section-articles { grid-template-columns: 1fr; }
+  .section-articles .section-article { grid-column: 1 / -1; }
+  .count-2 .section-article:nth-child(2),
+  .count-3 .section-article:nth-child(3) {
     border-left: none;
+    margin-left: 0;
     padding-left: 0;
-    border-top: 1px solid var(--rule);
-    margin-top: 6px;
-    padding-top: 18px;
+  }
+  .count-2 .section-article + .section-article,
+  .count-3 .section-article + .section-article {
+    border-top: var(--rl-dot);
+    margin-top: var(--sp-3);
+    padding-top: var(--sp-3);
   }
 
   .supplement { grid-template-columns: 1fr; }
 
-  .ad-box { padding: 22px 24px 18px; }
+  /* 副刊正文窄幅單列（雙列在 312px 版心下每列僅 151px，不可讀） */
+  .supplement-body { column-count: 1; max-width: none; }
+
+  .ad-box { padding: var(--sp-4); }
 
   .seal {
     position: static;
-    margin: 16px auto 0;
+    margin: var(--sp-4) auto 0;
   }
+
+  .translated-list { grid-template-columns: 1fr; }
+
+  .archive-list a { grid-template-columns: 1fr; row-gap: 2px; }
 }
 
-/* ---------- 14. 打印樣式（A4 豎版適配） ----------
-   保留報紙版式（網格/多欄/雙線），整體縮排；去掉噪點、暗角、
-   文字陰影等費墨且在紙上發悶的效果；加斷頁控制。 */
+/* 版心內距隨視口（.sheet 自身的屬性不能用容器查詢改自己） */
+@media (max-width: 639px) {
+  .sheet { padding: var(--sp-4) var(--sp-5) 0; }
+}
+
+/* ---------- 19. 打印（A4 豎版） ----------
+   版心寬 ≈ 703px，容器查詢自動落入中幅版式；此處只做：
+   整報縮排（html 字號 12px，全站 rem 隨動）、去質感、斷頁控制。 */
 
 @page {
   size: A4 portrait;
@@ -553,106 +957,39 @@ body.paper::after {
 }
 
 @media print {
-  body.paper {
-    background: #fff;
-    -webkit-print-color-adjust: exact;
-    print-color-adjust: exact;
+  html { font-size: 12px; }
+
+  body.paper { background: #fff; print-color-adjust: exact; -webkit-print-color-adjust: exact; }
+  body.paper::before, body.paper::after { display: none; }
+
+  .sheet { max-width: none; padding: 0; }
+
+  .masthead-title { text-shadow: none; }
+
+  /* 兜底：即使宿主打印時不支持容器查詢，也按中幅版式出；
+     鉗制取 mid 檔守護值，避免打印縮排後按 full 估算失準 */
+  .headline-lead, .secondary-body, .section-body,
+  .brief-line, .brief-lead, .translated-lead {
+    --l-cur: var(--l-mid, var(--l-full, 3));
+    --fade-cur: var(--fade-mid, var(--fade-full, 0));
   }
-
-  body.paper::before,
-  body.paper::after { display: none; }
-
-  .sheet { max-width: 100%; padding: 0; }
-
-  body { font-size: 9.5pt; line-height: 1.6; }
-
-  .masthead { padding: 0 0 4mm; }
-  .masthead-title { font-size: 34pt; text-shadow: none; }
-  .masthead-latin { font-size: 9pt; }
-  .masthead-side { font-size: 7.5pt; line-height: 1.7; }
-  .masthead-sub { font-size: 7pt; }
-
-  .sections li { font-size: 9.5pt; padding: 4pt 16pt; }
-
-  .front-grid { column-gap: 6mm; row-gap: 5mm; padding: 5mm 0 6mm; }
-
-  .headline-title { font-size: 20pt; }
-  .headline-lead { font-size: 9pt; }
-  .headline-body { column-gap: 6mm; }
-  .body-first::first-letter { font-size: 2.6em; }
-
-  .secondary-title { font-size: 12pt; }
-  .half-title { font-size: 11.5pt; }
-  .briefs-title { font-size: 11pt; }
-  .briefs-list li, .half p, .supplement-main p { font-size: 8.5pt; }
-  .ad-body { font-size: 8pt; }
-  .supplement-title, .ad-head { font-size: 12pt; }
-
-  .halves, .supplement { padding: 5mm 0; }
-
-  .colophon { padding: 4mm 0 0; }
-  .colophon-nav { display: none; }
-
-  a { border-bottom: none; }
-  .source-line a { border-bottom: 1px solid var(--rule); }
+  .front-grid { grid-template-columns: 1fr 1fr; }
+  .headline { grid-column: 1 / -1; }
+  .secondary { grid-column: 1 / 2; border-left: none; margin-left: 0; padding-left: 0; }
+  .briefs { grid-column: 2 / 3; grid-row: auto; padding-left: calc(var(--gap) / 2 + var(--sp-2)); }
+  .headline-body { grid-column: 1 / -1; }
+  .sections-grid { grid-template-columns: 1fr; }
+  .supplement { grid-template-columns: 1fr; }
+  .supplement .ad-box { margin-top: var(--sp-5); }
 
   /* 斷頁控制：小版塊不跨頁，標題不落單 */
-  .secondary, .briefs, .half, .ad-box, .weather-box, .briefs-list li { break-inside: avoid; }
-  .headline-title, .secondary-title, .half-title, .briefs-title, .ad-head { break-after: avoid; }
+  .secondary, .briefs, .section-article, .ad-box,
+  .weather-box, .briefs-list li { break-inside: avoid; }
+  .headline-title, .secondary-title, .section-title,
+  .briefs-title, .ad-head { break-after: avoid; }
 
-  /* 打印版面寬（A4 ≈ 794px）會命中 <900px 響應式斷點，
-     此處位於文件末尾，顯式恢復桌面版式。 */
-  .masthead { grid-template-columns: 1fr auto 1fr; }
-  .masthead-side { text-align: left; }
-  .masthead-right { text-align: right; }
+  a { border-bottom: none; }
 
-  .front-grid { display: grid; grid-template-columns: repeat(12, 1fr); }
-  .headline { grid-column: 1 / 6; }
-  .secondary { grid-column: 6 / 9; }
-  .briefs {
-    grid-column: 9 / 13;
-    border-left: 1px solid var(--rule);
-    border-right: 1px solid var(--rule);
-    border-top: none;
-    padding: 0 5mm;
-  }
-  .headline-body { column-count: 3; }
-
-  .halves { grid-template-columns: 1fr 1fr; }
-  .half { padding-right: 6mm; }
-  .half + .half {
-    border-left: 1px solid var(--rule);
-    border-top: none;
-    margin-top: 0;
-    padding: 0 0 0 6mm;
-  }
-
-  .supplement { grid-template-columns: 7fr 5fr; }
-  .supplement--adonly { grid-template-columns: 7fr 5fr; }
-  .supplement--adonly .ad-box { max-width: none; margin: 0; }
-
-  .ad-box { padding: 8mm 16mm 7mm 9mm; }
-  .seal { position: absolute; top: 12mm; right: 7mm; margin: 0; }
-
-  .archive-list a { grid-template-columns: auto auto 1fr; }
+  .colophon-nav { display: none; }
+  .colophon { padding-bottom: 0; }
 }
-
-.colophon {
-  border-top: 3px double var(--ink);
-  padding: 18px 0 48px;
-}
-
-.colophon p {
-  font-size: 12.5px;
-  color: var(--ink-soft);
-  line-height: 2;
-  text-align: center;
-}
-
-.colophon-nav a { padding: 0 2px; }
-
-.colophon-fine {
-  font-size: 11.5px;
-  letter-spacing: .22em;
-}
-

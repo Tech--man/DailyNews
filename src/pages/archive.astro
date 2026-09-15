@@ -1,34 +1,19 @@
 ---
+// 過刊瀏覽（中文版）
 import Page from '../layouts/Page.astro';
-import Masthead from '../components/Masthead.astro';
-import Colophon from '../components/Colophon.astro';
+import Archive from '../components/Archive.astro';
 import { listIssueDates, loadIssue } from '../lib/issues.mjs';
-import { cnDate, cnIssue } from '../lib/dateCn.mjs';
+import { t } from '../lib/i18n.mjs';
 import BASE from '../lib/base.mjs';
 
 const dates = listIssueDates();
 const rows = dates.map(d => {
   const it = loadIssue(d);
-  return { date: d, issueNo: it.issue, headline: it.headline?.title ?? '' };
+  return { date: d, issueNo: it.issue, headline: it.editions?.zh?.headline?.title ?? '' };
 });
-const latest = dates[0];
+const T = t('zh');
+const altHref = `${BASE}en/archive/`;
 ---
-<Page title="每日新報 · 過刊瀏覽">
-  <Masthead issueNo={rows[0]?.issueNo ?? 1} date={latest} />
-  <section class="archive">
-    <h2 class="archive-title">過刊瀏覽</h2>
-    { rows.length === 0 && <p class="archive-empty">尚無過刊。</p> }
-    <ul class="archive-list">
-      {rows.map(r => (
-        <li>
-          <a href={`${BASE}issue/${r.date}/`}>
-            <span class="archive-issue">{cnIssue(r.issueNo)}</span>
-            <span class="archive-date">{cnDate(r.date)}</span>
-            <span class="archive-headline">{r.headline}</span>
-          </a>
-        </li>
-      ))}
-    </ul>
-  </section>
-  <Colophon issueNo={rows[0]?.issueNo ?? 1} prevDate={null} />
+<Page title={`${T.pageTitle} · ${T.archiveTitle}`} lang="zh" altHref={altHref}>
+  <Archive rows={rows} lang="zh" t={T} latestDate={dates[0]} altHref={altHref} />
 </Page>

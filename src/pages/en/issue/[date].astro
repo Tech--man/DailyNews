@@ -1,0 +1,30 @@
+---
+// Issue by date (English edition)
+import Page from '../../../layouts/Page.astro';
+import FrontPage from '../../../components/FrontPage.astro';
+import { listIssueDates, loadIssue } from '../../../lib/issues.mjs';
+import { t } from '../../../lib/i18n.mjs';
+import { enDate } from '../../../lib/dateCn.mjs';
+import BASE from '../../../lib/base.mjs';
+
+export function getStaticPaths() {
+  return listIssueDates().map(date => ({ params: { date } }));
+}
+
+const { date } = Astro.params;
+const issue = loadIssue(date!);
+const dates = listIssueDates();
+const idx = dates.indexOf(date!);
+const prevDate = dates[idx + 1] ?? null;
+const T = t('en');
+const altHref = `${BASE}issue/${date}/`;
+---
+<Page
+  title={`${T.pageTitle} · ${enDate(date!)}`}
+  lang="en"
+  ogImage={`/og/${date}-en.png`}
+  ogDescription={issue.editions?.en?.headline?.title}
+  altHref={altHref}
+>
+  <FrontPage issue={issue} date={date!} lang="en" t={T} prevDate={prevDate} altHref={altHref} />
+</Page>

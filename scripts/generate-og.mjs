@@ -13,6 +13,9 @@ if (!dates.length) {
 
 const fonts = await import('./og.mjs').then(m => m.ensureFonts());
 for (const date of dates) {
-  const out = await renderOg(loadIssue(date), date, fonts);
-  console.log(`✓ ${out}`);
+  const issue = loadIssue(date);
+  for (const lang of issue.languages ?? ['zh']) {
+    const out = await renderOg(issue, date, { lang, fonts });
+    console.log(`✓ ${out}`);
+  }
 }

@@ -1,92 +1,874 @@
 {
   "issue": 429,
   "date": "2026-09-15",
-  "lunar": "農曆八月初五 · 白露",
-  "weather": {
-    "city": "杭州",
-    "temp": "22~30℃",
-    "desc": "陰",
-    "lat": 30.29365,
-    "lon": 120.16142
-  },
-  "headline": {
-    "title": "特朗普抨击Anthropic CEO：AI发展不能踩刹车，美国有“高智商总统”就足够",
-    "lead": "特朗普公开抨击Anthropic首席执行官Dario Amodei呼吁放缓AI发展的立场，将业界日益高涨的安全警告定性为\"阴谋\"，并重申美国领先优势不容动摇。 ",
-    "source": "華爾街見聞",
-    "link": "https://wallstreetcn.com/articles/3781728"
-  },
-  "secondary": {
-    "title": "AI开发放缓担忧升温，美股低开，费城半导体指数跌6%，10年期美债收益率三年来首破5%，布油涨破109",
-    "lead": "AI巨头联手呼吁放慢前沿模型开发节奏，叠加油价飙升重燃通胀忧虑，全球股市承压。 周一，美股盘初，纳斯达克指数下跌1.2%，标普500指数下跌0.8%。费城半导体",
-    "source": "華爾街見聞",
-    "link": "https://wallstreetcn.com/articles/3781670"
-  },
-  "briefs": [
-    {
-      "title": "欧盟天然气价格创2022年底以来新高，低库存背景下冬季寒潮将引发价格冲击",
-      "category": "國際",
-      "source": "華爾街見聞",
-      "link": "https://wallstreetcn.com/articles/3781727"
-    },
-    {
-      "title": "中国地震局与苹果公司沟通推进地震预警信息接入 iOS",
-      "category": "民生",
-      "source": "Solidot",
-      "link": "https://www.solidot.org/story?sid=85374"
-    },
-    {
-      "title": "日本无意结婚的男女比例都超两成",
-      "category": "國際",
-      "source": "Solidot",
-      "link": "https://www.solidot.org/story?sid=85371"
-    },
-    {
-      "title": "特朗普：俄乌同意停止攻击能源目标，泽连斯基：愿讨论能源领域停火",
-      "category": "財經",
-      "source": "華爾街見聞",
-      "link": "https://wallstreetcn.com/articles/3781732"
-    },
-    {
-      "title": "红海局势再度升温，胡塞武装大规模袭击沙特空军基地",
-      "category": "財經",
-      "source": "華爾街見聞",
-      "link": "https://wallstreetcn.com/articles/3781724"
-    },
-    {
-      "title": "AI 时代隐晦式安全已死",
-      "category": "科技",
-      "source": "Solidot",
-      "link": "https://www.solidot.org/story?sid=85370"
-    },
-    {
-      "title": "10年期美债收益率冲破5%！“预言家”警告：抛售还没结束",
-      "category": "財經",
-      "source": "華爾街見聞",
-      "link": "https://wallstreetcn.com/articles/3781729"
-    }
+  "languages": [
+    "zh",
+    "en"
   ],
-  "sections": [
-    {
-      "name": "財經",
-      "articles": [
-        {
-          "title": "对冲基金刚刚重建科技多头，纳斯达克关键支撑却已开始松动",
-          "lead": "纳斯达克100指数（NDX）正逼近持续数月的震荡区间下沿。此前指数虽维持高位整理，但科技股仓位快速回升、技术结构开始转弱，使市场对下行突破的敏感度明显上升。 盘前交易已经释放出进一步走弱的信号： NDX期货跌破此前的上升趋势线，并失守100",
-          "source": "華爾街見聞",
-          "link": "https://wallstreetcn.com/articles/3781730"
-        }
-      ]
+  "lunar": {
+    "zh": "农历八月初五 · 白露",
+    "en": "5th day of the 8th lunar month · White Dew"
+  },
+  "weather": {
+    "zh": {
+      "city": "杭州",
+      "temp": "21~30℃",
+      "desc": "阴",
+      "lat": 30.29365,
+      "lon": 120.16142
     },
-    {
-      "name": "科技",
-      "articles": [
-        {
-          "title": "集体踩刹车，微软加入OpenAI、Anthropic，表态放缓AI前沿开发",
-          "lead": "微软发布了一份针对旗下人工智能模型的临时行为准则，明确设定多项限制，成为继三巨头之后，最新一家公开表态放缓AI前沿开发步伐的科技巨头。 微软AI业务负责人Mustafa Suleiman表示，这份准则已酝酿约五个月，但公司选择在当前这一时间",
-          "source": "華爾街見聞",
-          "link": "https://wallstreetcn.com/articles/3781726"
-        }
-      ]
+    "en": {
+      "city": "Hangzhou",
+      "temp": "21~30℃",
+      "desc": "Overcast",
+      "lat": 30.29365,
+      "lon": 120.16142
     }
-  ]
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "“一种新的核武器”：微信蠕虫事件敲响中国AI安全警钟",
+        "lead": "微信蠕虫攻击事件凸显了人工智能黑客可能带来的破坏力，也让中国意识到其数字基础设施的脆弱性。这可能会让人工智能安全问题成为“习特会”的重要议题。 David Kirton/Reuters 在中国，政府机构、企业以及近80%的公民都使用微信来处理业务、进行支付和沟通。",
+        "body": [
+          "微信蠕虫攻击事件凸显了人工智能黑客可能带来的破坏力，也让中国意识到其数字基础设施的脆弱性。",
+          "这可能会让人工智能安全问题成为“习特会”的重要议题。",
+          "David Kirton/Reuters 在中国，政府机构、企业以及近80%的公民都使用微信来处理业务、进行支付和沟通。"
+        ],
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/technology/20260914/china-ai-attack-wechat/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "日本首相高市早苗将于17日改组内阁",
+        "lead": "中新网9月15日电 据日本时事通信社9月14日报道，日本自民党干事长铃木俊一表示，日本首相高市早苗将于16日进行自民党高层人事调整，并于17日改组内阁。",
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696492.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "特朗普连发多帖为对伊朗政策辩护：称伊朗“迫切”希望达成协议",
+              "lead": "中新网9月15日电 美国总统特朗普当地时间14日在社交媒体发布多条帖文为其对伊朗政策辩护。特朗普称，伊朗“迫切”希望达成协议。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696491.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "毛里塔尼亚外交部召见伊朗驻毛塔大使",
+              "lead": "当地时间9月14日，毛里塔尼亚外交部召见伊朗驻毛塔大使，就该大使“不符合外交规范与传统”的某些行动和活动提出正式抗议。毛塔外交部在一份声明中表示，毛方希望伊朗使团严格遵守外交规范和相关准则，尊重毛里塔尼亚主权，不得干涉其内政，毛方仍希望继续保持两国双边关系。目前，毛塔官方尚未对外披露引发此次外交交涉的具体事由。伊朗方面对此事暂无回应。（央视新闻）",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15094653.html",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "广州规划至2030年海洋生产总值突破7300亿元",
+              "lead": "中新社广州9月14日电 (记者 王华)广州市政府14日发布的《广州市海洋经济发展“十五五”规划》(以下简称“规划”)提出，到2030年广州海洋生产总值突破7300亿元(人民币，下同)。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/09-14/10696430.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "也门胡塞武装称拦截两批沙特战机编队",
+              "lead": "当地时间9月14日，也门胡塞武装发言人叶海亚·萨雷亚称，当天，胡塞武装防空部队在也门萨达省上空拦截两批沙特战机编队。叶海亚称，两批战机分别为“台风”战机和F-15战机，从沙特海米斯穆谢特和塔伊夫的空军基地起飞。叶海亚称，胡塞武装使用数枚自制防空导弹对上述战机实施拦截，并“迫使其撤退返航”。沙特方面对此暂无回应。（央视新闻）",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15094667.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 3
+            },
+            {
+              "title": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%",
+              "lead": "人工智能领军人物罕见联手呼吁放缓前沿模型开发，叠加中东局势恶化推动油价急涨。双重冲击令美股周一全线下跌，美债收益率盘中突破5%的心理关口，全球金融市场进入高度警戒状态。 （10年期美债收益率日内一度涨破5%） Anthropic首席执行官Dario Amodei发表逾3800字声明，呼吁放缓前沿AI模型开发速度，并获OpenAI CEO Sam Altman及SpaceX CEO马斯克背书，引发市场对AI投资前景的广泛担忧。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3781670",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "Valve Steam Frame上市：起售价1059美元 支持独立运行Steam游戏",
+              "lead": "Valve正式公布了旗下全新独立式VR头显Steam Frame的售价和上市安排。这款此前已经曝光多时的VR设备最终以1059美元起售，最高容量的1TB版本售价1299美元，并配备专用无线控制器。Steam Frame最大的特点并不是单纯作为VR游戏设备使用，而是试图把传统PC游戏、VR游戏以及无线PC串流整合到同一台轻量化头显中。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/game/1577960.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "苹果 iOS 27 RC 新增爱马仕 Hermès MagSafe 钱包专属吸附动画",
+              "lead": "IT之家 9 月 15 日消息，消息源 @itspdfu 于 9 月 13 日在 X 平台发布推文，爆料挖掘 iOS 27 RC 版代码后， 发现系统新增了 Hermès MagSafe 钱包专属的吸附动画，并新增了支持“Find My”功能的钱包样式。 IT之家附上演示效果如下： 根据该消息源分享的视频，Hermès MagSafe 钱包吸附到 iPhone 上后， 系统会触发一个专为 Hermès 设计的动画效果。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/002/350.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "中国地震局与苹果公司沟通推进地震预警信息接入 iOS",
+              "lead": "中国地震局监测司上周五表示，中国地震台网中心正在与苹果公司沟通，力争加快推进地震预警信息接入 iOS 系统。苹果手机用户目前可通过微信小程序获取该局统一发布的地震预警信息。今年 8 月 24 日，四川宜宾长宁发生 4.7 级地震，但成都高新减灾研究所用自己的系统生成了一个“7.7级”的地震预警，并以“中国地震预警网”的名义，通过荣耀、vivo、魅族手机以及小天才手表等终端向用户推送。中国地震局后来把这种行为定性为“擅自生成”“违规推送”。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85374",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "也门胡塞武装称袭击沙特一空军基地",
+              "lead": "当地时间9月14日，也门胡塞武装称袭击了位于沙特海米斯穆谢特的空军基地。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-14/10696232.shtml",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 3
+            },
+            {
+              "title": "人工智能踩「刹车」？特朗普：别忘了中美竞争",
+              "lead": "上星期六，达里奥·阿摩迪（Dario Amodei）呼吁放缓发展步伐,以「降低出现严重问题的风险」，奥特曼和马斯克均表示认同。这名Anthropic行政总裁同时强调，任何放缓都必须有所限度，以免让中国反超领先。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/clyrkq2ew44o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eda5/live/8deebc30-afe9-11f1-a031-e3c2ca39218a.jpg"
+            },
+            {
+              "title": "金砖峰会：各国营造团结景象，但难掩内部分歧",
+              "lead": "参加峰会的中、印、俄等国努力营造团结形象，但各国在伊朗战争等问题上存在分歧。该集团在联合声明中呼吁中东地区保持“最大限度的克制”，但没有指责任何特定国家。 Francis Mascarenhas/Reuters 新德里街头的金砖国家标识，摄于周五。印度首都为这次峰会基本处于全城布防状态。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20260914/brics-summit-china-india-russia-iran/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "科技乌托邦，可以给视障者「一双眼睛」吗？",
+              "lead": "无障碍建设，如何沦为脆弱的补丁；真正的需求，为何进不了技术想象的中心？",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20260915-mainland-can-technology-give-visually-impaired-people-new-ways-of-seeing/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/cover.png"
+            },
+            {
+              "title": "第十三届中国高等戏剧教育联盟交流活动在新疆举办",
+              "lead": "中新网乌鲁木齐9月14日电 (胡嘉琛)第十三届中国高等戏剧教育联盟交流活动暨第七届大学生戏剧展演活动14日在乌鲁木齐市开幕。活动为期3天，设专题学术论坛、大学生戏剧展演活动等。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/09-14/10696310.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "2026北京市青少年篮球俱乐部联赛总决赛圆满收官",
+              "lead": "中新网北京9月14日电 2026北京市青少年篮球俱乐部联赛总决赛近日在北京市弘赫体育中心、欧冠体育中心圆满落幕。本次总决赛汇聚京城青少年篮球精锐力量，上演巅峰对决。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-14/10696390.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "中国男篮大胜菲律宾队 以小组头名晋级亚运会八强",
+              "lead": "中新社日本名古屋9月14日电 当地时间14日，第二十届亚洲运动会男篮项目C组小组赛收官战在日本爱知县名古屋市举行。中国男篮以105:61大胜菲律宾队，收获小组赛三连胜，以小组头名晋级八强。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-14/10696289.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "别让职场学历歧视消解奋斗价值",
+              "lead": "“我感觉这些年的努力，好像一下子全白费了。”不久前，小缪耳边反复回响着HR的那句话：“你第一学历是专科，无法继续推进入职流程。”此时，他已经通过了这家头部互联网大厂的五轮线上面试，却止步于入职前的资料审核环节。(见9月13日《济南日报》)",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/09-15/10696493.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "红海局势再度升温，胡塞武装大规模袭击沙特空军基地",
+          "lead": "也门胡塞武装对沙特阿拉伯核心军事设施发动大规模导弹与无人机袭击，叠加沙特东西输油管道遭受重创，全球能源供应面临多重冲击，油价应声急涨。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3781724"
+        },
+        {
+          "title": "俄乌战场为何或会迎来新一批朝鲜军人",
+          "lead": "朝鲜（北韩）士兵于2024年底被平壤派遣，与俄罗斯部队并肩作战，试图击退乌克兰的一次攻势。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cr7dl0n178do/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "美股三大指数均小幅收跌，光通信、存储板块大跌",
+          "lead": "美股三大指数均小幅收跌，纳指跌0.56%，标普500指数跌0.48%，道指跌0.29%。费城半导体指数收跌5.86%，创7月1日以来最大跌幅。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15094561.html"
+        },
+        {
+          "title": "印度试图减少进口中国商品，却为何越买越多？",
+          "lead": "印度多年来一直试图减少对中国商品的依赖，但两国近年来的贸易总额大幅增加，贸易失衡也愈发严重。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/business/20260914/india-china-trade/?utm_source=RSS"
+        },
+        {
+          "title": "OpenRGB 1.0正式发布：开源RGB灯效控制工具迎来近三年来最大更新",
+          "lead": "开源RGB灯效控制软件OpenRGB近日正式发布1.0版本。这是该项目自2023年推出0.9版本以来首次进入新的主版本阶段",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/soft/1577970.htm"
+        },
+        {
+          "title": "V社透露仍在推进 Steam Deck 2 游戏掌机开发工作，内存涨价未打乱产品正常迭代规划",
+          "lead": "IT之家 9 月 15 日消息，V社员工 Pierre-Loup Griffais 在接受外媒 IGN 采访时",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/002/351.htm"
+        },
+        {
+          "title": "【华尔街日报】三大AI企业掌门人达成共识：模型开发需要降速",
+          "lead": "编按：《华尔街日报》是全球最具影响力的财经媒体之一，每日产出大量深度报导，涵盖国际政治、商业财经与科技趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260915-wsj-biggest-ai-rivals-agree-they-need-to-slow-it-down/"
+        },
+        {
+          "title": "微信蠕虫事件敲响 AI 安全警钟",
+          "lead": "微信在中国几乎已成为国家基础设施的一部分，融入了日常通信、政府服务和数字支付之中。正因如此加州一个小型研究团队最近的发现—",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85369"
+        },
+        {
+          "title": "美股三大指数均小幅收跌 光通信、存储板块大跌 网络安全概念股逆市走强",
+          "lead": "美东时间周一，美股三大指数均小幅收跌，截止收盘，纳指跌0.56%，标普500指数跌0.48%，道指跌0.29%。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1345,202609143873669283.html"
+        },
+        {
+          "title": "新豆包手机助手首发体验，智能手机正在变成「行动终端」",
+          "lead": "九月的手机圈成了全年最激烈的战场，今年 AI 手机悄悄站上了 C 位。有人把 Agent 做进操作系统",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1679983?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "WordPress 创始人 Matt Mullenweg 被强制停职",
+          "lead": "Automattic 董事会把创始人兼 CEO Matt Mullenweg 强制安排成带薪休假了",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/502470/automattics-board-forces-ceo-matt-into-leave-of-absence"
+        },
+        {
+          "title": "是兄弟还是同，是敌人还是友 (评论: 无界之环)",
+          "lead": "落木Lin 评论: 无界之环 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17816149/"
+        },
+        {
+          "title": "美联储连续第二个月暂停RMP购债，银行准备金仍处充裕区间",
+          "lead": "美联储再度按下储备管理购债（RMP）的暂停键，折射出当前银行准备金充裕、货币市场运行平稳的整体格局。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3781743"
+        },
+        {
+          "title": "美国大使馆虐童图片嫌犯 在接受警方讯问前 从英国飞抵美国",
+          "lead": "该人士在伦敦南部沃克斯豪尔的美国大使馆工作，虽然不是外交官，但享有外交保护。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cn8e1v7xz02o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "联合国伊朗问题独立调查团敦促美以遵守国际法",
+          "lead": "联合国伊朗问题独立国际事实调查团9月14日敦促美国和以色列遵守国际法，谴责美军近日对伊朗的空袭未采取必要措施而导致平民死亡",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15094664.html"
+        },
+        {
+          "title": "面临中国威胁和经济困境，冲绳选出保守派知事",
+          "lead": "获得自民党和其他保守政党支持的古谢玄太击败现任知事。这对首相高市早苗来说是一场胜利，她寻求推进冲绳进一步军事化。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/asia-pacific/20260914/japapn-okinawa-election-governor-conservative-china-economy/?utm_source=RSS"
+        }
+      ],
+      "supplement": {
+        "title": "「跨性别」之前，人们如何「跨越性别」：汉学家苏成捷谈清代中国的性别边界",
+        "lead": "作为一个20世纪90年代才被广泛应用的名词，「跨性别」这个概念的历史也许并不长，但它背后所隐藏的人类行为却和人类的其他行为一样，具有悠远而复杂的历史。而比起「跨性别」这样的当代名词，美国斯坦福大学历史系教授苏成捷（Matthew H. Sommer）在研究中国清代的性别史的时候，更愿意使用「跨越性别」这个动宾结构。",
+        "body": [
+          "作为一个20世纪90年代才被广泛应用的名词，「跨性别」这个概念的历史也许并不长，但它背后所隐藏的人类行为却和人类的其他行为一样，具有悠远而复杂的历史。而比起「跨性别」这样的当代名词，美国斯坦福大学历史系教授苏成捷（Matthew H. Sommer）在研究中国清代的性别史的时候，更愿意使用「跨越性别」这个动宾结构。《清代社会性别规范》是苏成捷的第三本学术著作，2025年，该书英文版获得了美国历史学会颁发的用于奖励优秀东亚研究著作的「费正清奖」。",
+          "与他的前两本著作《中华帝国晚期的性、法律与社会》《清代中国的一妻多夫制与卖妻》一样，他的关注点依然是探讨国家法律如何介入私人领域的性行为与家庭关系，以及这种介入背后的社会动机。只不过，在《清代社会性别规范》中，苏成捷将视线聚焦在了清代的跨性别者身上。苏成捷 Matthew H. Sommer《清代社会性别规范》。「跨性别」与「跨越性别」，虽然只是一字之差，但它们背后所代表的学术理路完全不同。",
+          "苏成捷关注的不是现代意义上的身份政治，而是清代人如何定义「性别」，以及哪些人在「跨越」当时所理解的「性别」。比如，在苏成捷笔下，僧、道、太监都和男扮女装的人一样，成为了「跨越性别」的人，这是因为在清代中国，家庭定义了性别，家庭是儒家伦理中父子、夫妇关系的核心，如果一个人无法组建家庭，那么他的社会性别就失去了意义，「所以走出家庭，就是走出性别。僧侣、道士以及太监，对他们所有人来说，『出家』意味着抛弃以婚姻和生育为核心定义的规范性性别角色。」苏成捷对端传媒表示。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20260915-china-in-quesiton-matthew-sommer-transgender-histories-from-late-imperial-china/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/GettyImages-524678940.jpg"
+      },
+      "stats": {
+        "visible": 35,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 23,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "紐約時報×2",
+          "界面×2",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
+        "lead": "Donald Trump dismisses attempts to increase controls on artificial intelligence as ‘sick conspiracy’ AI -linked stocks tumbled on Monday after the bosses of",
+        "body": [
+          "Donald Trump dismisses attempts to increase controls on artificial intelligence as ‘sick conspiracy’ AI -linked stocks tumbled on Monday after the bosses of Anthropic, OpenAI and SpaceX called for a slowdown in AI “reckless” development , citing fears the technology could soon run out of control.",
+          "Shares in the semiconductor designer Nvidia – the world’s most valuable company – were down 3.3% by market closing in New York City, while Advanced Micro Devices (AMD) slid 4% and Micron Technology and Sandisk shares slumped by 5%.",
+          "The tech-heavy Nasdaq index fund was down 0.5% by the end of the day. Continue reading..."
+        ],
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/9bbe355703cc6582b5706d62aed9afb01a1e0061/89_0_4604_3681/master/4604.jpg?width=140&quality=85&auto=format&fit=max&s=deac2ee8a316dfc74c54871026813f42",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "US tech stocks fall after big AI groups call for slowdown",
+        "lead": "Memory-chip makers and Nvidia slide on Wall Street as warnings combine with backdrop of rising oil prices and higher borrowing costs",
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0507c6a7-e813-450e-8ac3-6a2f383a9f36.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "She Bashed the Government on a Private Call. Then She Was Detained for Months",
+              "lead": "Racial and political tensions have flared in Trinidad and Tobago after members of an ethnic minority were accused of an assassination plot based on a private phone call.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/09/14/world/americas/trinidad-assassination-plot-arrests.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/09/15/multimedia/14int-trinidad-assassination-hckl/14int-trinidad-assassination-hckl-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Russian strike on passenger train will not deter Ukraine’s backers, Nato chief says",
+              "lead": "Mark Rutte says attack that narrowly missed Boris Johnson and David Petraeus shows Vladimir Putin’s desperation The head of Nato has said a Russian drone attack on a train close to Ukraine’s border with Poland would not",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/sep/14/ukraine-kallas-not-scared-russian-strike-train",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/24b03b484262613937c9c801abeecddccc05854c/0_936_1212_969/master/1212.jpg?width=140&quality=85&auto=format&fit=max&s=d9fb37059a450320c843cdde35633c2d",
+              "consensus": 5
+            },
+            {
+              "title": "Investors weigh the potential cost of AI 'slowdown'",
+              "lead": "The AI boom that has powered markets and unleashed a flood of investment is showing signs of strain. Calls to slow the development of powerful models fuel doubts over whether the sector's promised profits can justify",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/technology/20260914-investors-weigh-the-potential-cost-of-ai-slowdown",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://s.france24.com/media/display/f9349570-b046-11f1-9924-005056a97e36/w:1024/p:16x9/a07681df0e960d55ab00224149fb457f62dcf6aa.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Saudi Leader Meets U.S. Commander as Houthi Attacks Threaten Oil Markets",
+              "lead": "Crown Prince Mohammed bin Salman asked the United States for more U.S. military help last week after the Iranian-backed Houthi forces in Yemen launched a broad offensive.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-leader-meets-centcom.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14yemen-houtis-qbvk/14yemen-houtis-qbvk-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "France in ‘astonishing’ push to lift EU sanctions on Russian oligarch",
+              "lead": "Paris replicates Viktor Orbán’s tactics in bid to free French nationals from Azerbaijan",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/b01682ae-1d49-46bb-b23a-d6212574214d?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe4b21bbe-3db7-4682-9d1e-02ce884a2c69.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Which matters more to stocks: the bond market or AI risks? The volatility gauge might offer an answer",
+              "lead": "Volatility measured by the Cboe VIX Index jumped to 18 Monday.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/09/14/which-matters-more-to-stocks-the-bond-market-or-ai-risks-the-volatility-gauge-might-offer-an-answer.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+              "lead": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Online hate researcher keeps hammering X despite deportation threat",
+              "lead": "The US is not backing down from its fight to deport noncitizen technology researchers who monitor safety risks on the biggest online platforms.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/headshot3-1152x648-1789406043.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+              "lead": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 4
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Madueke a target for Euro loans - Tuesday's gossip",
+              "lead": "Atletico Madrid and Juventus track Noni Madueke, Liverpool are among the clubs looking at PSV's Paul Wanner, Lazio consider free agent Mauro Icardi, plus more.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c6kg0dvv4drko?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fea2/live/dc762e20-b079-11f1-bc1f-3f186ca4140c.png",
+              "consensus": 5
+            },
+            {
+              "title": "'This is what women in sport look like' - Hunt leads response to Sweeney advert",
+              "lead": "British sprinter Amy Hunt is among an array of female athletes criticising the controversial betting advert starring actress Sydney Sweeney.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b42/live/9dfbd460-b038-11f1-b1d1-571ed4d7ff2c.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Final Emmy Predictions in 116 Categories: HBO Max Poised to Dominate With ‘The Pitt’ as ‘Widow’s Bay’ and ‘Hacks’ Chase Opposite All-Time Records",
+              "lead": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/lists/2026-emmys-predictions/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/08/Final-Emmy-Predictions.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Henry Winkler Refused to Let ABC Change ‘Happy Days’ Title to ‘Fonzie’s Happy Days’ Because ‘It Would Be a Slap in the Face’ to Co-Stars",
+              "lead": "Henry Winkler opened up on the latest episode of “In Depth With Graham Bensinger” about refusing to let ABC executives change the name of “Happy Days” to “Fonzie’s Happy Days” due to the explosive popularity of his",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/news/henry-winkler-refused-happy-days-title-change-1236861512/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-25-at-2.33.17-PM.png",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists find a hidden cause of high blood pressure that routine tests can miss",
+              "lead": "A wearable device has revealed nighttime hormone surges that may expose a frequently missed cause of high blood pressure. The discovery could help explain why primary aldosteronism often escapes standard blood tests and",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260913081916.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            },
+            {
+              "title": "Scientists discover strange link between low vitamin D and pain",
+              "lead": "Low vitamin D levels may make recovery from breast cancer surgery more painful, according to a study of 184 women undergoing mastectomy.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260914042053.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Ministers seek law change to make £72m donations to Reform illegal",
+          "lead": "Plans to strengthen legislation already going through parliament",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/politics/2026/sep/14/amendment-to-bill-in-lords-could-test-legality-of-72m-reform-donations"
+        },
+        {
+          "title": "Bannon and Sanders unite over AI safety as Trump condemns warnings as a ‘hoax’",
+          "lead": "Rightwing activist and leftwing senator join forces to demand",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+          "lead": "The former UK PM said: \"I don't know what warped logic drove Putin to",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Election in Sweden Is Too Close to Call",
+          "lead": "With most of the votes counted by Monday, a center-left coalition",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/09/13/world/europe/sweden-election-sunday.html"
+        },
+        {
+          "title": "What the potential AI safety slowdown means for investors",
+          "lead": "Analysts see political motivation in the doomspeak",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/14/what-the-potential-ai-safety-slowdown-means-for-investors.html"
+        },
+        {
+          "title": "What execs and politicians are saying about slowing down AI development",
+          "lead": "Dario Amodei kicked off a flood of statements over the past few days",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei"
+        },
+        {
+          "title": "Prince Harry’s children moving to new school after just 2 days over security concerns",
+          "lead": "The children of Britain’s Prince Harry and his wife ⁠Meghan are to",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/europe/article/3367512/prince-harrys-children-moving-new-school-after-just-2-days-over-security-concerns?utm_source=rss_feed"
+        },
+        {
+          "title": "Austria denies entry to Iranian official after UN ruling",
+          "lead": "Iran accused Austria of reversing its approval of an Iranian",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/austria-denies-entry-to-iranian-official-after-un-ruling?traffic_source=rss"
+        },
+        {
+          "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+          "lead": "Thanks to the launch of iOS 27, Daydream's app now includes features",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/"
+        },
+        {
+          "title": "Zelensky says Ukraine ready to de-escalate if Russia halts strikes",
+          "lead": "Ukraine is ready to halt attacks on Russian energy infrastructure if",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/europe/20260914-zelensky-says-ukraine-ready-to-de-escalate-if-russia-halts-strikes"
+        },
+        {
+          "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+          "lead": "China leads the world in churning out humanoid robots and four-legged",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/"
+        },
+        {
+          "title": "Josh Giuliano’s TIFF Slasher ‘River’ Selling to Universal and Blumhouse Atomic Monster for North of $10 Million",
+          "lead": "In the first major deal of the Toronto Film Festival",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/news/josh-giuliano-river-universal-blumhouse-atomic-monster-1236861599/"
+        },
+        {
+          "title": "Cancer is rising in younger adults. Faster biological aging may help explain why",
+          "lead": "Cancer rates are rising in adults under 55",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260913082200.htm"
+        },
+        {
+          "title": "Trump claims Russia and Ukraine have agreed energy truce",
+          "lead": "Kyiv was caught off guard by the US president’s announcement after",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/d6f98d2e-9f0c-4414-a339-fe8462810276?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+          "lead": "With more than 90% of ballots processed early on Monday",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Josh Brown says investors are (re)learning how profitable these financial stocks are, including one on his list",
+          "lead": "Josh Brown and Sean Russo also catch up readers on one insurance",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/14/josh-brown-says-investors-are-relearning-how-profitable-these-financial-stocks-are.html"
+        }
+      ],
+      "supplement": {
+        "title": "Robert Kraft Defends Banning Macklemore From Ed Sheeran Tour After ‘Free Palestine’ Comments: ‘We Do Not Provide a Platform for Hate Speech’",
+        "lead": "New England Patriots owner Robert Kraft has issued a statement defending his decision to create what amounts to a ban on rapper Macklemore performing in support of Ed Sheeran at a number of stadiums following the",
+        "body": [
+          "New England Patriots owner Robert Kraft has issued a statement defending his decision to create what amounts to a ban on rapper Macklemore performing in support of Ed Sheeran at a number of stadiums following the rapper’s comments regarding Palestine, which took place at concerts in New Jersey on Sept.",
+          "4 and 5.",
+          "In his […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/music/news/robert-kraft-macklemore-ed-sheeran-tour-palestine-1236861621/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/09/FotoJet-4-2-e1789416659879.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 34,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 12,
+        "categories": 7,
+        "topGroups": [
+          "Variety×4",
+          "ScienceDaily×3",
+          "Guardian×2",
+          "FT×2",
+          "紐約時報×2",
+          "France24×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-09-14T23:25:43.917Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 797,
+        "lang": 454,
+        "fresh": 366,
+        "denoised": 364,
+        "deduped": 345
+      },
+      "en": {
+        "fetched": 797,
+        "lang": 343,
+        "fresh": 321,
+        "denoised": 318,
+        "deduped": 310
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 35,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 23,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "紐約時報×2",
+          "界面×2",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 34,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 12,
+        "categories": 7,
+        "topGroups": [
+          "Variety×4",
+          "ScienceDaily×3",
+          "Guardian×2",
+          "FT×2",
+          "紐約時報×2",
+          "France24×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
 }

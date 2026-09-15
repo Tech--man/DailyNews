@@ -1,9 +1,16 @@
 ---
-// 欄目條
-const SECTIONS = ['要聞', '財經', '科技', '文化', '體育', '國際'];
+// 欄目條：由當日期數據驅動——只列出實際有稿的欄目，並錨點跳轉。
+// v1 硬編碼六個欄目名，與實際版面（只有財經/科技）不一致，屬視覺誤導。
+interface Props {
+  sections: { key: string; label: string }[];
+  ariaLabel?: string;
+}
+const { sections, ariaLabel = 'Sections' } = Astro.props;
 ---
-<nav class="sections" aria-label="版面欄目">
+{ sections.length > 0 && (
+<nav class="sections" aria-label={ariaLabel}>
   <ul>
-    {SECTIONS.map(s => <li>{s}</li>)}
+    {sections.map(s => <li><a href={`#sec-${s.key}`}>{s.label}</a></li>)}
   </ul>
 </nav>
+) }

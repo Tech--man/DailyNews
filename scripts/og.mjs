@@ -38,16 +38,24 @@ export async function ensureFonts() {
   return fonts;
 }
 
-const C = { paper: '#F4EFE2', ink: '#1C1A17', soft: '#6B6558', red: '#9B2B26', rule: '#8C8578' };
+const C = { paper: '#F4EFE2', ink: '#1C1A17', soft: '#5D574B', red: '#9B2B26', rule: '#8C8578' }; // 與 newspaper.css 令牌同步
 
 function trunc(s, n) {
   if (!s) return '';
   return s.length <= n ? s : s.slice(0, n - 1) + '…';
 }
 
-/** satori 元素樹：1200×630 報紙風卡片 */
-function card(issue, date) {
-  const title = trunc(issue?.headline?.title, 40);
+const OG_TEXT = {
+  zh: { price: '零售价 贰角', kicker: '本 报 头 条', issueSuffix: '期', wordmark: '每日新報', latin: 'The Daily News' },
+  en: { price: 'Price 20 fen', kicker: 'TOP STORY', issueSuffix: '', wordmark: '每日新報', latin: 'The Daily News' },
+};
+
+/** satori 元素树：1200×630 报纸风卡片 */
+function card(issue, date, lang = 'zh') {
+  const ed = issue?.editions?.[lang] ?? {};
+  const T = OG_TEXT[lang] ?? OG_TEXT.zh;
+  const title = trunc(ed?.headline?.title, 40);
+  const sectionLine = (ed?.sections ?? []).map(s => s.label).join(' · ') || '要闻 · 财经 · 科技';
   return {
     type: 'div',
     props: {
@@ -65,15 +73,15 @@ function card(issue, date) {
             children: [
               { type: 'div', props: { style: { display: 'flex', flexDirection: 'column', fontSize: 22, color: C.soft, lineHeight: 1.7 }, children: [
                 { type: 'div', props: { style: { fontWeight: 900, color: C.ink }, children: cnIssue(issue.issue) } },
-                { type: 'div', props: { children: '零售價 貳角' } },
+                { type: 'div', props: { children: T.price } },
               ] } },
               { type: 'div', props: { style: { display: 'flex', flexDirection: 'column', alignItems: 'center' }, children: [
-                { type: 'div', props: { style: { fontSize: 20, color: C.red, fontStyle: 'italic' }, children: 'The Daily News' } },
-                { type: 'div', props: { style: { fontSize: 92, fontWeight: 900, letterSpacing: 14, lineHeight: 1.15 }, children: '每日新報' } },
+                { type: 'div', props: { style: { fontSize: 20, color: C.red, fontStyle: 'italic' }, children: T.latin } },
+                { type: 'div', props: { style: { fontSize: 92, fontWeight: 900, letterSpacing: 14, lineHeight: 1.15 }, children: T.wordmark } },
               ] } },
               { type: 'div', props: { style: { display: 'flex', flexDirection: 'column', alignItems: 'flex-end', fontSize: 22, lineHeight: 1.7 }, children: [
                 { type: 'div', props: { style: { fontWeight: 900 }, children: cnDate(date) } },
-                { type: 'div', props: { style: { color: C.soft }, children: issue.lunar || '\u00A0' } },
+                { type: 'div', props: { style: { color: C.soft }, children: issue.lunar?.[lang] || '\u00A0' } },
               ] } },
             ],
           },
@@ -89,10 +97,10 @@ function card(issue, date) {
           props: {
             style: { display: 'flex', flexDirection: 'column', alignItems: 'center', flex: 1, justifyContent: 'center', gap: 22 },
             children: [
-              { type: 'div', props: { style: { fontSize: 20, color: C.red, fontWeight: 900, letterSpacing: 10 }, children: '本 報 頭 條' } },
+              { type: 'div', props: { style: { fontSize: 20, color: C.red, fontWeight: 900, letterSpacing: 10 }, children: T.kicker } },
               { type: 'div', props: { style: { fontSize: 56, fontWeight: 900, textAlign: 'center', lineHeight: 1.45 }, children: title } },
-              issue?.headline?.lead
-                ? { type: 'div', props: { style: { fontSize: 24, color: C.soft, textAlign: 'center' }, children: trunc(issue.headline.lead, 48) } }
+              ed?.headline?.lead
+                ? { type: 'div', props: { style: { fontSize: 24, color: C.soft, textAlign: 'center' }, children: trunc(ed.headline.lead, 48) } }
                 : null,
             ].filter(Boolean),
           },
@@ -103,7 +111,7 @@ function card(issue, date) {
           props: {
             style: { display: 'flex', justifyContent: 'space-between', alignItems: 'center' },
             children: [
-              { type: 'div', props: { style: { fontSize: 22, color: C.soft, letterSpacing: 6 }, children: '要聞 · 財經 · 科技 · 文化 · 體育 · 國際' } },
+              { type: 'div', props: { style: { fontSize: 22, color: C.soft, letterSpacing: 6 }, children: sectionLine } },
               { type: 'div', props: { style: {
                 width: 104, height: 104, borderRadius: '50%',
                 borderWidth: 4, borderStyle: 'solid', borderColor: C.red,
@@ -112,7 +120,7 @@ function card(issue, date) {
               }, children: [
                 { type: 'div', props: { style: { fontSize: 24, fontWeight: 900, letterSpacing: 2 }, children: '每日' } },
                 { type: 'div', props: { style: { fontSize: 24, fontWeight: 900, letterSpacing: 2 }, children: '新報' } },
-                { type: 'div', props: { style: { fontSize: 11, marginTop: 2 }, children: String(issue.issue) + ' 期' } },
+                { type: 'div', props: { style: { fontSize: 11, marginTop: 2 }, children: String(issue.issue) + T.issueSuffix } },
               ] } },
             ],
           },
@@ -122,13 +130,13 @@ function card(issue, date) {
   };
 }
 
-/** 生成 public/og/<date>.png */
-export async function renderOg(issue, date, fonts) {
+/** 生成 public/og/<date>.png（lang='en' 時為 <date>-en.png） */
+export async function renderOg(issue, date, { lang = 'zh', fonts } = {}) {
   fonts = fonts ?? (await ensureFonts());
-  const svg = await satori(card(issue, date), { width: 1200, height: 630, fonts });
+  const svg = await satori(card(issue, date, lang), { width: 1200, height: 630, fonts });
   const png = await sharp(Buffer.from(svg)).png().toBuffer();
   mkdirSync(OG_DIR, { recursive: true });
-  const out = join(OG_DIR, `${date}.png`);
+  const out = join(OG_DIR, lang === 'zh' ? `${date}.png` : `${date}-${lang}.png`);
   writeFileSync(out, png);
   return out;
 }

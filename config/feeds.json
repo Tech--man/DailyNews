@@ -1,22 +1,95 @@
 {
-  "$comment": "RSS 源清单。weight 为来源权重（1–5），打分时与时效、关键词命中共同决定排序。全部为中文源：M2 阶段不做 LLM 翻译/改写，英文源标题无法直接上版。36氪/联合早报/界面/虎嗅的 RSS 已失效（2026-09-14 实测），改用下列在役源。",
+  "$comment": "RSS 源清单 v2（2026-09-15 重构）。字段：group=媒體集團（集团级配额去重用，防止一家媒體開多頻道绕过多样性约束）；tier=core|standard|optional（core 方可出头条/次条）；lang=zh|en；category 为语言中立的类目键（top/world/business/tech/culture/sport/society/science），渲染层按语言取显示名。全部源均于 2026-09-15 实测存活。",
+  "defaultLang": "zh",
+  "languages": ["zh", "en"],
   "feeds": [
-    { "name": "Solidot", "url": "https://www.solidot.org/index.rss", "weight": 3, "category": "科技" },
-    { "name": "少數派", "url": "https://sspai.com/feed", "weight": 2, "category": "科技" },
-    { "name": "IT之家", "url": "https://www.ithome.com/rss/", "weight": 2, "category": "科技" },
-    { "name": "愛范兒", "url": "https://www.ifanr.com/feed", "weight": 2, "category": "科技" },
-    { "name": "V2EX", "url": "https://www.v2ex.com/index.xml", "weight": 1, "category": "科技" },
-    { "name": "BBC中文", "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml", "weight": 3, "category": "國際" },
-    { "name": "華爾街見聞", "url": "https://dedicated.wallstreetcn.com/rss.xml", "weight": 3, "category": "財經" },
-    { "name": "鈦媒體", "url": "https://www.tmtpost.com/feed", "weight": 2, "category": "財經" }
+    { "name": "中國新聞網", "group": "中新社", "url": "https://www.chinanews.com.cn/rss/scroll-news.xml", "weight": 4, "tier": "core", "lang": "zh", "category": "top" },
+    { "name": "中新網財經", "group": "中新社", "url": "https://www.chinanews.com.cn/rss/finance.xml", "weight": 4, "tier": "core", "lang": "zh", "category": "business" },
+    { "name": "中新網國際", "group": "中新社", "url": "https://www.chinanews.com.cn/rss/world.xml", "weight": 4, "tier": "core", "lang": "zh", "category": "world" },
+    { "name": "中新網社會", "group": "中新社", "url": "https://www.chinanews.com.cn/rss/society.xml", "weight": 3, "tier": "standard", "lang": "zh", "category": "society" },
+    { "name": "中新網文化", "group": "中新社", "url": "https://www.chinanews.com.cn/rss/culture.xml", "weight": 3, "tier": "standard", "lang": "zh", "category": "culture" },
+    { "name": "中新網體育", "group": "中新社", "url": "https://www.chinanews.com.cn/rss/sports.xml", "weight": 3, "tier": "standard", "lang": "zh", "category": "sport" },
+
+    { "name": "華爾街見聞", "group": "華爾街見聞", "url": "https://dedicated.wallstreetcn.com/rss.xml", "weight": 3, "tier": "standard", "lang": "zh", "category": "business" },
+    { "name": "界面新聞", "group": "界面", "url": "https://a.jiemian.com/index.php?m=article&a=rss", "weight": 3, "tier": "standard", "lang": "zh", "category": "business" },
+    { "name": "東方財富", "group": "東方財富", "url": "https://rss.eastmoney.com/rss_partener.xml", "weight": 2, "tier": "optional", "lang": "zh", "category": "business" },
+
+    { "name": "cnBeta", "group": "cnBeta", "url": "https://www.cnbeta.com.tw/backend.php", "weight": 3, "tier": "standard", "lang": "zh", "category": "tech" },
+    { "name": "Solidot", "group": "Solidot", "url": "https://www.solidot.org/index.rss", "weight": 3, "tier": "standard", "lang": "zh", "category": "tech" },
+    { "name": "IT之家", "group": "IT之家", "url": "https://www.ithome.com/rss/", "weight": 2, "tier": "standard", "lang": "zh", "category": "tech" },
+    { "name": "愛范兒", "group": "愛范兒", "url": "https://www.ifanr.com/feed", "weight": 2, "tier": "standard", "lang": "zh", "category": "tech" },
+    { "name": "開源中國", "group": "開源中國", "url": "https://www.oschina.net/news/rss", "weight": 2, "tier": "optional", "lang": "zh", "category": "tech" },
+    { "name": "少數派", "group": "少數派", "url": "https://sspai.com/feed", "weight": 2, "tier": "optional", "lang": "zh", "category": "tech" },
+    { "name": "V2EX", "group": "V2EX", "url": "https://www.v2ex.com/index.xml", "weight": 1, "tier": "optional", "lang": "zh", "category": "tech" },
+
+    { "name": "BBC中文", "group": "BBC", "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml", "weight": 3, "tier": "core", "lang": "zh", "category": "world" },
+    { "name": "紐約時報中文", "group": "紐約時報", "url": "https://cn.nytimes.com/rss/", "weight": 4, "tier": "core", "lang": "zh", "category": "world" },
+
+    { "name": "端傳媒", "group": "端傳媒", "url": "https://theinitium.com/feed/", "weight": 3, "tier": "standard", "lang": "zh", "category": "culture" },
+    { "name": "豆瓣", "group": "豆瓣", "url": "https://www.douban.com/feed/review/movie", "weight": 1, "tier": "optional", "lang": "zh", "category": "culture" },
+
+    { "name": "BBC News", "group": "BBC", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "weight": 4, "tier": "core", "lang": "en", "category": "top" },
+    { "name": "BBC Business", "group": "BBC", "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "weight": 4, "tier": "core", "lang": "en", "category": "business" },
+    { "name": "BBC Sport", "group": "BBC", "url": "https://feeds.bbci.co.uk/sport/rss.xml", "weight": 3, "tier": "standard", "lang": "en", "category": "sport" },
+
+    { "name": "Guardian World", "group": "Guardian", "url": "https://www.theguardian.com/world/rss", "weight": 4, "tier": "core", "lang": "en", "category": "world" },
+    { "name": "NYT World", "group": "紐約時報", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "weight": 4, "tier": "core", "lang": "en", "category": "world" },
+    { "name": "Al Jazeera", "group": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "weight": 3, "tier": "standard", "lang": "en", "category": "world" },
+    { "name": "France24", "group": "France24", "url": "https://www.france24.com/en/rss", "weight": 3, "tier": "standard", "lang": "en", "category": "world" },
+    { "name": "Japan Times", "group": "Japan Times", "url": "https://www.japantimes.co.jp/feed/", "weight": 3, "tier": "standard", "lang": "en", "category": "world" },
+    { "name": "SCMP", "group": "SCMP", "url": "https://www.scmp.com/rss/91/feed", "weight": 3, "tier": "standard", "lang": "en", "category": "world" },
+
+    { "name": "Financial Times", "group": "FT", "url": "https://www.ft.com/rss/home", "weight": 4, "tier": "core", "lang": "en", "category": "business" },
+    { "name": "CNBC World", "group": "CNBC", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362", "weight": 3, "tier": "standard", "lang": "en", "category": "business" },
+
+    { "name": "The Verge", "group": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "weight": 3, "tier": "standard", "lang": "en", "category": "tech" },
+    { "name": "Ars Technica", "group": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index", "weight": 3, "tier": "standard", "lang": "en", "category": "tech" },
+    { "name": "TechCrunch", "group": "TechCrunch", "url": "https://techcrunch.com/feed/", "weight": 3, "tier": "standard", "lang": "en", "category": "tech" },
+
+    { "name": "Variety", "group": "Variety", "url": "https://variety.com/feed/", "weight": 2, "tier": "standard", "lang": "en", "category": "culture" },
+    { "name": "ScienceDaily", "group": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/all.xml", "weight": 3, "tier": "standard", "lang": "en", "category": "science" }
   ],
   "weather": {
-    "city": "杭州"
+    "city": "杭州",
+    "cityEn": "Hangzhou"
   },
   "limits": {
-    "perFeed": 8,
-    "briefs": 7,
+    "perFeed": 25,
+    "maxAgeHours": 36,
+    "minFeedsOk": 6,
     "fetchTimeoutMs": 15000,
-    "minFeedsOk": 3
+    "retries": 1,
+    "groupCapRatio": 0.2
+  },
+  "layout": {
+    "zh": {
+      "headline": { "minLead": 80, "minConsensus": 2, "tiers": ["core"], "categories": ["top", "world", "business", "tech"] },
+      "secondary": { "minLead": 40, "tiers": ["core", "standard"], "categories": ["top", "world", "business", "tech"] },
+      "sections": [
+        { "categories": ["top", "world"], "count": 2 },
+        { "key": "business", "count": 3 },
+        { "key": "tech", "count": 3 },
+        { "key": "world", "count": 3 },
+        { "key": "culture", "count": 2 },
+        { "key": "sport", "count": 2 },
+        { "key": "society", "count": 2 }
+      ],
+      "briefs": { "min": 8, "max": 16, "perCategoryMax": 5 },
+      "supplement": { "categories": ["culture", "science"], "minLead": 200, "fallback": "longest" }
+    },
+    "en": {
+      "headline": { "minLead": 80, "minConsensus": 2, "tiers": ["core"], "categories": ["top", "world", "business", "tech"] },
+      "secondary": { "minLead": 40, "tiers": ["core", "standard"], "categories": ["top", "world", "business", "tech"] },
+      "sections": [
+        { "key": "world", "count": 3 },
+        { "key": "business", "count": 3 },
+        { "key": "tech", "count": 3 },
+        { "key": "sport", "count": 2 },
+        { "key": "culture", "count": 2 },
+        { "key": "science", "count": 2 }
+      ],
+      "briefs": { "min": 8, "max": 16, "perCategoryMax": 5 },
+      "supplement": { "categories": ["culture", "science"], "minLead": 200, "fallback": "longest" }
+    }
   }
 }

@@ -1,0 +1,19 @@
+---
+// Back issues (English edition)
+import Page from '../../layouts/Page.astro';
+import Archive from '../../components/Archive.astro';
+import { listIssueDates, loadIssue } from '../../lib/issues.mjs';
+import { t } from '../../lib/i18n.mjs';
+import BASE from '../../lib/base.mjs';
+
+const dates = listIssueDates();
+const rows = dates.map(d => {
+  const it = loadIssue(d);
+  return { date: d, issueNo: it.issue, headline: it.editions?.en?.headline?.title ?? '' };
+});
+const T = t('en');
+const altHref = `${BASE}archive/`;
+---
+<Page title={`${T.pageTitle} · ${T.archiveTitle}`} lang="en" altHref={altHref}>
+  <Archive rows={rows} lang="en" t={T} latestDate={dates[0]} altHref={altHref} />
+</Page>

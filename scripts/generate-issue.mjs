@@ -1,16 +1,18 @@
-// M2 數據管道編排：抓取 RSS → 清洗 → 去重 → 分類打分 → 選稿 → 寫 issues/<date>.json
-// 用法：node scripts/generate-issue.mjs [YYYY-MM-DD]（缺省今天，本地時區）
+// 出刊編排 v2：抓取 RSS → 規範化 → 時效 → 去噪 → 分類 → 多源共識 → 打分 → 配額選稿 → 雙語言版
+// 用法：node scripts/generate-issue.mjs [YYYY-MM-DD] [--dry-run] [--lang zh|en]
 // 只存標題+摘要+原文鏈接，不存全文（版權約束）。
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { pathToFileURL, fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
-import { XMLParser } from 'fast-xml-parser';
 import {
-  stripHtml, truncate, normalizeTitle, dedupeByTitle,
-  classify, withScores, selectLayout, lunarLine, wmoDesc,
+  smartTruncate, dedupeByTitle, classifyV2, withScores, filterFresh,
+  computeConsensus, isNoise, selectEdition, buildBody, lunarLine, wmoDesc, categoryLabel, localizeText,
 } from './lib.mjs';
+import { collectFeeds, assertPublicHttpUrl } from './feed.mjs';
 import { renderOg } from './og.mjs';
-import { maybeRewrite } from './rewrite.mjs';
+import { maybeRewrite, maybeTranslate } from './rewrite.mjs';
+
+export { assertPublicHttpUrl };
 
 const ROOT = dirname(dirname(fileURLToPath(import.meta.url)));
 const CONFIG = JSON.parse(readFileSync(join(ROOT, 'config/feeds.json'), 'utf8'));
@@ -23,244 +25,278 @@ function localDateStr(d = new Date()) {
 
 // 創刊日 2025-07-14：2026-09-14 恰為第 428 期，與 M1 版面一致
 const ISSUE_EPOCH = Date.UTC(2025, 6, 14);
-function issueNo(dateStr) {
+export function issueNo(dateStr) {
   const [y, m, d] = dateStr.split('-').map(Number);
-  const days = (Date.UTC(y, m - 1, d) - ISSUE_EPOCH) / 864e5;
-  return days + 1;
-}
-
-/* ---------- SSRF 防護：僅允許公網 http(s) ---------- */
-
-function isPrivateIPv4(h) {
-  const m = h.match(/^(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})$/);
-  if (!m) return false;
-  const [a, b] = m.slice(1).map(Number);
-  if ([a, b].some(n => n > 255)) return true;
-  return a === 0 || a === 10 || a === 127 || (a === 100 && b >= 64 && b <= 127)
-    || (a === 169 && b === 254) || (a === 172 && b >= 16 && b <= 31) || (a === 192 && b === 168);
-}
-
-function isPrivateIPv6(h) {
-  const s = h.toLowerCase();
-  return s === '::1' || s === '::' || s.startsWith('fc') || s.startsWith('fd') || s.startsWith('fe8')
-    || s.startsWith('::ffff:'); // v4 映射地址統一拒絕，避免繞過
-}
-
-export function assertPublicHttpUrl(raw) {
-  const url = new URL(raw);
-  if (!/^https?:$/.test(url.protocol)) throw new Error(`非 http(s)：${raw}`);
-  const h = url.hostname.replace(/^\[|\]$/g, '');
-  if (h === 'localhost' || h.endsWith('.localhost') || h.endsWith('.local') || h.endsWith('.internal')
-    || h.endsWith('.home.arpa')) throw new Error(`本機/內網主機名：${raw}`);
-  if (isPrivateIPv4(h) || isPrivateIPv6(h)) throw new Error(`私有/保留地址：${raw}`);
-  return url;
-}
-
-/* ---------- 抓取與解析 ---------- */
-
-async function fetchText(url, timeoutMs) {
-  assertPublicHttpUrl(url);
-  const res = await fetch(url, {
-    signal: AbortSignal.timeout(timeoutMs),
-    headers: { 'user-agent': 'DailyNewsBot/0.1 (+static newspaper experiment)' },
-    redirect: 'follow',
-  });
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  return res.text();
-}
-
-const XML = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: '@_' });
-
-function asArray(x) {
-  if (x == null) return [];
-  return Array.isArray(x) ? x : [x];
-}
-
-function pickText(node, keys) {
-  for (const k of keys) {
-    const v = node?.[k];
-    if (typeof v === 'string' && v.trim()) return v;
-    if (v && typeof v === 'object' && typeof v['#text'] === 'string') return v['#text'];
-  }
-  return '';
-}
-
-/** RSS 2.0 / Atom 統一映射為 {title, link, summary, date} */
-export function parseFeed(xml) {
-  const doc = XML.parse(xml);
-  const items = asArray(doc?.rss?.channel?.item);
-  if (items.length) {
-    return items.map(it => ({
-      title: stripHtml(pickText(it, ['title'])),
-      link: (typeof it.link === 'string' ? it.link : pickText(it, ['link'])).trim(),
-      summary: pickText(it, ['content:encoded', 'description', 'summary']),
-      date: parseDate(pickText(it, ['pubDate', 'dc:date'])),
-    }));
-  }
-  const entries = asArray(doc?.feed?.entry);
-  return entries.map(en => {
-    const links = asArray(en.link);
-    const main = links.find(l => l['@_rel'] !== 'self' && l['@_href']) ?? links[0];
-    return {
-      title: stripHtml(pickText(en, ['title'])),
-      link: main?.['@_href'] ?? '',
-      summary: pickText(en, ['content', 'summary']),
-      date: parseDate(pickText(en, ['published', 'updated'])),
-    };
-  });
-}
-
-function parseDate(s) {
-  if (!s) return null;
-  const t = Date.parse(s);
-  return Number.isNaN(t) ? null : t;
+  return (Date.UTC(y, m - 1, d) - ISSUE_EPOCH) / 864e5 + 1;
 }
 
 /* ---------- 天氣（open-meteo，免 key） ---------- */
 
-async function fetchWeather(city, timeoutMs) {
+async function fetchWeather(cfg, timeoutMs, lang) {
+  const city = lang === 'en' ? (cfg.cityEn ?? cfg.city) : cfg.city;
   const geoUrl = `https://geocoding-api.open-meteo.com/v1/search?name=${encodeURIComponent(city)}&count=1&language=zh&format=json`;
-  const geo = JSON.parse(await fetchText(geoUrl, timeoutMs));
+  const geo = JSON.parse(await (await fetch(geoUrl, { signal: AbortSignal.timeout(timeoutMs) })).text());
   const hit = geo?.results?.[0];
   if (!hit) throw new Error(`地理編碼無結果：${city}`);
 
   const fcUrl = `https://api.open-meteo.com/v1/forecast?latitude=${hit.latitude}&longitude=${hit.longitude}`
     + `&daily=temperature_2m_max,temperature_2m_min,weather_code&timezone=Asia%2FShanghai&forecast_days=1`;
-  const fc = JSON.parse(await fetchText(fcUrl, timeoutMs));
+  const fc = JSON.parse(await (await fetch(fcUrl, { signal: AbortSignal.timeout(timeoutMs) })).text());
   const d = fc?.daily;
   if (!d?.temperature_2m_max?.length || !d?.temperature_2m_min?.length) throw new Error('預報數據為空');
 
-  const tmin = Math.round(d.temperature_2m_min[0]);
-  const tmax = Math.round(d.temperature_2m_max[0]);
   return {
     city,
-    temp: `${tmin}~${tmax}℃`,
-    desc: wmoDesc(d.weather_code?.[0]),
+    temp: `${Math.round(d.temperature_2m_min[0])}~${Math.round(d.temperature_2m_max[0])}℃`,
+    desc: wmoDesc(d.weather_code?.[0], lang),
     lat: hit.latitude,
     lon: hit.longitude,
   };
 }
 
+/* ---------- 單語言版選稿 ---------- */
+
+/**
+ * 某語言版的完整選稿鏈：時效 → 去噪 → 分類 → 共識 → 打分 → 去重 → 配額選稿。
+ * 共識必須在去重之前算——去重會合併同題條目，之後就算不出「幾家獨立報導」。
+ */
+export function buildEdition(pool, lang, layout, { now, maxAgeHours, groupCapRatio }) {
+  const funnel = { fetched: pool.length };
+  let items = pool.filter(it => (it.lang ?? 'zh') === lang);
+  funnel.lang = items.length;
+
+  items = filterFresh(items, now, { maxAgeHours });
+  funnel.fresh = items.length;
+
+  items = items.filter(it => !isNoise(it));
+  funnel.denoised = items.length;
+
+  items = items.map(it => ({ ...it, category: classifyV2(it.title, it.sourceCategory, lang) }));
+
+  const consensus = computeConsensus(items);
+  items = items.map((it, i) => ({ ...it, consensus: consensus[i] }));
+
+  items = withScores(items, now, { maxAgeHours });
+  items = dedupeByTitle(items);
+  funnel.deduped = items.length;
+
+  const picked = selectEdition(items, layout, { groupCapRatio });
+
+  const compose = (it, leadChars, withBody = false) => it && {
+    title: localizeText(it.title, lang),
+    lead: localizeText(smartTruncate(it.summary, leadChars, { lang }), lang),
+    ...(withBody ? { body: buildBody(it.summary, { lang, maxChars: 900 }).map(p => localizeText(p, lang)) } : {}),
+    source: it.source,
+    group: it.group,
+    link: it.link,
+    category: it.category,
+    categoryLabel: categoryLabel(it.category, lang),
+    ...(it.image ? { image: it.image } : {}),
+    ...(it.consensus > 1 ? { consensus: it.consensus } : {}),
+  };
+
+  const edition = {
+    lang,
+    headline: compose(picked.headline, 160, true),
+    secondary: compose(picked.secondary, 160),
+    sections: picked.sections.map(s => ({
+      key: s.key,
+      label: categoryLabel(s.key, lang),
+      articles: s.articles.map(a => compose(a, 220)),
+    })),
+    briefs: picked.briefs.map(b => ({
+      title: localizeText(b.title, lang),
+      lead: localizeText(smartTruncate(b.summary, 70, { lang }), lang),
+      category: b.category,
+      categoryLabel: categoryLabel(b.category, lang),
+      source: b.source,
+      link: b.link,
+    })),
+    supplement: compose(picked.supplement, 220, true),
+  };
+
+  const visible = [
+    edition.headline, edition.secondary,
+    ...edition.sections.flatMap(s => s.articles),
+    ...edition.briefs, edition.supplement,
+  ].filter(Boolean);
+
+  const groups = {};
+  for (const it of visible) {
+    const g = it.group ?? it.source;
+    groups[g] = (groups[g] ?? 0) + 1;
+  }
+  const cats = {};
+  for (const it of visible) cats[it.category] = (cats[it.category] ?? 0) + 1;
+  const maxGroup = Math.max(0, ...Object.values(groups));
+
+  edition.stats = {
+    visible: visible.length,
+    sections: edition.sections.length,
+    briefs: edition.briefs.length,
+    groups: Object.keys(groups).length,
+    maxGroupShare: visible.length ? Math.round(maxGroup / visible.length * 100) : 0,
+    categories: Object.keys(cats).length,
+    topGroups: Object.entries(groups).sort((a, b) => b[1] - a[1]).slice(0, 6).map(([k, v]) => `${k}×${v}`),
+    headlineTier: picked.headlineTier,
+    headlineConsensus: picked.headlineConsensus,
+    groupCap: picked.groupCap,
+  };
+  return { edition, funnel, pool: items };
+}
+
 /* ---------- 主流程 ---------- */
 
 async function main() {
-  const dateStr = process.argv[2] ?? localDateStr();
+  const args = process.argv.slice(2);
+  const dryRun = args.includes('--dry-run');
+  const langIdx = args.indexOf('--lang');
+  const langArg = langIdx >= 0 ? args[langIdx + 1] : null;
+  const dateStr = args.find(a => /^\d{4}-\d{2}-\d{2}$/.test(a)) ?? localDateStr();
   if (!/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) {
     console.error(`日期參數不合法：${dateStr}`);
     process.exit(2);
   }
-  const { perFeed, briefs, fetchTimeoutMs, minFeedsOk } = CONFIG.limits;
+
+  const limits = CONFIG.limits;
+  const languages = langArg ? [langArg] : (CONFIG.languages ?? ['zh']);
   const now = Date.now();
+  const zhSrc = CONFIG.feeds.filter(f => f.lang === 'zh').length;
+  const enSrc = CONFIG.feeds.filter(f => f.lang === 'en').length;
 
-  const settled = await Promise.allSettled(
-    CONFIG.feeds.map(async f => ({ feed: f, xml: await fetchText(f.url, fetchTimeoutMs) })),
-  );
+  console.log(`\n每日新報 · 第 ${issueNo(dateStr)} 期 · ${dateStr}${dryRun ? '  ［DRY RUN］' : ''}`);
+  console.log(`源池 ${CONFIG.feeds.length} 源 / ${new Set(CONFIG.feeds.map(f => f.group)).size} 集團（zh ${zhSrc} 源 / en ${enSrc} 源）`);
 
-  let pool = [];
-  const failed = [];
-  settled.forEach((r, i) => {
-    const f = CONFIG.feeds[i];
-    if (r.status !== 'fulfilled') {
-      failed.push(`${f.name}: ${r.reason?.message ?? r.reason}`);
-      return;
-    }
-    try {
-      const entries = parseFeed(r.value.xml)
-        .filter(it => it.title && it.link)
-        .sort((a, b) => (b.date ?? 0) - (a.date ?? 0))
-        .slice(0, perFeed)
-        .map((it, idx) => ({
-          id: `${f.name}#${idx}`,
-          title: it.title,
-          link: it.link,
-          summary: it.summary,
-          date: it.date,
-          source: f.name,
-          weight: f.weight,
-          category: f.category,
-        }));
-      pool.push(...entries);
-      console.log(`✓ ${f.name.padEnd(6)} ${entries.length} 條`);
-    } catch (e) {
-      failed.push(`${f.name}: 解析失敗 ${e.message}`);
-    }
-  });
-
-  if (settled.length - failed.length < minFeedsOk) {
-    console.error(`可用源不足（${settled.length - failed.length}/${settled.length}，要求 ≥${minFeedsOk}）：\n  ${failed.join('\n  ')}`);
+  const { pool, failed, okCount, total } = await collectFeeds(CONFIG.feeds, limits, { now });
+  console.log(`抓取：✓ ${okCount}/${total} 源，素材 ${pool.length} 條`);
+  if (failed.length) console.log(`  ✗ ${failed.map(f => `${f.name}(${f.reason})`).join('  ')}`);
+  if (okCount < (limits.minFeedsOk ?? 3)) {
+    console.error(`可用源不足（${okCount}/${total}，要求 ≥${limits.minFeedsOk}）`);
     process.exit(1);
   }
 
-  // 打分 → 去重（同組保留高分）→ 分類
-  pool = dedupeByTitle(withScores(pool, now));
-  for (const it of pool) it.category = classify(it.title, it.category);
-  pool.sort((a, b) => b.score - a.score);
-  console.log(`合計 ${pool.length} 條（去重後）${failed.length ? `；失敗源：${failed.join('；')}` : ''}`);
+  const editions = {};
+  const funnels = {};
+  for (const lang of languages) {
+    const layout = CONFIG.layout?.[lang] ?? CONFIG.layout?.zh;
+    const { edition, funnel } = buildEdition(pool, lang, layout, {
+      now,
+      maxAgeHours: limits.maxAgeHours ?? 36,
+      groupCapRatio: limits.groupCapRatio ?? 0.2,
+    });
+    editions[lang] = edition;
+    funnels[lang] = funnel;
 
-  const pick = selectLayout(pool, { briefs });
+    const s = edition.stats;
+    console.log(`\n［${lang} 版］語種素材 ${funnel.lang} → 新鮮 ${funnel.fresh} → 去噪 ${funnel.denoised}`
+      + ` → 去重 ${funnel.deduped} → 上版 ${s.visible} 條`);
+    console.log(`  欄目 ${s.sections} 個 · 簡訊 ${s.briefs} 條 · 來源集團 ${s.groups} 個`
+      + ` · 單集團最大 ${s.maxGroupShare}%（上限 ${s.groupCap} 條）· 覆蓋類目 ${s.categories} 個`);
+    console.log(`  頭條：「${(edition.headline?.title ?? '').slice(0, 30)}」`);
+    console.log(`        選稿檔位 ${s.headlineTier} · 多源共識 ${s.headlineConsensus} 家獨立集團報導`);
+    console.log(`  主要集團：${s.topGroups.join('  ')}`);
+  }
 
-  // LLM 標題改寫（可選）：未設 LLM_API_KEY 自動跳過；失敗保留原標題
-  const targets = [pick.headline, pick.secondary, pick.sections['財經'], pick.sections['科技']].filter(Boolean);
-  try {
-    const rewrites = await maybeRewrite(targets.map(t => t.title));
-    if (!rewrites) {
-      console.log('LLM 未啟用（未設 LLM_API_KEY），保留原標題');
-    } else {
-      targets.forEach((a, i) => {
+  // LLM 標題改寫（可選）：中文版 8–12 字報紙體；未設 key 全跳過
+  const zh = editions.zh;
+  if (zh) {
+    const targets = [zh.headline, zh.secondary, ...zh.sections.flatMap(s => s.articles)].filter(Boolean);
+    try {
+      const rewrites = await maybeRewrite(targets.map(t => t.title));
+      if (!rewrites) console.log('\nLLM 未啟用（未設 LLM_API_KEY），保留原標題');
+      else targets.forEach((a, i) => {
         if (rewrites[i] && rewrites[i] !== a.title) {
-          console.log(`✎ 標題改寫：「${a.title}」→「${rewrites[i]}」`);
+          console.log(`  ✎ 「${a.title.slice(0, 24)}」→「${rewrites[i]}」`);
           a.title = rewrites[i];
         }
       });
+    } catch (e) {
+      console.warn(`  ⚠ 標題改寫失敗（保留原標題）：${e.message?.slice(0, 150)}`);
     }
-  } catch (e) {
-    console.warn(`⚠ 標題改寫失敗（保留原標題）：${e.message?.slice(0, 150)}`);
+  }
+
+  // 跨語言精選（可選）：把 A 語言版頭部稿件譯入 B 語言版，補足單語素材不足
+  if (languages.length > 1) {
+    for (const lang of languages) {
+      const other = languages.find(l => l !== lang);
+      const src = editions[other];
+      if (!src) continue;
+      const cands = [src.headline, src.secondary, ...src.sections.flatMap(s => s.articles).slice(0, 3)]
+        .filter(Boolean).slice(0, 4)
+        .map(a => ({ title: a.title, lead: a.lead, source: a.source, link: a.link, category: a.category }));
+      if (!cands.length) continue;
+      try {
+        const out = await maybeTranslate(cands, lang);
+        if (out) {
+          editions[lang].translated = out
+            .map((t, i) => (t ? {
+              title: t.title, lead: t.lead,
+              source: cands[i].source, link: cands[i].link,
+              category: cands[i].category, categoryLabel: categoryLabel(cands[i].category, lang),
+              translatedFrom: other,
+            } : null))
+            .filter(Boolean);
+          console.log(`  ⇄ 跨語言精選 ${other} → ${lang}：${editions[lang].translated.length} 條`);
+        }
+      } catch (e) {
+        console.warn(`  ⚠ 跨語言翻譯失敗（跳過）：${e.message?.slice(0, 120)}`);
+      }
+    }
   }
 
   // 天氣：免 key 源，失敗降級為 null（渲染層隱藏天氣方塊）
   let weather = null;
   try {
-    weather = await fetchWeather(CONFIG.weather?.city ?? '杭州', fetchTimeoutMs);
-    console.log(`✓ 天氣 ${weather.city} ${weather.desc} ${weather.temp}`);
+    const byLang = {};
+    for (const lang of languages) byLang[lang] = await fetchWeather(CONFIG.weather ?? {}, limits.fetchTimeoutMs, lang);
+    weather = byLang;
+    console.log(`\n✓ 天氣 ${weather[languages[0]].city} ${weather[languages[0]].desc} ${weather[languages[0]].temp}`);
   } catch (e) {
     console.warn(`⚠ 天氣獲取失敗（忽略）：${e.message}`);
   }
 
-  const article = it => it && ({
-    title: it.title,
-    lead: truncate(it.summary, 80),
-    source: it.source,
-    link: it.link,
-  });
-
   const issue = {
     issue: issueNo(dateStr),
     date: dateStr,
-    lunar: lunarLine(dateStr),   // 農曆＋當前節氣期，本地計算
+    languages,
+    lunar: Object.fromEntries(languages.map(l => [l, lunarLine(dateStr, l)])),
     weather,
-    headline: article(pick.headline),
-    secondary: article(pick.secondary),
-    briefs: pick.briefs.map(it => ({ title: it.title, category: it.category, source: it.source, link: it.link })),
-    sections: Object.entries(pick.sections)
-      .filter(([, it]) => it)
-      .map(([name, it]) => ({ name, articles: [{ ...article(it), lead: truncate(it.summary, 120) }] })),
+    editions,
+    meta: {
+      generatedAt: new Date(now).toISOString(),
+      sources: {
+        configured: total,
+        ok: okCount,
+        zhSources: zhSrc,
+        enSources: enSrc,
+        failed: failed.map(f => ({ name: f.name, reason: f.reason })),
+      },
+      funnels,
+      layout: Object.fromEntries(languages.map(l => [l, editions[l]?.stats])),
+    },
   };
+
+  if (dryRun) {
+    console.log('\n［DRY RUN］不寫文件。');
+    return;
+  }
 
   const outDir = join(ROOT, 'issues');
   mkdirSync(outDir, { recursive: true });
   const outPath = join(outDir, `${dateStr}.json`);
   writeFileSync(outPath, JSON.stringify(issue, null, 2) + '\n');
+  writeFileSync(join(outDir, `${dateStr}.meta.json`), JSON.stringify(issue.meta, null, 2) + '\n');
 
-  // OG 分享圖：失敗降級為警告（站點仍可構建，僅 og:image 缺失）
-  try {
-    const ogPath = await renderOg(issue, dateStr);
-    console.log(`✓ ${ogPath}`);
-  } catch (e) {
-    console.warn(`⚠ OG 圖生成失敗（忽略）：${e.message?.slice(0, 200)}`);
+  // OG 分享圖：每語言一張，失敗降級為警告（站點仍可構建，僅 og:image 缺失）
+  for (const lang of languages) {
+    try {
+      console.log(`✓ ${await renderOg(issue, dateStr, { lang })}`);
+    } catch (e) {
+      console.warn(`⚠ OG 圖（${lang}）生成失敗（忽略）：${e.message?.slice(0, 200)}`);
+    }
   }
 
-  console.log(`選稿：頭條「${issue.headline?.title ?? '—'}」/ 次條 ${issue.secondary ? 1 : 0} / 簡訊 ${issue.briefs.length} / 半版 ${issue.sections.length}`);
-  console.log(`已寫出 ${outPath}`);
+  console.log(`\n已寫出 ${outPath}`);
 }
 
 if (import.meta.url === pathToFileURL(process.argv[1] ?? '').href) main();

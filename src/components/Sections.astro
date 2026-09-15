@@ -1,0 +1,48 @@
+---
+// 各版（配額選稿產出，每版多篇）· v4：三檔鉗制 + 版式語言補全。
+// 版式規則（含 count-4/5，見 newspaper.css §11）：
+//   1 篇通欄；2 篇並肩；3 篇首篇通欄、後兩篇並肩；
+//   4 篇首篇通欄 + 中兩篇並肩 + 末篇通欄（層級保留、無孤篇）；
+//   5 篇首篇通欄 + 2×2 半欄（首篇層級保留）。
+// 構建時按「通欄/半欄」各測三檔行數注入；行底對齊由 CSS 等高網格完成。
+import { fitClamp3 } from '../lib/fit.mjs';
+interface Props {
+  sections: { key: string; label: string; articles: { title: string; lead?: string; source?: string; link?: string }[] }[];
+  t: any;
+  lang?: 'zh' | 'en';
+}
+const { sections, t, lang = 'zh' } = Astro.props;
+const fitLead = (lead: string | undefined, full: boolean) =>
+  lead && fitClamp3(lead, full ? 'section-full' : 'section-half', { size: 14, lang });
+const vars = (f) => `--l-full:${f.full.lines};--l-mid:${f.mid.lines};--l-narrow:${f.narrow.lines};--fade-full:${f.full.faded ? 1 : 0};--fade-mid:${f.mid.faded ? 1 : 0};--fade-narrow:${f.narrow.faded ? 1 : 0}`;
+const isFull = (count: number, i: number) => count === 1 || (count >= 3 && i === 0) || (count === 4 && i === 3);
+---
+{ sections.length > 0 && (
+<section class="sections-grid">
+  {sections.map(sec => (
+    <div class="section-block" id={`sec-${sec.key}`}>
+      <p class="section-label">{sec.label}</p>
+      <div class:list={['section-articles', `count-${sec.articles.length}`]}>
+        {sec.articles.map((a, i) => {
+          const full = isFull(sec.articles.length, i);
+          const body = fitLead(a.lead, full);
+          return (
+            <article class:list={['section-article', { 'is-lead': i === 0 && sec.articles.length > 2 }]}>
+              <h3 class="section-title">{a.title}</h3>
+              { a.lead && body && (
+                <p class="section-body" style={vars(body)}>{a.lead}</p>
+              ) }
+              { a.source && (
+                <p class="source-line">
+                  {t.sourcePrefix}{a.source}
+                  {a.link && <a href={a.link} target="_blank" rel="noopener noreferrer"> · {t.original}</a>}
+                </p>
+              )}
+            </article>
+          );
+        })}
+      </div>
+    </div>
+  ))}
+</section>
+) }

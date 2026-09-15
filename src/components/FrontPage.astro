@@ -1,0 +1,58 @@
+---
+// 整張報紙的裝配：報頭 → 欄目條 → 頭版 → 各版 → 副刊 → 域外譯訊 → 版尾。
+// 中英兩版共用此組件，差異全部由 issue.editions[lang] 與 t（文案詞典）驅動。
+// 渲染前對全部見報文字做 tidy 清洗（標點空格等數據缺陷）。
+import Masthead from './Masthead.astro';
+import SectionBar from './SectionBar.astro';
+import Headline from './Headline.astro';
+import Secondary from './Secondary.astro';
+import Briefs from './Briefs.astro';
+import BodyColumns from './BodyColumns.astro';
+import Sections from './Sections.astro';
+import Supplement from './Supplement.astro';
+import Translated from './Translated.astro';
+import Colophon from './Colophon.astro';
+import { tidy } from '../lib/tidy.mjs';
+
+interface Props {
+  issue: any;
+  date: string;
+  lang: 'zh' | 'en';
+  t: any;
+  prevDate?: string | null;
+  altHref?: string | null;
+}
+const { issue, date, lang, t, prevDate, altHref } = Astro.props;
+const raw = issue.editions?.[lang] ?? Object.values(issue.editions ?? {})[0];
+const cleanArticle = (a) => a && { ...a, title: tidy(a.title), lead: tidy(a.lead), body: a.body?.map(tidy) };
+const ed = {
+  ...raw,
+  headline: cleanArticle(raw?.headline),
+  secondary: cleanArticle(raw?.secondary),
+  sections: (raw?.sections ?? []).map(s => ({ ...s, articles: (s.articles ?? []).map(cleanArticle) })),
+  briefs: (raw?.briefs ?? []).map(b => ({ ...b, title: tidy(b.title), lead: tidy(b.lead) })),
+  supplement: cleanArticle(raw?.supplement),
+  translated: (raw?.translated ?? []).map(it => ({ ...it, title: tidy(it.title), lead: tidy(it.lead) })),
+};
+const weather = issue.weather?.[lang] ?? null;
+---
+<Masthead
+  issueNo={issue.issue}
+  date={date}
+  lunar={issue.lunar?.[lang]}
+  t={t}
+  altHref={altHref}
+/>
+<SectionBar sections={(ed.sections ?? []).map(s => ({ key: s.key, label: s.label }))} ariaLabel={t.sectionsLabel} />
+
+<main class="front-grid">
+  { ed.headline && <Headline article={ed.headline} t={t} lang={lang} /> }
+  <Secondary article={ed.secondary} t={t} lang={lang} />
+  <Briefs briefs={ed.briefs ?? []} weather={weather} t={t} lang={lang} />
+  { ed.headline?.body?.length > 0 && <BodyColumns paragraphs={ed.headline.body} /> }
+</main>
+
+<Sections sections={ed.sections ?? []} t={t} lang={lang} />
+<Supplement issueNo={issue.issue} supplement={ed.supplement ?? null} t={t} />
+<Translated items={ed.translated ?? null} t={t} lang={lang} />
+<Colophon issueNo={issue.issue} prevDate={prevDate} t={t} />

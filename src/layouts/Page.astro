@@ -1,18 +1,24 @@
 ---
-// 報紙頁面外殼：head、字體與樣式、紙張質感 class、OG meta。
+// 報紙頁面外殼：head、字體與樣式、紙張質感 class、OG meta、hreflang 對照。
 import BASE from '../lib/base.mjs';
 interface Props {
   title: string;
+  lang?: 'zh' | 'en';
   description?: string;
   ogImage?: string;       // 如 '/og/2026-09-15.png'（自動補 base 前綴，以 site 為基準轉絕對地址）
   ogTitle?: string;
   ogDescription?: string;
+  altHref?: string | null;
 }
-const { title, description = '每日新報——以民國報紙版式呈現當日新聞的靜態站點。', ogImage, ogTitle, ogDescription } = Astro.props;
+const {
+  title, lang = 'zh', description = '每日新报——以报纸版式呈现当日新闻的静态站点。',
+  ogImage, ogTitle, ogDescription, altHref,
+} = Astro.props;
 const ogUrl = ogImage && Astro.site ? new URL(`${BASE}${ogImage.replace(/^\//, '')}`, Astro.site).href : undefined;
+const htmlLang = lang === 'en' ? 'en' : 'zh-Hans';
 ---
 <!DOCTYPE html>
-<html lang="zh-Hant">
+<html lang={htmlLang}>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,12 +27,14 @@ const ogUrl = ogImage && Astro.site ? new URL(`${BASE}${ogImage.replace(/^\//, '
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%239B2B26'/%3E%3Ctext x='16' y='22' font-family='serif' font-weight='bold' font-size='16' fill='%23F4EFE2' text-anchor='middle'%3E新%3C/text%3E%3C/svg%3E">
   <link rel="stylesheet" href={`${BASE}css/fonts.css`}>
   <link rel="stylesheet" href={`${BASE}css/newspaper.css`}>
+  { altHref && <link rel="alternate" hreflang={lang === 'en' ? 'zh-Hans' : 'en'} href={altHref}> }
   { ogUrl && (
     <>
       <meta property="og:title" content={ogTitle ?? title}>
       <meta property="og:description" content={ogDescription ?? description}>
       <meta property="og:image" content={ogUrl}>
       <meta property="og:type" content="article">
+      <meta property="og:locale" content={lang === 'en' ? 'en_US' : 'zh_CN'}>
       <meta name="twitter:card" content="summary_large_image">
       <meta name="twitter:image" content={ogUrl}>
     </>

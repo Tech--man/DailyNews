@@ -2,12 +2,14 @@
   "name": "dailynews",
   "version": "0.1.0",
   "private": true,
-  "description": "每日新報 —— 复古报纸风每日新闻站（M1 静态原型）",
+  "description": "每日新報 —— 复古报纸风每日新闻站（中英双语 · RSS 聚合出刊）",
   "type": "module",
   "scripts": {
     "vendor:fonts": "bash scripts/vendor-fonts.sh",
     "test": "node --test tests/*.test.mjs",
     "build:issue": "node scripts/generate-issue.mjs",
+    "build:issue:dry": "node scripts/generate-issue.mjs --dry-run",
+    "diag:feeds": "node scripts/diag-feeds.mjs",
     "build:og": "node scripts/generate-og.mjs",
     "dev": "astro dev",
     "build": "astro build",
@@ -19,6 +21,7 @@
     "@fontsource/old-standard-tt": "^5.3.0",
     "@fontsource/playfair-display": "^5.3.0",
     "fast-xml-parser": "^5.11.1",
+    "opencc-js": "^1.4.2",
     "solarlunar": "^3.1.0"
   },
   "devDependencies": {

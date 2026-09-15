@@ -1,19 +1,39 @@
 ---
-// 簡訊欄 + 天氣方塊（weather 為 null 時隱藏）
+// 簡訊欄 · v4：三檔鉗制；dense 模式估算寬度用 dense 單列寬（159px，實測），
+// 修復舊版按整欄 323px 估算導致的近半簡訊被硬裁。
+// >9 條轉 dense：雙列只留標題。欄寬扣除類目標籤佔位（tagEm）。
+import { fitClamp3 } from '../lib/fit.mjs';
 interface Props {
-  briefs: { title: string; category?: string; source: string; link: string }[];
+  briefs: { title: string; lead?: string; categoryLabel?: string; source: string; link: string }[];
   weather?: { city: string; temp: string; desc: string } | null;
+  t: any;
+  lang?: 'zh' | 'en';
 }
-const { briefs, weather } = Astro.props;
+const { briefs, weather, t, lang = 'zh' } = Astro.props;
+const dense = briefs.length > 9;
+const tagEm = 3.2; // 類目標籤（2–4 字 + 間距）佔位，估算時從欄寬扣除（em，相對 size）
+const fit = (text: string, size: number, withTag = false) =>
+  fitClamp3(text, 'brief-line', { size, lang, tagEm: withTag ? tagEm : 0 });
+const fitLead = (text: string, size: number) => fitClamp3(text, 'brief-lead', { size, lang });
+const vars = (f) => `--l-full:${f.full.lines};--l-mid:${f.mid.lines};--l-narrow:${f.narrow.lines};--fade-full:${f.full.faded ? 1 : 0};--fade-mid:${f.mid.faded ? 1 : 0};--fade-narrow:${f.narrow.faded ? 1 : 0}`;
 ---
-<aside class="briefs">
-  <h3 class="briefs-title">今日簡訊</h3>
+<aside class:list={['briefs', { 'briefs--dense': dense }]}>
+  <h3 class="briefs-title">{t.briefsTitle}</h3>
   <ol class="briefs-list">
-    {briefs.map(b => (
-      <li>
-        {b.category && <span class="brief-tag">{b.category}</span>}{b.title}
-      </li>
-    ))}
+    {briefs.map(b => {
+      const line = fit(b.title, 14, !!b.categoryLabel);
+      const lead = !dense && b.lead && fitLead(b.lead, 13);
+      return (
+        <li>
+          <span class="brief-line" style={vars(line)}>
+            {b.categoryLabel && <span class="brief-tag">{b.categoryLabel}</span>}{b.title}
+          </span>
+          { lead && (
+            <span class="brief-lead" style={vars(lead)}>{b.lead}</span>
+          ) }
+        </li>
+      );
+    })}
   </ol>
   { weather && (
     <div class="weather-box">

@@ -1,30 +1,23 @@
 ---
+// 頭版（中文版 · 最新一期）
 import Page from '../layouts/Page.astro';
-import Masthead from '../components/Masthead.astro';
-import SectionBar from '../components/SectionBar.astro';
-import Headline from '../components/Headline.astro';
-import Secondary from '../components/Secondary.astro';
-import Briefs from '../components/Briefs.astro';
-import BodyColumns from '../components/BodyColumns.astro';
-import Halves from '../components/Halves.astro';
-import Supplement from '../components/Supplement.astro';
-import Colophon from '../components/Colophon.astro';
+import FrontPage from '../components/FrontPage.astro';
 import { latestIssue, listIssueDates } from '../lib/issues.mjs';
+import { t } from '../lib/i18n.mjs';
 import { cnDate } from '../lib/dateCn.mjs';
+import BASE from '../lib/base.mjs';
 
 const { date, issue } = latestIssue();
 const prevDate = listIssueDates().find(d => d !== date) ?? null;
+const T = t('zh');
+const altHref = `${BASE}en/`;
 ---
-<Page title={`每日新報 · ${cnDate(date)}`} ogImage={`/og/${date}.png`} ogDescription={issue.headline?.title}>
-  <Masthead issueNo={issue.issue} date={date} lunar={issue.lunar} />
-  <SectionBar />
-  <main class="front-grid">
-    <Headline article={issue.headline} />
-    <Secondary article={issue.secondary} />
-    <Briefs briefs={issue.briefs} weather={issue.weather} />
-    {issue.headline?.body?.length > 0 && <BodyColumns paragraphs={issue.headline.body} />}
-  </main>
-  <Halves sections={issue.sections ?? []} />
-  <Supplement issueNo={issue.issue} supplement={issue.supplement ?? null} />
-  <Colophon issueNo={issue.issue} prevDate={prevDate} />
+<Page
+  title={`${T.pageTitle} · ${cnDate(date)}`}
+  lang="zh"
+  ogImage={`/og/${date}.png`}
+  ogDescription={issue.editions?.zh?.headline?.title}
+  altHref={altHref}
+>
+  <FrontPage issue={issue} date={date} lang="zh" t={T} prevDate={prevDate} altHref={altHref} />
 </Page>

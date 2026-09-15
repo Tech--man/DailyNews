@@ -1,21 +1,29 @@
 ---
-// 次條
+// 次條 · v4：三檔鉗制。size 修正為 14（--fs-brief），修復舊版默認 15 的系統性高估。
+import { fitClamp3 } from '../lib/fit.mjs';
 interface Props {
   article?: { title: string; lead?: string; source?: string; link?: string; image?: string } | null;
+  t: any;
+  lang?: 'zh' | 'en';
 }
-const { article } = Astro.props;
+const { article, t, lang = 'zh' } = Astro.props;
+const body = article?.lead && fitClamp3(article.lead, 'secondary-body', { size: 14, lang });
 ---
 { article && (
 <article class="secondary">
-  <h3 class="secondary-title">{article.title}</h3>
   { article.image &&
     <figure class="photo photo-small">
       <img src={article.image} alt="">
     </figure>
   }
-  { article.lead && <p class="secondary-body">{article.lead}</p> }
+  <h3 class="secondary-title">{article.title}</h3>
+  { article.lead && body && (
+    <p class="secondary-body"
+      style={`--l-full:${body.full.lines};--l-mid:${body.mid.lines};--l-narrow:${body.narrow.lines};--fade-full:${body.full.faded ? 1 : 0};--fade-mid:${body.mid.faded ? 1 : 0};--fade-narrow:${body.narrow.faded ? 1 : 0}`}
+    >{article.lead}</p>
+  ) }
   { article.source &&
-    <p class="source-line">來源：{article.source}{article.link && <a href={article.link} target="_blank" rel="noopener noreferrer"> · 原文</a>}</p>
+    <p class="source-line">{t.sourcePrefix}{article.source}{article.link && <a href={article.link} target="_blank" rel="noopener noreferrer"> · {t.original}</a>}</p>
   }
 </article>
 ) }

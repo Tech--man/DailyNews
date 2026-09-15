@@ -105,3 +105,78 @@ export async function maybeRewrite(titles, env = process.env, fetchImpl = global
   if (!parsed) throw new Error('LLM 回復解析失敗');
   return parsed.map((c, i) => sanitizeRewrite(titles[i], c));
 }
+
+/* ================= 跨語言翻譯（可選，多語言版用） ================= */
+
+const LANG_NAME = { zh: '简体中文', en: 'English' };
+
+const TRANSLATE_RULES = (target) => [
+  `You translate news headlines and one-sentence summaries into ${LANG_NAME[target] ?? target}.`,
+  'Rules: keep proper nouns and numbers accurate; preserve meaning exactly, add nothing;',
+  'output plain text without quotation marks; the summary must stay a single sentence.',
+].join(' ');
+
+/** 構建翻譯請求（純函數，可單測） */
+export function buildTranslatePrompt(entries, targetLang) {
+  const list = entries.map((e, i) => `${i + 1}. TITLE: ${e.title}\n   SUMMARY: ${e.lead ?? ''}`).join('\n');
+  return {
+    system: TRANSLATE_RULES(targetLang),
+    user: `Translate the following ${entries.length} entries into ${LANG_NAME[targetLang] ?? targetLang}. `
+      + `Reply with a JSON array only: [{"i":1,"title":"...","lead":"..."}]\n${list}`,
+  };
+}
+
+/** 從模型回復中解析 JSON 數組；失敗返回 null */
+export function parseTranslateResponse(text, n) {
+  try {
+    const start = text.indexOf('[');
+    const end = text.lastIndexOf(']');
+    if (start === -1 || end <= start) return null;
+    const arr = JSON.parse(text.slice(start, end + 1));
+    if (!Array.isArray(arr) || arr.length === 0) return null;
+    const out = new Array(n).fill(null);
+    for (const it of arr) {
+      const i = Number(it?.i);
+      if (Number.isInteger(i) && i >= 1 && i <= n && typeof it?.title === 'string' && it.title.trim()) {
+        out[i - 1] = { title: it.title.trim(), lead: typeof it?.lead === 'string' ? it.lead.trim() : '' };
+      }
+    }
+    return out;
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * 批量翻譯。未設 LLM_API_KEY 時返回 null（調用方跳過）；
+ * 請求或解析失敗拋異常，由調用方降級。單條不合格則該條為 null（跳過而非冒充）。
+ */
+export async function maybeTranslate(entries, targetLang, env = process.env, fetchImpl = globalThis.fetch) {
+  const apiKey = env.LLM_API_KEY;
+  if (!apiKey || entries.length === 0) return null;
+  const base = (env.LLM_BASE_URL ?? 'https://api.openai.com/v1').replace(/\/+$/, '');
+  const model = env.LLM_MODEL ?? 'gpt-4o-mini';
+  const { system, user } = buildTranslatePrompt(entries, targetLang);
+
+  const res = await fetchImpl(`${base}/chat/completions`, {
+    method: 'POST',
+    signal: AbortSignal.timeout(Number(env.LLM_TIMEOUT_MS ?? 30000)),
+    headers: {
+      'content-type': 'application/json',
+      authorization: `Bearer ${apiKey}`,
+    },
+    body: JSON.stringify({
+      model,
+      temperature: 0.3,
+      messages: [
+        { role: 'system', content: system },
+        { role: 'user', content: user },
+      ],
+    }),
+  });
+  if (!res.ok) throw new Error(`LLM HTTP ${res.status}`);
+  const data = await res.json();
+  const parsed = parseTranslateResponse(data?.choices?.[0]?.message?.content ?? '', entries.length);
+  if (!parsed) throw new Error('LLM 翻譯回復解析失敗');
+  return parsed;
+}

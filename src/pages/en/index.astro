@@ -1,0 +1,23 @@
+---
+// Front page (English edition · latest issue)
+import Page from '../../layouts/Page.astro';
+import FrontPage from '../../components/FrontPage.astro';
+import { latestIssue, listIssueDates } from '../../lib/issues.mjs';
+import { t } from '../../lib/i18n.mjs';
+import { enDate } from '../../lib/dateCn.mjs';
+import BASE from '../../lib/base.mjs';
+
+const { date, issue } = latestIssue();
+const prevDate = listIssueDates().find(d => d !== date) ?? null;
+const T = t('en');
+const altHref = BASE;
+---
+<Page
+  title={`${T.pageTitle} · ${enDate(date)}`}
+  lang="en"
+  ogImage={`/og/${date}-en.png`}
+  ogDescription={issue.editions?.en?.headline?.title}
+  altHref={altHref}
+>
+  <FrontPage issue={issue} date={date} lang="en" t={T} prevDate={prevDate} altHref={altHref} />
+</Page>

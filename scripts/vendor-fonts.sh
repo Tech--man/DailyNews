@@ -32,7 +32,7 @@ vendor() {
 
 vendor noto-serif-sc    400.css 700.css 900.css
 vendor playfair-display 400.css 400-italic.css 700.css
-vendor old-standard-tt  400.css
+vendor old-standard-tt  400.css 700.css
 vendor im-fell-english  400.css 400-italic.css
 
 echo "完成：$(find "$OUT" -name '*.woff2' | wc -l | tr -d ' ') 个 woff2，共 $(du -sh "$OUT" | cut -f1)"

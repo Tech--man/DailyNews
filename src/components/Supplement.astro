@@ -1,25 +1,42 @@
 ---
 // 副刊 · 廣告位。有副刊文章走雙欄，否則僅廣告框居中。
-import { cnIssue } from '../lib/dateCn.mjs';
-interface Props { issueNo: number; supplement?: { title: string; paragraphs: string[] } | null }
-const { issueNo, supplement } = Astro.props;
-const adonly = !supplement;
+// 正文欄數與行寬由構建時測量決定：≥12 行走雙欄，否則單欄收在 34em。
+import { fmt } from '../lib/dateCn.mjs';
+import { TIERS, estParagraphLines } from '../lib/fit.mjs';
+interface Props {
+  issueNo: number;
+  supplement?: { title: string; lead?: string; body?: string[]; source?: string; link?: string; categoryLabel?: string } | null;
+  t: any;
+}
+const { issueNo, supplement, t } = Astro.props;
+const paras = supplement ? (supplement.body?.length ? supplement.body : (supplement.lead ? [supplement.lead] : [])) : [];
+const adonly = !supplement || paras.length === 0;
+const cols = adonly ? 1 : (estParagraphLines(paras, TIERS.full.supplementCol, { size: t.htmlLang === 'en' ? 15 : 15, lang: t.htmlLang === 'en' ? 'en' : 'zh' }) >= 12 ? 2 : 1);
+const f = fmt(t.htmlLang === 'en' ? 'en' : 'zh');
 ---
 <section class:list={['supplement', { 'supplement--adonly': adonly }]}>
-  { supplement && (
+  { !adonly && (
     <div class="supplement-main">
-      <p class="supplement-kicker">副刊</p>
+      <p class="supplement-kicker">{t.supplementKicker}{supplement.categoryLabel ? ` · ${supplement.categoryLabel}` : ''}</p>
       <h3 class="supplement-title">{supplement.title}</h3>
-      {supplement.paragraphs.map(p => <p>{p}</p>)}
+      <div class="supplement-body" style={`--cols:${cols};--measure:${cols === 1 ? '34em' : 'none'}`}>
+        {paras.map(p => <p>{p}</p>)}
+      </div>
+      { supplement.source && (
+        <p class="source-line">
+          {t.sourcePrefix}{supplement.source}
+          {supplement.link && <a href={supplement.link} target="_blank" rel="noopener noreferrer"> · {t.original}</a>}
+        </p>
+      )}
     </div>
   ) }
   <div class="ad-box">
-    <p class="ad-head">訂閱啟事</p>
-    <p class="ad-body">本報每日清晨六時出版，薈集當日新聞要目與各版精華。全年訂閱價洋拾元正，郵費在內；零售每份貳角。訂戶請向各地郵局或報房接洽。</p>
-    <p class="ad-sign">廣告部謹啟</p>
+    <p class="ad-head">{t.adHead}</p>
+    <p class="ad-body">{t.adBody}</p>
+    <p class="ad-sign">{t.adSign}</p>
     <div class="seal" aria-hidden="true">
-      <span class="seal-name">每日<br>新報</span>
-      <span class="seal-issue">{cnIssue(issueNo)}</span>
+      <span class="seal-name">{t.sealLine1}<br>{t.sealLine2}</span>
+      <span class="seal-issue">{f.issue(issueNo)}</span>
     </div>
   </div>
 </section>

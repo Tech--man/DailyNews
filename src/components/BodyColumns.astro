@@ -1,14 +1,18 @@
 ---
-// 頭條正文多欄流動（數據帶 body 段落時；≥2 段走三欄，否則單欄）
+// 頭條正文多欄流動 · v4：欄數按 full 檔欄寬決策（與 CSS 斷點 1099 對齊）。
+// 合計 ≥9 行走雙欄，否則單欄。mid/narrow 檔 CSS 已強制單欄（容器查詢）。
+import { TIERS, estParagraphLines } from '../lib/fit.mjs';
 interface Props {
   paragraphs?: string[];
   lead?: string;
+  lang?: 'zh' | 'en';
 }
-const { paragraphs, lead } = Astro.props;
+const { paragraphs, lead, lang = 'zh' } = Astro.props;
 const body = (paragraphs && paragraphs.length ? paragraphs : (lead ? [lead] : []));
+const cols = estParagraphLines(body, TIERS.full.bodyCol, { size: 15, lang }) >= 9 ? 2 : 1;
 ---
 { body.length > 0 && (
-<article class:list={['headline-body', { 'body-single': body.length < 2 }]}>
+<article class="headline-body" style={`--cols:${cols}`}>
   {body.map((p, i) => (
     <p class={i === 0 ? 'body-first' : undefined} set:html={p} />
   ))}

@@ -1,0 +1,36 @@
+---
+// 域外譯訊（可選增強）· v4：三檔鉗制。僅在跨語言翻譯有數據時渲染。
+import { fitClamp3 } from '../lib/fit.mjs';
+interface Props {
+  items?: { title: string; lead?: string; source: string; link?: string; categoryLabel?: string; translatedFrom?: string }[] | null;
+  t: any;
+  lang?: 'zh' | 'en';
+}
+const { items, t, lang = 'zh' } = Astro.props;
+const fitLead = (lead?: string) => lead && fitClamp3(lead, 'translated-lead', { size: 13, lang });
+const vars = (f) => `--l-full:${f.full.lines};--l-mid:${f.mid.lines};--l-narrow:${f.narrow.lines};--fade-full:${f.full.faded ? 1 : 0};--fade-mid:${f.mid.faded ? 1 : 0};--fade-narrow:${f.narrow.faded ? 1 : 0}`;
+---
+{ items && items.length > 0 && (
+<section class="translated">
+  <h3 class="translated-title">{t.translatedKicker}</h3>
+  <ol class="translated-list">
+    {items.map(it => {
+      const lead = fitLead(it.lead);
+      return (
+        <li>
+          <p class="translated-head">
+            {it.categoryLabel && <span class="brief-tag">{it.categoryLabel}</span>}
+            <strong>{it.title}</strong>
+            <span class="translated-src">
+              {t.sourcePrefix}{it.source}{it.link && <a href={it.link} target="_blank" rel="noopener noreferrer"> · {t.original}</a>}
+            </span>
+          </p>
+          { it.lead && lead && (
+            <p class="translated-lead" style={vars(lead)}>{it.lead}</p>
+          ) }
+        </li>
+      );
+    })}
+  </ol>
+</section>
+) }

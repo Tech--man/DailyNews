@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { assertPublicHttpUrl } from '../scripts/generate-issue.mjs';
+import { assertPublicHttpUrl } from '../scripts/feed.mjs';
 
 test('公网 http(s) URL 通过', () => {
   assert.doesNotThrow(() => assertPublicHttpUrl('https://example.com/feed.xml'));

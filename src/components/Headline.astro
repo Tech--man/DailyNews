@@ -1,20 +1,29 @@
 ---
-// 頭條：大標題 + 導語（+主圖，僅在數據帶圖時出現——模板 B）
+// 頭條：大標題 + 導語 +（多源共識標記）+ 主圖（僅在數據帶圖時出現）
+// v4：導語三檔鉗制（--l-full/mid/narrow + --fade-*），CSS 容器查詢按檔取用。
+import { fitClamp3 } from '../lib/fit.mjs';
 interface Props {
-  article: { title: string; lead?: string; source?: string; link?: string; image?: string };
+  article: { title: string; lead?: string; source?: string; group?: string; link?: string; image?: string; consensus?: number };
+  t: any;
+  lang?: 'zh' | 'en';
 }
-const { article } = Astro.props;
+const { article, t, lang = 'zh' } = Astro.props;
+const lead = article.lead && fitClamp3(article.lead, 'headline-lead', { size: 15, lang });
 ---
 <article class="headline">
-  <p class="kicker">本報頭條</p>
+  <p class="kicker">{t.headlineKicker}{article.consensus > 1 && <span class="consensus">{t.consensusNote(article.consensus)}</span>}</p>
   <h2 class="headline-title">{article.title}</h2>
-  { article.lead && <p class="headline-lead">{article.lead}</p> }
+  { article.lead && lead && (
+    <p class="headline-lead"
+      style={`--l-full:${lead.full.lines};--l-mid:${lead.mid.lines};--l-narrow:${lead.narrow.lines};--fade-full:${lead.full.faded ? 1 : 0};--fade-mid:${lead.mid.faded ? 1 : 0};--fade-narrow:${lead.narrow.faded ? 1 : 0}`}
+    >{article.lead}</p>
+  ) }
   { article.image &&
     <figure class="photo photo-main">
       <img src={article.image} alt="">
     </figure>
   }
   { article.source &&
-    <p class="source-line">來源：{article.source}{article.link && <a href={article.link} target="_blank" rel="noopener noreferrer"> · 閱讀原文</a>}</p>
+    <p class="source-line">{t.sourcePrefix}{article.source}{article.link && <a href={article.link} target="_blank" rel="noopener noreferrer"> · {t.readOriginal}</a>}</p>
   }
 </article>

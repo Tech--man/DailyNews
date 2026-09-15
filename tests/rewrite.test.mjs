@@ -2,6 +2,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import {
   buildPrompt, parseRewriteResponse, sanitizeRewrite, maybeRewrite, FEWSHOT,
+  buildTranslatePrompt, parseTranslateResponse, maybeTranslate,
 } from '../scripts/rewrite.mjs';
 
 /* ---------- 提示词 ---------- */
@@ -87,4 +88,52 @@ test('maybeRewrite HTTP 失败抛异常由调用方降级', async () => {
     maybeRewrite(['标题'], { LLM_API_KEY: 'x' }, fake),
     /LLM HTTP 503/,
   );
+});
+
+/* ---------- 跨語言翻譯（多語言版） ---------- */
+
+test('buildTranslatePrompt 含目標語言與 JSON 輸出要求', () => {
+  const { system, user } = buildTranslatePrompt([{ title: '标题甲', lead: '导语甲' }], 'en');
+  assert.ok(system.includes('English'));
+  assert.ok(user.includes('TITLE: 标题甲'));
+  assert.ok(user.includes('SUMMARY: 导语甲'));
+  assert.ok(user.includes('"i"'));
+});
+
+test('parseTranslateResponse 解析 title+lead 并容忍散文包裹', () => {
+  const out = parseTranslateResponse('好的：\n[{"i":1,"title":"T","lead":"L"}]\n完毕', 1);
+  assert.deepEqual(out, [{ title: 'T', lead: 'L' }]);
+});
+
+test('parseTranslateResponse 空 title 条目按 null 兜底（不冒充译文）', () => {
+  const out = parseTranslateResponse('[{"i":1,"title":"   "},{"i":2,"title":"B"}]', 2);
+  assert.equal(out[0], null);
+  assert.deepEqual(out[1], { title: 'B', lead: '' });
+});
+
+test('parseTranslateResponse 无 JSON 时返回 null', () => {
+  assert.equal(parseTranslateResponse('我不会翻译', 1), null);
+});
+
+test('maybeTranslate 未设 LLM_API_KEY 时返回 null（不发请求）', async () => {
+  const out = await maybeTranslate([{ title: '甲', lead: '乙' }], 'en', {}, () => { throw new Error('不应发起请求'); });
+  assert.equal(out, null);
+});
+
+test('maybeTranslate 正常链路（注入 fetch 桩，不触网）', async () => {
+  const fake = async () => ({
+    ok: true,
+    json: async () => ({ choices: [{ message: { content: '[{"i":1,"title":"AI stocks slide","lead":"Markets fell."}]' } }] }),
+  });
+  const out = await maybeTranslate([{ title: 'AI股下跌', lead: '市场走低。' }], 'en', { LLM_API_KEY: 'k' }, fake);
+  assert.deepEqual(out, [{ title: 'AI stocks slide', lead: 'Markets fell.' }]);
+});
+
+test('maybeTranslate HTTP 失败抛异常由调用方降级', async () => {
+  const fake = async () => ({ ok: false, status: 429 });
+  await assert.rejects(maybeTranslate([{ title: '甲' }], 'en', { LLM_API_KEY: 'k' }, fake), /LLM HTTP 429/);
+});
+
+test('maybeTranslate 空列表返回 null', async () => {
+  assert.equal(await maybeTranslate([], 'en', { LLM_API_KEY: 'k' }), null);
 });

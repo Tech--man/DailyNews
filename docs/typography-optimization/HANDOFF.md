@@ -50,7 +50,8 @@
 ### 验证守门（建议 CI 化）
 ```bash
 pnpm preview &            # 或任一静态服务 dist/
-pnpm run verify:layout    # 退出码 1 = 有静默裁剪/溢出，不出刊
+pnpm run verify:layout    # 出刊模式：静默裁剪/溢出 → 退出码 1（不出刊）；渐隐裁剪 → 告警
+node scripts/verify-layout.mjs --mode=strict   # 开发回归：任何裁剪都算失败
 ```
 GitHub Actions 建议：在 `daily-issue.yml` 的 build 后加一步（需 puppeteer-core + Chrome/chromium headless）。
 

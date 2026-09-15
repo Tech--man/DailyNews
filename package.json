@@ -14,7 +14,7 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "verify:layout": "node scripts/verify-layout.mjs",
+    "verify:layout": "node scripts/verify-layout.mjs --mode=ship",
     "shoot:layout": "node scripts/shoot-layout.mjs --label=shot",
     "measure:slots": "node scripts/measure-slots.mjs"
   },

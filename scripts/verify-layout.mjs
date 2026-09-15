@@ -1,7 +1,10 @@
 // 版面守门（L4）：在真实浏览器中逐项断言「不管内容如何，版面都成立」。
 // 用法：
 //   node scripts/verify-layout.mjs [--base=http://localhost:4178/DailyNews] \
-//        [--out=report.json] [--viewports=360,768,1280,1440] [--pages=,en/,archive/]
+//        [--out=report.json] [--viewports=360,768,1280,1440] [--pages=,en/,archive/] \
+//        [--mode=strict|ship]
+// 模式：strict（默认）任何裁剪都算硬失败——开发回归用；
+//       ship 静默裁剪才硬失败，带渐隐的裁剪降级为告警——出刊守门用（设计钳制的有序让步）。
 // 断言（硬失败）：
 //   H1 无裁剪   每个钳制元素 scrollHeight <= clientHeight + 1（渐隐兜底之外不允许真正丢字）
 //   H2 无横向溢出  页面与文本容器 scrollWidth <= clientWidth + 1
@@ -163,20 +166,23 @@ for (const pg of PAGES) {
       const clipped = r.nodes.filter((n) => n.clipped);
       const silentClip = clipped.filter((n) => !n.fadeOn);
       const fadedClip = clipped.filter((n) => n.fadeOn);
+      // ship 模式：带渐隐的裁剪降级为告警（设计钳制的有序让步）；静默裁剪仍是硬失败
+      const shipMode = args.mode === 'ship';
+      const hardClip = shipMode ? silentClip : clipped;
       const hOver = r.nodes.filter((n) => n.hOverflow);
       const docOver = r.docW > vw + 1;
       const wasteFade = r.nodes.filter((n) => n.fadeOn && n.fitInMax && n.maxH > 0 && n.scrollH <= n.maxH - 2);
       const estDev = r.nodes.filter((n) => n.estLines > 0 && Math.abs(n.estLines - n.actualLines) > 2 && !n.clipped);
       const contrastsFail = r.contrasts.filter((c) => !c.pass);
       const briefsLow = r.briefsFill != null && r.briefsFill < 0.6;
-      if (clipped.length || hOver.length || docOver) hardFails += clipped.length + hOver.length + (docOver ? 1 : 0);
-      warns += wasteFade.length + estDev.length + contrastsFail.length + (briefsLow ? 1 : 0);
+      if (hardClip.length || hOver.length || docOver) hardFails += hardClip.length + hOver.length + (docOver ? 1 : 0);
+      warns += wasteFade.length + estDev.length + contrastsFail.length + (briefsLow ? 1 : 0) + (shipMode ? fadedClip.length : 0);
       results.push({ ...r, summary: {
         clamped: r.nodes.length, clipped: clipped.length, silentClip: silentClip.length, fadedClip: fadedClip.length,
         hOverflow: hOver.length, docOver,
         wasteFade: wasteFade.length, estDev: estDev.length, contrastsFail: contrastsFail.length, briefsLow,
       }, clippedDetail: clipped.slice(0, 30), wasteFadeDetail: wasteFade.slice(0, 30), estDevDetail: estDev.slice(0, 30) });
-      const flag = (clipped.length || hOver.length || docOver) ? 'FAIL' : (wasteFade.length + estDev.length + contrastsFail.length ? 'WARN' : ' OK ');
+      const flag = (hardClip.length || hOver.length || docOver) ? 'FAIL' : ((wasteFade.length + estDev.length + contrastsFail.length + (shipMode ? fadedClip.length : 0)) ? 'WARN' : ' OK ');
       console.log(`[${flag}] ${pg || '(首页)'} @${vw}px  clamped=${r.nodes.length} clipped=${clipped.length} hOver=${hOver.length} docOver=${docOver} wasteFade=${wasteFade.length} estDev=${estDev.length} cFail=${contrastsFail.length} doc-${r.docH}px`);
     } catch (e) {
       console.log(`[ERR ] ${pg} @${vw}px ${e.message}`);
@@ -187,6 +193,6 @@ for (const pg of PAGES) {
   }
 }
 await browser.close();
-console.log(`\n=== 硬失败 ${hardFails} · 告警 ${warns} ===`);
+console.log(`\n=== 模式 ${args.mode || 'strict'} · 硬失败 ${hardFails} · 告警 ${warns} ===`);
 if (OUT) { mkdirSync(dirname(OUT), { recursive: true }); writeFileSync(OUT, JSON.stringify({ base: BASE, viewports: VIEWPORTS, pages: PAGES, ts: new Date().toISOString(), hardFails, warns, results }, null, 1)); console.log(`报告已写入 ${OUT}`); }
 process.exit(hardFails ? 1 : 0);

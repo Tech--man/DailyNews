@@ -16,9 +16,9 @@
   "archive/",
   "en/archive/"
  ],
- "ts": "2026-09-15T04:13:26.683Z",
- "hardFails": 74,
- "warns": 71,
+ "ts": "2026-09-15T04:21:39.910Z",
+ "hardFails": 0,
+ "warns": 145,
  "results": [
   {
    "url": "/DailyNews/",
@@ -1107,15 +1107,15 @@
     "count": 65,
     "bytes": 2547500,
     "sample": [
-     "noto-serif-sc-118-400-normal.woff2",
      "noto-serif-sc-latin-400-normal.woff2",
+     "noto-serif-sc-118-400-normal.woff2",
      "noto-serif-sc-113-900-normal.woff2"
     ],
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 32,
-    "load": 49,
+    "dcl": 15,
+    "load": 33,
     "totalBytes": 2660209,
     "cls": 0
    },
@@ -2225,14 +2225,14 @@
     "bytes": 19500,
     "sample": [
      "noto-serif-sc-118-400-normal.woff2",
-     "noto-serif-sc-113-900-normal.woff2",
-     "noto-serif-sc-latin-400-normal.woff2"
+     "noto-serif-sc-latin-400-normal.woff2",
+     "noto-serif-sc-113-900-normal.woff2"
     ],
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 10,
-    "load": 15,
+    "dcl": 27,
+    "load": 48,
     "totalBytes": 23100,
     "cls": 0
    },
@@ -3592,15 +3592,15 @@
     "count": 65,
     "bytes": 19500,
     "sample": [
-     "noto-serif-sc-118-400-normal.woff2",
-     "noto-serif-sc-latin-400-normal.woff2",
-     "noto-serif-sc-113-900-normal.woff2"
+     "noto-serif-sc-latin-700-normal.woff2",
+     "noto-serif-sc-117-700-normal.woff2",
+     "noto-serif-sc-114-700-normal.woff2"
     ],
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 8,
-    "load": 104,
+    "dcl": 9,
+    "load": 38,
     "totalBytes": 23100,
     "cls": 0
    },
@@ -4709,17 +4709,17 @@
     "count": 65,
     "bytes": 19500,
     "sample": [
-     "im-fell-english-latin-400-italic.woff2",
-     "noto-serif-sc-latin-900-normal.woff2",
-     "noto-serif-sc-119-900-normal.woff2"
+     "noto-serif-sc-118-400-normal.woff2",
+     "noto-serif-sc-latin-400-normal.woff2",
+     "noto-serif-sc-113-900-normal.woff2"
     ],
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 11,
-    "load": 36,
+    "dcl": 9,
+    "load": 16,
     "totalBytes": 23100,
-    "cls": 0
+    "cls": 0.0004765910966500276
    },
    "page": "",
    "wantVw": 1099,
@@ -6103,17 +6103,17 @@
     "count": 65,
     "bytes": 19500,
     "sample": [
-     "noto-serif-sc-118-400-normal.woff2",
-     "noto-serif-sc-latin-400-normal.woff2",
-     "noto-serif-sc-113-900-normal.woff2"
+     "im-fell-english-latin-400-italic.woff2",
+     "noto-serif-sc-latin-900-normal.woff2",
+     "noto-serif-sc-119-900-normal.woff2"
     ],
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 10,
-    "load": 13,
+    "dcl": 7,
+    "load": 33,
     "totalBytes": 23100,
-    "cls": 0.00016895198863636367
+    "cls": 0
    },
    "page": "",
    "wantVw": 1100,
@@ -7504,8 +7504,8 @@
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 11,
-    "load": 17,
+    "dcl": 9,
+    "load": 15,
     "totalBytes": 23100,
     "cls": 0.0015151292731973571
    },
@@ -8865,17 +8865,17 @@
     "count": 65,
     "bytes": 19500,
     "sample": [
-     "noto-serif-sc-118-400-normal.woff2",
-     "noto-serif-sc-latin-400-normal.woff2",
-     "noto-serif-sc-113-900-normal.woff2"
+     "im-fell-english-latin-400-italic.woff2",
+     "noto-serif-sc-latin-900-normal.woff2",
+     "noto-serif-sc-119-900-normal.woff2"
     ],
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 7,
-    "load": 14,
+    "dcl": 9,
+    "load": 35,
     "totalBytes": 23100,
-    "cls": 0.0012876379394531248
+    "cls": 0
    },
    "page": "",
    "wantVw": 1280,
@@ -10233,17 +10233,17 @@
     "count": 65,
     "bytes": 19500,
     "sample": [
-     "im-fell-english-latin-400-italic.woff2",
-     "noto-serif-sc-latin-900-normal.woff2",
-     "noto-serif-sc-119-900-normal.woff2"
+     "noto-serif-sc-118-400-normal.woff2",
+     "noto-serif-sc-latin-400-normal.woff2",
+     "noto-serif-sc-113-900-normal.woff2"
     ],
     "ready": "loaded"
    },
    "perf": {
     "dcl": 8,
-    "load": 29,
+    "load": 12,
     "totalBytes": 23100,
-    "cls": 0
+    "cls": 0.0010173929398148147
    },
    "page": "",
    "wantVw": 1440,
@@ -11577,14 +11577,14 @@
     "bytes": 73616,
     "sample": [
      "old-standard-tt-latin-400-normal.woff2",
-     "playfair-display-latin-700-normal.woff2",
-     "old-standard-tt-latin-700-normal.woff2"
+     "old-standard-tt-latin-700-normal.woff2",
+     "playfair-display-latin-700-normal.woff2"
     ],
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 9,
-    "load": 825,
+    "dcl": 8,
+    "load": 840,
     "totalBytes": 85737,
     "cls": 0
    },
@@ -12675,7 +12675,7 @@
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 9,
+    "dcl": 10,
     "load": 14,
     "totalBytes": 6300,
     "cls": 0
@@ -13968,8 +13968,8 @@
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 6,
-    "load": 11,
+    "dcl": 9,
+    "load": 15,
     "totalBytes": 6300,
     "cls": 0.18308266650390626
    },
@@ -15186,10 +15186,10 @@
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 9,
-    "load": 16,
+    "dcl": 10,
+    "load": 13,
     "totalBytes": 6300,
-    "cls": 0.01757518317380098
+    "cls": 0.023884131936883643
    },
    "page": "en/",
    "wantVw": 1099,
@@ -16630,8 +16630,8 @@
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 18,
-    "load": 25,
+    "dcl": 8,
+    "load": 26,
     "totalBytes": 6300,
     "cls": 0.023863033780991735
    },
@@ -18074,10 +18074,10 @@
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 9,
-    "load": 12,
+    "dcl": 8,
+    "load": 24,
     "totalBytes": 6300,
-    "cls": 0.04312783682849756
+    "cls": 0.0005984085033036484
    },
    "page": "en/",
    "wantVw": 1180,
@@ -19518,8 +19518,8 @@
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 9,
-    "load": 14,
+    "dcl": 10,
+    "load": 13,
     "totalBytes": 6300,
     "cls": 0.036652343750000003
    },
@@ -20962,7 +20962,7 @@
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 10,
+    "dcl": 9,
     "load": 12,
     "totalBytes": 6300,
     "cls": 0.02895987654320988
@@ -21404,14 +21404,14 @@
     "bytes": 49264,
     "sample": [
      "noto-serif-sc-118-400-normal.woff2",
-     "noto-serif-sc-118-900-normal.woff2",
-     "noto-serif-sc-latin-400-normal.woff2"
+     "noto-serif-sc-latin-400-normal.woff2",
+     "noto-serif-sc-118-900-normal.woff2"
     ],
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 9,
-    "load": 18,
+    "dcl": 6,
+    "load": 14,
     "totalBytes": 52864,
     "cls": 0
    },
@@ -21500,14 +21500,14 @@
     "bytes": 8700,
     "sample": [
      "noto-serif-sc-118-400-normal.woff2",
-     "noto-serif-sc-118-900-normal.woff2",
-     "noto-serif-sc-latin-400-normal.woff2"
+     "noto-serif-sc-latin-400-normal.woff2",
+     "noto-serif-sc-118-900-normal.woff2"
     ],
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 8,
-    "load": 17,
+    "dcl": 6,
+    "load": 9,
     "totalBytes": 12300,
     "cls": 0
    },
@@ -21602,7 +21602,7 @@
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 6,
+    "dcl": 9,
     "load": 13,
     "totalBytes": 12300,
     "cls": 0.0004652734375
@@ -21698,8 +21698,8 @@
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 7,
-    "load": 10,
+    "dcl": 6,
+    "load": 13,
     "totalBytes": 12300,
     "cls": 0.0004381873545393654
    },
@@ -21794,8 +21794,8 @@
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 10,
-    "load": 17,
+    "dcl": 8,
+    "load": 12,
     "totalBytes": 12300,
     "cls": 0.0004378202479338843
    },
@@ -21890,8 +21890,8 @@
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 6,
-    "load": 11,
+    "dcl": 10,
+    "load": 13,
     "totalBytes": 12300,
     "cls": 0.0004103077420281529
    },
@@ -21986,8 +21986,8 @@
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 10,
-    "load": 14,
+    "dcl": 9,
+    "load": 12,
     "totalBytes": 12300,
     "cls": 0.00034870147705078124
    },
@@ -22179,7 +22179,7 @@
    },
    "perf": {
     "dcl": 7,
-    "load": 15,
+    "load": 16,
     "totalBytes": 6300,
     "cls": 0
    },
@@ -22267,15 +22267,15 @@
     "count": 9,
     "bytes": 2700,
     "sample": [
-     "playfair-display-latin-700-normal.woff2",
      "old-standard-tt-latin-400-normal.woff2",
-     "old-standard-tt-latin-700-normal.woff2"
+     "old-standard-tt-latin-700-normal.woff2",
+     "playfair-display-latin-700-normal.woff2"
     ],
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 7,
-    "load": 25,
+    "dcl": 6,
+    "load": 13,
     "totalBytes": 6300,
     "cls": 0
    },
@@ -22370,8 +22370,8 @@
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 8,
-    "load": 16,
+    "dcl": 25,
+    "load": 42,
     "totalBytes": 6300,
     "cls": 0.001058373087565104
    },
@@ -22466,10 +22466,10 @@
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 8,
+    "dcl": 6,
     "load": 13,
     "totalBytes": 6300,
-    "cls": 0.0010391452239441764
+    "cls": 0.0006058955231449552
    },
    "page": "en/archive/",
    "wantVw": 1099,
@@ -22563,9 +22563,9 @@
    },
    "perf": {
     "dcl": 6,
-    "load": 13,
+    "load": 11,
     "totalBytes": 6300,
-    "cls": 0.0005435095299586776
+    "cls": 0.0010379955965909092
    },
    "page": "en/archive/",
    "wantVw": 1100,
@@ -22658,10 +22658,10 @@
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 7,
-    "load": 15,
+    "dcl": 9,
+    "load": 11,
     "totalBytes": 6300,
-    "cls": 0.0009485221784329217
+    "cls": 0.0010575359765512783
    },
    "page": "en/archive/",
    "wantVw": 1180,
@@ -22754,8 +22754,8 @@
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 8,
-    "load": 12,
+    "dcl": 7,
+    "load": 10,
     "totalBytes": 6300,
     "cls": 0.0008987506675720216
    },
@@ -22850,10 +22850,10 @@
     "ready": "loaded"
    },
    "perf": {
-    "dcl": 7,
-    "load": 14,
+    "dcl": 8,
+    "load": 11,
     "totalBytes": 6300,
-    "cls": 0.0006369223964361497
+    "cls": 0.0007101239842544366
    },
    "page": "en/archive/",
    "wantVw": 1440,

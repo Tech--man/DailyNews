@@ -25,7 +25,7 @@
 
 | 文件 | 改动 | 影响范围 | 回退方式 |
 |---|---|---|---|
-| `src/lib/fit.mjs` | 全量重写：`TIERS` 三档宽度表、`CLAMPS` 双层钳制表、按语言拟合字宽模型、`fitClamp3()`、+1 行安全余量；保留旧签名兼容 | 所有钳制元素的行数估算（构建时） | `git revert 3aa88b8 -- src/lib/fit.mjs`；基线快照在 `docs/typography-optimization` 工作台（.cluster/dailynews-typography/baseline/code/） |
+| `src/lib/fit.mjs` | 全量重写：`TIERS` 三档宽度表、`CLAMPS` 双层钳制表、按语言拟合字宽模型、`fitClamp3()`、+1 行安全余量；保留旧签名兼容 | 所有钳制元素的行数估算（构建时） | `git revert 3aa88b8 -- src/lib/fit.mjs`；基线快照在 `docs/typography-optimization 同仓快照 |
 | `src/components/Headline.astro` | `fitClamp` → `fitClamp3`；注入三档变量；接 `lang` | 头条导语 | `git revert`（组件可独立回退） |
 | `src/components/Secondary.astro` | 同上 + `size: 14` 修复 | 次条导语 | 同上 |
 | `src/components/Briefs.astro` | 同上 + dense 宽度 159px 修复 + `tagEm` 从栏宽扣除 | 简讯标题/导语 | 同上 |

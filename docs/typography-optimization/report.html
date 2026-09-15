@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>每日新报 · 排版优化交付报告</title>
+<style>
+  :root {
+    --paper: #f7f3ea;
+    --paper-dim: #efe9db;
+    --ink: #201d18;
+    --ink-soft: #5d574a;
+    --red: #9b2b26;
+    --hairline: #c9c1ae;
+    --serif: "Noto Serif SC", "Songti SC", "STSong", Georgia, serif;
+    --mono: "SF Mono", ui-monospace, "Cascadia Mono", Menlo, monospace;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { font-size: 100%; }
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--serif);
+    font-size: 15.5px;
+    line-height: 1.72;
+    -webkit-font-smoothing: antialiased;
+  }
+  .sheet { max-width: 860px; margin: 0 auto; padding: 56px 32px 72px; }
+
+  /* ---------- 报头 ---------- */
+  .masthead { border-bottom: 3px double var(--ink); padding-bottom: 22px; margin-bottom: 40px; }
+  .masthead-top { display: flex; justify-content: space-between; align-items: baseline; font-size: 12.5px; color: var(--ink-soft); letter-spacing: .08em; }
+  .masthead h1 { font-size: 40px; font-weight: 900; letter-spacing: .06em; text-align: center; margin: 10px 0 8px; }
+  .masthead-sub { text-align: center; font-size: 13px; color: var(--ink-soft); letter-spacing: .18em; }
+  .masthead-sub b { color: var(--red); font-weight: 700; }
+
+  /* ---------- 章节骨架 ---------- */
+  section { margin-bottom: 48px; }
+  .sec-head { display: flex; align-items: baseline; gap: 14px; border-bottom: 1px solid var(--ink); padding-bottom: 8px; margin-bottom: 20px; }
+  .sec-no { font-family: var(--mono); font-size: 12px; color: var(--red); font-weight: 700; }
+  .sec-head h2 { font-size: 21px; font-weight: 900; letter-spacing: .04em; }
+  .sec-head .sec-en { margin-left: auto; font-size: 11.5px; color: var(--ink-soft); letter-spacing: .14em; }
+
+  h3 { font-size: 16px; font-weight: 700; margin: 26px 0 10px; }
+  p { margin-bottom: 12px; }
+  p.note { font-size: 13px; color: var(--ink-soft); }
+  .lede { font-size: 17px; line-height: 1.8; margin-bottom: 18px; }
+
+  /* ---------- 表格 ---------- */
+  table { width: 100%; border-collapse: collapse; font-size: 13.5px; margin: 14px 0 18px; }
+  th { font-weight: 700; text-align: left; border-top: 2px solid var(--ink); border-bottom: 1px solid var(--ink); padding: 7px 10px 7px 0; font-size: 12.5px; letter-spacing: .04em; }
+  td { border-bottom: 1px solid var(--hairline); padding: 7px 10px 7px 0; vertical-align: top; }
+  td.num, th.num { font-family: var(--mono); font-size: 12.5px; text-align: right; padding-right: 0; white-space: nowrap; }
+  tr.dim td { color: var(--ink-soft); }
+  .pos { color: var(--red); font-weight: 700; }
+  .ok { font-weight: 700; }
+  .ok::before { content: "✓ "; color: var(--red); }
+  .pend::before { content: "○ "; color: var(--ink-soft); }
+
+  /* ---------- 指标条 ---------- */
+  .metrics { display: grid; grid-template-columns: repeat(4, 1fr); border: 1px solid var(--ink); margin: 18px 0; }
+  .metric { padding: 14px 16px 12px; border-right: 1px solid var(--hairline); }
+  .metric:last-child { border-right: none; }
+  .metric .mv { font-family: var(--mono); font-size: 26px; font-weight: 700; line-height: 1.1; }
+  .metric .mv small { font-size: 13px; font-weight: 400; color: var(--ink-soft); }
+  .metric .ml { font-size: 12px; color: var(--ink-soft); margin-top: 4px; letter-spacing: .04em; }
+
+  /* ---------- 对照块 ---------- */
+  .versus { display: grid; grid-template-columns: 1fr 1fr; border: 1px solid var(--ink); margin: 16px 0; }
+  .versus > div { padding: 16px 18px; }
+  .versus .before { border-right: 1px solid var(--hairline); background: var(--paper-dim); }
+  .versus .after { background: #fdfaf3; }
+  .versus h4 { font-size: 12px; letter-spacing: .16em; color: var(--ink-soft); font-weight: 700; margin-bottom: 10px; }
+  .versus ul { list-style: none; font-size: 13.5px; }
+  .versus li { padding: 3px 0 3px 16px; position: relative; }
+  .versus li::before { content: "—"; position: absolute; left: 0; color: var(--ink-soft); }
+  .versus .after li::before { content: "·"; color: var(--red); font-weight: 900; }
+
+  code { font-family: var(--mono); font-size: .86em; background: var(--paper-dim); padding: 1px 5px; border: 1px solid var(--hairline); }
+  pre { font-family: var(--mono); font-size: 12.5px; line-height: 1.6; background: var(--paper-dim); border: 1px solid var(--hairline); padding: 14px 16px; overflow-x: auto; margin: 12px 0 16px; }
+
+  .colophon { border-top: 3px double var(--ink); padding-top: 18px; font-size: 12.5px; color: var(--ink-soft); text-align: center; letter-spacing: .1em; }
+
+  @media (max-width: 680px) {
+    .sheet { padding: 36px 18px 56px; }
+    .metrics { grid-template-columns: repeat(2, 1fr); }
+    .versus { grid-template-columns: 1fr; }
+    .versus .before { border-right: none; border-bottom: 1px solid var(--hairline); }
+    .masthead h1 { font-size: 30px; }
+    td.num, th.num { white-space: normal; }
+  }
+</style>
+</head>
+<body>
+<div class="sheet">
+
+  <header class="masthead">
+    <div class="masthead-top">
+      <span>第 429 期 · 排版工程</span>
+      <span>2026-09-15</span>
+    </div>
+    <h1>排版优化交付报告</h1>
+    <p class="masthead-sub">每日新报 · 自动排版适配 <b>v4</b> · 三档钳制 / 实测校准 / 验证守门</p>
+  </header>
+
+  <section>
+    <p class="lede">本次按此前排版诊断的 P0/P1 建议完成实施：行数钳制从「构建时单点估算」升级为「三档断点各自精确计算」，字宽模型由 17 个断点的真实渲染数据拟合校准，并落地了构建后浏览器验证守门。<strong>核心结果：静默裁剪 170 处 → 0 处</strong>——任何断点下都不会再出现文字被无声丢弃。</p>
+    <div class="metrics">
+      <div class="metric"><div class="mv">170<small> → </small>0</div><div class="ml">静默裁剪（丢字）</div></div>
+      <div class="metric"><div class="mv">68<small> → </small>5</div><div class="ml">手机/平板裁剪处</div></div>
+      <div class="metric"><div class="mv">23<small>/23</small></div><div class="ml">对比度采样达 AA</div></div>
+      <div class="metric"><div class="mv">88<small>/88</small></div><div class="ml">单元测试通过</div></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="sec-no">壹</span><h2>逐条对照：诊断建议 → 实施状态</h2><span class="sec-en">SCOPE AUDIT</span></div>
+    <table>
+      <tr><th>诊断建议</th><th>优先级</th><th>状态</th><th>实施说明</th></tr>
+      <tr><td>L4 验证守门：构建后浏览器断言</td><td>P0</td><td class="ok">实施</td><td><code>verify:layout</code> 脚本 + npm 命令；断言无静默裁剪、无溢出，告警覆盖渐隐/偏差/对比度/填充率/CLS</td></tr>
+      <tr><td>行数钳制按 3 断点各算一套</td><td>P0</td><td class="ok">实施</td><td><code>fitClamp3()</code> 一次算齐 full/mid/narrow，CSS 容器查询按档取用</td></tr>
+      <tr><td>Secondary 字号 15→14 修复高估</td><td>P1</td><td class="ok">实施</td><td>与 CSS <code>--fs-brief</code> 对齐</td></tr>
+      <tr><td>补齐 count-4/5 版式规则</td><td>P1</td><td class="ok">实施</td><td>4 篇=通栏+并栏+通栏收尾；5 篇=通栏+2×2 半栏；永无孤篇</td></tr>
+      <tr><td>半栏导语钳制与真实长度匹配</td><td>P1</td><td class="ok">实施</td><td>4 行 → 8 行（实测中文导语中位数≈8 行，现可完整展示）</td></tr>
+      <tr><td>简讯栏宽魔数（-40）</td><td>附带</td><td class="ok">实施</td><td>改为 dense 单列实测宽 159px——旧值 323px 约两倍高估，是简讯被大面积硬裁的根因</td></tr>
+      <tr><td>行高硬编码 1.7 脆弱耦合</td><td>附带</td><td class="pend">保留+守卫</td><td>由单元测试令牌对拍守卫，改行高令牌会被测试拦截</td></tr>
+      <tr><td>西文字宽系数粗略</td><td>P2</td><td class="ok">超额完成</td><td>en 版独立拟合模型（误差 0.10 行），未引入 opentype.js 依赖</td></tr>
+      <tr><td>L1 精确度量（opentype.js）</td><td>P2</td><td class="pend">延后</td><td>拟合模型已达 0.06/0.10 行误差；告警持续出现时再引入</td></tr>
+      <tr><td>L2 模板库 + L3 六档降级</td><td>P2</td><td class="pend">延后</td><td>三档钳制已覆盖 L3 核心机制；完整模板库需先决策「版面高度漂移」</td></tr>
+    </table>
+    <p class="note">范围纪律：只动排版层（字号/行高/行数/断点/版式规则），未碰信息架构、文案、品牌色与字族。延后项均写明触发条件（见交接文档）。</p>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="sec-no">贰</span><h2>改了什么：机制说明</h2><span class="sec-en">WHAT CHANGED</span></div>
+
+    <h3>三档钳制替代单点估算</h3>
+    <p>旧机制在构建时按 1180px 版心算一次行数，写死 <code>--l</code>；但版面有窄/中/宽三档容器查询，窄屏下栏宽变化导致估算失配——实测发现手机档有 11 处误裁、平板档 7 处无谓渐隐。新机制一次算齐三档行数（<code>--l-full / --l-mid / --l-narrow</code>），CSS 在对应档位取用；宽屏用「设计钳制」守住报纸版面语言，中/窄屏用放寛的「守护钳制」优先保信息完整。</p>
+
+    <div class="versus">
+      <div class="before">
+        <h4>优化前 · 单点估算</h4>
+        <ul>
+          <li>构建时按 1180px 算一次，全断点共用</li>
+          <li>简讯 dense 双列按整栏宽估算（323px），实际单列只有 159px</li>
+          <li>超限直接渐隐+硬裁，无中间档</li>
+          <li>裁了什么，没人知道</li>
+        </ul>
+      </div>
+      <div class="after">
+        <h4>优化后 · 三档实测校准</h4>
+        <ul>
+          <li>full/mid/narrow 三档各自精确计算</li>
+          <li>宽度表来自 17 断点真实渲染采样</li>
+          <li>估算 +1 行安全余量：宁可多留一行，绝不无声裁字</li>
+          <li>验证守门每次构建可复查，裁剪数可量化</li>
+        </ul>
+      </div>
+    </div>
+
+    <h3>字宽模型由真实渲染拟合</h3>
+    <p>旧的启发式字宽表（西文系数 0.72/0.52）误差大。本次用 17 个断点 × 91 个钳制元素的真实行数做最小二乘拟合，中英文各一套模型：中文误差 0.06 行、英文 0.10 行，最大低估 1 行（由安全余量吸收）。英文版终于有了为自己字体（Old Standard TT）校准的宽度模型。</p>
+
+    <h3>验证守门：不通过不出刊</h3>
+    <pre>pnpm preview &amp;
+pnpm run verify:layout
+# 退出码 1 = 存在静默裁剪或横向溢出</pre>
+    <p class="note">断言项：无静默裁剪、无横向溢出（硬失败）；无谓渐隐、估算偏差、对比度、栏填充率、CLS（软告警）。建议接入 GitHub Actions 出刊流程。</p>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="sec-no">叁</span><h2>验证结果</h2><span class="sec-en">VERIFICATION</span></div>
+
+    <h3>裁剪（8 断点 × 4 页面 × 中英双版）</h3>
+    <table>
+      <tr><th>指标</th><th class="num">优化前</th><th class="num">优化后</th><th>判定</th></tr>
+      <tr><td>静默裁剪（无渐隐的丢字）</td><td class="num">170</td><td class="num pos">0</td><td class="ok">全断点归零</td></tr>
+      <tr><td>手机档（360/600px）裁剪</td><td class="num">25</td><td class="num pos">0</td><td class="ok">信息完整</td></tr>
+      <tr><td>平板档（768–1100px）裁剪</td><td class="num">43</td><td class="num">5</td><td>全部带渐隐收尾的有序降级</td></tr>
+      <tr><td>桌面档（1180px+）裁剪</td><td class="num">102</td><td class="num">74</td><td>设计钳制内的预期让步（头版导语≤3行等版面语言）</td></tr>
+      <tr><td>横向溢出 / 破版</td><td class="num">0</td><td class="num">0</td><td class="ok">保持</td></tr>
+    </table>
+    <p class="note">桌面档剩余的 74 处「带渐隐裁剪」是报纸版面语言的有意让步——头版导语压 3 行、半栏导语压 8 行以内，超出的部分以尾部溶解收尾（可点「阅读原文」看全文）。与旧版的区别：这些让步现在全部经过精确计算并带渐隐提示，不再是静默丢字。</p>
+
+    <h3>可读性与对比度</h3>
+    <table>
+      <tr><th>采样组</th><th class="num">对比度</th><th class="num">AA 门槛</th><th>判定</th></tr>
+      <tr><td>正文墨色 on 纸底</td><td class="num">15.12:1</td><td class="num">4.5:1</td><td class="ok">通过</td></tr>
+      <tr><td>淡墨辅助文字 on 纸底</td><td class="num">6.24:1</td><td class="num">4.5:1</td><td class="ok">通过</td></tr>
+      <tr><td>套红标题/标签 on 纸底</td><td class="num">6.61:1</td><td class="num">4.5:1</td><td class="ok">通过</td></tr>
+      <tr><td>广告暗底文字</td><td class="num">13.31:1</td><td class="num">4.5:1</td><td class="ok">通过</td></tr>
+      <tr class="dim"><td colspan="3">全部 23 组采样（含 12px 眉注、来源行、图说）</td><td class="ok">23/23</td></tr>
+    </table>
+    <p class="note">行宽：正文主栏 34–38 字/行、头条导语 30 字/行，均在 45–75 字符区间；行高阶梯 1.25/1.5/1.7。半栏 18 字/行为报纸半栏消息的既有栏式（栏宽 250px），非本次改动引入。</p>
+
+    <h3>字体加载与性能（无回退）</h3>
+    <table>
+      <tr><th>指标</th><th class="num">优化前</th><th class="num">优化后</th><th>判定</th></tr>
+      <tr><td>中文版 DCL / Load</td><td class="num">8 / 26ms</td><td class="num">7 / 14ms</td><td class="ok">无回退</td></tr>
+      <tr><td>英文版 DCL / Load</td><td class="num">8 / 14ms</td><td class="num">9 / 14ms</td><td>持平（±1ms 抖动）</td></tr>
+      <tr><td>CLS 中文 / 英文</td><td class="num">0.0014 / 0.034</td><td class="num">0.0013 / 0.037</td><td>持平（en 微升 0.003，字体 swap 既有序列，远低于 0.1 阈值）</td></tr>
+      <tr><td>传输字节</td><td class="num">23.1 / 6.3KB</td><td class="num">不变</td><td class="ok">零新增请求</td></tr>
+    </table>
+
+    <h3>简讯栏空洞修复</h3>
+    <p>旧版 9 条简讯以下时栏高锁死 474px（被对侧撑住），内容再少也不收缩。修复后填充率 1.01–1.05（门槛 0.6），简讯少时高度自然回落，不再有固定空洞。</p>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="sec-no">肆</span><h2>前后对比截图索引</h2><span class="sec-en">EVIDENCE</span></div>
+    <p>统一断点、统一视口、整页长截图（优化前 = 修复前构建，优化后 = 本次提交构建）。存放于 <code>docs/typography-optimization/screenshots/</code>：</p>
+    <table>
+      <tr><th>断点</th><th>中文版</th><th>英文版</th></tr>
+      <tr><td>手机 360px</td><td>before-zh-360 ↔ after-zh-360</td><td>before-en-360 ↔ after-en-360</td></tr>
+      <tr><td>平板 768px</td><td>before-zh-768 ↔ after-zh-768</td><td>before-en-768 ↔ after-en-768</td></tr>
+      <tr><td>桌面 1280px</td><td>before-zh-1280 ↔ after-zh-1280</td><td>before-en-1280 ↔ after-en-1280</td></tr>
+      <tr><td>宽屏 1440px</td><td colspan="2">zh / en 各一组（1440 与 1280 版式同档）</td></tr>
+    </table>
+    <p class="note">看图要点：手机版简讯栏（旧版大量标题被截半行）与桌面版各版导语（旧版半栏 4 行硬裁 → 新版 8 行完整）。整页文档高度变化也直观可见：手机档变高（信息完整展示的代价）、桌面档回升（半栏导语放宽）。</p>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="sec-no">伍</span><h2>维护交接要点</h2><span class="sec-en">HANDOFF</span></div>
+    <p>完整台账见 <code>docs/typography-optimization/HANDOFF.md</code>（每处改动的位置、影响范围、回退方式）。日常要点：</p>
+    <table>
+      <tr><th>场景</th><th>操作</th></tr>
+      <tr><td>日常出刊</td><td>流程不变：<code>pnpm run build:issue &amp;&amp; pnpm build</code>，估算自动完成</td></tr>
+      <tr><td>出刊前守门</td><td><code>pnpm run verify:layout</code>（退出码 1 = 不出刊）</td></tr>
+      <tr><td>改版式网格后</td><td><code>pnpm run measure:slots</code> 重采样 → 更新 <code>TIERS</code> 表 → <code>pnpm test &amp;&amp; verify:layout</code></td></tr>
+      <tr><td>调钳制值</td><td>只改 <code>CLAMPS</code> 一个表（guard 必须 > design，单测守卫）</td></tr>
+      <tr><td>回退</td><td><code>git revert 3aa88b8</code>（主修复单提交，可整体或按文件回退）</td></tr>
+    </table>
+    <p class="note">已知取舍：+1 行安全余量使渐隐判定偏保守（可能多溶解一行而非丢字）；mid 档内极端视口有 1–2 行估算漂移，由 line-clamp 守护网兜底不破版。延后项（opentype 精确度量、模板库）的触发条件已写入交接文档。</p>
+  </section>
+
+  <footer class="colophon">
+    每日新报 · 排版优化 v4 · 提交 3aa88b8 · 验证数据与截图同仓 docs/typography-optimization/
+  </footer>
+
+</div>
+</body>
+</html>

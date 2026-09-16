@@ -1,7 +1,13 @@
 ---
-// 簡訊欄 · v4：三檔鉗制；dense 模式估算寬度用 dense 單列寬（159px，實測），
-// 修復舊版按整欄 323px 估算導致的近半簡訊被硬裁。
+// 簡訊欄 · v5：三檔鉗制；dense 模式估算寬度用 dense 單列寬（159px，實測）。
 // >9 條轉 dense：雙列只留標題。欄寬扣除類目標籤佔位（tagEm）。
+//
+// 來源標註：簡訊條目原先只渲染標題與導語，**丟掉了數據裡的 source / link**——
+// 讀者既不知道消息出自哪家，也無從點進原文，與頭條、各版（都有「來源：…」行）不一致。
+// 現補上：`來源：<媒體>` 之中，媒體名即原文鏈接（一個錨點同時承擔「標註出處」與「可達原文」）。
+// 之所以不照搬各版的「來源：X · 原文」兩段式：簡訊是密集列表，每條多一個「· 原文」既冗餘
+// 又佔寬（dense 雙列每列僅 544px，標題墨跡已可達 323px），而「來源名可點」已是全站
+// 一致的鏈接語彙。故 .brief-src 用 inline 跟隨標題，不另起一行、不改變既有版式結構。
 import { fitClamp3 } from '../lib/fit.mjs';
 interface Props {
   briefs: { title: string; lead?: string; categoryLabel?: string; source: string; link: string }[];
@@ -29,6 +35,11 @@ const vars = (f) => `--l-full:${f.full.lines};--l-mid:${f.mid.lines};--l-narrow:
           </span>
           { lead && (
             <span class="brief-lead" style={vars(lead)}>{b.lead}</span>
+          ) }
+          { b.source && (
+            b.link
+              ? <a class="brief-src" href={b.link} target="_blank" rel="noopener noreferrer">{t.sourcePrefix}{b.source}</a>
+              : <span class="brief-src">{t.sourcePrefix}{b.source}</span>
           ) }
         </li>
       );

@@ -560,6 +560,17 @@ body.paper::after {
   text-align: left;
 }
 
+/* 簡訊來源：行內跟隨標題（見 Briefs.astro 註釋——媒體名即原文鏈接）。
+   比標題再小一檔（12px）並降為淡墨，不與標題爭注意力；
+   nowrap 保證「來源：媒體名」不被拆成兩行（媒體名本身可能含空格，如 "NYT World"）。 */
+.brief-src {
+  margin-left: .7em;
+  font-size: var(--fs-fine);
+  color: var(--ink-soft);
+  white-space: nowrap;
+}
+.brief-src:hover { color: var(--red); border-color: var(--red); }
+
 .briefs--dense .briefs-list {
   display: grid;
   grid-template-columns: 1fr 1fr;

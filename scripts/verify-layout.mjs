@@ -8,11 +8,14 @@
 // 断言（硬失败）：
 //   H1 无裁剪   每个钳制元素 scrollHeight <= clientHeight + 1（渐隐兜底之外不允许真正丢字）
 //   H2 无横向溢出  页面与文本容器 scrollWidth <= clientWidth + 1
+//   H3 同行等高    弹性排版核心保证：同一视觉行的两块盒高差 <= 4px
+//                  （宽度按内含量分配来拉平高度，不靠裁字也不靠留白）
 // 告警（软）：
 //   W1 无谓渐隐   fade=1 但内容完整放得下（估算过估）
 //   W2 行数偏差   --l 估算与实际行数偏差 > 2 行
 //   W3 孤行      多行文本末行字数 <= 2
 //   W4 栏空      简讯直栏填充率 < 0.6
+//   W5 版式留白  某个 grid 项底部空白 > 48px（约 2 行）——内容不足或等高拉伸
 // 退出码：有硬失败 = 1（不通过不许出刊），否则 0。
 import { mkdirSync, writeFileSync } from 'node:fs';
 import { dirname } from 'node:path';
@@ -93,11 +96,70 @@ const collect = () => {
     const listH = [...briefs.children].reduce((h, c) => h + (c.getBoundingClientRect().height || 0), 0) + 48;
     briefsFill = +(listH / briefs.getBoundingClientRect().height).toFixed(2);
   }
+  // 版式留白：grid 等高會把內容量少的一項拉成成片空白（裁字之外的另一半問題）。
+  // 內容真實高度必須由子元素幾何邊界累加求得——不能用 scrollHeight，
+  // 因為對沒有 overflow 的元素它恆 >= clientHeight，永遠測不出留白。
+  const contentH = (el) => {
+    const kids = [...el.children].filter((k) => k.getBoundingClientRect().height > 0);
+    if (!kids.length) return el.clientHeight;
+    const s = cs(el);
+    let top = Infinity, bottom = -Infinity;
+    for (const k of kids) {
+      const r = k.getBoundingClientRect();
+      top = Math.min(top, r.top); bottom = Math.max(bottom, r.bottom);
+    }
+    if (!isFinite(top)) return el.clientHeight;
+    return Math.round(bottom - top + parseFloat(s.paddingTop || 0) + parseFloat(s.paddingBottom || 0));
+  };
+  // 逐行彈性排版：版塊在 .sections-row 內，頭版首行（頭條／次條）在 .front-grid 內，
+  // 副刊的正文欄與廣告框在 .supplement 內
+  const gapSel = [
+    ...document.querySelectorAll('.front-grid > *'),
+    ...document.querySelectorAll('.sections-row > .section-block'),
+    ...document.querySelectorAll('.supplement > *'),
+  ];
+  const gaps = gapSel.map((el) => {
+    const boxH = Math.round(el.getBoundingClientRect().height);
+    const cH = contentH(el);
+    return {
+      cls: (el.className || '').toString().split(' ').slice(0, 2).join('.'),
+      label: (el.querySelector('.section-label')?.textContent || '').trim().slice(0, 8),
+      boxH, contentH: cH, gap: boxH - cH,
+    };
+  }).filter((g) => g.gap > 0).sort((a, b) => b.gap - a.gap);
+
+  // H3 彈性排版的核心保證：同一視覺行的兩項必須等高
+  // （寬度按內含量分配來拉平高度，而不是靠裁字或留白）。取 top 相近者為同一行。
+  const rowGroups = [...document.querySelectorAll('.sections-row'), document.querySelector('.front-grid')]
+    .filter(Boolean)
+    .map((row) => {
+      const items = [...row.children]
+        .filter((c) => c.getBoundingClientRect().height > 0)
+        .map((c) => ({
+          cls: (c.className || '').toString().split(' ')[0],
+          h: Math.round(c.getBoundingClientRect().height),
+          w: Math.round(c.getBoundingClientRect().width),
+          top: Math.round(c.getBoundingClientRect().top),
+        }));
+      const seen = [];
+      for (const it of items) {
+        const g = seen.find((x) => Math.abs(x.top - it.top) < 4);
+        if (g) g.items.push(it); else seen.push({ top: it.top, items: [it] });
+      }
+      return seen.filter((g) => g.items.length > 1);
+    })
+    .flat();
+  const unEven = [];
+  for (const g of rowGroups) {
+    const hs = g.items.map((x) => x.h);
+    const dh = Math.max(...hs) - Math.min(...hs);
+    if (dh > 4) unEven.push({ dh, items: g.items.map((x) => `${x.cls}(${x.w}×${x.h})`).join(' vs ') });
+  }
   // 对比度采样
   const contrastTargets = ['.headline-lead', '.secondary-body', '.section-body', '.section-title', '.brief-line',
     '.brief-lead', '.source-line', '.sections li', '.kicker', '.masthead-side', '.ad-body', '.ad-sign',
     '.colophon p', '.archive-date', '.archive-headline', '.briefs-title', '.supplement-title', '.translated-lead',
-    '.brief-tag', '.consensus', '.section-label', '.weather-city', '.weather-desc', '.headline-title', '.secondary-title'];
+    '.brief-tag', '.consensus', '.section-label', '.headline-title', '.secondary-title'];
   const lum = (rgb) => {
     const m = rgb.match(/[\d.]+/g); if (!m) return null;
     const [r, g, b] = m.slice(0, 3).map((x) => { const v = x / 255; return v <= 0.03928 ? v / 12.92 : Math.pow((v + 0.055) / 1.055, 2.4); });
@@ -135,6 +197,8 @@ const collect = () => {
     viewportMeta: !!document.querySelector('meta[name="viewport"]'),
     blocks: { masthead: rect('.masthead'), frontGrid: rect('.front-grid'), sectionsGrid: rect('.sections-grid'), supplement: rect('.supplement'), translated: rect('.translated'), colophon: rect('.colophon') },
     briefsFill,
+    gaps,
+    unEven,
     nodes: out,
     contrasts,
     fonts: { count: fonts.length, bytes: fonts.reduce((s, f) => s + f.bytes, 0), sample: fonts.slice(0, 3).map((f) => f.n), ready: document.fonts.status },
@@ -175,15 +239,20 @@ for (const pg of PAGES) {
       const estDev = r.nodes.filter((n) => n.estLines > 0 && Math.abs(n.estLines - n.actualLines) > 2 && !n.clipped);
       const contrastsFail = r.contrasts.filter((c) => !c.pass);
       const briefsLow = r.briefsFill != null && r.briefsFill < 0.6;
-      if (hardClip.length || hOver.length || docOver) hardFails += hardClip.length + hOver.length + (docOver ? 1 : 0);
-      warns += wasteFade.length + estDev.length + contrastsFail.length + (briefsLow ? 1 : 0) + (shipMode ? fadedClip.length : 0);
+      // W5 版式留白：單個 grid 項的底部空白 > 48px（約 2 行正文）才算病態留白；
+      // 更小的差值屬正常 padding/行距。內容不足或等高拉伸都會命中。
+      const bigGap = (r.gaps ?? []).filter((g) => g.gap > 48);
+      const unEven = r.unEven ?? [];
+      if (hardClip.length || hOver.length || docOver || unEven.length) hardFails += hardClip.length + hOver.length + (docOver ? 1 : 0) + unEven.length;
+      warns += wasteFade.length + estDev.length + contrastsFail.length + (briefsLow ? 1 : 0) + (shipMode ? fadedClip.length : 0) + bigGap.length;
       results.push({ ...r, summary: {
         clamped: r.nodes.length, clipped: clipped.length, silentClip: silentClip.length, fadedClip: fadedClip.length,
         hOverflow: hOver.length, docOver,
         wasteFade: wasteFade.length, estDev: estDev.length, contrastsFail: contrastsFail.length, briefsLow,
-      }, clippedDetail: clipped.slice(0, 30), wasteFadeDetail: wasteFade.slice(0, 30), estDevDetail: estDev.slice(0, 30) });
-      const flag = (hardClip.length || hOver.length || docOver) ? 'FAIL' : ((wasteFade.length + estDev.length + contrastsFail.length + (shipMode ? fadedClip.length : 0)) ? 'WARN' : ' OK ');
-      console.log(`[${flag}] ${pg || '(首页)'} @${vw}px  clamped=${r.nodes.length} clipped=${clipped.length} hOver=${hOver.length} docOver=${docOver} wasteFade=${wasteFade.length} estDev=${estDev.length} cFail=${contrastsFail.length} doc-${r.docH}px`);
+        bigGap: bigGap.length, gapMax: bigGap[0]?.gap ?? 0, unEven: unEven.length, unEvenMax: unEven[0]?.dh ?? 0,
+      }, clippedDetail: clipped.slice(0, 30), wasteFadeDetail: wasteFade.slice(0, 30), estDevDetail: estDev.slice(0, 30), gapDetail: bigGap.slice(0, 20), unEvenDetail: unEven.slice(0, 20) });
+      const flag = (hardClip.length || hOver.length || docOver || unEven.length) ? 'FAIL' : ((wasteFade.length + estDev.length + contrastsFail.length + bigGap.length + (shipMode ? fadedClip.length : 0)) ? 'WARN' : ' OK ');
+      console.log(`[${flag}] ${pg || '(首页)'} @${vw}px  clamped=${r.nodes.length} clipped=${clipped.length} hOver=${hOver.length} docOver=${docOver} unEven=${unEven.length}(${unEven[0]?.dh ?? 0}px) wasteFade=${wasteFade.length} estDev=${estDev.length} cFail=${contrastsFail.length} gap=${bigGap.length}(${bigGap[0]?.gap ?? 0}px) doc-${r.docH}px`);
     } catch (e) {
       console.log(`[ERR ] ${pg} @${vw}px ${e.message}`);
       results.push({ page: pg, wantVw: vw, error: String(e.message) });

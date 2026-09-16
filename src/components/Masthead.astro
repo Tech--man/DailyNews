@@ -1,5 +1,13 @@
 ---
 // 報頭三段式：期數售價 · 刊名 · 日期星期（＋語言切換）
+//
+// 刊名雙語層級**隨版本鏡像對調**：
+//   zh 版 —— 大字為中文刊名「每日新報」（宋體 900 · 大字距 · 雙鉤描邊），
+//            小字為拉丁刊名 "The Daily News"（IM Fell 斜體 · 套紅）；
+//   en 版 —— 大字為英文刊名 "The Daily News"（Playfair Display 700 · 中性字距），
+//            小字為中文刊名「每日新報」（宋體 700 · 套紅）。
+// 兩個大字位所需要的字體處理截然不同（漢字靠字距與描邊撐版心，拉丁 Display
+// 靠自身筆畫對比），因此兩者各有一套字距／描邊設定，見 newspaper.css §3。
 import { fmt } from '../lib/dateCn.mjs';
 import { WORDMARK, WORDMARK_LATIN } from '../lib/i18n.mjs';
 interface Props {
@@ -9,19 +17,22 @@ interface Props {
   t: any;
   altHref?: string | null;
   altText?: string;
+  foundedYear?: number;   // 創刊年份（由頁面自最早期次推得，避免硬編碼過期）
 }
-const { issueNo, date, lunar, t, altHref, altText } = Astro.props;
-const f = fmt(t.htmlLang === 'en' ? 'en' : 'zh');
+const { issueNo, date, lunar, t, altHref, altText, foundedYear } = Astro.props;
+const lang = t.htmlLang === 'en' ? 'en' : 'zh';
+const f = fmt(lang);
+const title = lang === 'en' ? WORDMARK_LATIN : WORDMARK;   // 大字刊名
+const minor = lang === 'en' ? WORDMARK : WORDMARK_LATIN;   // 小字刊名
 ---
 <header class="masthead">
   <div class="masthead-side masthead-left">
     <p class="issue-no">{f.issue(issueNo)}</p>
-    <p class="issue-price">{t.price}</p>
   </div>
   <div class="masthead-center">
-    <p class="masthead-latin">{WORDMARK_LATIN}</p>
-    <h1 class="masthead-title">{WORDMARK}</h1>
-    <p class="masthead-sub">{t.founded}</p>
+    <p class="masthead-minor">{minor}</p>
+    <h1 class="masthead-title">{title}</h1>
+    <p class="masthead-sub">{t.founded(foundedYear ?? 2026)}</p>
   </div>
   <div class="masthead-side masthead-right">
     <p class="date-cn">{f.date(date)}</p>

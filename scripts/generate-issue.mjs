@@ -1,12 +1,12 @@
 // 出刊編排 v2：抓取 RSS → 規範化 → 時效 → 去噪 → 分類 → 多源共識 → 打分 → 配額選稿 → 雙語言版
 // 用法：node scripts/generate-issue.mjs [YYYY-MM-DD] [--dry-run] [--lang zh|en]
 // 只存標題+摘要+原文鏈接，不存全文（版權約束）。
-import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, readdirSync } from 'node:fs';
 import { pathToFileURL, fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import {
   smartTruncate, dedupeByTitle, classifyV2, withScores, filterFresh,
-  computeConsensus, isNoise, selectEdition, buildBody, lunarLine, wmoDesc, categoryLabel, localizeText,
+  computeConsensus, isNoise, selectEdition, buildBody, lunarLine, categoryLabel, localizeText,
 } from './lib.mjs';
 import { collectFeeds, assertPublicHttpUrl } from './feed.mjs';
 import { renderOg } from './og.mjs';
@@ -23,35 +23,23 @@ function localDateStr(d = new Date()) {
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
 }
 
-// 創刊日 2025-07-14：2026-09-14 恰為第 428 期，與 M1 版面一致
-const ISSUE_EPOCH = Date.UTC(2025, 6, 14);
+// 期號：自最早期次起算，第一期為 1——與渲染層（src/lib/issues.mjs 的 issueNumberOf）**同口徑**，
+// 兩處必須一致，否則報頭與過刊頁會顯示不同的期號。
+// 舊口徑是「自虛構創刊日 2025-07-14 按日推算」（曾令 2026-09-14 恰為第 428 期，以對齊 M1 原型版面），
+// 它算的是日曆天數差而非出刊期數：缺期會跳號，且與站上實際期數無關（站上只有一期卻顯示 429）。
 export function issueNo(dateStr) {
-  const [y, m, d] = dateStr.split('-').map(Number);
-  return (Date.UTC(y, m - 1, d) - ISSUE_EPOCH) / 864e5 + 1;
-}
-
-/* ---------- 天氣（open-meteo，免 key） ---------- */
-
-async function fetchWeather(cfg, timeoutMs, lang) {
-  const city = lang === 'en' ? (cfg.cityEn ?? cfg.city) : cfg.city;
-  const geoUrl = `https://geocoding-api.open-meteo.com/v1/search?name=${encodeURIComponent(city)}&count=1&language=zh&format=json`;
-  const geo = JSON.parse(await (await fetch(geoUrl, { signal: AbortSignal.timeout(timeoutMs) })).text());
-  const hit = geo?.results?.[0];
-  if (!hit) throw new Error(`地理編碼無結果：${city}`);
-
-  const fcUrl = `https://api.open-meteo.com/v1/forecast?latitude=${hit.latitude}&longitude=${hit.longitude}`
-    + `&daily=temperature_2m_max,temperature_2m_min,weather_code&timezone=Asia%2FShanghai&forecast_days=1`;
-  const fc = JSON.parse(await (await fetch(fcUrl, { signal: AbortSignal.timeout(timeoutMs) })).text());
-  const d = fc?.daily;
-  if (!d?.temperature_2m_max?.length || !d?.temperature_2m_min?.length) throw new Error('預報數據為空');
-
-  return {
-    city,
-    temp: `${Math.round(d.temperature_2m_min[0])}~${Math.round(d.temperature_2m_max[0])}℃`,
-    desc: wmoDesc(d.weather_code?.[0], lang),
-    lat: hit.latitude,
-    lon: hit.longitude,
-  };
+  const dir = join(ROOT, 'issues');
+  let dates = [];
+  try {
+    dates = readdirSync(dir)
+      .filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
+      .map(f => f.replace(/\.json$/, ''))
+      .sort();                                  // 舊 → 新
+  } catch { /* 目錄尚不存在：視為第一期 */ }
+  const idx = dates.indexOf(dateStr);
+  if (idx !== -1) return idx + 1;
+  // 尚未落盤的日期：按插入位置計——補跑往期不會改變既有期號
+  return dates.filter(d => d < dateStr).length + 1;
 }
 
 /* ---------- 單語言版選稿 ---------- */
@@ -244,23 +232,11 @@ async function main() {
     }
   }
 
-  // 天氣：免 key 源，失敗降級為 null（渲染層隱藏天氣方塊）
-  let weather = null;
-  try {
-    const byLang = {};
-    for (const lang of languages) byLang[lang] = await fetchWeather(CONFIG.weather ?? {}, limits.fetchTimeoutMs, lang);
-    weather = byLang;
-    console.log(`\n✓ 天氣 ${weather[languages[0]].city} ${weather[languages[0]].desc} ${weather[languages[0]].temp}`);
-  } catch (e) {
-    console.warn(`⚠ 天氣獲取失敗（忽略）：${e.message}`);
-  }
-
   const issue = {
     issue: issueNo(dateStr),
     date: dateStr,
     languages,
     lunar: Object.fromEntries(languages.map(l => [l, lunarLine(dateStr, l)])),
-    weather,
     editions,
     meta: {
       generatedAt: new Date(now).toISOString(),

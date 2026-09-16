@@ -42,7 +42,9 @@
   --fs-h3:      1.1875rem;  /* 19 版塊文章標題 */
   --fs-h2:      1.4375rem;  /* 23 次條 · 副刊 · 通欄標題 */
   --fs-h1:      2.5rem;     /* 40 頭條標題 */
-  --fs-display: 5.5rem;     /* 88 報頭 */
+  --fs-display: 5.5rem;     /* 88 報頭（中文刊名：四字撐滿版心） */
+  --fs-display-en: 4.5rem;  /* 72 報頭（英文刊名）：拉丁刊名「The Daily News」14 字符的橫向占位
+                               約為「每日新報」4 字的 1.6 倍，沿用 88px 會吃掉兩側期數與日期欄，故單獨降檔 */
 
   /* 行高 3 檔 */
   --lh-display: 1.25;  /* 顯示級：報頭 / 頭條 */
@@ -106,48 +108,13 @@ a:focus-visible { outline: 1px dashed var(--red); outline-offset: 3px; }
 .headline-title, .secondary-title, .section-title,
 .supplement-title, .archive-title, .masthead-title { text-wrap: balance; }
 
-/* 鉗制兜底 · v4 三檔：--l-full/mid/narrow 由構建時 fit.mjs 按檔注入，
-   容器查詢按檔取用（默認 full）。--fade-* 為該檔是否漸隱（0/1）。
-   full 檔 = 設計鉗制（版面語言）；mid/narrow = 守護鉗制（放寬安全網）。
-   mid/narrow 另有 line-clamp 守護網（見下），估算誤差最多提前漸隱，不會無漸隱硬裁。 */
-.headline-lead, .secondary-body, .section-body,
-.brief-line, .brief-lead, .translated-lead {
-  display: block;
-  max-height: calc(var(--l-cur, var(--l-full, 3)) * 1.7em);
-  overflow: hidden;
-  --l-cur: var(--l-full, 3);
-  --fade-cur: var(--fade-full, 0);
-}
-
-/* 漸隱開關：--fade-cur=1 時尾部溶解（無省略號）。calc 技巧讓容器查詢可按檔切換。 */
-.headline-lead, .secondary-body, .section-body,
-.brief-line, .brief-lead, .translated-lead {
-  -webkit-mask-image: linear-gradient(to bottom,
-    #000 calc(100% - 2em * var(--fade-cur, 0)),
-    rgb(0 0 0 / calc(100% * (1 - var(--fade-cur, 0)))));
-  mask-image: linear-gradient(to bottom,
-    #000 calc(100% - 2em * var(--fade-cur, 0)),
-    rgb(0 0 0 / calc(100% * (1 - var(--fade-cur, 0)))));
-}
-
-/* 守護網（mid/narrow）：構建時估算 +1 行安全餘量後仍可能低估（罕見）。
-   line-clamp 是運行時精確值——即使估算失誤，也只提前漸隱，絕不無漸隱硬裁。
-   full 檔不用（版面恆定由設計鉗制保證，且 line-clamp 會吃掉等高網格的餘量）。 */
-@container sheet (max-width: 1099px) {
-  .headline-lead, .secondary-body, .section-body,
-  .brief-line, .brief-lead, .translated-lead {
-    -webkit-line-clamp: var(--l-mid, var(--l-full, 3));
-    display: -webkit-box;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-}
-@container sheet (max-width: 599px) {
-  .headline-lead, .secondary-body, .section-body,
-  .brief-line, .brief-lead, .translated-lead {
-    -webkit-line-clamp: var(--l-narrow, var(--l-mid, var(--l-full, 3)));
-  }
-}
+/* 文字鉗制已移除（v5 彈性排版）。
+   舊機制：構建時估算行數 → max-height + 漸隱把超限文字裁掉，以維持固定版面；
+   代價是讀者拿到殘句（實測 8 個元素被裁，最多丟 9 行）。
+   v5 改為「以寬度換高度」——左右欄寬按內含量彈性分配、兩側等高，
+   因此不再需要用裁字來遷就版面。所有正文一律完整顯示：應顯盡顯。
+   構建時仍注入 --l-* / --fade-* 變量（Sections/Headline 等組件未改動的部分），
+   保留以便回退，但此處不再消費。 */
 
 /* ---------- 2. 紙張與版心 ---------- */
 
@@ -205,7 +172,8 @@ body.paper::after {
 .masthead-right { text-align: right; }
 .masthead-center { text-align: center; }
 
-.masthead-latin {
+/* 小字刊名位：zh 版為拉丁刊名（花體斜體 · 套紅）；en 版換成中文刊名（見 §3b）。 */
+.masthead-minor {
   font-family: var(--ornament);
   font-style: italic;
   font-size: var(--fs-note);
@@ -214,6 +182,8 @@ body.paper::after {
   color: var(--red);
 }
 
+/* 大字刊名位：zh 版為中文刊名「每日新報」——
+   漢字等寬、筆畫均齊、無大小寫之別，靠 .22em 字距與雙鉤描邊撐滿版心。 */
 .masthead-title {
   font-size: var(--fs-display);
   font-weight: 900;
@@ -222,6 +192,161 @@ body.paper::after {
   text-indent: .22em;   /* 抵消末字字距，保證視覺居中（居中塊用縮進而非負邊距——後者會把盒子推出容器，打印時撐出橫向溢出） */
   text-shadow: 1px 0 0 var(--ink), -1px 0 0 var(--ink),
                0 1px 0 var(--ink), 0 -1px 0 var(--ink);  /* 雙鉤加粗的刊名筆意 */
+}
+
+/* ---------- 3b. 英文版報頭：刊名層級鏡像對調 ----------
+   大字位換成拉丁刊名、小字位換成中文刊名——與中文版恰為鏡像。
+   中文刊名那套處理不可平移，三項各有物理原因：
+     · .22em 字距 —— 漢字等寬，拉開是端莊；拉丁小寫比例字寬參差，拉開成「字間漏風」；
+     · 雙鉤描邊   —— 為補宋體細筆畫的墨量而設；Playfair Display 橫豎對比本強、
+                     筆畫夠重，再描邊只會把襯線糊成一團；
+     · 88px       —— 「The Daily News」14 字符的橫向占位約為「每日新報」4 字的 1.6 倍，
+                     沿用 88px 會擠掉兩側的期數、售價與日期欄。
+   故：換字族（Playfair Display）、字距歸中性（.02em）、去描邊、單獨降一檔字號。
+   字重取 900（Black）而非 700 —— 中文刊名是宋體 900，拉丁若停在 700，
+   同一行上會明顯「輕一頭」；Playfair Display 的 900 分片與 700 同量級（latin 約 22KB），
+   代價極小而視覺對等。
+   小字位的中文刊名：中文無斜體，改以宋體 700 + .3em 字距取莊重，仍用套紅。 */
+:lang(en) .masthead-minor {
+  font-family: var(--serif);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: .3em;
+  text-indent: .3em;
+}
+
+:lang(en) .masthead-title {
+  font-family: var(--latin);
+  font-weight: 900;
+  font-size: var(--fs-display-en);
+  letter-spacing: .02em;
+  text-indent: .02em;
+  line-height: 1.15;
+  text-shadow: none;
+}
+
+/* 創刊行：.5em 字距是為中文方塊字的節奏所設；落在拉丁句子上會散成斷續字串。 */
+:lang(en) .masthead-sub {
+  letter-spacing: .16em;
+  text-indent: .16em;
+}
+
+/* ---------- 3c. 版本差異聲明（可關閉） ----------
+   中、英兩版各自選稿，內容不同源、非互譯，須顯著告知；
+   否則讀者會把兩版當成同一份報紙的兩種語言版本互相參校。
+   紙暗底 + 上下細線夾持 + 套紅標籤與套紅關鍵句——獨立於正文的告示帶，
+   居於報頭與欄目條之間，進站第一眼可及，又不與報頭爭主次。
+   但它不該永久佔版面：可手動關（右上 ×），也會在 5 秒後自行收起。
+   關閉全程零腳本——本站的「零 JS」是對外承諾，不為一個關閉按鈕破例。
+
+   外殼承擔收起職責：grid-template-rows 1fr→0fr 是唯一既能插值、
+   又能把高度真正收掉的免腳本路徑（height:auto→0 不可插值；
+   display 的離散動畫在新瀏覽器可行、舊版不可靠，故不用）。 */
+.edition-notice-slot {
+  display: grid;
+  grid-template-rows: 1fr;
+  animation: notice-auto-collapse .5s ease 5s forwards;
+}
+.edition-notice-clip { overflow: hidden; }
+
+@keyframes notice-auto-collapse { to { grid-template-rows: 0fr; } }
+
+/* 手動關閉開關：視覺隱藏但保留可聚焦（鍵盤可達），由 label[for] 觸發 */
+.edition-notice-off {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+  pointer-events: none;
+}
+.edition-notice-off:checked ~ .edition-notice-clip { display: none; }
+.edition-notice-off:focus-visible ~ .edition-notice-clip .edition-notice-close {
+  outline: 1px dashed var(--red);
+  outline-offset: 2px;
+}
+
+.edition-notice {
+  position: relative;
+  margin-top: var(--sp-3);
+  padding: var(--sp-3) var(--sp-6) var(--sp-4) var(--sp-5);
+  background: var(--paper-dark);
+  border-top: var(--rl-hair);
+  border-bottom: var(--rl-hair);
+  text-align: center;
+}
+
+/* 關閉鈕（右上角 ×）：全站唯一的可點控件，仍守「無圓角」的版式語言 */
+.edition-notice-close {
+  position: absolute;
+  top: var(--sp-2);
+  right: var(--sp-3);
+  width: 1.5rem;
+  height: 1.5rem;
+  display: grid;
+  place-content: center;
+  font-size: var(--fs-h4);
+  line-height: 1;
+  color: var(--ink-soft);
+  border: var(--rl-hair);
+  cursor: pointer;
+  user-select: none;
+}
+.edition-notice-close:hover { color: var(--red); border-color: var(--red); }
+
+/* 倒計時進度條：5 秒內由滿到空，與外殼動畫同長同延遲 */
+.edition-notice-countdown {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 2px;
+  background: var(--red);
+  animation: notice-countdown 5s linear forwards;
+}
+@keyframes notice-countdown { from { width: 100%; } to { width: 0; } }
+
+.edition-notice-label {
+  display: inline-block;
+  padding: 1px var(--sp-3) 2px;
+  border: 1px solid var(--red);
+  color: var(--red);
+  font-size: var(--fs-fine);
+  font-weight: 900;
+  letter-spacing: .4em;
+  text-indent: .4em;
+  margin-bottom: var(--sp-2);
+}
+
+/* 關鍵句：兩版「內容不同、非互譯」——本條聲明唯一必須被讀到的信息，故套紅加粗。 */
+.edition-notice-key {
+  font-size: var(--fs-note);
+  font-weight: 900;
+  line-height: var(--lh-title);
+  color: var(--red);
+  text-wrap: balance;
+}
+
+.edition-notice-body {
+  margin: var(--sp-1) auto 0;
+  max-width: 62ch;
+  font-size: var(--fs-note);
+  line-height: var(--lh-body);
+  color: var(--ink-soft);
+}
+
+.edition-notice-switch {
+  margin-left: .5em;
+  white-space: nowrap;
+  color: var(--red);
+  border-bottom: 1px solid var(--red);
+}
+.edition-notice-switch:hover { color: var(--ink); border-color: var(--ink); }
+
+/* en 版告示帶：拉丁句子不耐大字距，標籤字距收窄並改用 Display 字族 */
+:lang(en) .edition-notice-label {
+  font-family: var(--latin);
+  font-weight: 700;
+  letter-spacing: .18em;
+  text-indent: .18em;
 }
 
 .masthead-sub {
@@ -279,41 +404,45 @@ body.paper::after {
 }
 
 /* ---------- 5. 頭版主區 ----------
-   左 8 欄為新聞區（頭條 → 次條 → 正文雙欄流動），
-   右 4 欄為簡訊直欄，縱貫兩行——欄高差由豎線合法化，
-   整個折面由下方版帶的雙線收口。 */
+   頭條與次條並肩占滿一行，正文通欄，簡訊帶墊底。
+   簡訊不再做成「右 4 欄縱貫兩行」的直欄：那個佈局把整行高度推到簡訊欄所需高度
+   （實測 840px），而頭條／次條的內容量只有 349/239px，差額只能變成留白——
+   實測次條區下方空 251px、頭條 141px、正文 142px，合計 534px。
+   改為底部全寬橫帶後各列自撐高度（留白 534px → 96px），且簡訊一條不少。 */
 
 .front-grid {
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
+  grid-template-columns: var(--head-cols, 1fr 1fr);
   column-gap: var(--gap);
   row-gap: var(--sp-5);
   padding: var(--sp-5) 0 var(--sp-6);
 }
 
-.headline { grid-column: 1 / 6; }
+/* order 決定自動放置順序：頭條／次條同占第 1 行，正文第 2 行，簡訊帶第 3 行。
+   頭條與次條的寬度比由構建時按內含量求解（--head-cols）——標題字號 h1/h2 差異大，
+   等寬會讓次條區域空出上百像素；彈性分配後兩者等高。 */
+.headline { grid-column: 1 / 2; order: 1; }
 
 .secondary {
-  grid-column: 6 / 9;
+  grid-column: 2 / 3;
+  order: 2;
   border-left: var(--rl-hair);
   margin-left: calc(var(--gap) / -2);
   padding-left: calc(var(--gap) / 2 + var(--sp-2));
 }
 
-.briefs {
-  grid-column: 9 / 13;
-  grid-row: 1 / 3;
-  align-self: start;
-  border-left: var(--rl-hair);
-  margin-left: calc(var(--gap) / -2);
-  padding-left: calc(var(--gap) / 2 + var(--sp-3));
-  padding-right: var(--sp-2);
-}
-
 .headline-body {
-  grid-column: 1 / 9;
+  grid-column: 1 / -1;
+  order: 3;
   border-top: var(--rl-hair);
   padding-top: var(--sp-5);
+}
+
+.briefs {
+  grid-column: 1 / -1;
+  order: 4;
+  border-top: var(--rl-hair);
+  padding: var(--sp-4) 0 0;
 }
 
 /* ---------- 6. 頭條 ---------- */
@@ -353,6 +482,19 @@ body.paper::after {
   object-fit: cover;
   border: var(--rl-hair);
   filter: grayscale(1) contrast(1.15) sepia(.15);
+}
+
+/* 頭條主圖固定框高，不隨欄寬變化。
+   彈性排版靠「加寬 → 降低高度」的單調性來二分求解；若圖片高度隨欄寬增長
+   （aspect-ratio 的預設行為），單調性被破壞，求解會反向——實測 en 版頭條
+   被錯誤推寬成 747px，反而空出 294px。固定框高後圖片高度與欄寬無關。 */
+.photo-main {
+  margin-top: var(--sp-4);
+}
+
+.photo-main img {
+  height: 240px;
+  aspect-ratio: auto;
 }
 
 .photo figcaption {
@@ -425,30 +567,6 @@ body.paper::after {
 }
 .briefs--dense .brief-lead { display: none; }
 
-.weather-box {
-  margin-top: var(--sp-4);
-  padding: var(--sp-3);
-  border: var(--rl-hair);
-}
-
-.weather-info {
-  display: grid;
-  justify-items: center;
-  gap: var(--sp-1);
-}
-
-.weather-city {
-  font-size: var(--fs-body);
-  font-weight: 700;
-  letter-spacing: .3em;
-  margin-right: -.3em;
-}
-
-.weather-desc {
-  font-size: var(--fs-brief);
-  color: var(--ink-soft);
-}
-
 /* ---------- 10. 頭條正文（跨 8 欄；欄數由構建時 fit 決定） ---------- */
 
 .headline-body {
@@ -474,12 +592,18 @@ body.paper::after {
 
 /* ---------- 11. 各版（版帶 · 數據驅動 1–3 篇） ---------- */
 
+/* 逐行彈性欄寬（v5）：不再是整版一個 2 列網格，而是每行一個 .sections-row，
+   欄寬由構建時按內含量求解後注入（--row-cols），使同行兩塊等高——
+   內容多的一側更寬、行數下降，兩側都鋪滿且不留空。 */
 .sections-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  column-gap: calc(var(--gap) * 2);
   border-top: var(--rl-double);
   padding: var(--sp-5) 0 var(--sp-6);
+}
+
+.sections-row {
+  display: grid;
+  grid-template-columns: var(--row-cols, 1fr 1fr);
+  column-gap: calc(var(--gap) * 2);
 }
 
 /* 每塊保留底線：格線全部閉合，不依賴行數奇偶 */
@@ -500,36 +624,31 @@ body.paper::after {
   margin-right: -.4em;
 }
 
+/* 逐行結構：DOM 已把文章按版式分行（通欄篇 / 並肩對），
+   欄寬由構建時按內含量求解注入（--pair-cols），使並肩兩篇等高——
+   版塊內部同樣是「以寬度換高度」：短的一篇不會在導語與來源行之間空出一截。
+   版式語言不變：1 篇通欄；2 篇並肩；3 篇首篇通欄 + 兩篇並肩；
+   4 篇首篇通欄 + 兩篇並肩 + 末篇通欄；5 篇首篇通欄 + 2×2 半欄。 */
 .section-articles {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  column-gap: var(--gap);
   margin-top: var(--sp-3);
 }
 
-/* 版式語言：永無孤篇、首篇層級恆在
-   1 篇通欄；2 篇並肩；3 篇首篇通欄、後兩篇並肩；
-   4 篇首篇通欄 + 兩篇並肩 + 末篇通欄（對稱收尾，層級保留）；
-   5 篇首篇通欄 + 2×2 半欄（層級保留）。 */
-.section-articles.count-1 .section-article,
-.section-articles.count-3 .section-article:first-child,
-.section-articles.count-4 .section-article:first-child,
-.section-articles.count-4 .section-article:last-child,
-.section-articles.count-5 .section-article:first-child { grid-column: 1 / -1; }
+/* 並肩對：兩篇按內含量分配寬度（--pair-cols 由構建時求解） */
+.article-pair {
+  display: grid;
+  grid-template-columns: var(--pair-cols, 1fr 1fr);
+  column-gap: var(--gap);
+}
 
 /* 並肩行之右篇：點線分隔（補償進列距正中） */
-.count-2 .section-article:nth-child(2),
-.count-3 .section-article:nth-child(3),
-.count-4 .section-article:nth-child(3),
-.count-5 .section-article:nth-child(3),
-.count-5 .section-article:nth-child(5) {
+.article-pair > .section-article + .section-article {
   border-left: var(--rl-dot);
   margin-left: calc(var(--gap) / -2);
   padding-left: calc(var(--gap) / 2);
 }
 
-/* count-4 末篇通欄與中間並肩行的分隔（頂線收口） */
-.count-4 .section-article:last-child {
+/* 末篇通欄（count-4）：與上方並肩行以頂線收口 */
+.section-articles > .section-article:last-child:not(:only-child) {
   border-top: var(--rl-dot);
   margin-top: var(--sp-3);
   padding-top: var(--sp-3);
@@ -562,10 +681,12 @@ body.paper::after {
 
 /* ---------- 12. 副刊 · 廣告位 ---------- */
 
+/* 副刊：正文與廣告框**縱向堆疊**，不再並肩。
+   並肩時兩者是「固定體量 vs 可變長度」的組合——廣告框內容恆定約 192px，
+   而副刊正文長度逐期變化，等高的代價就是正文越長、廣告框虛胖越厲害
+   （實測並肩時卡片 609px 中有 413px 是空，占 2/3）。
+   堆疊後各自撐高，留白歸零，總高度也更短。 */
 .supplement {
-  display: grid;
-  grid-template-columns: 7fr 5fr;
-  gap: var(--gap);
   border-top: var(--rl-double);
   padding: var(--sp-5) 0 var(--sp-6);
 }
@@ -592,10 +713,12 @@ body.paper::after {
 }
 .supplement-main .source-line { margin-top: var(--sp-3); }
 
-/* 廣告框：height 拉滿列高——留白成為框內呼吸，而非懸空 */
+/* 廣告框：排在副刊正文下方，整幅寬、高度按內容自適應。
+   （舊版用 height:100% 與正文並肩等高，代價是正文越長框內空白越大——
+   實測 1280px 下卡片 609px 中有 413px 是空。改為堆疊後不再需要拉伸。） */
 .ad-box {
   position: relative;
-  height: 100%;
+  margin-top: var(--sp-5);
   background: var(--paper-dark);
   border: var(--rl-hair);
   padding: var(--sp-5) 7.25rem var(--sp-4) var(--sp-5);  /* 右側讓位印章 */
@@ -610,6 +733,12 @@ body.paper::after {
   padding-bottom: var(--sp-2);
   border-bottom: var(--rl-ink);
   margin-bottom: var(--sp-3);
+}
+
+/* en 版廣告標題收字距：.5em 是為四個方塊字所設；拉丁句（25 字符）在 .5em 下會撐破框寬。 */
+:lang(en) .ad-head {
+  letter-spacing: .08em;
+  text-indent: .08em;
 }
 
 .ad-body {
@@ -663,12 +792,10 @@ body.paper::after {
   margin-top: var(--sp-1);
 }
 
-/* 僅廣告態：單欄居中 */
-.supplement--adonly { grid-template-columns: 1fr; }
+/* 僅廣告態：卡片限寬居中（margin: 0 auto 同時消掉與正文的間距） */
 .supplement--adonly .ad-box {
   max-width: 620px;
   width: 100%;
-  height: auto;
   margin: 0 auto;
 }
 
@@ -833,39 +960,48 @@ body.paper::after {
     margin-right: -.2em;
   }
 
-  .front-grid { grid-template-columns: 1fr 1fr; }
+  /* 中幅改單列堆疊（與窄幅一致）：次條導語約 200px 而簡訊欄約 720px，
+     兩者同行等高會把次條拉出 500px 以上的成片留白。
+     分列後每塊自撐高度，留白歸零。 */
+  .front-grid { grid-template-columns: 1fr; row-gap: var(--sp-5); }
 
   .headline { grid-column: 1 / -1; }
 
   .secondary {
-    grid-column: 1 / 2;
+    grid-column: 1 / -1;
     border-left: none;
     margin-left: 0;
     padding-left: 0;
   }
 
   .briefs {
-    grid-column: 2 / 3;
+    grid-column: 1 / -1;
     grid-row: auto;
-    padding-left: calc(var(--gap) / 2 + var(--sp-2));
-    padding-right: 0;
+    border-left: none;
+    margin-left: 0;
+    padding: var(--sp-4) 0 0;
+    border-top: var(--rl-hair);
   }
 
   .headline-body { grid-column: 1 / -1; }
 
   .headline-title { font-size: 2.125rem; }  /* 34 */
 
-  .sections-grid { grid-template-columns: 1fr; }
+  /* en 版報頭降檔：拉丁刊名橫向占位大（72px 時約 540px），中幅版心容不下，
+     會把兩側期數／日期欄壓到溢出，故降至 52px（約 384px）。
+     zh 版四字刊名（449px）在中幅仍可容納，維持原字號。 */
+  :lang(en) .masthead-title { font-size: 3.25rem; }
 
-  .supplement { grid-template-columns: 1fr; }
-  .supplement .ad-box { margin-top: var(--sp-5); }
-  .supplement--adonly .ad-box { margin-top: 0; }
+  .sections-row { grid-template-columns: 1fr; }
+
+  /* 副刊已是縱向堆疊（見 §12），此檔無需改欄 */
 }
 
 @container sheet (max-width: 759px) {
   .masthead { grid-template-columns: 1fr; text-align: center; }
   .masthead-side { text-align: center; }
   .masthead-title { font-size: 3.5rem; }  /* 56 */
+  :lang(en) .masthead-title { font-size: 2.75rem; }  /* 44：拉丁刊名同步降檔，見 §3b */
 }
 
 /* ---------- 18. 容器查詢 · 窄幅（版心 < 600px） ---------- */
@@ -910,22 +1046,16 @@ body.paper::after {
 
   .briefs--dense .briefs-list { grid-template-columns: 1fr; }
 
-  .section-articles { grid-template-columns: 1fr; }
-  .section-articles .section-article { grid-column: 1 / -1; }
-  .count-2 .section-article:nth-child(2),
-  .count-3 .section-article:nth-child(3) {
+  /* 窄幅：並肩對改縱向堆疊，兩篇之間以點線分隔 */
+  .article-pair { grid-template-columns: 1fr; }
+  .article-pair > .section-article + .section-article {
     border-left: none;
     margin-left: 0;
     padding-left: 0;
-  }
-  .count-2 .section-article + .section-article,
-  .count-3 .section-article + .section-article {
     border-top: var(--rl-dot);
     margin-top: var(--sp-3);
     padding-top: var(--sp-3);
   }
-
-  .supplement { grid-template-columns: 1fr; }
 
   /* 副刊正文窄幅單列（雙列在 312px 版心下每列僅 151px，不可讀） */
   .supplement-body { column-count: 1; max-width: none; }
@@ -973,23 +1103,31 @@ body.paper::after {
     --l-cur: var(--l-mid, var(--l-full, 3));
     --fade-cur: var(--fade-mid, var(--fade-full, 0));
   }
-  .front-grid { grid-template-columns: 1fr 1fr; }
+  .front-grid { grid-template-columns: 1fr; }
   .headline { grid-column: 1 / -1; }
-  .secondary { grid-column: 1 / 2; border-left: none; margin-left: 0; padding-left: 0; }
-  .briefs { grid-column: 2 / 3; grid-row: auto; padding-left: calc(var(--gap) / 2 + var(--sp-2)); }
+  .secondary { grid-column: 1 / -1; border-left: none; margin-left: 0; padding-left: 0; }
+  .briefs { grid-column: 1 / -1; grid-row: auto; border-left: none; margin-left: 0; padding: var(--sp-4) 0 0; border-top: var(--rl-hair); }
   .headline-body { grid-column: 1 / -1; }
-  .sections-grid { grid-template-columns: 1fr; }
-  .supplement { grid-template-columns: 1fr; }
-  .supplement .ad-box { margin-top: var(--sp-5); }
+  .sections-row { grid-template-columns: 1fr; }
 
   /* 斷頁控制：小版塊不跨頁，標題不落單 */
   .secondary, .briefs, .section-article, .ad-box,
-  .weather-box, .briefs-list li { break-inside: avoid; }
+  .briefs-list li { break-inside: avoid; }
   .headline-title, .secondary-title, .section-title,
   .briefs-title, .ad-head { break-after: avoid; }
 
   a { border-bottom: none; }
 
   .colophon-nav { display: none; }
+  /* 紙上點不動「閱讀英文版」這類切換鏈接，印出來只是噪聲；
+     關閉鈕與倒計時條同理，且聲明帶在紙上不應被自動收起（動畫一律停用）。
+     無障礙說明：聲明帶的自動收合屬 WCAG 2.2.2 的「自動消失內容」，
+     已提供關閉鈕與（可見的）倒計時條；兩者均為指示性而非運動性動畫，
+     不觸發前庭不適，故不另設 prefers-reduced-motion 特例。 */
+  .edition-notice-switch,
+  .edition-notice-close,
+  .edition-notice-countdown,
+  .edition-notice-off { display: none; }
+  .edition-notice-slot { animation: none; }
   .colophon { padding-bottom: 0; }
 }

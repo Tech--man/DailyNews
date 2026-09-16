@@ -1,8 +1,9 @@
 ---
-// 整張報紙的裝配：報頭 → 欄目條 → 頭版 → 各版 → 副刊 → 域外譯訊 → 版尾。
+// 整張報紙的裝配：報頭 → 聲明帶 → 欄目條 → 頭版 → 各版 → 副刊 → 域外譯訊 → 版尾。
 // 中英兩版共用此組件，差異全部由 issue.editions[lang] 與 t（文案詞典）驅動。
 // 渲染前對全部見報文字做 tidy 清洗（標點空格等數據缺陷）。
 import Masthead from './Masthead.astro';
+import EditionNotice from './EditionNotice.astro';
 import SectionBar from './SectionBar.astro';
 import Headline from './Headline.astro';
 import Secondary from './Secondary.astro';
@@ -13,6 +14,8 @@ import Supplement from './Supplement.astro';
 import Translated from './Translated.astro';
 import Colophon from './Colophon.astro';
 import { tidy } from '../lib/tidy.mjs';
+import { METRICS, solveHeadRatios } from '../lib/fit.mjs';
+import { listIssueDates, issueNumberOf } from '../lib/issues.mjs';
 
 interface Props {
   issue: any;
@@ -34,25 +37,40 @@ const ed = {
   supplement: cleanArticle(raw?.supplement),
   translated: (raw?.translated ?? []).map(it => ({ ...it, title: tidy(it.title), lead: tidy(it.lead) })),
 };
-const weather = issue.weather?.[lang] ?? null;
+
+// 頭條／次條彈性寬度：按內含量分配使兩者等高。
+// 標題字號 h1(40px) 與 h2(23px) 相差近一倍，等寬會讓次條區域空出上百像素。
+const [rHead, rSec] = ed.headline && ed.secondary
+  ? solveHeadRatios(ed.headline, ed.secondary, METRICS.content, { lang })
+  : [0.5, 0.5];
+const headCols = `${rHead.toFixed(4)}fr ${rSec.toFixed(4)}fr`;
+
+// 期號與創刊年份一律**由磁盤上的出刊序列推得**，不用數據裡的固定值：
+//   期號 —— 最早期次為第 1 期（issue.issue 是舊口徑，見 issues.mjs）；
+//   創刊年份 —— 取最早期次的年份，避免寫死年份在跨年後變成假資訊。
+const issued = listIssueDates();                       // 新 → 舊
+const issueNo = issueNumberOf(date) ?? issue.issue;
+const foundedYear = Number(String(issued.at(-1) ?? date).slice(0, 4)) || new Date().getFullYear();
 ---
 <Masthead
-  issueNo={issue.issue}
+  issueNo={issueNo}
   date={date}
   lunar={issue.lunar?.[lang]}
   t={t}
   altHref={altHref}
+  foundedYear={foundedYear}
 />
+<EditionNotice t={t} altHref={altHref} />
 <SectionBar sections={(ed.sections ?? []).map(s => ({ key: s.key, label: s.label }))} ariaLabel={t.sectionsLabel} />
 
-<main class="front-grid">
+<main class="front-grid" style={`--head-cols:${headCols}`}>
   { ed.headline && <Headline article={ed.headline} t={t} lang={lang} /> }
   <Secondary article={ed.secondary} t={t} lang={lang} />
-  <Briefs briefs={ed.briefs ?? []} weather={weather} t={t} lang={lang} />
+  <Briefs briefs={ed.briefs ?? []} t={t} lang={lang} />
   { ed.headline?.body?.length > 0 && <BodyColumns paragraphs={ed.headline.body} /> }
 </main>
 
 <Sections sections={ed.sections ?? []} t={t} lang={lang} />
-<Supplement issueNo={issue.issue} supplement={ed.supplement ?? null} t={t} />
+<Supplement issueNo={issueNo} supplement={ed.supplement ?? null} t={t} />
 <Translated items={ed.translated ?? null} t={t} lang={lang} />
-<Colophon issueNo={issue.issue} prevDate={prevDate} t={t} />
+<Colophon issueNo={issueNo} prevDate={prevDate} t={t} />

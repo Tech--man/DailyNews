@@ -25,6 +25,17 @@ export function editionOf(issue, lang) {
   return issue.editions[lang] ?? issue.editions[issue.languages?.[0]] ?? null;
 }
 
+/** 期號：自最早期次起算，第一期為 1。
+ *  以磁盤上的實際出刊序列為準，**不用**期數據裡的 issue 欄位——
+ *  那個欄位是「自虛構創刊日 2025-07-14 按日推算」的舊口徑，會給出與實際出刊期數無關的數（如 429）。
+ *  缺期不跳號：第 N 期即出刊序列中的第 N 位，符合報紙「期」的語義。 */
+export function issueNumberOf(date) {
+  const dates = listIssueDates();   // 新 → 舊
+  const idx = dates.indexOf(date);
+  if (idx === -1) return null;
+  return dates.length - idx;
+}
+
 /** 最新一期 */
 export function latestIssue() {
   const [d] = listIssueDates();

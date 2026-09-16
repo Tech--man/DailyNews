@@ -24,6 +24,27 @@
 7. **中文版为简体**。混入的繁体稿（端传媒等）经 `toSimplified()`（opencc-js）转换。
    仅报头刊名「每日新報」保留繁体作品牌美术字。
 8. **纯函数与 IO 分离**：`scripts/lib.mjs` 不做任何 IO（可单测），网络全在 `scripts/feed.mjs`。
+9. **报头刊名层级随语言镜像反转**（`Masthead.astro`）：
+   zh 版＝中文刊名作大字（Noto Serif SC 900 · 88px · 字距 .22em · 双钩描边）+ 拉丁刊名作小字（IM Fell 斜体套红）；
+   en 版＝英文刊名作大字（Playfair Display **900** · **72px** · 字距 **.02em** · **无描边**）+ 中文刊名作小字（宋体 700 套红 · 字距 .3em）。
+   两套字距/描边**不可互换**——中文那套是为方块字等宽与细笔画补墨设计的，拉丁衬线照搬会「字间漏风」且描边糊衬线。
+   字号令牌 `--fs-display`(88) / `--fs-display-en`(72)；中幅 52、窄幅 44（CSS §3b）。类名 `masthead-minor` = 小字位（曾名 `masthead-latin`）。
+10. **版本差异声明带必须挂在全部入口页**：`EditionNotice.astro` 需同时出现在 `FrontPage.astro` 与 `Archive.astro`。
+    两版各自独立选稿、内容不同源、非互译，不声明即属内容诚信缺失。它放在报头与栏目条之间（不是装饰）。
+    可关闭、且 5 秒后自动收起——**全程零脚本**（隐藏 checkbox + `:checked ~` 收起；
+    外层 `grid-template-rows: 1fr→0fr` 动画塌陷，因 `height:auto→0` 不可插值；
+    底边 2px 红条为倒计时进度条，让自动消失可预期）。
+    本站的「零脚本」是对外承诺，勿为交互引入 JS；确需「关闭后可重开／跨次记住」时须同步改 colophon 表述。
+11. **广告位口径是「招租」**（`adHead`/`adBody`/`adSign`）：本站无订阅业务，勿把订阅价格/投递方式写回文案。
+12. **创刊年份不得写死**：由最早期次推得（`listIssueDates().at(-1)` → `foundedYear` prop），`i18n` 的 `founded` 是函数。
+13. **字体产物在 `public/fonts`**（`css/fonts.css` 以 `../fonts/` 引用），`scripts/vendor-fonts.sh` 的 `OUT` 必须指向它。
+    Playfair 需 400/700/900 三个字重（900 供英文刊名）。
+14. **期号自第一期起算**（第一期 = 1，按磁盘上的实际出刊序列定，缺期不跳号）。
+    两处实现必须同口径：渲染层 `src/lib/issues.mjs` 的 `issueNumberOf()` 与生成层
+    `scripts/generate-issue.mjs` 的 `issueNo()`——不一致会让报头与过刊页显示不同期号。
+    **渲染一律用派生值，不用期数据里的 `issue` 字段**（那是旧口径：自虚构创刊日 2025-07-14
+    按天推算，算的是日历天数差而非出刊期数，站上只有一期却显示 429）。
+15. **报头不显示售价**（`price` 键已删）。报头左侧只剩期号，靠 `align-items: end` 与右侧底部齐平。
 
 ## 出刊管道（顺序不可换）
 

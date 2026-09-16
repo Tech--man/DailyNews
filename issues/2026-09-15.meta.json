@@ -1,62 +1,67 @@
 {
-  "generatedAt": "2026-09-14T23:25:43.917Z",
+  "generatedAt": "2026-09-15T07:46:30.175Z",
   "sources": {
     "configured": 36,
-    "ok": 36,
+    "ok": 35,
     "zhSources": 20,
     "enSources": 16,
-    "failed": []
+    "failed": [
+      {
+        "name": "cnBeta",
+        "reason": "The operation was aborted due to timeout"
+      }
+    ]
   },
   "funnels": {
     "zh": {
-      "fetched": 797,
-      "lang": 454,
-      "fresh": 366,
-      "denoised": 364,
-      "deduped": 345
+      "fetched": 775,
+      "lang": 430,
+      "fresh": 349,
+      "denoised": 348,
+      "deduped": 333
     },
     "en": {
-      "fetched": 797,
-      "lang": 343,
-      "fresh": 321,
-      "denoised": 318,
-      "deduped": 310
+      "fetched": 775,
+      "lang": 345,
+      "fresh": 325,
+      "denoised": 324,
+      "deduped": 314
     }
   },
   "layout": {
     "zh": {
-      "visible": 35,
+      "visible": 38,
       "sections": 7,
       "briefs": 16,
       "groups": 16,
-      "maxGroupShare": 23,
+      "maxGroupShare": 21,
       "categories": 7,
       "topGroups": [
         "中新社×8",
-        "華爾街見聞×3",
+        "紐約時報×4",
+        "華爾街見聞×4",
+        "BBC×3",
         "端傳媒×3",
-        "紐約時報×2",
-        "界面×2",
-        "cnBeta×2"
+        "IT之家×2"
       ],
       "headlineTier": "consensus+lead",
       "headlineConsensus": 2,
       "groupCap": 8
     },
     "en": {
-      "visible": 34,
+      "visible": 36,
       "sections": 6,
       "briefs": 16,
-      "groups": 18,
-      "maxGroupShare": 12,
+      "groups": 19,
+      "maxGroupShare": 14,
       "categories": 7,
       "topGroups": [
-        "Variety×4",
+        "Variety×5",
+        "BBC×4",
         "ScienceDaily×3",
         "Guardian×2",
-        "FT×2",
         "紐約時報×2",
-        "France24×2"
+        "SCMP×2"
       ],
       "headlineTier": "consensus+lead",
       "headlineConsensus": 5,

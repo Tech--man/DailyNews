@@ -5,28 +5,9 @@ import {
   dedupeByTitle, bigrams, diceSimilarity, computeConsensus,
   classifyV2, keywordBoost, detectLang, categoryLabel,
   isNoise, scoreArticle, withScores, filterFresh,
-  selectEdition, buildBody, lunarLine, wmoDesc,
+  selectEdition, buildBody, lunarLine,
   toSimplified, localizeText, CATEGORY_KEYS,
 } from '../scripts/lib.mjs';
-
-/* ---------- 天氣碼（簡體 + 英文） ---------- */
-
-test('wmoDesc 中文返回簡體描述', () => {
-  assert.equal(wmoDesc(0), '晴');
-  assert.equal(wmoDesc(2), '多云');
-  assert.equal(wmoDesc(3), '阴');
-  assert.equal(wmoDesc(45), '雾');
-  assert.equal(wmoDesc(61), '雨');
-  assert.equal(wmoDesc(80), '阵雨');
-  assert.equal(wmoDesc(95), '雷雨');
-  assert.equal(wmoDesc(null), '多云');
-});
-
-test('wmoDesc 英文按語言返回', () => {
-  assert.equal(wmoDesc(0, 'en'), 'Clear');
-  assert.equal(wmoDesc(3, 'en'), 'Overcast');
-  assert.equal(wmoDesc(95, 'en'), 'Thunderstorm');
-});
 
 /* ---------- 農曆與節氣（中英雙版） ---------- */
 

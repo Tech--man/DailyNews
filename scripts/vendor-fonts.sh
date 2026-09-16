@@ -6,7 +6,7 @@ set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 SRC="${SRC:-$ROOT/node_modules/@fontsource}"
-OUT="$ROOT/fonts"
+OUT="$ROOT/public/fonts"   # 產物即站點資源目錄（public/css/fonts.css 以 ../fonts/ 引用之）
 
 [ -d "$SRC" ] || { echo "vendor-fonts: $SRC 不存在，请先运行 pnpm install" >&2; exit 1; }
 
@@ -31,7 +31,7 @@ vendor() {
 }
 
 vendor noto-serif-sc    400.css 700.css 900.css
-vendor playfair-display 400.css 400-italic.css 700.css
+vendor playfair-display 400.css 400-italic.css 700.css 900.css
 vendor old-standard-tt  400.css 700.css
 vendor im-fell-english  400.css 400-italic.css
 

@@ -3,7 +3,7 @@
 以报纸版式呈现当日新闻的静态站点，**中英双语**。每天清晨定时抓取 RSS 聚合、净化去噪、
 打分选稿，生成一期「打开就是一张报纸」的静态页面——零脚本、零运行时依赖。
 
-![桌面版式](docs/screenshots/v2-zh-top.png)
+![桌面版式](docs/typography-optimization/screenshots/i18n-zh-masthead-1280.png)
 
 ## 里程碑状态
 
@@ -14,19 +14,23 @@
 - [x] M5 打印样式（A4）、农历节气、OG 分享图、天气、LLM 标题改写（可选增强）
 - [x] M6 **采集与选稿重建**：36 源 / 27 集团池、集团级配额、多源共识头条、摘要保真、
       头条正文与副刊落地、**中英双语版与语言切换**
+- [x] M7 **动态排版 v5**：以宽度换高度、同行等高，**不再裁字**；真实浏览器守门脚本
+- [x] M8 **出刊文案正式化**：广告位改「招租」口径、中英版差异显著声明（可关闭·全程零脚本）、
+      英文版报头刊名镜像反转与字体设计、期号自第一期起算
 - [x] 部署：GitHub Pages（https://tech--man.github.io/DailyNews/）
 
 ## 常用命令
 
 ```bash
 pnpm install
-pnpm test             # node --test 單元測試（74 用例）
+pnpm test             # node --test 單元測試（95 用例）
 pnpm run build:issue      # 抓取 RSS 生成 issues/<today>.json + meta + OG 圖
 pnpm run build:issue:dry  # 只打印漏斗報表，不寫文件（調參用）
 pnpm run diag:feeds       # 逐源探活：條數 / 時效 / 有摘要 / 耗時
 pnpm run build:og         # 為全部期次重新生成 OG 圖
 pnpm build            # Astro 構建到 dist/
 pnpm preview          # 預覽構建產物
+pnpm run verify:layout    # 真實瀏覽器守門：裁剪 / 溢出 / 對比度（需先 pnpm preview）
 ```
 
 ## 双语与语言切换
@@ -36,9 +40,15 @@ pnpm preview          # 預覽構建產物
 | 中文版 | `/`、`/issue/<date>/`、`/archive/` | `lang: zh` 的源 | 简体中文 |
 | English | `/en/`、`/en/issue/<date>/`、`/en/archive/` | `lang: en` 的源 | English |
 
-- **两个语言版各自独立选稿**，各有一份完整版面，互不冒充：英文版不会用中文占位，反之亦然。
+- **两个语言版各自独立选稿**，各有一份完整版面，互不冒充，也**不是互译关系**。
+  这一点在报头下方以显著声明带告知读者：可手动关闭，5 秒后自动收起（带倒计时进度条）。
+  为守住「零脚本」承诺，关闭与倒计时全部由 CSS 实现，未引入任何 JavaScript。
 - 中文版对混入的繁体稿（如端传媒）自动过 opencc 转简体。
-- 报头刊名「每日新報」为品牌美术字，两版共用。
+- 报头刊名「每日新報 / The Daily News」随版本**镜像排布**：
+  中文版以中文刊名作大字（Noto Serif SC 900 · 88px · 大字距 · 双钩描边），拉丁刊名作小字；
+  英文版反之，以 **Playfair Display 900 · 72px** 作大字，**中性字距、不描边**——
+  中文那套字距与描边是为方块字等宽与细笔画补墨设计的，拉丁衬线照搬会「字间漏风」且描边糊衬线。
+- 期号自**第一期起算**（按磁盘上的实际出刊序列，缺期不跳号），报头显示「第〇〇〇一期 / No. 1」。
 - 跨语言互译（把 A 版的头部稿件译入 B 版）是**可选增强**，需配置 LLM 金钥；
   未配置时自动跳过，页面上不出现「域外译讯」栏。
 
@@ -105,37 +115,47 @@ scripts/generate-issue.mjs  出刊编排：抓取 → 规范 → 双语言版选
 scripts/rewrite.mjs      LLM 标题改写与跨语言翻译（可选，失败即降级）
 scripts/og.mjs           OG 分享图（satori + sharp），每语言一张
 scripts/diag-feeds.mjs   源探活诊断
+scripts/verify-layout.mjs 排版守门：真实浏览器断言（裁剪/溢出/对比度）
+scripts/vendor-fonts.sh  自托管字体子集拷贝（@fontsource → public/fonts）
 src/lib/i18n.mjs         UI 文案词典（zh / en）
 src/lib/dateCn.mjs       日期格式化的中英两套
-src/lib/issues.mjs       期数据读取
-src/lib/fit.mjs          構建時排版測量（行數估算，注入 CSS 鉗制變量）
+src/lib/issues.mjs       期数据读取 + 期号派生（自最早期次起算）
+src/lib/fit.mjs          構建時排版測量（求解欄寬比例，注入 CSS 變量）
 src/lib/tidy.mjs         見報文本潔淨（標點空格清洗）
-src/components/          版面组件（FrontPage 装整张报，中英共用）
+src/components/          版面组件（FrontPage 装整张报，中英共用；EditionNotice 为差异声明带）
 src/pages/               中文版页面 + en/ 英文版页面
 public/css/newspaper.css 全部样式（设计令牌 + 容器查询 + 打印）
+public/fonts/            自托管字体子集（Noto Serif SC / Playfair / Old Standard / IM Fell）
 tests/                   node:test 单元测试
 docs/                    规划存档、实施记录、验收截图
 ```
 
-## 排版系统（v3）
+## 排版系统（v5：以宽度换高度）
 
-目标：**不管内容如何，版面始终成立**。三层机制：
+目标：**不管内容如何，版面始终成立**，且**不裁字**。三层机制：
 
 1. **令牌**：字號 9 檔 / 行高 3 檔 / 間距 4px 基 / 線系 4 級（雙線隔大區、墨線封欄目、
    灰線分區、點線斷列表），全部 rem（打印縮 `html` 字號即整報縮放）。
    版面常量以 `newspaper.css :root` 為唯一事實來源，`fit.mjs` 與之對拍（單測守衛）。
-2. **構建時裝配**：`fit.mjs` 在出 HTML 前量好每段文字的行數，注入 `--l`（鉗制上限）、
-   `--cols`（正文欄數）、`--measure`（行寬）；估行數為上界，鉗制用 `max-height` +
-   尾部漸隱（無省略號），未超限的內容零信息損失。標題一律 `text-wrap: balance`。
-3. **閉合**：同行文章等高（grid stretch + 來源行 `margin-top: auto` 釘底），頭版
-   三區豎線全閉合，簡訊 >9 條轉雙列密排，高度差由框線合法化。
+2. **構建時求解欄寬比例**：`fit.mjs` 按內含量求解比例，注入 `--head-cols`（頭條／次條）、
+   `--row-cols`（同排版塊）、`--pair-cols`（版塊內並肩兩篇），使**同一視覺行內各項等高**；
+   正文欄數與行寬另經 `--cols` / `--measure` 注入。
+   v5 之前是估算行數後用 `max-height` + 尾部漸隱裁字——代價是讀者拿到殘句
+   （實測最多丟 9 行），現已**整體移除**：一律應顯盡顯。
+3. **閉合**：同行等高由 grid stretch + 來源行 `margin-top: auto` 釘底保證，頭版
+   各區豎線全閉合，簡訊 >9 條轉雙列密排，高度差由框線合法化。
 
-響應式按容器寬三檔（≥1020 寬版 / 680–999 中幅 / <680 窄幅），打印 A4 自動落入
-中幅。英文版標題 Playfair Display、正文 Old Standard TT（CJK 字體的彎引號是
-全角字形，英文所有格必須走 Latin 字族）；渲染前所有見報文本經 `tidy` 清洗。
+響應式按**容器寬**三檔：版心 **≥1100**（寬版，頭版雙列、版塊並排）、
+**600–1099**（中幅，頭版與版塊轉單列；≤759 時報頭亦折為單列）、
+**≤599**（窄幅，正文強制單欄）。打印 A4（版心 ≈703px）自動落入中幅。
+英文版標題 Playfair Display、正文 Old Standard TT（CJK 字體的彎引號是全角字形，
+英文所有格必須走 Latin 字族）；渲染前所有見報文本經 `tidy` 清洗。
 
 ## 设计文档
 
 - `docs/dev-plan.md` — 用户提供的原始规划（项目总纲）
 - `docs/plans/2026-09-15-采集与选稿重建方案.md` — 首刊内容缺失的根因诊断与重建方案
-- `docs/screenshots/v3-*.png` — v3 排版系统验收截图（桌面/中幅/窄幅/打印 × 中英）
+- `docs/plans/2026-09-15-自动排版适配方案探讨.md` — 自动排版的诊断与方案
+- `docs/typography-optimization/HANDOFF.md` — 排版优化变更台账（逐条对照 + 回退方式）
+- `docs/typography-optimization/CHECKS.md` — 优化前后的验证记录与指标
+- `docs/screenshots/` — 各里程碑验收截图

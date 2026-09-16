@@ -1,47 +1,107 @@
 ---
-// 各版（配額選稿產出，每版多篇）· v4：三檔鉗制 + 版式語言補全。
-// 版式規則（含 count-4/5，見 newspaper.css §11）：
-//   1 篇通欄；2 篇並肩；3 篇首篇通欄、後兩篇並肩；
-//   4 篇首篇通欄 + 中兩篇並肩 + 末篇通欄（層級保留、無孤篇）；
-//   5 篇首篇通欄 + 2×2 半欄（首篇層級保留）。
-// 構建時按「通欄/半欄」各測三檔行數注入；行底對齊由 CSS 等高網格完成。
-import { fitClamp3 } from '../lib/fit.mjs';
+// 各版（配額選稿產出，每版多篇）。
+//
+// 彈性排版（v5）：兩層都以「寬度換高度」，讓同排的各項等高，而不是靠裁字或留白。
+//   第一層 · 版塊：同行兩塊按內含量分配欄寬（--row-cols），塊高相等。
+//   第二層 · 篇：版塊內並肩兩篇同樣按內含量分配寬度（--pair-cols），篇高相等
+//                ——否則短的一篇會在導語與來源行之間空出一截（來源行釘底所致）。
+//
+// 版式語言不變：1 篇通欄；2 篇並肩；3 篇首篇通欄 + 兩篇並肩；
+//   4 篇首篇通欄 + 兩篇並肩 + 末篇通欄；5 篇首篇通欄 + 2×2 半欄。
+// 窄幅（單列）與列印由 CSS 覆蓋為單欄，此處算出的比例自然失效（比例仍成立）。
+import { METRICS, GAP, solveRowRatios, solvePairRatios } from '../lib/fit.mjs';
 interface Props {
   sections: { key: string; label: string; articles: { title: string; lead?: string; source?: string; link?: string }[] }[];
   t: any;
   lang?: 'zh' | 'en';
 }
 const { sections, t, lang = 'zh' } = Astro.props;
-const fitLead = (lead: string | undefined, full: boolean) =>
-  lead && fitClamp3(lead, full ? 'section-full' : 'section-half', { size: 14, lang });
-const vars = (f) => `--l-full:${f.full.lines};--l-mid:${f.mid.lines};--l-narrow:${f.narrow.lines};--fade-full:${f.full.faded ? 1 : 0};--fade-mid:${f.mid.faded ? 1 : 0};--fade-narrow:${f.narrow.faded ? 1 : 0}`;
-const isFull = (count: number, i: number) => count === 1 || (count >= 3 && i === 0) || (count === 4 && i === 3);
+
+// 把 N 篇按版式語言分行：通欄篇獨占一行，其餘兩兩成行
+const layoutRows = (n: number) => {
+  if (n <= 1) return [[0]];
+  if (n === 2) return [[0, 1]];
+  if (n === 4) return [[0], [1, 2], [3]];
+  const rows = [[0]];
+  for (let i = 1; i < n; i += 2) rows.push(i + 1 < n ? [i, i + 1] : [i]);
+  return rows;
+};
+
+// 第一層：版塊逐行按內含量分配欄寬（同行兩塊等高）
+const rowW = METRICS.content;
+const availW = rowW - GAP * 2;
+const gridRows = [];
+for (let i = 0; i < sections.length; i += 2) {
+  const pair = sections.slice(i, i + 2);
+  let cols = '1fr';
+  let widths = [rowW];
+  if (pair.length === 2) {
+    const [rA, rB] = solveRowRatios(pair[0].articles, pair[1].articles, rowW, { lang });
+    cols = `${rA.toFixed(4)}fr ${rB.toFixed(4)}fr`;
+    widths = [availW * rA, availW * rB];
+  }
+  gridRows.push({
+    cols,
+    blocks: pair.map((sec, k) => ({
+      key: sec.key,
+      label: sec.label,
+      total: sec.articles.length,
+      rows: layoutRows(sec.articles.length).map((idxs) => {
+        if (idxs.length === 1) {
+          return { full: true, cols: '1fr', items: [{ a: sec.articles[idxs[0]], i: idxs[0] }] };
+        }
+        const [i1, i2] = idxs;
+        const [p1, p2] = solvePairRatios(sec.articles[i1], sec.articles[i2], widths[k], { lang });
+        return {
+          full: false,
+          cols: `${p1.toFixed(4)}fr ${p2.toFixed(4)}fr`,
+          items: [{ a: sec.articles[i1], i: i1 }, { a: sec.articles[i2], i: i2 }],
+        };
+      }),
+    })),
+  });
+}
 ---
 { sections.length > 0 && (
 <section class="sections-grid">
-  {sections.map(sec => (
-    <div class="section-block" id={`sec-${sec.key}`}>
-      <p class="section-label">{sec.label}</p>
-      <div class:list={['section-articles', `count-${sec.articles.length}`]}>
-        {sec.articles.map((a, i) => {
-          const full = isFull(sec.articles.length, i);
-          const body = fitLead(a.lead, full);
-          return (
-            <article class:list={['section-article', { 'is-lead': i === 0 && sec.articles.length > 2 }]}>
-              <h3 class="section-title">{a.title}</h3>
-              { a.lead && body && (
-                <p class="section-body" style={vars(body)}>{a.lead}</p>
-              ) }
-              { a.source && (
-                <p class="source-line">
-                  {t.sourcePrefix}{a.source}
-                  {a.link && <a href={a.link} target="_blank" rel="noopener noreferrer"> · {t.original}</a>}
-                </p>
-              )}
-            </article>
-          );
-        })}
-      </div>
+  {gridRows.map(row => (
+    <div class="sections-row" style={`--row-cols:${row.cols}`}>
+      {row.blocks.map(block => (
+        <div class="section-block" id={`sec-${block.key}`}>
+          <p class="section-label">{block.label}</p>
+          <div class="section-articles">
+            {block.rows.map(r => (
+              r.full ? (
+                <article class:list={['section-article', { 'is-lead': r.items[0].i === 0 && block.total > 2 }]}>
+                  <h3 class="section-title">{r.items[0].a.title}</h3>
+                  { r.items[0].a.lead && <p class="section-body">{r.items[0].a.lead}</p> }
+                  { r.items[0].a.source && (
+                    <p class="source-line">
+                      {t.sourcePrefix}{r.items[0].a.source}
+                      {r.items[0].a.link && <a href={r.items[0].a.link} target="_blank" rel="noopener noreferrer"> · {t.original}</a>}
+                    </p>
+                  )}
+                </article>
+              ) : (
+                <div class="article-pair" style={`--pair-cols:${r.cols}`}>
+                  {r.items.map(it => (
+                    <article class="section-article">
+                      <h3 class="section-title">{it.a.title}</h3>
+                      { it.a.lead && <p class="section-body">{it.a.lead}</p> }
+                      { it.a.source && (
+                        <p class="source-line">
+                          {t.sourcePrefix}{it.a.source}
+                          {it.a.link && <a href={it.a.link} target="_blank" rel="noopener noreferrer"> · {t.original}</a>}
+                        </p>
+                      )}
+                    </article>
+                  ))}
+                </div>
+              )
+            ))}
+          </div>
+        </div>
+      ))}
     </div>
   ))}
 </section>

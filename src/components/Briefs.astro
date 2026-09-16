@@ -5,11 +5,10 @@
 import { fitClamp3 } from '../lib/fit.mjs';
 interface Props {
   briefs: { title: string; lead?: string; categoryLabel?: string; source: string; link: string }[];
-  weather?: { city: string; temp: string; desc: string } | null;
   t: any;
   lang?: 'zh' | 'en';
 }
-const { briefs, weather, t, lang = 'zh' } = Astro.props;
+const { briefs, t, lang = 'zh' } = Astro.props;
 const dense = briefs.length > 9;
 const tagEm = 3.2; // 類目標籤（2–4 字 + 間距）佔位，估算時從欄寬扣除（em，相對 size）
 const fit = (text: string, size: number, withTag = false) =>
@@ -35,12 +34,4 @@ const vars = (f) => `--l-full:${f.full.lines};--l-mid:${f.mid.lines};--l-narrow:
       );
     })}
   </ol>
-  { weather && (
-    <div class="weather-box">
-      <div class="weather-info">
-        <p class="weather-city">{weather.city}</p>
-        <p class="weather-desc">{weather.desc} {weather.temp}</p>
-      </div>
-    </div>
-  ) }
 </aside>

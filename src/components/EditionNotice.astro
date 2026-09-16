@@ -1,0 +1,43 @@
+---
+// 版本差異聲明 · 顯著標識（可關閉）。
+//
+// 中、英兩版由兩套獨立管道各自選稿（buildEdition 每語言各跑一遍），
+// 頭條、欄目、簡訊、副刊均不同源，兩版之間沒有任何翻譯關係。
+// 讀者若不被告知，極易誤以為二者是「同一份報紙的兩個語言版本」而互相參校，
+// 因此這條聲明是內容誠信的一部分，不是裝飾。
+//
+// 位置：報頭之下、欄目條之上——報紙「啟事」的慣常位置，進站第一眼可及。
+// 視覺：紙暗底 + 上下細線夾持 + 套紅標籤與套紅關鍵句，形成獨立於正文的告示帶。
+//
+// 關閉機制（全程零腳本，維持本站「零 JS」承諾）：
+//   · 手動 —— 右上角 × 是個 <label>，切換一個視覺隱藏的 checkbox，由 :checked ~ 兄弟選擇器收起；
+//   · 自動 —— 5 秒後 CSS 動畫把外層 grid-template-rows 由 1fr 收到 0fr，內層 overflow:hidden
+//             完成塌陷（height:auto→0 不可插值，故走 grid 行高——這是免腳本塌陷高度的唯一路子）；
+//   · 底邊細紅線是倒計時進度條（5 秒內由滿到空），讓「會自己消失」這件事可預期。
+//
+// 已知取捨：收起後本次訪問內無法再展開——CSS 動畫的 forwards 狀態改不回來，
+// 純 CSS 也沒有「記住已讀」的能力；需要重看請刷新頁面。
+// （若要「關閉後可重開」或「跨次訪問記住已關」，就必須引入 JS，colophon 的「零腳本」表述也須同步修改。）
+interface Props {
+  t: any;
+  altHref?: string | null;
+}
+const { t, altHref } = Astro.props;
+// 每頁只掛一處（FrontPage 或 Archive），故用固定 id 即可；label 的 for 需與之一致。
+const closeId = 'edition-notice-off';
+---
+<div class="edition-notice-slot">
+  <input type="checkbox" id={closeId} class="edition-notice-off" aria-label={t.editionNoticeClose}>
+  <div class="edition-notice-clip">
+    <aside class="edition-notice" role="note">
+      <label for={closeId} class="edition-notice-close" title={t.editionNoticeClose} aria-hidden="true">×</label>
+      <p class="edition-notice-label">{t.editionNoticeLabel}</p>
+      <p class="edition-notice-key">{t.editionNoticeKey}</p>
+      <p class="edition-notice-body">
+        {t.editionNoticeBody}
+        { altHref && <a class="edition-notice-switch" href={altHref}>{t.editionNoticeSwitch}</a> }
+      </p>
+      <span class="edition-notice-countdown" aria-hidden="true"></span>
+    </aside>
+  </div>
+</div>

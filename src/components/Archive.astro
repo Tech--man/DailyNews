@@ -2,6 +2,7 @@
 // 過刊瀏覽列表（中英共用）
 import Colophon from './Colophon.astro';
 import Masthead from './Masthead.astro';
+import EditionNotice from './EditionNotice.astro';
 import { fmt } from '../lib/dateCn.mjs';
 import { langPrefix } from '../lib/i18n.mjs';
 import BASE from '../lib/base.mjs';
@@ -16,8 +17,11 @@ interface Props {
 const { rows, lang, t, latestDate, altHref } = Astro.props;
 const f = fmt(lang);
 const p = `${BASE}${langPrefix(lang)}`;
+// rows 為新→舊；最早一期即創刊期。與 FrontPage 同口徑，避免報頭年份兩頁不一致。
+const foundedYear = Number(String(rows.at(-1)?.date ?? latestDate).slice(0, 4)) || new Date().getFullYear();
 ---
-<Masthead issueNo={rows[0]?.issueNo ?? 1} date={latestDate} t={t} altHref={altHref} />
+<Masthead issueNo={rows[0]?.issueNo ?? 1} date={latestDate} t={t} altHref={altHref} foundedYear={foundedYear} />
+<EditionNotice t={t} altHref={altHref} />
 <section class="archive">
   <h2 class="archive-title">{t.archiveTitle}</h2>
   { rows.length === 0 && <p class="archive-empty">{t.archiveEmpty}</p> }

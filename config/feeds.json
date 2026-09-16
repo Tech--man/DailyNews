@@ -49,10 +49,6 @@
     { "name": "Variety", "group": "Variety", "url": "https://variety.com/feed/", "weight": 2, "tier": "standard", "lang": "en", "category": "culture" },
     { "name": "ScienceDaily", "group": "ScienceDaily", "url": "https://www.sciencedaily.com/rss/all.xml", "weight": 3, "tier": "standard", "lang": "en", "category": "science" }
   ],
-  "weather": {
-    "city": "杭州",
-    "cityEn": "Hangzhou"
-  },
   "limits": {
     "perFeed": 25,
     "maxAgeHours": 36,

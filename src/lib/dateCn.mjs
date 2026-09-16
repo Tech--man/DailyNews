@@ -15,10 +15,14 @@ function cnNumber(n) {
 
 const parts = dateStr => String(dateStr).split('-').map(Number);
 
+/** 年份 → 報頭中文數字（2026 → 二〇二六）。亦供「創刊于〇〇年」動態年份使用。 */
+export function cnYear(y) {
+  return String(y).split('').map(c => DIGITS[Number(c)]).join('');
+}
+
 export function cnDate(dateStr) {
   const [y, m, d] = parts(dateStr);
-  const year = String(y).split('').map(c => DIGITS[Number(c)]).join('');
-  return `${year}年${cnNumber(m)}月${cnNumber(d)}日`;
+  return `${cnYear(y)}年${cnNumber(m)}月${cnNumber(d)}日`;
 }
 
 export function cnWeek(dateStr) {

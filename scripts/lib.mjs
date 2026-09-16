@@ -96,27 +96,6 @@ export function lunarLine(dateStr, lang = 'zh') {
   return term ? `${lunar} · ${term}` : lunar;
 }
 
-/* ================= 天氣 ================= */
-
-const WMO_ZH = [
-  [0, 1, '晴'], [2, 2, '多云'], [3, 3, '阴'], [45, 48, '雾'], [51, 55, '毛毛雨'], [56, 57, '冻毛毛雨'],
-  [61, 65, '雨'], [66, 67, '冻雨'], [71, 75, '雪'], [77, 77, '霰'], [80, 82, '阵雨'], [85, 86, '阵雪'], [95, 99, '雷雨'],
-];
-const WMO_EN = {
-  晴: 'Clear', 多云: 'Partly cloudy', 阴: 'Overcast', 雾: 'Fog', 毛毛雨: 'Light drizzle',
-  冻毛毛雨: 'Freezing drizzle', 雨: 'Rain', 冻雨: 'Freezing rain', 雪: 'Snow', 霰: 'Sleet',
-  阵雨: 'Showers', 阵雪: 'Snow showers', 雷雨: 'Thunderstorm',
-};
-
-/** WMO weather_code → 描述（open-meteo 口徑），未知碼回退多云 */
-export function wmoDesc(code, lang = 'zh') {
-  let zh = '多云';
-  if (typeof code === 'number' && code >= 0 && code <= 99) {
-    for (const [lo, hi, name] of WMO_ZH) if (code >= lo && code <= hi) { zh = name; break; }
-  }
-  return lang === 'en' ? (WMO_EN[zh] ?? zh) : zh;
-}
-
 /* ================= 繁簡轉換 ================= */
 
 // 源裡混有繁體（端傳媒等）。中文版統一輸出簡體，故對標題/導語/正文過一次 OpenCC。
@@ -538,6 +517,7 @@ export function selectEdition(pool, layout, { groupCapRatio = 0.2 } = {}) {
    * 寧可同源補位，也不留版面空洞（並在 dry-run 報表可見）。
    */
   const sections = [];
+  const secMeta = [];
   for (const cfg of sectionsCfg) {
     const cats = catOf(cfg);
     const count = cfg.count ?? 1;
@@ -554,7 +534,58 @@ export function selectEdition(pool, layout, { groupCapRatio = 0.2 } = {}) {
       if (!canTake(it) || !inCat(it)) continue;
       picked.push(take(it));
     }
-    if (picked.length) sections.push({ key: cfg.key ?? cats[0] ?? 'top', articles: picked });
+    if (picked.length) {
+      sections.push({ key: cfg.key ?? cats[0] ?? 'top', articles: picked });
+      secMeta.push({ cats, count });
+    }
+  }
+
+  /**
+   * 同行兩塊內容量均衡（版面預算）。
+   *
+   * full 檔各版是 2 列等高網格：同一行的兩塊被拉成等高，
+   * 內容量少的一塊底部就成了留白（實測：要聞版內容 341px 卻占 541px 格高，
+   * 底部空 200px；國際版 3 篇但稿件短，空 159px）。
+   *
+   * 配額只按「篇數」不足以保证均衡——篇數相同而稿件長短懸殊時照样失衡。
+   * 因此這裡按內容量把矮的一塊補到接近同行較高的一方。
+   * 內容量以「導語字符數（截斷到 220）+ 標題字符數 ×1.5」估算，
+   * 與 buildEdition 的 compose(a, 220) 對齊。
+   */
+  const MAX_PER_SECTION = 5;        // CSS 版式語言（count-1..5）支援的上限
+  // 每篇的固定開銷（標題至少佔 1 行 + 來源行 + 篇間距）折算成字符當量後計入重量。
+  // 少了這一項，「5 篇短稿」與「3 篇長稿」會被判成等重，
+  // 而前者實際版式（count-5：首篇通欄 + 2×2 半欄）高出一截，留白只是換個地方出現。
+  const ARTC = 80;
+  const leadCap = it => Math.min(leadLen(it), 220);
+  const gainOf = it => ARTC + leadCap(it) + (it.title ?? '').length * 1.5;
+  const weightOf = arts => arts.reduce((s, it) => s + gainOf(it), 0);
+
+  for (let i = 0; i + 1 < sections.length; i += 2) {
+    const a = sections[i], b = sections[i + 1];
+    const wa = weightOf(a.articles), wb = weightOf(b.articles);
+    const target = Math.max(wa, wb);
+    if (target <= 0) continue;
+    const low = wa <= wb ? a : b;
+    const lowMeta = wa <= wb ? secMeta[i] : secMeta[i + 1];
+    let w = Math.min(wa, wb);
+    // 差距 >25% 才補，避免為微小差異過度加稿
+    while (w < target * 0.9 && low.articles.length < MAX_PER_SECTION) {
+      const inCat = it => canTake(it) && lowMeta.cats.includes(it.category);
+      // 優先異集團（與各版主選稿同策略）；本類目候選不足時放行同集團補位，
+      // 否則素材被同一集團占據的類目（如國際版）會補不進去、留白照舊。
+      const strict = byScore.filter(it => inCat(it) && low.articles.every(p => grp(p) !== grp(it)));
+      const loose = byScore.filter(inCat);
+      const cands = strict.length ? strict : loose;
+      if (!cands.length) break;
+      // 優先選「補完恰好不超過目標」中最重的；都超出則選最輕的（避免反超成新的高塊）
+      const fits = cands.filter(it => w + gainOf(it) <= target * 1.05);
+      const pick = fits.length
+        ? fits.reduce((m, it) => (gainOf(it) > gainOf(m) ? it : m))
+        : cands.reduce((m, it) => (gainOf(it) < gainOf(m) ? it : m));
+      low.articles.push(take(pick));
+      w += gainOf(pick);
+    }
   }
 
   // 副刊：先文化/科學長文；fallback='longest' 時退到全池最長摘要，保證副刊版不空

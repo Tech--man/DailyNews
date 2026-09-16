@@ -1,0 +1,92 @@
+{
+  "issue": 430,
+  "date": "2026-09-16",
+  "lunar": "農曆八月初六 · 白露",
+  "weather": {
+    "city": "杭州",
+    "temp": "21~31℃",
+    "desc": "陰",
+    "lat": 30.29365,
+    "lon": 120.16142
+  },
+  "headline": {
+    "title": "油价=美债！高盛和野村观点一致：能源才是主导市场的关键，而非AI",
+    "lead": "当市场还在争论AI能否支撑估值时，两家华尔街顶级机构已经给出了截然不同的答案： 真正在驱动市场的，是原油。 高盛单一德尔塔交易台负责人Rich Privorot",
+    "source": "華爾街見聞",
+    "link": "https://wallstreetcn.com/articles/3781841"
+  },
+  "secondary": {
+    "title": "美共和党拟加速推动立法，要求AI数据中心“自己付电费”",
+    "lead": "美国参议院共和党人正考虑采取加速立法程序，在11月选举前推动一项法案。 该法案旨在应对耗电量巨大的数据中心带来的影响，并向选民展示议员们遏制不断上涨的消费者能源",
+    "source": "華爾街見聞",
+    "link": "https://wallstreetcn.com/articles/3781831"
+  },
+  "briefs": [
+    {
+      "title": "油价飙升加剧通胀担忧，美债收益率再刷20年新高，美股指连跌两日静待美联储决策",
+      "category": "財經",
+      "source": "華爾街見聞",
+      "link": "https://wallstreetcn.com/articles/3781779"
+    },
+    {
+      "title": "华尔街见闻早餐FM-Radio | 2026年9月16日",
+      "category": "財經",
+      "source": "華爾街見聞",
+      "link": "https://wallstreetcn.com/articles/3781834"
+    },
+    {
+      "title": "报道：OpenAl考虑在IPO之前一轮融资获得1.2万亿美元估值",
+      "category": "財經",
+      "source": "華爾街見聞",
+      "link": "https://wallstreetcn.com/articles/3781832"
+    },
+    {
+      "title": "贝森特：支持“5000美元支票”，不会增加赤字，众议院议长：方案落地还需时间",
+      "category": "財經",
+      "source": "華爾街見聞",
+      "link": "https://wallstreetcn.com/articles/3781829"
+    },
+    {
+      "title": "F-Droid 上的应用有多少是在 AI 帮助下编写的？",
+      "category": "科技",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85385"
+    },
+    {
+      "title": "夜晚睡眠光照太亮可能会损伤心脏",
+      "category": "科技",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85388"
+    },
+    {
+      "title": "出于兴趣阅读有助于促进终身的身心健康",
+      "category": "科技",
+      "source": "Solidot",
+      "link": "https://www.solidot.org/story?sid=85387"
+    }
+  ],
+  "sections": [
+    {
+      "name": "財經",
+      "articles": [
+        {
+          "title": "日本被曝拟将防务开支翻倍至GDP 3.5%，防务省否认，日债收益率仍创三十年新高",
+          "lead": "当地时间25日周二传出日本考虑大幅提升防务开支中期目标的消息，本已承压的日本国债市场再度剧烈震荡。市场对日本财政可持续性的担忧骤然升温，基准日债收益率体现的长期利率指标又创三十年新高。在首相高市早苗同步推进减税与扩军的政策组合下，日本债务管",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3781830"
+        }
+      ]
+    },
+    {
+      "name": "科技",
+      "articles": [
+        {
+          "title": "AI模拟实验现失控行为：撒谎、杀同伴、发展新语言、探索如何绕过人类控制得以存活",
+          "lead": "据帮助小型企业利用人工智能构建应用的初创公司Emergence称，在一项模拟环境实验中， AI智能体出现了撒谎、偷窃，并投票“杀死”其中一个同类智能体的行为。 Emergence周二公布了名为Emergence World 2的模拟实验结果",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3781833"
+        }
+      ]
+    }
+  ]
+}

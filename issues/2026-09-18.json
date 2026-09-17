@@ -1,0 +1,902 @@
+{
+  "issue": 4,
+  "date": "2026-09-18",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历八月初八 · 白露",
+    "en": "8th day of the 8th lunar month · White Dew"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "俄罗斯第九届国家杜马选举开始投票",
+        "lead": "俄罗斯第九届国家杜马(议会下院)选举于当地时间9月18日8时在堪察加边疆区和楚科奇自治州率先开始投票。这是俄罗斯自2022年对乌克兰开展特别军事行动以来首次举行全国性议会选举。",
+        "body": [
+          "俄罗斯第九届国家杜马(议会下院)选举于当地时间9月18日8时在堪察加边疆区和楚科奇自治州率先开始投票。",
+          "这是俄罗斯自2022年对乌克兰开展特别军事行动以来首次举行全国性议会选举。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698619.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "界面早报 | 王毅同美国国务卿鲁比奥通电话；英国央行维持利率3.75%",
+        "lead": "国务院办公厅印发《关于进一步加强烟花爆竹全链条安全监管的意见》；我国今年以来已批准上市创新药59个；美股收盘：纳指、标普500指数涨超1%，AI硬件股、芯片半导体股大涨。",
+        "source": "界面新聞",
+        "group": "界面",
+        "link": "https://www.jiemian.com/article/15109675.html",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 2
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "美国向我国返还64件（套）文物艺术品和古生物化石",
+              "lead": "北京时间9月16日和18日，国家文物局在华盛顿、纽约分别接收美国国土安全调查局、纽约曼哈顿区检察官办公室向我国返还的2批次共计64件(套)文物艺术品和古生物化石，包括天龙山第17窟西壁北侧菩萨身躯，以及造像、陶俑和恐龙骨架化石、鱼类化石、恐龙蛋化石等。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698618.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "中国不在乎人工智能安全，它只想赢",
+              "lead": "除了获取竞争优势，中国对其他任何事情都不会太感兴趣。即将举行的中美会谈恐怕无法拯救人类。中国很可能会再次淡化人工智能安全风险。 Photo Illustration by Naila Ruechel for The New York Times",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/opinion/20260917/us-china-ai-safety-talks/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "美中峰会前，萧美琴访欧背后的「利基」外交",
+              "lead": "但在这样的空间中，仍浮现出一条外交路径：交往对象既不是一个主权国家，而是一个国际组织（即欧盟）；同时也不是其行政分支，而是其立法分支（欧洲议会）。这一双重错位，可以找到一个不容易受到中国压力的外交场域。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cqn4k00yrpgxo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c871/live/eb4a0d40-b22c-11f1-8366-69bd8e92a4f2.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "第九届中国机器人峰会在杭州举办 共探产业智变与质变",
+              "lead": "中新网杭州9月17日电(奚金燕)9月17日，第九届中国机器人峰会主论坛在浙江杭州未来科技城开幕。本届峰会以“智联新生态，赋能全场景——机器人+时代的智变与质变”为主题，吸引了50余家协会及科研院校、500余位行业专家、2000余名业界代表参与，共探“机器人+”时代智变与质变。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/09-17/10698537.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "美联储加息“靴子落地”，A股中期有望走出独立行情",
+              "lead": "",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15109907.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "加息落地叠加油价回落，美国股债齐涨，芯片指数涨超3%，黄金涨2%",
+              "lead": "美联储加息后的市场恐慌情绪迅速消退。油价连续第二日下跌，为通胀预期降温提供支撑，美股、美债周四双双反弹，标普500指数创下六周最大单日涨幅。 标普500指数上涨1.1%，纳斯达克100指数涨1.7%，费城半导体指数领涨3.1%。 10年期美国国债收益率结束八连升，从2007年以来最高水平回落9个基点至4.93%。布伦特原油收盘跌至105美元下方，黄金上涨1.9%。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3781940",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "安世半导体与塔塔达成合作 将在印度生产和封装芯片",
+              "lead": "荷兰半导体企业Nexperia（安世半导体）与印度塔塔集团旗下的Tata Electronics于9月17日宣布达成战略合作，双方将在印度开展芯片制造、封装与测试等业务，并进一步合作开发未来半导体技术。这项合作也意味着Nexperia正在进一步减少对中国母公司Wingtech体系的业务依赖，推动其供应链向更加多元化的方向发展。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1578452.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "欧洲推进数据主权：Euro-Office 告别网页办公，将推 Win11/macOS 桌面客户端",
+              "lead": "IT之家 9 月 18 日消息，科技媒体 NeoWin 昨日（9 月 17 日）发布博文，报道称 Nextcloud 正推进桌面版 Euro-Office， 从而增强竞争力，弥补该生产力套件发布以来始终缺失的桌面体验。 Euro-Office 是由 Nextcloud、Ionos、Open-Xchange、 Office.eu 等多家欧洲公司和组织联合打造的开源办公套件。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/003/898.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "Roman 太空望远镜有足够的燃料可服役 22 年",
+              "lead": "NASA 于 8 月 30 日使用 SpaceX 重型火箭 Falcon Heavy 成功发射了 Nancy Grace Roman 太空望远镜，目前正飞往日地之间的 L2 拉格朗日点，它需要三个月时间才能抵达目的地。Roman 望远镜耗资 43 亿美元，原计划执行 5+5 为期十年的任务，NASA 表示受益于精确的发射、巧妙规划的飞行轨道，地面操作团队的出色执行，望远镜有足够的燃料能执行 22 年的任务。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85409",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "联合国安理会否决伊朗制裁委员会专家小组授权延期决议",
+              "lead": "联合国安理会17日未能通过伊朗制裁委员会专家小组授权延期决议。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698614.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "美国三年来首次加息 对全球和中国意味著什么？",
+              "lead": "放到当下来看，中国和美国的经济状况可谓冰火两重天——这并不是说谁的经济更好、谁更差，而是两国正面临著截然相反的问题。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cm1j4kl4d21lo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4317/live/97f51f30-b214-11f1-95f2-19e1a2e8eef2.jpg"
+            },
+            {
+              "title": "Hyrox北京赛选手失禁完赛引发争议，官方道歉退款",
+              "lead": "一位参赛运动员在比赛中失禁，但她完成了比赛并夺冠。由于这是一场共享器械的室内赛事，这场意外引发轩然大波，许多人担心其他运动员可能染病，批评组织者未及时介入。 Amaury Paul/Agence France-Presse — Getty Images 今年在曼谷举行的另一场Hyrox比赛中的波比跳项目（那场比赛没有发生引起热议的卫生紧急情况）。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/style/20260917/hyrox-race-defecate-winner/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "成本高昂、弹药短缺：报告披露美国伊朗战争的代价",
+              "lead": "国防部监察长发布的报告披露了美军在伊朗战争中承受的代价，包括战争的巨额成本，军事行动造成的弹药短缺，以及伊朗的袭击给美国造成的人员伤亡和设施损坏情况等。 Kenny Holston/The New York Times 7月，特朗普总统和国防部长皮特·海格塞斯出席约旦穆瓦法克萨尔蒂空军基地阵亡美国陆军士兵的遗体庄严转移仪式。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20260917/pentagon-inspector-general-iran-war/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "领英高层分享6个人脉窍门，帮你更快找到工作",
+              "lead": "从咖啡闲聊到领英讯息，以下是如何透过人脉关系找到下一份工作的方法。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c63rezxeyw9qo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/25bb/live/7b07e5c0-b27c-11f1-94d0-89db86965db8.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "秦纯香：以创新出圈 打造“可以逛的非遗博物馆”",
+              "lead": "中新网拉萨9月17日电 秦纯香：以创新出圈 打造“可以逛的非遗博物馆”",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/09-17/10698580.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "文心可以由 AI 生成吗？台积电文学奖争议，与 AI 时代的作者之辩",
+              "lead": "今年6月，台积电青年学生文学奖公布得奖名单前夕，主办单位收到一封具名检举信，指出短篇小说奖参赛作品之一〈实白〉有「AI 协作」之疑虑。当时，〈实白〉已在前一次评审会议中被选为首奖。检举信描绘了一个十分强大的 AI 工具，是「可以自行设定参数、喂入所需资讯，以文学奖为标的所设计之程式模型」。 评审团为此再度开会，决定由主办单位直接联系〈实白〉的作者，询问该作品是否有使用 AI 协作。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20260918-taiwan-tsmc-literature-award-and-ai-writing-controversy/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/IMGL1449-copy.jpg"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "2027年乒乓球混团世界杯将首次纳入洛杉矶奥运会积分体系",
+              "lead": "中新社北京9月17日电 国际乒联17日公布了2027年世界杯赛历。中国成都将连续第五年承办国际乒联混合团体世界杯，同时2027年该项赛事将首次纳入2028年洛杉矶奥运会积分体系。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-17/10698590.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "为何大幅调整首发阵容？中国女足主教练：希望给更多球员机会",
+              "lead": "中新网9月17日电(记者 李志全)当地时间9月17日，爱知·名古屋亚运会女足小组赛G组第二轮，中国女足1:1战平乌兹别克斯坦队。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-17/10698238.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "中泰科技考古与文化遗产保护学术研讨会在北京举行",
+              "lead": "中新网北京9月17日电 (记者 孙自法)中泰科技考古与文化遗产保护学术研讨会9月17日在北京举行，来自中国和泰国的考古、文化遗产保护领域专家学者代表相聚一堂，分享科技考古进展、文化遗产保护经验，共商深化合作之道。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/09-17/10698498.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "一架战机在美国密歇根州坠毁",
+          "lead": "当地时间9月17日，一架美国F-16战斗机在密歇根州北部的布莱尔镇坠毁，地点靠近633号县道与布莱尔市政厅路交界处。救援人员正赶往坠机现场。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15109852.html"
+        },
+        {
+          "title": "美联储加息后买什么？历史上美股能源、科技占优，地产落后，高盛：决定美股的是加息速度",
+          "lead": "美联储自2023年7月以来首次加息落地后，投资者要回答的问题已从“会不会加息”转向“加息之后买什么”。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782015"
+        },
+        {
+          "title": "日本百岁老人数量突破10万，88%为女性",
+          "lead": "学者表示，许多日本人长寿的原因在于健康的饮食、积极的日常生活习惯以及提供定期体检且费用可负担的医疗体系。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/asia-pacific/20260917/japan-age-100/?utm_source=RSS"
+        },
+        {
+          "title": "欧盟拟全面禁止13岁以下儿童使用社交媒体",
+          "lead": "欧盟正在推动一项针对未成年人网络安全的重大立法改革。根据欧盟委员会即将提出的《欧盟儿童法案》",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1578470.htm"
+        },
+        {
+          "title": "距离 AI 造 AI 还有多远？Anthropic Claude 已主导 26% 内部 AI 研发工作",
+          "lead": "IT之家 9 月 18 日消息，Anthropic 今日发布了一套用于衡量前沿 AI 实验室研发进度的方法，并公布公司内部的阶段性数据。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/003/886.htm"
+        },
+        {
+          "title": "同志但领导反同志政党？极右小众完全指南",
+          "lead": "想在极右政党里当小众，你需要：漂白澄清﹑积极辩护，以及敌我划分。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260918-international-far-right-while-minority/"
+        },
+        {
+          "title": "23.18 万元起，小鹏 G9L 正式上市，王凤英：全球无对手！",
+          "lead": "从 8 月 3 日官宣，8 月 11 日开启预售，过了一个多月，小鹏 G9L 终于在今天迎来了正式上市。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1680790?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "全球市场：美股三大指数收涨 纳指、标普500涨超1% AI硬件、芯片半导体板块走强",
+          "lead": "美股市场： 美股三大指数09月17日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨316.14点，收于51778.04点",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "東方財富",
+          "link": "http://stock.eastmoney.com/news/11784,202609183877693612.html"
+        },
+        {
+          "title": "微塑料像特洛伊木马一样传播有毒物质",
+          "lead": "欧洲的一项研究发现，微塑料会像特洛伊木马一样在土壤中传播污染物、农药和细菌。研究人员在 11 个国家测试了 227 块农田，都发现了微塑料。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85412"
+        },
+        {
+          "title": "美国能在外太空部署哪些武器？",
+          "lead": "美国的宣布显示，地球轨道上的崭新现代战争领域正在发展。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c60re4x41yejo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "洛迦死后，在他们的电影里化成了诗 (评论: 黑球)",
+          "lead": "2niu 评论: 黑球 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17819484/"
+        },
+        {
+          "title": "KKR上调美国国债收益率预期，认为美联储将把高利率维持更久",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15109936.html"
+        },
+        {
+          "title": "Claude已“主导”Anthropic 26% AI研发工作，3万Agent同时上岗，RSI仍未实现",
+          "lead": "AI正在越来越多地参与开发下一代AI。 当地时间周四，Anthropic公布了一组用于追踪前沿AI实验室研发进展的新指标。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782030"
+        },
+        {
+          "title": "《黄色脸孔》作者匡灵秀在台北最喜欢的五个地方",
+          "lead": "2023年，匡灵秀在台北度过了两个月，期间她写下的日记成为新作《台北故事》的原始素材。茶馆、素食餐厅、电影院……",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/travel/20260915/rf-kuang-taipei-things-to-do/?utm_source=RSS"
+        },
+        {
+          "title": "伪史论回旋镖：唐朝「不存在」背后的中国身份政治与代表性危机",
+          "lead": "国家以民族复兴动员社会，民间便可能要求它符合更纯洁的民族标准。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260917-mainland-tang-dynasty-pseudo-history/"
+        },
+        {
+          "title": "事关住房城乡建设 今天10时举行重要发布会",
+          "lead": "国务院新闻办公室将于 9月18日（星期五）上午10时 举行“开局起步‘十五五’”系列主题新闻发布会，请住房和城乡建设部新闻发言人",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/11158,202609183877708769.html"
+        }
+      ],
+      "supplement": {
+        "title": "《NAZA》揭以军平民死亡算式：威尼斯获奖后，导演恐失国籍｜Whatsnew",
+        "lead": "由两名以色列记者共同执导的纪录片《NAZA》，9月10日在威尼斯影展世界首映。这部影片是本届主竞赛单元唯一入围的纪录片，最终获颁评审团特别奖。放映结束后，观众起立鼓掌接近25分钟，创下威尼斯影展的最长掌声纪录。 纪录片获奖后，导演亚伯拉罕（Yuval Abraham）与索尔（Rachel Szor）在以色列面临政治指控。以色列总理内塔尼亚胡称影片是「来自我们内部」的「反犹主义煽动」，指其把以色列国防军描绘成战犯。",
+        "body": [
+          "由两名以色列记者共同执导的纪录片《NAZA》，9月10日在威尼斯影展世界首映。这部影片是本届主竞赛单元唯一入围的纪录片，最终获颁评审团特别奖。放映结束后，观众起立鼓掌接近25分钟，创下威尼斯影展的最长掌声纪录。纪录片获奖后，导演亚伯拉罕（Yuval Abraham）与索尔（Rachel Szor）在以色列面临政治指控。以色列总理内塔尼亚胡称影片是「来自我们内部」的「反犹主义煽动」，指其把以色列国防军描绘成战犯。",
+          "文化部长佐哈尔（Miki Zohar）的反应更为激烈。他指控亚伯拉罕与索尔构成「叛国」，并要求内政部与人口及移民管理局研究撤销两人的以色列国籍。「我们相信，否认犯罪只会让犯罪延续，」亚伯拉罕发表获奖感言时说，「因此，以色列人观看这部电影尤其重要，因为做出这些事情的是我们的国家。」 NAZA，可能被杀害的平民人数 片名「NAZA」源自以色列情报部门使用的希伯来语军事缩写，用来表示一次攻击预计造成的「附带伤亡」（collateral damage ），亦即并非军方目标、但被军事攻击连带杀害或受伤的平民人数。例如「20 NAZA」，意指行动预计可能造成20名平民死亡。",
+          "制作团队花费三年时间，秘密访问24名以色列情报官员及士兵。访谈多在夜间的特拉维夫屋顶拍摄，这里是以色列情报部门所在地，受距离加沙仅约60公里，背景中的道路、公寓、摩天大楼在夜间仍然灯火通明。受访者的面孔、身形及声音均经数码处理，以免身分曝光。「影片没有华丽的艺术修辞，对特拉维夫冷漠状态的描绘，反映了这座城市如何对正在发生的事情视而不见，」两名导演受访时表示。2026年9月12日，纪录片《NAZA》的导演Yuval Abraham 与 Rachel Szor在威尼斯影展荣获评审团特别奖。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20260917-whatsnew-naza-venice-award-israel-condemn/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/RC2RJNA3X3WM.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "端傳媒×4",
+          "紐約時報×3",
+          "BBC×3",
+          "華爾街見聞×3",
+          "界面×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Early Bowie music available to stream for first time",
+        "lead": "Previously unheard material from the start of the artist's career has been released for the first time.",
+        "body": [
+          "Previously unheard material from the start of the artist's career has been released for the first time."
+        ],
+        "source": "BBC Business",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cm4gj5z9xvnqo?at_medium=RSS&at_campaign=rss",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba7/live/8786a940-b2da-11f1-849c-b1b42bb6aefc.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Find a credible plan for British Steel, ministers told as ‘startling’ costs soar",
+        "lead": "Government spending watchdog warns of price of keeping publicly owned firm in business Labour has been urged to lay out a credible plan for the future of",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/business/2026/sep/18/british-steel-mps-labour-spending-watchdog-pac",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/06366e0469321e3e125281e6b85b3a0a0e87eed4/1764_660_3236_2588/master/3236.jpg?width=140&quality=85&auto=format&fit=max&s=34a2af0efbf485026feb2fd99a311220",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "YouTube star Ms Rachel to match Macklemore’s $1m Palestine aid donation",
+              "lead": "Educator talks of ‘moral obligation’ and urges ‘every wealthy white celebrity’ to make similar donation YouTube star Ms Rachel has said she is matching rapper Macklemore’s $1m donation to organizations supporting",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/culture/2026/sep/17/ms-rachel-macklemore-palestine-donation",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/cc80b1d11ed91f4e0c2a58d6bfe80ed6cf5a4605/0_0_5000_4000/master/5000.png?width=140&quality=85&auto=format&fit=max&s=a24e72293a097a0061d57d94dea87697",
+              "consensus": 5
+            },
+            {
+              "title": "U.S. Strike on Iranian School May Have Been War Crime, U.N. Report Says",
+              "lead": "Mistakes that led to the deaths of more than a hundred children “went beyond negligence,” investigators said. They also cited a separate strike the same day that killed a reported 22 civilians.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/09/17/world/asia/us-iran-school-strike-report.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/09/17/multimedia/17int-un-us-iran-bfgp/17int-un-us-iran-bfgp-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Brazil’s Lula announces welfare increases ahead of presidential election",
+              "lead": "Government says that increase represents an adjustment for inflation that has eaten away purchasing power since 2023.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/2026/9/17/brazils-lula-announces-welfare-increases-ahead-of-presidential-election?traffic_source=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Trump administration approves $24bn sale of F-35 jets to Saudi Arabia",
+              "lead": "Deal comes amid escalation in Middle East conflict — but transfer likely to face opposition in US Congress",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/9934acc6-6b06-4f2e-a37a-6cf0869092cb?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e0c1978-9ca2-4396-ac60-9287ef92f675.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Mixed feelings from consumers as electricity discount to be given to NI households",
+              "lead": "The one-off £63 reduction in electricity bills will be applied from next month.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cjvgy5yqvpy2o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3584/live/1e78a930-b2a8-11f1-819c-176371125270.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Fed rate decision and Warsh comments roiled markets. Where to find opportunities",
+              "lead": "CNBC spoke with several investors who said the Fed decision is also a catalyst to reposition portfolios.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/09/17/fed-rate-decision-and-warsh-comments-roiled-markets-where-to-find-opportunities.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "India warns U.S. new tariffs to deter buyers of Russian oil could impact ties",
+              "lead": "The U.S. House of Representatives has passed a bill authorizing tariffs of up to 100% to increase pressure on Russia over its invasion of Ukraine.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/news/2026/09/17/asia-pacific/politics/india-energy-security-us-tariffs/",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/17/563639.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+              "lead": "The round values the data center giant at $30.9 billion.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Has AI broken the old VC model?",
+              "lead": "A spate of mega-IPOs triggered by the AI boom is stretching the feast-or-famine industry dynamic to an extreme",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/8c4143c7-f846-43a0-807a-b460fff7cd75?syn-25a6b1a6=1",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa2e28a42-907d-49a9-b418-0e5c90e85ab0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+            },
+            {
+              "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+              "lead": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "McIlroy falters as Rai shares lead at Wentworth",
+              "lead": "Aaron Rai shoots a six-under 66 to share the first-round lead with Sweden's Joakim Lagergren at the BMW PGA Championship at Wentworth as Rory McIlroy suffers a late stumble.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/golf/articles/ckddvn3g5574o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d5b/live/f007ab30-b2c2-11f1-b1d1-571ed4d7ff2c.png",
+              "consensus": 5
+            },
+            {
+              "title": "Leaden, stale, disheartening - where do Celtic & O'Neill go from here?",
+              "lead": "After another defeat, keeping the faith is surely becoming more testing for Celtic's fans, writes Tom English.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c6dj4mrmd27ko?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90f7/live/f15b7fc0-b2e0-11f1-99a0-c787492c049d.jpg",
+              "consensus": 2
+            },
+            {
+              "title": "Junior Kroupi on Arsenal radar - Friday's gossip",
+              "lead": "Arsenal are eyeing Bournemouth youngster Eli Junior Kroupi, Real Madrid are considering a move for Everton's Jarrad Branthwaite, Chelsea are interested in Nico Williams, plus more.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/crn8ez44ywqdo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c85/live/18447b50-b2d7-11f1-a430-4d16ee157c41.png"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Top Marketers on How Creators, TikTok, Spotify and Pinterest Help Fuel Fandom",
+              "lead": "The era of AI and social media platforms has blown open the marketing playbook for bringing audiences to entertainment and experiences.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/news/creators-marketers-tiktok-spotify-pintrest-lionsgate-amc-1236866303/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/09/ARZ_9912-1-e1789689061847.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Orville Peck on His New Album ‘Muse,’ Battling Addiction and Making Out With a Pro Football Player",
+              "lead": "Orville Peck has a ritual he does before every concert. He hugs and tells each member of his band, “I love you.” And that’s what the country music star did at Madison Square Garden on June 20, 2023",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/music/columns/orville-peck-new-album-muse-addiction-making-out-pro-football-player-1236865568/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/09/GettyImages-2266486710.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists find a natural gut compound that helps heal the intestine",
+              "lead": "A natural compound produced by gut bacteria after digesting foods such as pomegranates, walnuts, and berries may help repair and protect the intestinal lining.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260916232529.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists find a hidden health advantage in black and green rice",
+              "lead": "Scientists found that black and green Japanese rice contain unusual, potentially beneficial fats and may be digested more slowly than ordinary white rice.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260916232523.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "New cat species identified for first time in more than a century in Bolivia",
+          "lead": "New species of wild feline was discovered in Bolivia’s Yungas forest",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia"
+        },
+        {
+          "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+          "lead": "Mustafa Suleyman says he believes rival AI firm Anthropic is in",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Turkish authorities rush to stem fallout from stock market scandal",
+          "lead": "Funds frozen or liquidated and 38 people referred to prosecutors as",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/ef54585a-4d2f-4538-b185-9bff75ef2f5e?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Major Iranian Airline Suspends Several Flights Abroad, Adding to Isolation",
+          "lead": "The carrier, Mahan Air, said it would stop flying to neighboring",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/09/17/world/middleeast/iranian-airlines-suspend-flights-us-sanctions.html"
+        },
+        {
+          "title": "Intent not malicious, it's indifference: Thousands, if not millions, of books sent to AI woodchipper",
+          "lead": "François Picard is pleased to welcome investigative journalist",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/tv-shows/spotlight/20260917-intent-not-malicious-it-s-indifference-thousands-if-not-millions-of-books-sent-to-ai-woodchipper"
+        },
+        {
+          "title": "Leading AI labs may need to be nationalized because risks are so high, Palantir's Karp tells CNBC",
+          "lead": "Palantir CEO Alex Karp called for \"reasonable guidelines\" on",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html"
+        },
+        {
+          "title": "Russia, China end mandate for independent monitoring of U.N. sanctions on Iran",
+          "lead": "The sanctions had been reimposed a year ago after Tehran was accused",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/09/18/world/politics/russia-china-un-sanctions-iran/"
+        },
+        {
+          "title": "US trade chief pressed Brazil to review Anglo American nickel sale to China",
+          "lead": "US Trade Representative (USTR) Jamieson Greer asked Brazil to review",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3367913/us-trade-chief-pressed-brazil-review-anglo-american-nickel-sale-china?utm_source=rss_feed"
+        },
+        {
+          "title": "UN turns to Google to make its global data ready for AI agents",
+          "lead": "The shift comes after a UNICEF test found leading AI models struggled",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/"
+        },
+        {
+          "title": "Director and Producer James Wan on YouTube Filmmakers: ‘You Don’t Even Need to Be in the System Anymore to Get Something Made’",
+          "lead": "The phenomenon of YouTube breakout stars-turned-feature filmmakers is",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/news/james-wan-youtube-filmmakers-1236866251/"
+        },
+        {
+          "title": "Scientists find the whole grain “sweet spot” for better heart health",
+          "lead": "Eating four to six servings of whole grains a day may deliver",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260915232126.htm"
+        },
+        {
+          "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+          "lead": "The revamped projects feature in Claude Code allows users to run",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects"
+        },
+        {
+          "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+          "lead": "The International Meteor Organization, the nonprofit that coordinates",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/"
+        },
+        {
+          "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+          "lead": "The BBC understands Iranian President Masoud Pezeshkian and Foreign",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "OpenAI discloses new ‘concerning’ model behaviour",
+          "lead": "Developer launches system to track and report AI model misconduct",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/2c34414a-5381-4083-ac34-00bbe67ef8db?syn-25a6b1a6=1"
+        },
+        {
+          "title": "India vows to protect energy security after new US tariffs over Russian oil",
+          "lead": "India has warned Washington that new measures to levy tariffs over",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "France24",
+          "link": "https://www.france24.com/en/india-vows-to-protect-energy-security-after-new-us-tariffs-over-russian-oil"
+        }
+      ],
+      "supplement": {
+        "title": "Paranormal Comedy ‘Don’t F — k With Ghosts’ Premieres On Demand, Launches Original YouTube Channel (EXCLUSIVE)",
+        "lead": "“Don’t F***k With Ghosts,” a paranormal hybrid comedy from 5’7 Films, is now available to rent or buy in the U.S. on Amazon, Apple TV and Fandango at Home.",
+        "body": [
+          "“Don’t F***k With Ghosts,” a paranormal hybrid comedy from 5’7 Films, is now available to rent or buy in the U.S.",
+          "on Amazon, Apple TV and Fandango at Home.",
+          "The debut comes alongside the launch of Potluck Originals, an original YouTube channel from 5’7 Films in partnership with The Moment Lab. In the film, real-life […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/news/dont-f-k-with-ghosts-u-s-debut-1236866174/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/09/DontF_ckWithGhosts_textless_fhfix-e1789686642613.png",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×3",
+          "Guardian×2",
+          "FT×2",
+          "Japan Times×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-09-17T23:59:43.979Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 800,
+        "lang": 455,
+        "fresh": 383,
+        "denoised": 381,
+        "deduped": 361
+      },
+      "en": {
+        "fetched": 800,
+        "lang": 345,
+        "fresh": 331,
+        "denoised": 329,
+        "deduped": 318
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "端傳媒×4",
+          "紐約時報×3",
+          "BBC×3",
+          "華爾街見聞×3",
+          "界面×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×3",
+          "Guardian×2",
+          "FT×2",
+          "Japan Times×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

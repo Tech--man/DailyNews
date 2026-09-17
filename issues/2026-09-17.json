@@ -1,0 +1,934 @@
+{
+  "issue": 3,
+  "date": "2026-09-17",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历八月初七 · 白露",
+    "en": "7th day of the 8th lunar month · White Dew"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "特朗普签署备忘录要求将加拿大产品排除出美政府采购计划",
+        "lead": "中新网9月17日电 据加拿大广播公司报道，白宫方面表示，美国总统特朗普当地时间16日签署了一份总统备忘录，要求识别联邦政府民用采购中原产于加拿大的产品，并采取措施将其移除。",
+        "body": [
+          "中新网9月17日电 据加拿大广播公司报道，白宫方面表示，美国总统特朗普当地时间16日签署了一份总统备忘录，要求识别联邦政府民用采购中原产于加拿大的产品，并采取措施将其移除。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697959.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 3
+      },
+      "secondary": {
+        "title": "界面早报 | 《文化和旅游发展“十五五”规划》印发；美联储宣布加息25个基点",
+        "lead": "《统计改革发展“十五五”规划》发布；宁德时代将于近日回应相关车企选择其他供应商传闻；香港金管局将基准利率上调25个基点至4.25%；美国多家银行上调最优惠利率至7%；美股三大指数集体收跌，道指创6月中旬以来收盘新低。",
+        "source": "界面新聞",
+        "group": "界面",
+        "link": "https://www.jiemian.com/article/15104973.html",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 2
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "AI“劫持”网站并偷建“地下论坛” 国安部披露细节",
+              "lead": "“劫持”网站并偷建“地下论坛”，竟然是AI干的！",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gn/2026/09-17/10697964.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 3
+            },
+            {
+              "title": "除了末日警告，人工智能发展还在面临著另一个威胁",
+              "lead": "在美国，盖洛普（Gallup）今年5月发布的民调显示，在自己所在区域建数据中心，比建核电站更不受欢迎。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cm750xv56v57o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9fda/live/b901c2a0-b101-11f1-a540-61c3f7fc4e6c.jpg"
+            },
+            {
+              "title": "懦夫群像：为何这些权势人物向特朗普卑躬屈膝",
+              "lead": "这本新书聚焦特朗普重返白宫执政的第一年，展示了贝佐斯、苏世民等精英人物对特朗普的“大投降”。这既暴露了他们自身道德的软弱，也暴露了他们所代表的制度的脆弱性。 Pool photo by Chip Somodevilla 2025年1月20日，特朗普总统就职典礼后，杰夫·贝佐斯现身国会大厦圆形大厅。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/culture/20260916/profiles-in-cowardice-jacob-weisberg/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "香港施政报告与「一五」同步公布 聚焦北部都会区、国安与鼓励生育",
+              "lead": "有评论形容，香港制订五年规划是「范式转移」，意味著「从西方式资本主义市场经济，改为接上中国特色社会主义市场经济。」。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cm207gqz55r0o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8640/live/fac2b970-b1d2-11f1-a430-4d16ee157c41.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "美联储时隔三年多首次加息",
+              "lead": "",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-17/1204510.shtml",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "美联储10月加息25个基点的概率为49.8%",
+              "lead": "据CME“美联储观察”，美联储9月如期加息后，美联储10月会议维持利率在3.75%-4.00%不变的概率为50.2%，加息25个基点的概率为49.8%。美联储到12月维持利率在3.75%-4.00%不变的概率为11.3%，累计加息25个基点的概率为50.1%，累计加息50个基点的概率为38.6%。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15105337.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "白宫抨击美联储加息决定“相当令人遗憾”，特朗普敦促降息至1%以下、仍对沃什有信心",
+              "lead": "美联储宣布上调基准利率后，白宫与特朗普本人几乎同步发出强烈回应，白宫直指这一决定\"相当令人遗憾（Rather Unfortunate）\"，特朗普则再次敦促美联储快速降息。 9月16日，美国白宫发言人Kush Desai在接受福克斯新闻采访时表示， 特朗普总统对利率走向的立场\"已经再清楚不过\"，而美联储此次加息在白宫看来\"并无特别令人信服的经济依据\"。 Desai还称，当前通胀完全源于中东战争引发的能源供应冲击，\"与利率毫无关系\"。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3781922",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "OpenAI 相关智能体被曝“越界”：劫持程序员维基网站并偷建“地下论坛”，国安部发布安全提醒",
+              "lead": "IT之家 9 月 17 日消息，国家安全部今日发文，披露了一起此前未公开的 AI 智能体“劫持”网站事件。 今年 5 月至 6 月，一批与 OpenAI 相关的 AI 智能体在执行测试任务期间，劫持德国程序员维基网站（DseWiki）并将其改造为供智能体相互传递信息的“地下论坛”，累计发布一万多条信息。 国安部表示，AI 智能体在该网站以“OpenAI 研究员”“OAI 研究员 26 号”等标签互认身份，将开放社区变为专属“留言板”。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/003/352.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            },
+            {
+              "title": "Mozilla最新报告揭示前沿AI代差收窄：中国开源模型性能差距缩至4.4个月",
+              "lead": "国际非营利技术机构 Mozilla 近日发布最新一期《开源人工智能现状报告》（State of Open Source AI）显示，美国硅谷顶尖科技巨头的闭源前沿 AI 模型与来自中国科技企业的顶尖开源权重模型之间的性能代差已大幅缩窄至仅约 4.4 个月。这一极小的时间差距与巨大的使用成本反差，正在促使全球越来越多企业在处理日常业务时，将高性价比的开源模型作为首选生产力工具。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1578278.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "PS2 Fat 使用的安全芯片在时隔 26 年被破解",
+              "lead": "1999 年初代 PS2 Fat 游戏机使用的安全芯片 CXP102064 MechaCon 在时隔 26 年被爱好者破解。加拿大复古软硬件爱好者 DiscoStarslayer 通过社交媒体称其花了四年时间破解了其秘密。DiscoStarslayer 采用的逆向工程方法包括：利用化学方法对 CXP102064 芯片进行开盖，利用显微镜和光学数据提取技术分析芯片电路。期间发现了一个漏洞利用方法，可通过软件提取芯片数据。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85399",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "美众议院通过一项针对俄罗斯和伊朗的制裁法案",
+              "lead": "中新网9月17日电 据美国全国广播公司(NBC)报道，美国国会众议院当地时间16日投票通过了一项旨在对俄罗斯和伊朗实施制裁的重要法案，并将其提交给美国总统特朗普签署。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-17/10697971.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "遏制人工智能威胁为时已晚",
+              "lead": "那些危险的模型已经流出、处于失控状态且无法召回。中美必须立即达成共识，携手防御那些可能造成巨大破坏并引发社会动荡的威胁。 Colin Sussingham/Connected Archives",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/op-column/20260916/ai-china-us-tech-future/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "美国能在外太空部署哪些武器？",
+              "lead": "美国的宣布显示，地球轨道上的崭新现代战争领域正在发展。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c60re4x41yejo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/501e/live/92c14ad0-b105-11f1-b1d1-571ed4d7ff2c.jpg"
+            },
+            {
+              "title": "泰国啤酒豪门丑闻：弟弟指控哥哥性侵，家族试图“封口”",
+              "lead": "泰国胜狮啤酒家族成员指控哥哥和保姆在他幼年时对他实施性侵犯，母亲则试图掩盖虐待并要求他噤声。这在泰国引发了一场罕见的公开清算，许多人也公开讲述自己的经历。 Lauren DeCicca for The New York Times 西拉努·斯科特在曼谷家中。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/asia-pacific/20260916/thai-singha-beer-family-abuse-accusations/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "人工智能时代，中国人还需要学英语吗？",
+              "lead": "最近，一则呼吁中国学校将英语课改为选修的帖子在互联网引发激辩。有人认为AI时代已经不需要人人学英语，另一些人则认为削弱英语学习的地位无异于倒退。 CFOTO/Future Publishing, via Getty Images 2023年，柳州市高培村小学的英语课。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/china/20260916/china-english-language-education/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "中国考古博物馆开放三周年 学界研讨推进考古学与博物馆学融合发展",
+              "lead": "中新网北京9月16日电 (记者 孙自法)在中国考古博物馆迎来面向公众开放三周年之际，第三届新时代考古学与博物馆学融合发展学术研讨会9月15日在北京举行，来自全国55家博物馆、考古院所的专家学者代表参会，研讨推进考古学与博物馆学融合发展。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/09-16/10697851.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "伪史论回旋镖：唐朝「不存在」背后的中国身份政治与代表性危机",
+              "lead": "国家以民族复兴动员社会，民间便可能要求它符合更纯洁的民族标准。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20260917-mainland-tang-dynasty-pseudo-history/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/GettyImages-2007299179-copy-1.jpg"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "（爱知·名古屋亚运会）中国男篮主教练郭士强：争取奥运资格 培养年轻球员",
+              "lead": "中新社日本名古屋9月16日电 (记者 李志全)在中国男篮16日晋级爱知·名古屋亚运会男篮四强后，主教练郭士强表示，新一届中国男篮着眼2028年洛杉矶奥运会，争取奥运参赛资格、培养年轻球员是球队的两个重要目标。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-16/10697876.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "（爱知·名古屋亚运会）中国男篮力克沙特队晋级亚运会四强",
+              "lead": "中新社日本名古屋9月16日电 (记者 李志全)2026年爱知·名古屋亚运会男子篮球项目16日进行四分之一决赛较量，中国男篮以87:78力克沙特阿拉伯队，晋级四强。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-16/10697793.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "榕台戏曲人共叙梨园同源文脉 开展非遗项目交流",
+              "lead": "中新社福州9月16日电 (记者 闫旭) “匠心传情 非遗连心——2026榕台职工非遗交流系列活动(秋·戏韵流芳)专场”活动16日在福州举行，来自榕台两地戏曲行业的职工、非遗传承人、行业专家等百余人共叙梨园同源文脉。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/09-16/10697910.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "美联储如期加息，美债收益率反弹，美股下跌，美元指数走强，金价跳水",
+          "lead": "华尔街见闻提及 ，美东时间9月16日周三，美联储在货币政策委员会FOMC会后公布，将联邦基金利率的目标区间从3.50%至3.75%提高到3.",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3781920"
+        },
+        {
+          "title": "美拟将加拿大商品排除联邦政府采购",
+          "lead": "白宫网站9月16日消息显示，特朗普政府拟取消加拿大原产商品参与美国联邦民用政府采购的资格。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15105259.html"
+        },
+        {
+          "title": "区锦新案：澳门首宗国安案闭门开审，我们知道多少？",
+          "lead": "区锦新的家人过去一年都无法接触他，到了开审当天，传媒被拒于法庭门外，外界只能等待政府新闻稿取得消息，审理过程较香港的国安案件更加封闭。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c6jrxzq3777wo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "比亚迪董秘李黔：未来会继续在半导体领域投入和发力，中国首款车规级 4nm 智驾芯片璇玑 A3 已开启规模化量产",
+          "lead": "IT之家 9 月 17 日消息，据界面新闻报道，9 月 16 日，比亚迪在比亚迪绍兴赛车场举办高管面对面股东交流会，比亚迪集团董事会秘书",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/003/363.htm"
+        },
+        {
+          "title": "全球顶尖高校“学位收割机”：他为何一直求学？",
+          "lead": "杰米·比顿拥有哈佛、耶鲁、牛津、清华和其他顶尖大学的12个学士和硕士学位，并且仍然在攻读更多学位。他可能会成为世界上受教育程度最高的人。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/education/20260916/he-might-end-up-the-worlds-most-educated-person/?utm_source=RSS"
+        },
+        {
+          "title": "基因改造免疫细胞创造医学突破 患有致命遗传病儿童实现长期缓解",
+          "lead": "一项具有里程碑意义的医学研究近日公布了令人振奋的成果。研究人员利用经过基因工程改造的免疫细胞",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/science/1578300.htm"
+        },
+        {
+          "title": "【华尔街日报】中国也认为 AI 可能毁灭人类，但当务之急是先赶上美国",
+          "lead": "编按：《华尔街日报》是全球最具影响力的财经媒体之一，每日产出大量深度报导，涵盖国际政治、商业财经与科技趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260917-wsj-extinction-risk-and-china-us-ai-race/"
+        },
+        {
+          "title": "FAST 发现极短周期、最轻双中子星系统",
+          "lead": "天文学家利用中国天眼（500 米口径球面射电望远镜，FAST）开展大规模银道面脉冲星系统性搜寻，迄今已成功发现约 900 颗新脉冲星。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85396"
+        },
+        {
+          "title": "比 MEGA Home 便宜 14 万！理想 i9 Home 上市定价 36.98 万元，六座旗舰变天了",
+          "lead": "今天，理想 i9 Home 正式发布，理想 i 系列终于迎来了它的顶峰之作。 和 L 系列从 L9 一路向下不同",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1680467?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "中国人民银行行长潘功胜撰文：更加注重直接融资与间接融资协调发展",
+          "lead": "9月16日 出版 的《求是》杂志刊发中国人民 银行 党委书记、行长潘功胜的署名文章《深刻认识中国金融结构变迁提升金融服务实体经济适配性》。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1350,202609173876448182.html"
+        },
+        {
+          "title": "[投资] 我自己跑的选股和量化, 成功的提前几个小时预测到今晚加息 25bp",
+          "lead": "提前发在抖音, 可是不给流量, 好家伙.",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1242555#reply2"
+        },
+        {
+          "title": "《罗斯》的镜头细节和桑德拉·惠勒的表演 (评论: 罗斯)",
+          "lead": "浑沌不开窍 评论: 罗斯 评价:",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17818563/"
+        },
+        {
+          "title": "美联储“如期加息”了，市场关心的是“接下来还有几次”？",
+          "lead": "美联储时隔两年重启加息，但一次25个基点的举措本身已不是焦点——市场真正在押注的，是后续紧缩路径究竟延伸多远。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3781935"
+        },
+        {
+          "title": "欧盟将建立“气候保险联盟”应对极端天气",
+          "lead": "欧盟委员会主席冯德莱恩9月16日表示，欧盟将建立一个“气候保险联盟”，以应对日益频发的极端天气事件，提高对气候灾害的保险覆盖范围。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15105287.html"
+        },
+        {
+          "title": "中国有越来越多的男性开始「厌女」吗？",
+          "lead": "这里没有像安德鲁·泰特（Andrew Tate）那样的网红领导一场运动。相反地，这种挫折感散落在各个网路社群中",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cwq63vj4q7q2o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "美国司法部称两家中国公司利用必安帮助伊朗洗钱",
+          "lead": "检方称这些资金来自出售伊朗石油的非法收益。起诉书称，这些钱被输送给伊朗政府，并用于资助“恐怖活动”，违反了美国制裁。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/technology/20260916/binance-iran-china/?utm_source=RSS"
+        }
+      ],
+      "supplement": {
+        "title": "监控、杀猪盘、非法蒸馏：如何理解 Anthropic 的 AI 滥用报告？",
+        "lead": "近期，美国人工智能公司 Anthropic 发布一份 报告 ，揭露多起使用者「滥用」（misuse）其大型语言模型 Claude 的案例，包含用 AI 监控异议人士、撰写「维稳」报告，以及交友软体诈骗。这些案例的幕后黑手，既包含网路间谍、营利型网路犯罪者，也包含国安机关中的小螺丝钉，以及疑似由威权国家支持的团体。 这并非 Anthropic 首次发布类似报告。",
+        "body": [
+          "近期，美国人工智能公司 Anthropic 发布一份 报告 ，揭露多起使用者「滥用」（misuse）其大型语言模型 Claude 的案例，包含用 AI 监控异议人士、撰写「维稳」报告，以及交友软体诈骗。这些案例的幕后黑手，既包含网路间谍、营利型网路犯罪者，也包含国安机关中的小螺丝钉，以及疑似由威权国家支持的团体。这并非 Anthropic 首次发布类似报告。",
+          "2025年 3月 、 8月 、 11月 ，Anthropic 都曾发布这份全名为「侦测并遏止 AI 滥用」的报告（以下简称「滥用报告」）。但相较于过往，今年9月的最新报告格外详尽：全文长达154页，将滥用行为分为七大类：网路作战、监控、影响力行动、传统武器开发、生物研究、诈骗，以及非法蒸馏。每类底下，都收录数个以「GTC」（generative threat groups，生成式 AI 威胁团体）为编码的案例。这份报告的珍贵之处在于，它不仅披露多起滥用行动的细节、梳理滥用行为背后的趋势，也公开一部分去识别化后的原始资料，让我们得以一窥 AI 已如何嵌入间谍、监控与网路犯罪的日常运作。",
+          "然而，报告背后明显的利益冲突也值得注意。一方面，滥用事件的资料完全掌握在 Anthropic 手中，外界难以独立核实，其调查过程与揭露标准也缺乏透明度；另一方面，Anthropic 指控的部分对象，正是与其存在直接商业竞争关系的中国 AI 公司。考虑到 Anthropic 正值 IPO 前夕 ，这份报告也应作为一份商业文件来分析。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20260917-international-anthropic-threat-intelligence-report/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/GettyImages-1080200064-1.jpg"
+      },
+      "stats": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "BBC×3",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "界面×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 3,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Australian politics live: Lambie welcomes Labor backdown on allied health cap for veterans after emotional speech to parliament",
+        "lead": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Barnaby Joyce says Labor is copying and pasting One Nation’s homework",
+        "body": [
+          "Follow the day’s news live Get our breaking news email , free app or daily news podcast Barnaby Joyce says Labor is copying and pasting One Nation’s homework because the measures we know so far around blocking the families of international students and preventing visa hopping have some similarity to what Pauline Hanson is suggesting.",
+          "Speaking to the Today show a little earlier, Joyce says Burke’s last minute cancellation at the press club was “the greatest no-show since Amelia Earhart”. [Burke] can’t possibly be about to announce One Nation’s policy.",
+          "I mean, Tony’s a great guy, right? I like Tony, but honestly, he was the greatest no-show since Amelia Earhart when he didn’t turn up to the Press Club … What I’ve heard thus far is that it’s an exact replication, but not to the extent of what One Nation is doing."
+        ],
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/australia-news/live/2026/sep/17/labor-immigration-policy-tony-burke-anthony-albanese-one-nation-ntwnfb",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/4238a9c6cb1d94f6ccf8dab20766717918c18759/1097_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=89456180f15e76b739037dbdd9f75af8",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Fed defies Trump with first rate rise since 2023",
+        "lead": "President calls for 1% borrowing costs after US central bank signals willingness for further action to cool inflation",
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/f5ce5c38-76e3-4212-8c60-4c868f6dee70?syn-25a6b1a6=1",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F82519692-5f78-40b5-b167-3b6de38cb1ef.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis",
+              "lead": "Internal reports, including one from the Pentagon’s Defense Intelligence Agency, say China could acquire U.S. jet technology through spying or cooperation with Saudi Arabia.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16dc-saudi-planes-wzfg/16dc-saudi-planes-wzfg-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "IMF downgrades Australian economic forecast amid fears of interest rate hike",
+              "lead": "Global financial institution predicts GDP will grow to just 1.6% in 2027 as Treasury faces rising energy costs and inflation Follow our Australia news live blog for latest updates Get our breaking news email",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/australia-news/2026/sep/17/imf-downgrades-australian-economic-forecast-amid-fears-of-interest-rate-hike",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/236b0e52ce3b3a99e821d64a9b70e8f8dbf0a9c3/1447_254_6558_5247/master/6558.jpg?width=140&quality=85&auto=format&fit=max&s=d4dd788984858c9255eeee079ea071dc",
+              "consensus": 5
+            },
+            {
+              "title": "Huawei accused of stealing robot tech to get hands on T-Mobile’s trade secrets",
+              "lead": "The criminal trial of Huawei Technologies on racketeering charges shifted this week into a slower, more laborious pace in what is expected to be a weeks-long trial as the US Government sought to establish on Wednesday",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/china/diplomacy/article/3367779/huawei-accused-stealing-robot-tech-get-hands-t-mobiles-trade-secrets?utm_source=rss_feed",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/17/87b1c093-4c91-4813-9b50-8edb52a53c5d_ff181cfb.jpg?itok=X-I0HbGF&v=1789596190",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Interest rates hold expected but Bank of England facing tough choices",
+              "lead": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a58a/live/dab4a350-b1be-11f1-bdcf-d393eb724fa3.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "AI must not outrun safety controls, DeepMind co-founder warns",
+              "lead": "Shane Legg speaks to FT as new DeepMind Institute launches to explore implications of artificial general intelligence, amid growing calls for industry slowdown",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/0fc3ae6d-732e-4f08-950e-8669b1fcfd8e?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8769987f-4073-46ec-88d1-fbb2e89c62e3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Fed raises rates in search of ‘timelier’ drop in inflation, sees more tightening ahead",
+              "lead": "The rate increase was the first such move in three years and the first policy shift under the new Fed chief.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/business/2026/09/17/economy/fed-raises-rates-inflation/",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/17/563453.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "OpenAI CEO Sam Altman will attend state dinner for Trump-Xi summit in Washington",
+              "lead": "Altman's attendance comes as a heated battle over AI regulation unfolds in Washington and Silicon Valley",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/09/16/openai-altman-trump-xi-summit.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
+              "lead": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "The AI data center e-waste problem is huge — and getting bigger",
+              "lead": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists develop new method for deciphering ancient scrolls",
+              "lead": "The Vesuvius Challenge is an ongoing project that combines \"digital unwrapping\" with crowdsourced machine learning to decipher the so-called Herculaneum scrolls, badly charred 2",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/science/2026/09/why-researchers-made-their-own-model-herculaneum-scrolls/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/scrollTOP-1152x648-1789248616.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "England's Hardcastle announces international retirement",
+              "lead": "England women's all-time record try scorer Amy Hardcastle announces her international retirement.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c6z7zyzep4q2o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dde/live/d71e6d50-b1f7-11f1-b1d1-571ed4d7ff2c.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Manchester United lose 3-2 to Brighton, crash out of League Cup",
+              "lead": "Brighton come from two goals down to win 3-2 at Old Trafford, to shock Manchester United as slow start continues.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss",
+              "category": "sport",
+              "categoryLabel": "Sport"
+            },
+            {
+              "title": "Fitzpatrick not '100% comfortable' with tour finals in Dubai",
+              "lead": "Matt Fitzpatrick says he is not \"100% comfortable\" with the prospect of travelling to Dubai for the season-ending DP World Tour Championship in November when he is due to be defending champion.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/golf/articles/cxr507jrz761o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5249/live/e3e38910-b1db-11f1-a44b-aba96a7d56aa.jpg"
+            },
+            {
+              "title": "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
+              "lead": "Four-time F1 world champion Max Verstappen passes 100 amateur drivers in just 14 laps in an exhibition go-kart race at Silverstone.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a10/live/57a73e20-b1f8-11f1-bd8b-ed45be4f6895.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "The AI Race, the Search for Sticky Content and Building Fan Communities on the Agenda at Variety’s Entertainment and Technology Summit",
+              "lead": "Is the stock market in the grip of an AI bubble? Will consumer spending collapse under the weight of inflation fueled by rising energy prices?",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/digital/news/variety-entertainment-technology-summit-ai-fan-communities-1236864766/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/08/Piracy-Illustration-Placeholder.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "‘Charlie’s Angels’ Star Jaclyn Smith on the Emmys Reunion, ‘Snobbism’ Against the Series and Why the Latest Movie Reboot ‘Didn’t Work’",
+              "lead": "The Television Academy may have celebrated the 50th anniversary of “Charlie’s Angels” at the Emmys on Monday night with an onstage reunion of the show’s stars Jaclyn Smith, Kate Jackson and Cheryl Ladd",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/columns/jaclyn-smith-charlies-angels-emmys-reunion-failed-movie-reboot-1236864817/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/09/GettyImages-2294871788.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Climate crisis likely behind devastating Nepal-Tibet floods that killed more than 1,300, first study finds",
+              "lead": "Scientists say global heating was a destabilising factor in collapse of 200,000 sq metre glacier in August Climate breakdown probably weakened the glacier that collapsed causing catastrophic floods and killing hundreds",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods",
+              "category": "science",
+              "categoryLabel": "Science",
+              "image": "https://i.guim.co.uk/img/media/0d4c471b83e2aad31168203ad0e0c4a7892689be/487_0_2453_1962/master/2453.jpg?width=140&quality=85&auto=format&fit=max&s=1f7f0e7e22b4ecd2443d6c70c9e382d8",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists turn seawater into fresh water without harmful brine",
+              "lead": "Scientists have developed a solar-powered desalination system that turns seawater into fresh water while removing nearly all of the leftover salt as a solid instead of producing harmful brine.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260915100137.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
+              "lead": "NASA's Nancy Grace Roman Space Telescope is gliding toward its distant observation post on a pinpoint trajectory so precise that engineers estimate the spacecraft's fuel load will last twice as long as their initial",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
+              "category": "science",
+              "categoryLabel": "Science",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/KSC-20260821-PH-SPX01_0007large-1152x648.jpg"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
+          "lead": "The Israeli military said in a statement it “did not strike the",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html"
+        },
+        {
+          "title": "Nato leader warns of ‘most dangerous and complex security environment in a generation’",
+          "lead": "Mark Rutte asks UK and Europe to ‘provide hard power Nato needs’ in",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/sep/16/nato-leader-warns-of-most-dangerous-and-complex-security-environment-in-a-generation"
+        },
+        {
+          "title": "Watch: Why has the Federal Reserve raised interest rates?",
+          "lead": "The BBC's Samira Hussain looks at the factors considered in the",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/videos/cmx2zw08dvk9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump says he still has confidence in Fed Chair Warsh, demands 1% or lower interest rates",
+          "lead": "President Donald Trump previously threatened to cut off trade with",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html"
+        },
+        {
+          "title": "Macklemore pledges $1m in tour earnings to Palestinian groups",
+          "lead": "The rapper also challenged Robert Kraft to match the donation as",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss"
+        },
+        {
+          "title": "Hong Kong to offer ‘attractive’ merger deals for schools beyond those struggling",
+          "lead": "Hong Kong education authorities will offer a “very attractive”",
+          "category": "society",
+          "categoryLabel": "Society",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/hong-kong/education/article/3367765/hong-kong-offer-attractive-merger-deals-schools-beyond-those-struggling?utm_source=rss_feed"
+        },
+        {
+          "title": "Holtec pulls IPO over ‘perfect storm’ in AI sector, founder says",
+          "lead": "Kris Singh says market sentiment against data centres had dented",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/5f4a4fce-72bb-4ea6-862b-1da1234d5b25?syn-25a6b1a6=1"
+        },
+        {
+          "title": "EU chief wants Canada to become an ‘associate member.’ What does that mean?",
+          "lead": "Canadian Prime Minister Mark Carney said Canada was seeking a \"unique",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/09/17/world/eu-canada-associate-member/"
+        },
+        {
+          "title": "US House holds billionaire Epstein associate Leon Black in contempt of Congress",
+          "lead": "The US House of Representatives on Wednesday held billionaire",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "http://www.france24.com/en/americas/20260916-leon-black-epstein-contempt-congress"
+        },
+        {
+          "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+          "lead": "The robotics industry is still waiting for their breakthrough into",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/"
+        },
+        {
+          "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
+          "lead": "Lionsgate has released an action-packed trailer for The Hunger Games",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/"
+        },
+        {
+          "title": "Scientists recreated what mice saw from brain activity alone",
+          "lead": "Scientists reconstructed videos from the brain activity of mice",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm"
+        },
+        {
+          "title": "Resident Evil is a comedy first and a thrilling nightmare second",
+          "lead": "When Paul W.S. Anderson's Resident Evil hit theaters in 2002",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/entertainment/996416/resident-zach-cregger-review"
+        },
+        {
+          "title": "Flamingo Estate’s Richard Christiansen on Pamela Anderson’s Pickles, Julianne Moore’s Honey and the Dolly Parton Coffee That ‘Got Away’",
+          "lead": "Richard Christiansen was working in the offices at Flamingo Estate",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/scene/news/flamingo-estates-richard-christiansen-pamela-anderson-pickles-julianne-moore-honey-dolly-parton-coffee-1236861665/"
+        },
+        {
+          "title": "US interest rates raised for first time in three years",
+          "lead": "Rates were hiked in a unanimous decision despite fierce opposition",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
+          "lead": "The Lindsey Graham Russia sanctions bill is on a path to become law",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html"
+        }
+      ],
+      "supplement": {
+        "title": "Scientists find an immune “false alarm” that may drive rapid aging",
+        "lead": "Scientists have discovered that some severe genetic disorders linked to rapid aging may be driven not just by damaged DNA, but by the body’s overreaction to that damage.",
+        "body": [
+          "Scientists have discovered that some severe genetic disorders linked to rapid aging may be driven not just by damaged DNA, but by the body’s overreaction to that damage.",
+          "When broken DNA fragments leak into the wrong part of a cell, an immune sensor called cGAS can mistake them for signs of a viral infection, triggering chronic inflammation and even interfering with DNA repair itself."
+        ],
+        "source": "ScienceDaily",
+        "group": "ScienceDaily",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260915232130.htm",
+        "category": "science",
+        "categoryLabel": "Science",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 20,
+        "maxGroupShare": 11,
+        "categories": 8,
+        "topGroups": [
+          "BBC×4",
+          "Guardian×3",
+          "Ars Technica×3",
+          "Variety×3",
+          "ScienceDaily×3",
+          "FT×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-09-17T00:12:26.495Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 797,
+        "lang": 454,
+        "fresh": 376,
+        "denoised": 375,
+        "deduped": 354
+      },
+      "en": {
+        "fetched": 797,
+        "lang": 343,
+        "fresh": 337,
+        "denoised": 335,
+        "deduped": 323
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "BBC×3",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "界面×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 3,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 20,
+        "maxGroupShare": 11,
+        "categories": 8,
+        "topGroups": [
+          "BBC×4",
+          "Guardian×3",
+          "Ars Technica×3",
+          "Variety×3",
+          "ScienceDaily×3",
+          "FT×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

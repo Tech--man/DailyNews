@@ -1,0 +1,918 @@
+{
+  "issue": 5,
+  "date": "2026-09-19",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历八月初九 · 白露",
+    "en": "9th day of the 8th lunar month · White Dew"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "特朗普：美国将获得对格陵兰岛安全“永久控制权”",
+        "lead": "当地时间9月18日，美国总统特朗普在社交媒体上发文称，美国已与丹麦及其自治领地格陵兰岛达成一项协议，将获得对格陵兰岛安全及所有其他相关事务的“永久控制权”，美方无需为此支付费用。",
+        "body": [
+          "当地时间9月18日，美国总统特朗普在社交媒体上发文称，美国已与丹麦及其自治领地格陵兰岛达成一项协议，将获得对格陵兰岛安全及所有其他相关事务的“永久控制权”，美方无需为此支付费用。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699323.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "报道：Anthropic将IPO时间推迟至11月，欲借三季度财报“背书”",
+        "lead": "Anthropic拟11月上市，千亿营收撑腰估值2万亿。 9月18日，据《华尔街日报》报道， AI独角兽Anthropic计划于11月完成IPO，晚于此前市场预期的10月。 部分顾问认为， 推迟至11月可让公司有时间披露第三季度财务数据 ，在竞争对手OpenAI于9月推出最新模型Astra之后",
+        "source": "華爾街見聞",
+        "group": "華爾街見聞",
+        "link": "https://wallstreetcn.com/articles/3782109",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 2
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "美总统特朗普签署针对俄罗斯和伊朗的制裁法案",
+              "lead": "当地时间9月18日，美国白宫发布声明表示，美国总统特朗普当日签署了《2026年林赛·格雷厄姆制裁俄罗斯和伊朗法案》。该法案授权并扩大了针对俄罗斯的法定制裁、关税及禁令，并延长了现行针对伊朗的制裁措施。(总台记者 张颖哲）",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699324.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "中国担忧的是另一种人工智能风险",
+              "lead": "中国决策者更担心AI引发的政治和社会风险。他们不希望它制造领导人的深度伪造内容、在“六四”或台湾问题上说“错”话，或是引发社会动荡。 Illustration by Sam Whitney/The New York Times",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/opinion/20260918/ai-china-america-risk/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "美国科技巨头呼吁放缓AI发展速度——中国怎么看？",
+              "lead": "随著人工智能以惊人的速度发展，一些业内最杰出的领导者已经警告了它可能带来的潜在风险。然而，世界两大人工智能超级大国——中美之间的激烈竞争，可能会让应对这项威胁的努力变得更加复杂。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c8y5z7y521eeo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5ae/live/f4c8ad20-b2ab-11f1-819c-176371125270.jpg"
+            },
+            {
+              "title": "习近平访美前瞻：当白宫举行宴会时，台湾会出现在「菜单」上吗？",
+              "lead": "日媒称美中峰会前，白宫若批准新的对台军售，习近平可能不去华府。对台湾的军售从原则如何变成交易杠杆，台湾的晶片牌仍然有效吗？",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cq62j7my13l3o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a7fa/live/7db53200-b2a9-11f1-819c-176371125270.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "媒体称欧盟希中国自愿限制混动汽车对欧出口 中国商务部回应",
+              "lead": "中新社北京9月18日电 (记者 尹倩芸)近日，有媒体报道，欧盟希中方自愿限制混动汽车对欧出口，否则可能面临更高关税。中国商务部新闻发言人18日表示，中方坚决反对所谓自愿出口限制。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/09-18/10699293.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "日本又要出手？日央行被曝汇率摸底，日元收窄跌幅，高市早苗的“鸽派牌”埋到明年7月",
+              "lead": "日本央行加息后日元仍承压，凸显日本货币政策在抑制通胀、支持经济与稳定汇率之间的多重制约。日本央行据称已进行汇率摸底，日元盘中跌势缓和，市场对日本当局再度干预汇市的关注升温。 美东时间9月18日周五美股早盘尾声时，日媒爆料称，日本央行在外汇市场向市场参与者询问汇率水平。日元随即加速收窄日内跌幅，美股午盘之初，美元兑日元汇率回到156.80下方，盘中涨幅收窄至约0.5%，此后涨幅曾达到0.3%。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3782104",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "比特币升破8万美元 投资者消化美国加密货币法案受挫及美联储加息",
+              "lead": "加密货币周五上涨，市场风险偏好上升，投资者消化了美国加密货币法案未获通过以及美联储三年多来首次加息的影响。最大的加密货币比特币一度上涨5.2%，报约80443美元，收复本周早些时候的部分失地。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1578642.htm",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "微软高管内部表述曝光，称训练 AI 是“人类历史上最大规模劳动窃取”",
+              "lead": "IT之家 9 月 19 日消息，科技媒体 Tom's Hardware 昨日（9 月 18 日）发布博文，报道称在起诉 OpenAI 和微软的版权纠纷案中，原告《纽约时报》已申请简易判决， 并提交新的法律摘要，进一步披露两家公司（微软和 OpenAI）内部材料。 这起版权纠纷可以追溯到 2023 年年底，《纽约时报》指控微软和 OpenAI 两家公司侵犯其数千篇新闻报道的版权",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/004/356.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            },
+            {
+              "title": "微软高管称 AI 的训练数据是人类历史上最大规模的劳动盗窃",
+              "lead": "根据内部文件，微软应用科学总监 Brent Hecht 警告，抓取新闻内容训练 AI 是一次规模空前的盗窃，可能是人类历史上最大规模的劳动盗窃。他不认为抓取新闻内容训练 AI 是合理使用，认为这种做法完全是对合理使用理念的嘲弄。微软的另一份文件认为会形成“恶性循环”，会同时伤害模型和整个 Web。OpenAI 的产品如 ChatGPT 可能会危及新闻出版商的经济基础。OpenAI 和微软的数据都显示这一预测是正确的。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85423",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            },
+            {
+              "title": "Anthropic设立实体生物实验室 推动Claude参与机器人实验",
+              "lead": "Anthropic已在旧金山湾区建立一处生物“湿实验室”，将人工智能在生命科学领域的应用从文献、数据和计算分析延伸至实体实验。公司计划让Claude协助指导实验机器人，在药物研发及罕见病研究中形成设计实验、执行操作和分析结果的闭环。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1578654.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "俄罗斯对欧盟新一轮制裁采取反制措施",
+              "lead": "中新社莫斯科9月18日电 俄罗斯外交部18日发表声明表示，作为对欧盟新一轮对俄制裁的回应，俄方大幅扩大禁止入境俄罗斯的欧盟国家人员名单。该名单涵盖支持欧盟反俄政策的欧盟相关机构、欧盟成员国及其他欧洲国家的代表。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699319.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "澳洲收紧移民政策：管制留学生、背包客，打击「签证跳转」",
+              "lead": "澳洲政府希望在2028年前，将海外净移民人数降至22.5万人。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cx24jdd1j59po/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/afea/live/5a3af4c0-b31e-11f1-a4e6-7d47c873e4d3.jpg"
+            },
+            {
+              "title": "中国储备巨量石油，或将主导全球能源格局",
+              "lead": "作为主要石油进口国，中国曾极易受到石油供应冲击的影响。但该国通过储备石油及投资替代能源实现了重大转变，这对全球能源业和地缘政治都产生了很大影响。 Keith Bradsher/The New York Times 中国九江的一家炼油厂。传统上，掌握主动权的一直是沙特阿拉伯和美国等石油出口国，而非中国等进口国。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20260918/china-oil-iran-war/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "金正恩的“强国”背后，朝鲜人的血泪代价",
+              "lead": "朝鲜已是事实上的拥核国，经济正以多年来最快速度增长，金正恩成为后疫情时代一个出乎意料的赢家。他的权力建立在对本国人民的系统性剥削之上，中俄则积极推波助澜。 Kim Won Jin/Agence France-Presse — Getty Images 上周，朝鲜在首都平壤举行阅兵式，庆祝建国78周年。无论是在经济上还是外交上，该国目前都处于有史以来最有强大的时刻之一。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/asia-pacific/20260918/north-korea-exploitation-kim/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "何为残障？也许，健全是世界的一门方言 ｜记者手记",
+              "lead": "与读者分享的话：在技术以迅猛之势不断突破、迭代和制造更多不平等的时代，不被主流视线触及的人群，会如何体验技术的发展？不久前，我们推出 互动页面报道《科技乌托邦，可以给视障者「一双眼睛」吗？》 ，以视障者的科技困境为入口，回答科技如何介入残障生活，重新审视科技无障碍，并邀请读者一起思考一个我们共同关切的问题：以视觉为中心的技术，究竟缺乏了什么？而什么，才是视障者需要的？",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20260919-mainland-what-is-disability/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/GettyImages-1799088383.jpg"
+            },
+            {
+              "title": "秦始皇祖母陵墓或现世，陕西公布上召窑秦陵考古成果",
+              "lead": "9月18日，陕西省考古研究院发布考古成果：位于陕西省咸阳市渭城区的上召窑秦陵完整考古面貌正式公布。这座沉睡两千余年、形制规格极高的战国晚期大墓，经过系统性勘探、发掘、年代测定和礼制比对，有专家给出推测：墓主可能是华阳太后——秦始皇的祖母、战国末年影响秦国国运的关键女性。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/09-18/10699091.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "斯诺克国际锦标赛资格赛：中国军团首日5人晋级",
+              "lead": "中新社英国莱斯特9月18日电 当地时间9月17日，2026年斯诺克国际锦标赛资格赛在英国莱斯特展开较量。中国军团当日6人出战128进64轮次的比赛，取得五胜一负，张安达、雷佩凡、姚朋成、黄佳浩和高阳5人成功晋级。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-18/10698993.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "中国男篮主教练：全队在攻防两端出现了问题",
+              "lead": "中新网9月18日电(记者 李志全 国璇)当地时间18日在爱知·名古屋亚运会男子篮球项目半决赛中，中国男篮不敌东道主日本队，无缘决赛。赛后，中国男篮主教练郭士强表示，球队从开局到比赛结束，攻防两端均出现问题，导致最终输掉比赛。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-18/10699257.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "解码生成式人工智能 “科创燃梦”首场公益科普直播课开播",
+              "lead": "中新网北京9月18日电 (记者 孙自法)“科创燃梦——青少年科技素养实训计划”首场公益科普直播课近日开播，旨在助力广大青少年解码生成式人工智能(AI)。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/09-18/10699252.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "巴菲特卸任伯克希尔董事长 其次子霍华德即刻接任该职务",
+          "lead": "沃伦・巴菲特宣布卸任伯克希尔‑哈撒韦（BRK.B）董事长，这家万亿市值的综合集团已在他手中运营超过六十年。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1578628.htm"
+        },
+        {
+          "title": "对台军售成「特习会」谈判筹码？北京警告或取消峰会施压特朗普",
+          "lead": "中美两国元首本月稍后预定在华府举行的「特习会」，是全球瞩目的外交焦点，中方仍未公布行程。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cre30gqdn8xno/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "巴菲特正式卸任！其子霍华德接任董事长，伯克希尔进入新时代",
+          "lead": "沃伦·巴菲特正式卸任伯克希尔哈撒韦董事长一职，由其子霍华德·巴菲特接任主席。这是继今年年初卸任CEO之后",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782089"
+        },
+        {
+          "title": "美国提出延长对伊朗核计划监督期限，中俄投票否决",
+          "lead": "该决议旨在延长负责监督伊朗核计划的专家小组的工作期限。中俄称相关制裁已经到期，因此这一问题不应再成为讨论议题。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/world/20260918/un-iran-resolution-russia-china-veto/?utm_source=RSS"
+        },
+        {
+          "title": "找 Hello、拍 Hello：苹果全球 Apple Store 藏彩蛋，让顾客体验 iPhone 18 Pro 光学变焦",
+          "lead": "IT之家 9 月 19 日消息，科技媒体 MacRumors 昨日（9 月 18 日）发布博文，报道称在 iPhone 18 Pro",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/004/362.htm"
+        },
+        {
+          "title": "安全研究人员利用 Claude 成功入侵 OpenAI",
+          "lead": "Hacktron 安全团队组合利用 OpenAI 的 SSO（单点登录）配置错误以及其社区论坛使用的 Discourse 软件",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85421"
+        },
+        {
+          "title": "北京女子孙美华失踪26年后回家：「再次失联」会否有人追查？｜Whatsnew",
+          "lead": "北京女子孙美华近日在失联26年后，因寻亲志愿者协助从山东农村回到北京的家。一张她年轻时的照片在社群平台上传播",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260917-whatsnew-china-sun-meihua-found-26-years-after-missing/"
+        },
+        {
+          "title": "Figure 让机器人第一次「空手」进陌生人家：不遥操，也不提前预习，进了家门就干活",
+          "lead": "没去过你家，也不耽误帮你叠被子。 9 月 17 日，Figure AI 发布了新一代模型 Helix 2.5",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1680884?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "Anthropic据悉将原定的IPO推迟至11月",
+          "lead": "据报道，Anthropic将原定的IPO推迟至11月。 （文章来源：财联社）",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1351,202609193878950483.html"
+        },
+        {
+          "title": "[酷工作] 招项目管理兼职",
+          "lead": "自己做几个软件外包项目，有时候忙不过来，所以希望找个类似于项目经理的兼职来帮我管理项目需求和进度。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1243100#reply0"
+        },
+        {
+          "title": "烧掉聪明镇 (评论: 聪明镇)",
+          "lead": "穿堂风 评论: 聪明镇 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17820752/"
+        },
+        {
+          "title": "人类真的可能被AI灭绝？我们可以如何阻止？",
+          "lead": "人工智能（AI）快速发展之际，AI界对其潜在风险的公开讨论也越来越多。部分科学家甚至估计，未来十年AI导致人类灭绝的可能性超过一成。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c674k7gxpgplo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "“三巫日”叠加10年期美债重回5%，标普、纳指艰难收涨，闪迪大涨11%，油价跌黄金涨",
+          "lead": "美股在高债券收益率与“三巫日”大规模期权到期的双重压力下表现分化，标普和纳指艰难收涨、芯片股领涨提振整体指数，道指微跌0.2%。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782058"
+        },
+        {
+          "title": "Hyrox北京赛选手失禁完赛引发争议，官方道歉退款",
+          "lead": "一位参赛运动员在比赛中失禁，但她完成了比赛并夺冠。由于这是一场共享器械的室内赛事，这场意外引发轩然大波，许多人担心其他运动员可能染病",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/style/20260917/hyrox-race-defecate-winner/?utm_source=RSS"
+        },
+        {
+          "title": "一场物理意义上的男女对立：重庆时代峰峻事件｜端闻 Podcast",
+          "lead": "https://open.acast.com/public/streams/66b07190af99592b5329f43a/episode",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260918-initium-audio-time-fengjun-public-opinion/"
+        },
+        {
+          "title": "全球市场：美股三大指数涨跌不一 半导体板块走强 加密货币概念大涨",
+          "lead": "美股市场： 美股三大指数09月18日收盘涨跌不一。截至收盘，道琼斯工业平均指数比前一交易日下跌95.4点，收于51682.64点",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://stock.eastmoney.com/news/11784,202609193878949075.html"
+        }
+      ],
+      "supplement": {
+        "title": "这一周，不漏读：北京女子失踪26年回家后再度失联",
+        "lead": "这一周，有人失踪26年后回家，却再次被隔绝于外界；有人度过囚禁五年后出狱，却将面对四年剥夺政治权利。无需担心没时间跟上新闻——每逢东亚时间周一、周五，定时开启端周报，我们带你快速掌握近期的新闻关键时刻。 每份周报当中，端传媒图片编辑为我们精选数张全球新闻摄影作品，捕捉未及纳入报导的事件瞬间。",
+        "body": [
+          "这一周，有人失踪26年后回家，却再次被隔绝于外界；有人度过囚禁五年后出狱，却将面对四年剥夺政治权利。无需担心没时间跟上新闻——每逢东亚时间周一、周五，定时开启端周报，我们带你快速掌握近期的新闻关键时刻。每份周报当中，端传媒图片编辑为我们精选数张全球新闻摄影作品，捕捉未及纳入报导的事件瞬间。今天的题图来自美联社摄影记者Baderkhan Ahmad：2026年9月12日，叙利亚东北部德里克乡村，库德族妇女保护部队（YPJ）的战士们在军事训练间隙休息。",
+          "本周速递要点｜Whatsnew Summary ☁两岸三地 香港首份「五年规划」：强调非计划经济，连同施政报告2026聚焦北都融入国家 香港特首李家超9月16日首次发表香港第一份「五年规划」及任内最后一份《施政报告》，两份文件合共超过10万字。李家超强调五年规划并非计划经济，而是主动对接国家「十五五」规划的战略蓝图。重点之一是加快北部都会区建设，包括设立新田、洪水桥、打鼓岭三个「北都大学城」，总规划面积达300公顷，定位涵盖医学、AI、微电子等领域。金融方面提出强化全球离岸人民币业务枢纽功能，推出100亿元创科产业引导基金。民生方面推出11项鼓励生育「组合拳」，包括延续并加码新生婴儿奖励金、提高免税额、购房印花税减免等；",
+          "房屋政策则目标未来五年落成约19.6万个公营房屋单位。报告同时提及推广爱国主义教育，计划在古洞北设立介绍国家发展成就的博物馆，并持续拨款支持同乡社团活动。更多内容请点击标题入内阅读。深圳日本男童遇刺两周年：没有「日本」的判决书与未解的动机 2024年9月18日「九一八」事变纪念日当天，44岁江西男子钟长春在深圳蛇口日本人学校附近刺杀一名10岁日籍男童，随后致电媒体「爆料」自己的行为。案件四个月后钟长春被判处死刑并已执行，但判决书完全未提及日本，仅称其「为在网路上引起关注而杀害儿童」。记者从接近案件人士获悉，钟长春拥有本科学历但经济状况恶化、长期无固定职业，其社交帐号未发现仇日言论，分析认为他选择日本人是因中日关系使其更易引发关注，针对儿童则因容易下手。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20260918-weekly/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/AP26257490463112.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "華爾街見聞×4",
+          "端傳媒×4",
+          "紐約時報×3",
+          "BBC×3",
+          "cnBeta×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Trump and leaders of Denmark and Greenland announce plan to sign Arctic security pact next week – live",
+        "lead": "Greenland’s leadership emphasized that the agreement would fall far short of Trump’s stated desire for ‘the acquisition of Greenland by the United States’ Sign",
+        "body": [
+          "Greenland’s leadership emphasized that the agreement would fall far short of Trump’s stated desire for ‘the acquisition of Greenland by the United States’ Sign up for the US Breaking News email Shapiro and Newsom aren’t the only governors making moves on AI lately.",
+          "Virginia Governor Abigail Spanberger, a Democrat, announced at a news conference today plans for tighter rules on data center development in order to address transparency, energy use and environmental concerns.",
+          "And Nevada’s governor, Joe Lombardo, a Republican, signed an executive order aimed at tackling similar issues. Continue reading..."
+        ],
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/us-news/live/2026/sep/18/us-politics-midterms-early-voting-cost-of-living-iran-war-trump-kennedy-center-institute-of-peace-latest-news-updates",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/92a055969a32a2b7574d2f152ae1fc3422e7a067/0_0_1283_1026/master/1283.jpg?width=140&quality=85&auto=format&fit=max&s=959512a0c63ba67ca43dcc637d59f77d",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Anthropic brings in Accenture for AI safety testing",
+        "lead": "CEO Dario Amodei says labs should more deeply embed third-party testers as concerns grow around risks associated with the technology",
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/26e3749b-be69-4cd4-8db1-fa8597fb6fb3?syn-25a6b1a6=1",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1db48b87-664a-4973-b881-1f4b531a542e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Alleged underworld supporters and unfounded health claims: One Nation rolls out more Victorian election candidates",
+              "lead": "Party has unveiled a steady stream of contenders for state election, including a former councillor who lost his licence for drink-driving Get our new political email",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/australia-news/2026/sep/19/one-nation-victorian-election-candidates-michael-piastrino-elita-dabrowski-ben-lucas-ntwnfb",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/a18e23102ac511a0ef24e5c8897dcea5405e9513/785_0_7857_6286/master/7857.jpg?width=140&quality=85&auto=format&fit=max&s=ec65647c7c052dbe817c95a422a36285",
+              "consensus": 5
+            },
+            {
+              "title": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees",
+              "lead": "Witnesses say men were hooded and beaten in Equatorial Guinea. The autocratic government there is a partner in President Trump’s deportation program.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/09/17/multimedia/00int-deportation-hotel-1-tzvj/00int-deportation-hotel-1-tzvj-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "AI: Silicon Species or Trojan Horse? Riyadh Calling, Russia Votes & the Ed Sheeran debate",
+              "lead": "This week, Saudi Arabia has turned to its allies for military support as Iran-backed Houthi rebels tighten their grip on Yemen’s Red Sea coast and the Bab el Mandeb shipping choke point",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20260918-time-to-stop-suggesting-ai-is-conscious-riyadh-calling-saudi-s-hour-of-news-russian-elections",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://s.france24.com/media/display/db7520f4-b393-11f1-a724-ed3d9e22a40f/w:1024/p:16x9/ANTHROPIC.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Trump says US has deal with Denmark for ‘control’ of Greenland’s security",
+              "lead": "Danish government says agreement could be signed next week and will respect territory’s sovereignty",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/2ecc74bd-2fba-4ca6-9f1c-f0a927ed983c?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe8067781-a5e5-439d-9937-b7ec6bbcf3cd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Dragon Deborah opens with a terrible negotiation tactic",
+              "lead": "Deborah Meaden makes a bold opening move in response to a pitch.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/videos/cwkgxlze1pr9o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e63/live/849c5b30-b285-11f1-b1d1-571ed4d7ff2c.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+              "lead": "Suleyman joined \"Squawk Box\" to discuss OpenAI's latest incidents of \"concerning model behavior\" disclosed earlier this week.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
+              "lead": "Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+              "lead": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Alibaba open-sources medical AI model that can detect cancer and nearly 150 conditions",
+              "lead": "Alibaba Group Holding’s research arm, Damo Academy, has open-sourced an artificial intelligence model capable of identifying nearly 150 abdominal conditions – including cancers – by reading computed tomography (CT) scans",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions?utm_source=rss_feed",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/18/4d38a4b8-98a8-4462-acfa-eb718c19a85d_2bb080b5.jpg?itok=O36TfED1&v=1789736650",
+              "consensus": 5
+            },
+            {
+              "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+              "lead": "The US narrowly avoided boarding a Chinese ship based on an \"entirely false\" US intelligence report generated with the help of AI tools, according to a CNN report .",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2249618531-1152x648.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "'We're unpredictable' - Andrews delighted with 'brilliant' Brentford",
+              "lead": "Brentford manager Keith Andrews is full of praise after a resounding 3-0 win against West London rivals Chelsea, branding them \"brilliant\" following a unbeaten start to the Premier League campaign.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/cj3v47q6lde1o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6ee/live/e2bf7880-b3a9-11f1-bc1f-3f186ca4140c.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Kane makes history and Olise nets hat-trick as Bayern thrash Union Berlin",
+              "lead": "HHarry Kane makes history by becoming the fastest player to reach 100 Bundesliga goals in his 98th game, while Michael Olise nets a hat-trick as Bayern Munich thrash Union Berlin 7-0.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/ck4gle1ep647o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a1/live/1bb6c400-b3ae-11f1-a430-4d16ee157c41.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "'Everything was disappointing' - Alonso on Brentford defeat",
+              "lead": "Chelsea manager Xabi Alonso says everything about his side's performance in their loss at Brentford was \"disappointing\", stressing that they need to improve in every aspect of their game.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/ck0j3506706jo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a2e/live/ec5754e0-b3a8-11f1-b1d1-571ed4d7ff2c.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Angelina Jolie and Salma Hayek Pinault on Their New Film ‘Without Blood’ and Spending ‘A Lot of Time Talking About Our Pain, Our Losses, Our Traumas’",
+              "lead": "In “Without Blood,” written and directed by Angelina Jolie, Salma Hayek plays Nina, a woman who spends her adult life looking for the three men responsible for the wartime murder of her father and brother when she was",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/columns/angelina-jolie-salma-hayek-without-blood-pain-losses-traumas-1236867367/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/07/GettyImages-2170894511.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "‘Knife: The Attempted Murder of Salman Rushdie’ Review: Alex Gibney Profiles the Controversial Author During His Harrowing Hospitalization",
+              "lead": "There’s nothing more distressing in “Knife: The Attempted Murder of Salman Rushdie’ than the unflinching closeups of the author’s wounded body in the days and weeks after August 12, 2022",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/reviews/knife-the-attempted-murder-of-salman-rushdie-review-1236867255/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/05/KNIFE-Still_3.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "NASA’s Roman Space Telescope could last more than twice as long as planned",
+              "lead": "NASA’s Roman Space Telescope may now have enough fuel for at least 22 years of science, more than double its original 10 year design life.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260918024802.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists discover cells that cheat death and rebuild damaged tissue",
+              "lead": "Scientists discovered a population of cells that can start the process of programmed cell death, survive it, and then help rapidly rebuild damaged tissue.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260917003722.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Anak Krakatau blasts ash nearly 10 miles high",
+              "lead": "Anak Krakatau erupted for more than 24 hours in early September, sending volcanic ash up to 50,000 feet into the atmosphere. The ash cloud shut down eight airports, disrupted nearly 3,000 flights",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260917003718.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+          "lead": "Mary Timby flew to Ireland on a whim last year and met her boyfriend",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Latvia’s president warns that Europe is not up to date with drone and aerial warfare in Ukraine",
+          "lead": "Edgars Rinkēvičs says drone warfare in Ukraine is moving at",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/sep/18/edgars-rinkevics-europe-ukraine-war"
+        },
+        {
+          "title": "Trump bans major US news outlets from White House",
+          "lead": "President bars CNN, MS Now and Politico as he escalates assault on",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/4cd82226-3d4a-474d-bc3e-de2ed0b1e6f8?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Why Russia Holds Elections, and How the Kremlin Gets the Results It Wants",
+          "lead": "Russian elections like the parliamentary vote that begins today are",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/09/18/world/europe/russia-duma-election.html"
+        },
+        {
+          "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+          "lead": "UP.Labs, now doing business under the name Vantora",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
+        },
+        {
+          "title": "Sweden's centre-left leader Andersson tasked with forming government after election",
+          "lead": "Sweden's parliament speaker on Friday tasked opposition leader",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/europe/20260918-sweden-s-centre-left-leader-andersson-tasked-with-forming-government-after-election"
+        },
+        {
+          "title": "Germany receives first F-35 jet from US as NATO boosts military spending",
+          "lead": "Germany received the first of nearly three dozen F-35 stealth",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending?traffic_source=rss"
+        },
+        {
+          "title": "Oil finishes the week flat as the market sees Saudi pipeline outage as less disruptive than feared",
+          "lead": "Saudi Arabia and the Houthis exchanged fresh attacks across their",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html"
+        },
+        {
+          "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+          "lead": "Virginia Gov. Abigail Spanberger ordered the state government to take",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force"
+        },
+        {
+          "title": "Sikh trucker stabbed in Wyoming, stirring fresh fears in US community",
+          "lead": "The stabbing of a truck driver at a remote Wyoming rest stop had US",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3368080/sikh-trucker-stabbed-wyoming-stirring-fresh-fears-community?utm_source=rss_feed"
+        },
+        {
+          "title": "Researchers used Claude to hack OpenAI",
+          "lead": "Cyber researchers broke into OpenAI using its key rival Anthropic’s",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/"
+        },
+        {
+          "title": "Paramount and California AG Bonta Reportedly in ‘Advanced Talks’ to Settle Antitrust Suit",
+          "lead": "David Ellison’s Paramount Skydance is in “advanced talks” with",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/news/paramount-california-ag-bonta-advanced-talks-settle-antitrust-suit-1236867326/"
+        },
+        {
+          "title": "Scientists restore a brain protein and reverse signs of aging in mice",
+          "lead": "Scientists found that declining levels of the brain protein Menin may",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260918000437.htm"
+        },
+        {
+          "title": "Trump says he is banning CNN and Politico from White House",
+          "lead": "The US president has had a tense and fiery relationship with the US",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Oracle’s $18bn data centre debt under strain amid local pushback",
+          "lead": "Investors grow wary of permitting and construction delays as",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/bd441859-6c94-4874-894f-9362c1703127?syn-25a6b1a6=1"
+        },
+        {
+          "title": "AI hallucination nearly triggers US military operation",
+          "lead": "“It’s important for service members to understand the uncertainty",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/"
+        }
+      ],
+      "supplement": {
+        "title": "Scientists just named a new snake after Guns N’ Roses legend Slash",
+        "lead": "A newly discovered snake from New Guinea has been named after Guns N’ Roses guitarist Slash, who has loved reptiles since childhood. Genetic testing and physical differences confirmed that the reddish-brown groundsnake",
+        "body": [
+          "A newly discovered snake from New Guinea has been named after Guns N’ Roses guitarist Slash, who has loved reptiles since childhood.",
+          "Genetic testing and physical differences confirmed that the reddish-brown groundsnake, Lielaphis slashi, is a species scientists had never formally recognized before.",
+          "The nonvenomous snake may use large rear teeth to catch slippery lizards and reptile eggs."
+        ],
+        "source": "ScienceDaily",
+        "group": "ScienceDaily",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260918024816.htm",
+        "category": "science",
+        "categoryLabel": "Science",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "ScienceDaily×5",
+          "BBC×4",
+          "TechCrunch×3",
+          "Variety×3",
+          "Guardian×2",
+          "FT×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-09-18T23:59:26.953Z",
+    "sources": {
+      "configured": 36,
+      "ok": 35,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "界面新聞",
+          "reason": "fetch failed"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 775,
+        "lang": 430,
+        "fresh": 339,
+        "denoised": 338,
+        "deduped": 320
+      },
+      "en": {
+        "fetched": 775,
+        "lang": 345,
+        "fresh": 333,
+        "denoised": 332,
+        "deduped": 322
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "華爾街見聞×4",
+          "端傳媒×4",
+          "紐約時報×3",
+          "BBC×3",
+          "cnBeta×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "ScienceDaily×5",
+          "BBC×4",
+          "TechCrunch×3",
+          "Variety×3",
+          "Guardian×2",
+          "FT×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

@@ -1,0 +1,849 @@
+{
+  "issue": 6,
+  "date": "2026-09-20",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历八月初十 · 白露",
+    "en": "10th day of the 8th lunar month · White Dew"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "特朗普：将组建一支“人工智能部队” 并任命一名负责人",
+        "lead": "中新网9月20日电 据美国有线电视新闻网(CNN)等外媒报道，当地时间19日，美国总统特朗普在社交媒体发文称，他计划组建一支“人工智能部队”，并将任命一名人工智能事务“总管”。",
+        "body": [
+          "中新网9月20日电 据美国有线电视新闻网(CNN)等外媒报道，当地时间19日，美国总统特朗普在社交媒体发文称，他计划组建一支“人工智能部队”，并将任命一名人工智能事务“总管”。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/kong/2026/09-20/10699748.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "特朗普称将组建一支“人工智能部队”",
+        "lead": "美国总统特朗普当地时间9月19日在社交媒体发文称，他将组建一支“人工智能部队”。特朗普说，为组建“人工智能部队”，他将在不久后任命一名人工智能事务“总管”。他称，人工智能代表着下一场工业革命或互联网浪潮，其规模和影响力将更大，甚至可能占到美国国内生产总值的25%。",
+        "source": "界面新聞",
+        "group": "界面",
+        "link": "https://www.jiemian.com/article/15116500.html",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 2
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "欧盟敦促美国重新考虑针对联合国大会巴勒斯坦代表团的拒签制裁",
+              "lead": "中新社布鲁塞尔9月19日电 (记者 德永健)在联合国大会高级别会议召开前夕，欧盟19日发表声明，敦促美国重新考虑针对联合国大会巴勒斯坦代表团的拒签制裁。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699740.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "智利前总统巴切莱特退出联合国秘书长遴选",
+              "lead": "",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15116453.html",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "美联储加息落地，黄金为何不跌反涨？",
+              "lead": "美联储加息靴子落地，黄金却涨了。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/09-19/10699593.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "中央气象台最新预报：未来台风“杜鹃”对我国近海无影响",
+              "lead": "9月20日，据中国天气网消息，之前有网友担心台风“杜鹃”会影响中秋假期，还上了热搜，据最新预报，未来“杜鹃”对我国近海无影响。今年第25号台风“杜鹃”（台风级）的中心今天早晨5点钟位于日本东京南偏西方向约770公里的西北太平洋洋面上，预计“杜鹃”21日开始转向东北方向移动，逐渐趋向日本以南洋面。未来“杜鹃”对我国近海无影响。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15116513.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "日本央行加息之际，对冲基金近一年多来首次看涨日元",
+              "lead": "对冲基金对日元的立场出现重大转向，自2025年7月以来首次转为净多头，折射出美日两国当局市场干预后市场情绪的深层变化。 据彭博报道，根据美国商品期货交易委员会（CFTC）周五公布的数据，截至9月15日当周，杠杆交易商已清空此前的日元空头头寸，并开始建立看涨仓位。彭博汇总数据显示，相关基金目前持有约2510亿日元（约合16亿美元）的日元多头头寸。 这一立场转变发生在美联储与日本央行本周相继上调利率之前。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3782135",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "微软紧急发布补丁解决Windows Defender虚假停用提示缺陷",
+              "lead": "微软近日针对其操作系统内置的安全防护软件 Windows Defender 推送了一项关键更新，成功修复了一个困扰广大用户多日的严重系统错误。此前，大量用户反映其系统频发假警报，不断弹出提示称“防病毒软件已被停用”或“防护功能已关闭”，导致用户陷入系统安全可能被隐蔽威胁攻破的恐慌之中。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1578776.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "微软紧急发布补丁，修复 Win11/Win10 系统 Defender 报停用 Bug",
+              "lead": "IT之家 9 月 20 日消息，据科技媒体 Windows Latest 昨天报道，微软本周发布紧急补丁， 修复 Win11 和 Win10 持续近两个月的“Microsoft Defender 已停用”错误提示 。 据报道，该问题最早出现于今年 8 月初。部分用户的 Windows 安全中心会频繁弹出推送通知，称 Microsoft Defender 已停用并要求重新开启。然而当用户真正打开安全中心后才发现，防护功能一直都是正常开着的。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/004/583.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "人形机器人的“三大争议”：何时大规模部署？算力需求暴增？“人形”是必要的吗？",
+              "lead": "巴克莱认为，通用人形机器人的大规模部署可能要等到2035年前后，而非2030年。 在9月18日发布的最新研报中，巴克莱对人形机器人投资热潮提出了三点判断：瓶颈在智能而非硬件，算力拉动集中在边缘而非数据中心，Physical AI颠覆的第一波浪潮很可能根本不是人形的。 报告中，巴克莱还围绕着规模、算力、形态等投资者最关切的问题进行了详细分析。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3782125",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "日前知名出版人：日媒曾为侵华战争摇旗呐喊，反思历史至关重要",
+              "lead": "北京外国语大学学者、日本岩波书店前总编马场公彦9月18日在《中国日报》撰文指出，距离九一八事变已过去95年，回顾那段历史可以看到，日本媒体曾全面服务于对外侵略议程；战后日本社会对侵略历史的反思依旧存在明显局限，正视战争罪责是发展对日睦邻关系绕不开的课题。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699526.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "特朗普据报将赴机场迎接习近平，待遇比肩教宗和赫鲁晓夫",
+              "lead": "美国总统亲赴机场迎接外国元首极为罕见。若不计教宗访美的特例，这将是超过 60 年来美国总统首次以这种方式迎接他国元首。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cx980mjemv73o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ac5/live/b512c0d0-b404-11f1-828c-db71746e4190.jpg"
+            },
+            {
+              "title": "突发：沙特首都主要机场附近出现大量黑烟",
+              "lead": "中新网9月19日电 据路透社等外媒当地时间19日报道，沙特首都利雅得主要机场附近当天出现大量黑烟。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699715.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "谁能对上他们的电波？电波系视觉小说与平成日本的自我崩坏",
+              "lead": "编者按：「电波系」是1990年代日本一个极端的视觉小说亚类别——描写精神崩坏、原子化孤独、外部世界的消失。它曾被视为一个高度日本本土的现象，却在2020年之后，被中国和欧美经历过社交隔离与网络依存的年轻世代重新发掘。作者回溯了电波系从平成日本到当下全球的四十年，从形式、心理、社会、传播四个角度阐述了这个诞生于日本精神危机的美学，为什么会成为当代原子化世代的镜子。本文包含对自杀、精神疾病等议题的社会学讨论。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20260920-game-on-denpa-visual-fiction/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/GettyImages-2172374722.jpg"
+            },
+            {
+              "title": "山西寿阳：青年傩舞狂欢派对让古老非遗“潮”起来",
+              "lead": "图为学生展示傩舞竹马表演。李静 摄 中新网晋中9月19日电(高雨晴 王静)9月19日，“怡然见晋中·傩舞燃青春”寿阳县青年傩舞狂欢派对在山西省晋中市寿阳县平头镇黑水村福田谷景区拉开帷幕。活动以国家级非物质文化遗产代表性项目傩舞(寿阳爱社)为内核，将古老傩文化与青春创意、现代潮流深度融合。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/09-19/10699702.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "斯诺克国际锦标赛资格赛：傅家俊闯关成功 中国军团再添6人晋级",
+              "lead": "中新社英国莱斯特9月19日电 当地时间9月18日，2026年斯诺克国际锦标赛资格赛在英国莱斯特继续128进64轮次的较量。中国军团继赛事首日5人获胜后，再添6人晋级。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-19/10699465.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "（爱知·名古屋亚运会）亚运会开幕在即 中国军团迎奥运前“中考”",
+              "lead": "中新网北京9月19日电 题：亚运会开幕在即 中国军团迎奥运前“中考”",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-19/10699548.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "界面早报 | 商务部新闻发言人就中美经贸磋商有关问题答记者问；伊朗称已向美政府传达7项谈判条件",
+          "lead": "美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法，商务部回应；西贝回应倒闭传闻：目前全国门店均正常运营；",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15116398.html"
+        },
+        {
+          "title": "R星放出《GTA6》露西娅与杰森多张全新艺术插画",
+          "lead": "近日R星正式公布《GTA6: The Album》官方原声专辑，实体版本已开启全球预购，宣传物料同步放出露西娅与杰森多张全新艺术插画。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/game/1578768.htm"
+        },
+        {
+          "title": "R 星《GTA6: The Album》官方原声专辑上线，官方同步放出多张全新艺术插画",
+          "lead": "IT之家 9 月 20 日消息，R 星近日正式公布《GTA6: The Album》官方原声专辑",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/004/575.htm"
+        },
+        {
+          "title": "美联储加息之际，美元创6月以来最强的一周",
+          "lead": "美元本周大幅走强，录得6月以来最佳单周涨幅，美联储释放的持续加息信号成为核心驱动力。 据彭博报道，彭博美元即期指数本周累计上涨1.1%",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782130"
+        },
+        {
+          "title": "大脑由两个不同的器官构成",
+          "lead": "科学家几百年来一直将大脑视为单一的器官。但斯坦福大学医学院领导的一项新研究发现，大脑实际上由两个不同的器官构成，它们在数亿年里独立演化。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85426"
+        },
+        {
+          "title": "专访苹果高管，揭秘 iPhone Duo 幕后工程和设计哲学 副本",
+          "lead": "从 2019 年 2 月三星发布第一代 Galaxy Fold 算起，折叠屏手机已经走过七年半。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1680763?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "[推广] WellAPI AI 中转站， 362 种大模型， Claude,GPT 无限量供应，不跑路，继续升级",
+          "lead": "WellAPI ，AI 中转站，362 种大模型，Claude,GPT 无限量供应，不跑路，继续升级 你想要的 AI 模型这里都有，透明",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1243228#reply0"
+        },
+        {
+          "title": "何为残障？也许，健全是世界的一门方言 ｜记者手记",
+          "lead": "与读者分享的话：在技术以迅猛之势不断突破、迭代和制造更多不平等的时代，不被主流视线触及的人群，会如何体验技术的发展？",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260919-mainland-what-is-disability/"
+        },
+        {
+          "title": "全球市场：美股三大指数涨跌不一 半导体板块走强 加密货币概念大涨",
+          "lead": "美股市场： 美股三大指数09月18日收盘涨跌不一。截至收盘，道琼斯工业平均指数比前一交易日下跌95.4点，收于51682.64点",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://stock.eastmoney.com/news/11784,202609193878949075.html"
+        },
+        {
+          "title": "虚假的雌竞：打败恶女，搞定王子；真实的雌竞：输了满地爬，赢了嫁狗shi (评论: 丑陋的继姐)",
+          "lead": "喵头鹰同学 评论: 丑陋的继姐 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17822326/"
+        },
+        {
+          "title": "美战机拦截闯入美总统度假地限制空域飞机",
+          "lead": "当地时间9月19日，一架通用航空飞机当天上午进入美国总统度假地戴维营上空的限制空域，北美防空司令部出动一架F-16战斗机进行拦截。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15116464.html"
+        },
+        {
+          "title": "甲骨文180亿AI贷款折价滞销，AI融资链压力浮现",
+          "lead": "甲骨文（Oracle）新墨西哥州Project Jupiter数据中心约180亿美元银团贷款的分销陷入停滞",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782134"
+        },
+        {
+          "title": "这一周，不漏读：北京女子失踪26年回家后再度失联",
+          "lead": "这一周，有人失踪26年后回家，却再次被隔绝于外界；有人度过囚禁五年后出狱，却将面对四年剥夺政治权利。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260918-weekly/"
+        },
+        {
+          "title": "感觉就跟玩游戏一样（有剧透） (评论: 生化危机：爆发夜)",
+          "lead": "呆头猫猫 评论: 生化危机：爆发夜 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17821818/"
+        },
+        {
+          "title": "杜翠雀道心破碎的太牵强了。 (评论: 兰香如故)",
+          "lead": "momo 评论: 兰香如故 评价:",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17821714/"
+        }
+      ],
+      "supplement": {
+        "title": "心灵的创伤，身体会释放——也许是你从未听闻的身体旅程",
+        "lead": "【编者按】谈起身体，我们往往感到不好意思。你喜欢自己的身体吗？你和它有什么故事？有哪些愉悦或艰难的经验？ 这些问题，启发我们开启「每个人的身体史」这个新栏目。心为形役，形为心役，没有人的身体是完美。终其一生，我们都和不完美的身体共存与相处，甚至是对抗与和解。在这个栏目，我们通过觉察与书写，谈身体，也谈照顾、残障、医疗，还有更大的社会文化和制度。 本期文章，Lilac将分享一段身体释放的故事，这也许是你从未听闻过的身体旅程。",
+        "body": [
+          "【编者按】谈起身体，我们往往感到不好意思。你喜欢自己的身体吗？你和它有什么故事？有哪些愉悦或艰难的经验？这些问题，启发我们开启「每个人的身体史」这个新栏目。心为形役，形为心役，没有人的身体是完美。",
+          "终其一生，我们都和不完美的身体共存与相处，甚至是对抗与和解。在这个栏目，我们通过觉察与书写，谈身体，也谈照顾、残障、医疗，还有更大的社会文化和制度。本期文章，Lilac将分享一段身体释放的故事，这也许是你从未听闻过的身体旅程。在直面童年创伤的梦后，她紧绷的身体开始不自主地震颠，随之而来的是疼痛、紧绷、释放的轮回，过程伴随着情绪的释放。这段经历重塑了她感知世界的敏感度，也使她重新审视自我、他人和环境的界线。（本文经历仅作身体经验书写，不构成任何的医疗建议，如果你正在经历身心症状，请务必寻求专业心理咨商或医疗协助。",
+          "） 那是一场难以向身边人启齿的经历，发生在身体当中。在最日常的一天，我坐在家中的椅子上，忽然像撞邪般开始颤抖，展开了长达八个月才稳定下来的身体历程。我难以对身边人诉说发生的种种，却也难以装作什么都没发生过般回到从前——就像《千与千寻》中，千寻经历了种种的磨难与成长，回到父母面前，千言难尽。一、原来我的肩膀一直向上耸起 不知道大家有没有看过一个说法：童年曾有的创伤，很多时会在三十出头、生活稳定的时候忽然爆发，大概是因为这样的人足够成熟面对情绪，于是长期累积的问题特别容易在这时爆发。跟很多香港人一样，我本来也是长期肩颈痛、呼吸短浅、心情焦虑，脑袋永远闲不下来，不记得上一次真正放松是何时。大家都是这样过来，而且比我更快更急的大有人在，我一直不以为然。但我依稀记得，自小学始脑袋便习惯性地内耗，不是时刻都有问题要解决，但是因为焦虑，没问题也要找点问题来思考或解决。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20260920-in-the-flesh-my-body-release-journey/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/20260919.jpg"
+      },
+      "stats": {
+        "visible": 33,
+        "sections": 6,
+        "briefs": 15,
+        "groups": 13,
+        "maxGroupShare": 24,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "華爾街見聞×4",
+          "端傳媒×4",
+          "界面×3",
+          "豆瓣×3",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+        "lead": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+        "body": [
+          "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology."
+        ],
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+        "category": "tech",
+        "categoryLabel": "Technology",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Israeli President Pardons Ex-Soldier Over Killing of Incapacitated Palestinian",
+        "lead": "In 2016 Elor Azaria killed a Palestinian attacker who had been injured, fueling a public debate both at home and abroad over Israeli military actions.",
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/09/19/world/middleeast/israel-pardon-azaria.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/09/19/multimedia/19int-israel-pardon-top/Azaria-tlhw-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Israeli president pardons combat medic who shot dead wounded Palestinian attacker",
+              "lead": "Elor Azaria’s conviction in 2017 for manslaughter of man who stabbed soldier continues to divide country Israel’s president has pardoned a combat medic who shot dead a badly wounded Palestinian attacker who had stabbed",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/sep/19/israel-president-pardon-elor-azaria-wounded-palestinian-attacker",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/222257191a1e425d696fecca5408ccdcea2ad556/778_186_3727_2981/master/3727.jpg?width=140&quality=85&auto=format&fit=max&s=5582638de4897432bfe80d38a944d06c",
+              "consensus": 5
+            },
+            {
+              "title": "In Significant Escalation, Houthis Attack Saudi Capital",
+              "lead": "The Houthis, an Iranian-backed militia, said they had fired a wave of missiles and drones at Riyadh, and on Saudi oil facilities.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/09/19/world/middleeast/saudi-arabia-riyadh-houthis.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/09/19/multimedia/19int-saudi-explosions-wktl/19int-saudi-explosions-wktl-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Analysts tip a stronger hand for China ahead of Xi-Trump summit in Washington",
+              "lead": "When the presidents of the United States and China meet in Washington, the world will be watching to see whether their two countries can make good on their agreement to work towards “constructive strategic stability”.",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/china/diplomacy/article/3368100/analysts-tip-stronger-hand-china-ahead-xi-trump-summit-washington?utm_source=rss_feed",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/19/8586e6f8-3c95-4513-b1b1-ee228bedaeae_2d193aaf.jpg?itok=gj9P8_8f&v=1789803467",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Investors warn Anthropic could struggle to sustain revenues post-IPO",
+              "lead": "OpenAI’s resurgence, cheap rivals and safety fears test faith in durability of business model",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F84e31127-9df1-437a-8ed4-cfb4dcd9a852.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Economy minister accuses SoS of 'mischief making' in social media exchange",
+              "lead": "Dr Caoimhe Archibald posted on X about a new one-off electricity bill reduction, which Sir Chris Bryant reposted saying the UK government funded it.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c94gm0mxmy65o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45e6/live/681d4e70-b351-11f1-b949-71f91f81d1ab.png",
+              "consensus": 5
+            },
+            {
+              "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
+              "lead": "Saudi Arabia had sent alerts overnight warning of potential danger around Riyadh, amid an escalation in attacks by the Houthis in the kingdom.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/09/19/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Dragon Deborah opens with a terrible negotiation tactic",
+              "lead": "Deborah Meaden makes a bold opening move in response to a pitch.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/videos/cwkgxlze1pr9o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e63/live/849c5b30-b285-11f1-b1d1-571ed4d7ff2c.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "AI: 10 days that changed the course of artificial intelligence",
+              "lead": "For years, the race to build ever more powerful artificial intelligence followed a well-worn Silicon ⁠Valley principle: move fast and break things.",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/world/united-states-canada/article/3368117/ai-10-days-changed-course-artificial-intelligence?utm_source=rss_feed",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/19/f60649ca-4d9f-40f1-a3c5-27db9074fd59_3fba0182.jpg?itok=z8CFEod1&v=1789818025",
+              "consensus": 5
+            },
+            {
+              "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+              "lead": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "The AI regulation smackdown isn’t over",
+              "lead": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Coventry need to 'keep feet on the ground' after 'landmark' win - Lampard",
+              "lead": "Frank Lampard reacts to Coventry's \"landmark\" day after they earned their first top flight win in 25 years, beating Nottingham Forest 1-0 at the City Ground in the Premier League.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/c6kgw17vqk98o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06e8/live/79b35f40-b45e-11f1-a430-4d16ee157c41.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Britain beat Germany to win World Championship bronze",
+              "lead": "Great Britain men's team win bronze at the Wheelchair Basketball World Championships by defeating Germany, but GB women lose out in third-place play-off.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/basketball/articles/cm9dw4v67v29o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01f8/live/c8b39f60-b459-11f1-ba76-4da528bd99e6.jpg",
+              "consensus": 2
+            },
+            {
+              "title": "'Greater things to come,' says Mitchell after England winning run ends",
+              "lead": "Head coach John Mitchell says England's thrilling draw with Canada will inspire \"greater things to come\" from the world champions despite the result ending their record-breaking winning streak.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3dx0djgrrngo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed0d/live/48e83d10-b457-11f1-ba76-4da528bd99e6.jpg",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Jewish heirs of Holocaust victims sue California museum over Nazi-looted art",
+              "lead": "Pasadena’s Norton Simon Museum holds 16th-century paintings stolen by the Nazis during the second world war Jewish heirs of Holocaust victims and their representatives have filed two lawsuits in California staking their",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/sep/19/lawsuit-california-museum-nazi-looted-art",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://i.guim.co.uk/img/media/e6ec3fcacb2cdaac85f690f1dfbdd857280f29cb/413_0_1521_1216/master/1521.jpg?width=140&quality=85&auto=format&fit=max&s=402152723f40a6663b0fa96c6c109c67",
+              "consensus": 3
+            },
+            {
+              "title": "Ruby Rose Remembers ‘Best Friend’ Hayden Panettiere: ‘All That She Ever Wanted Was to Have Her Story Told’",
+              "lead": "Ruby Rose got emotional when asked about her friend, Hayden Panettiere, who died Aug. 16 at 36. Rose told Entertainment Tonight that Panettiere was her “best friend” and that they “spoke every day for five years.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/ruby-rose-remembers-hayden-panettiere-1236869723/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/09/2-22-a-ghost-story-opening-night-1000x667-1.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists discover cells that cheat death and rebuild damaged tissue",
+              "lead": "Scientists discovered a population of cells that can start the process of programmed cell death, survive it, and then help rapidly rebuild damaged tissue.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260917003722.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            },
+            {
+              "title": "Scientists just named a new snake after Guns N’ Roses legend Slash",
+              "lead": "A newly discovered snake from New Guinea has been named after Guns N’ Roses guitarist Slash, who has loved reptiles since childhood. Genetic testing and physical differences confirmed that the reddish-brown groundsnake",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260918024816.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+          "lead": "Denmark and the US have reached an agreement after months of threats",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "News live: Taylor pledges ‘one of the biggest immigration cuts in Australian history’; tributes for Victorian Greens MP Tim Read",
+          "lead": "Follow live updates Get our breaking news email",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/australia-news/live/2026/sep/20/australia-news-live-labor-coalition-fuel-petrol-prices-anthony-albanese-pauline-hanson-one-nation-immigration-angus-taylor-police-ntwnfb"
+        },
+        {
+          "title": "‘Nervous and Skeptical,’ Greenlanders Question the New Deal With Trump",
+          "lead": "The U.S. president’s threats to seize Greenland left its people on",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-deal.html"
+        },
+        {
+          "title": "Trump announces ‘AI Force’ as alarm grows over technology’s advance",
+          "lead": "US president has resisted calls for regulation but said he would",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
+          "lead": "Elor Azaria had shot a Palestinian who had already been incapacitated",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss"
+        },
+        {
+          "title": "Google’s Gemini is the latest AI model to hack other companies",
+          "lead": "Google said Gemini had \"acted appropriately\" by ending each hack",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
+        },
+        {
+          "title": "CNN and MS NOW barred from White House after ban by Trump",
+          "lead": "CNN called the move \"an illegal assault\" on the constitutional rights",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/09/20/world/politics/white-house-media-ban-trump/"
+        },
+        {
+          "title": "Germany braces for key state elections where far right party AfD seeks another breakthrough",
+          "lead": "Germany is gearing up for two more pivotal state elections on Sunday",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/germany-braces-for-key-state-elections-where-far-right-party-afd-seeks-another-breakthrough"
+        },
+        {
+          "title": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
+          "lead": "Journalists from MS NOW, CNN and Politico were denied access to the",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html"
+        },
+        {
+          "title": "Trump treads further on free speech with new journalist bans",
+          "lead": "President Donald Trump speaks to reporters on the tarmac before",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban"
+        },
+        {
+          "title": "‘Sweet Magnolias’ Creator Reacts to Netflix Cancellation: ‘I Hope Serenity Will Always Have a Place in Your Heart’",
+          "lead": "Following the news that “Sweet Magnolias” has been canceled at Netflix",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/tv/news/sweet-magnolias-netflix-cancellation-1236869711/"
+        },
+        {
+          "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+          "lead": "The US narrowly avoided boarding a Chinese ship based on an \"entirely",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/"
+        },
+        {
+          "title": "Google’s Gemini hacked three companies in new AI safety incident",
+          "lead": "Breakout during training exercises follows instances at rivals OpenAI",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1"
+        },
+        {
+          "title": "AI hallucination nearly triggers US military operation",
+          "lead": "“It’s important for service members to understand the uncertainty",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/"
+        },
+        {
+          "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
+          "lead": "Greenland has maintained it is not for sale",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html"
+        },
+        {
+          "title": "Gemini went rogue, hacked three companies, and Google hid it",
+          "lead": "In May, Gemini broke containment and hacked three different companies",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
+        }
+      ],
+      "supplement": {
+        "title": "Protestors March Outside Ed Sheeran Concert After Macklemore Was Dropped From Tour: ‘It’s Not Going to Stop Until Palestine is Free’",
+        "lead": "Pro-Palestinian protesters gathered outside Ed Sheeran’s concert at Philadelphia’s Lincoln Financial Field on Saturday night as the singer returned to the stage for the first time since Macklemore was dropped from his",
+        "body": [
+          "Pro-Palestinian protesters gathered outside Ed Sheeran’s concert at Philadelphia’s Lincoln Financial Field on Saturday night as the singer returned to the stage for the first time since Macklemore was dropped from his Loop Tour following his onstage remarks in support of Palestine.",
+          "For attendee Jodi Rhoden, an organizer at Writers Against the War in Gaza, […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/music/news/palestine-protestors-ed-sheeran-concert-macklemore-1236869617/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/09/GettyImages-2251661001.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 17,
+        "categories": 7,
+        "topGroups": [
+          "BBC×6",
+          "TechCrunch×3",
+          "The Verge×3",
+          "Variety×3",
+          "紐約時報×2",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-09-19T23:57:57.595Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 798,
+        "lang": 455,
+        "fresh": 308,
+        "denoised": 303,
+        "deduped": 286
+      },
+      "en": {
+        "fetched": 798,
+        "lang": 343,
+        "fresh": 291,
+        "denoised": 290,
+        "deduped": 285
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 33,
+        "sections": 6,
+        "briefs": 15,
+        "groups": 13,
+        "maxGroupShare": 24,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "華爾街見聞×4",
+          "端傳媒×4",
+          "界面×3",
+          "豆瓣×3",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 17,
+        "categories": 7,
+        "topGroups": [
+          "BBC×6",
+          "TechCrunch×3",
+          "The Verge×3",
+          "Variety×3",
+          "紐約時報×2",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

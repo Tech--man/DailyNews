@@ -1,0 +1,857 @@
+{
+  "issue": 7,
+  "date": "2026-09-21",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历八月十一 · 白露",
+    "en": "11th day of the 8th lunar month · White Dew"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "特朗普：将组建一支“人工智能部队” 并任命一名负责人",
+        "lead": "中新网9月20日电 据美国有线电视新闻网(CNN)等外媒报道，当地时间19日，美国总统特朗普在社交媒体发文称，他计划组建一支“人工智能部队”，并将任命一名人工智能事务“总管”。",
+        "body": [
+          "中新网9月20日电 据美国有线电视新闻网(CNN)等外媒报道，当地时间19日，美国总统特朗普在社交媒体发文称，他计划组建一支“人工智能部队”，并将任命一名人工智能事务“总管”。"
+        ],
+        "source": "中新網國際",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-20/10699748.shtml",
+        "category": "world",
+        "categoryLabel": "国际",
+        "consensus": 3
+      },
+      "secondary": {
+        "title": "界面早报 | 中美经贸磋商在纽约开始举行；文旅部印发《公共文化服务体系建设“十五五”规划》",
+        "lead": "中共中央办公厅、国务院办公厅印发《关于分类推进高校改革的意见》；2025年全国科普工作经费筹集额超243亿元；特朗普称将对伊朗作出重大决定。",
+        "source": "界面新聞",
+        "group": "界面",
+        "link": "https://www.jiemian.com/article/15119040.html",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 2
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "俄罗斯国家杜马选举投票结束 投票率高于上届",
+              "lead": "中新社莫斯科9月20日电 (记者 田冰)俄罗斯中央选举委员会当地时间20日晚宣布，随着位于加里宁格勒州的最后一批投票站关闭，第九届俄罗斯国家杜马(议会下院)选举投票结束。据俄媒报道，本次选举投票率为56.66%，高于上届国家杜马选举投票率。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-21/10700507.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "香港首任特首董建华葬礼：规格比照霍英东 石泰峰致悼词",
+              "lead": "香港回归后首任行政长官董建华周日（9月20日）在香港举行公祭及出殡仪式。中国国家主席习近平和多名中共政治局常委以不同形式致哀，但并未亲自出席。作为首位离世的香港特首，董建华获得的国家级治丧安排不仅是对其个人政治生涯的评价，也为未来香港前特首的身后礼遇树立先例。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cky9z175jgdlo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5c9d/live/582d7c20-b4cc-11f1-a3e9-194b7de0b4b7.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "第五届数贸会探馆：机器人秀绝活 多国展商赴数字之约",
+              "lead": "中新社杭州9月20日电 (奚金燕 蓝伊旎)药房机器人自动分拣药品，智能飞行系统仿真模拟飞行员体验，机器人“灵巧手”尽情“挥毫创作”......第五届全球数字贸易博览会(下称“数贸会”)数字贸易主题展馆20日开放探馆，一系列“黑科技”引人注目。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/09-20/10700488.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "美联储10月加息25个基点的概率为56.5%",
+              "lead": "据CME“美联储观察”，美联储10月会议维持利率在3.75%-4.00%不变的概率为43.5%，加息25个基点的概率为56.5%。美联储到12月维持利率在3.75%-4.00%不变的概率为10.2%%，累计加息25个基点的概率为46.6%，累计加息50个基点的概率为33.3%。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15119229.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "特朗普要组建“人工智能部队”，此前称“AI安全风险”是“骗局”",
+              "lead": "特朗普在业界警告声与选民疑虑升温的双重压力下宣布组建联邦AI专属机构，但政策走向仍不明朗，市场观察人士对其实际效力持怀疑态度。 据新华社 ，美国总统特朗普19日在社交媒体发文称， 他将组建一支“人工智能部队”。 特朗普说，为组建“人工智能部队”，他将在不久后任命一名人工智能事务“总管”。 他称，人工智能代表着下一场工业革命或互联网浪潮，其规模和影响力将更大，甚至可能占到美国国内生产总值的25%。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3782144",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 3
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "《生化危机》新电影全球首周末预计收获1.083亿美元票房",
+              "lead": "扎克·克雷格执导的《生化危机》新电影首周末全球票房预计达到1.083亿美元，创下系列电影开画纪录。影片上映前曾因改编方向引发部分粉丝质疑，但首周末票房仍超出预期。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/movie/1578898.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "印度厂商 Arc 推出 X1 掌机：骁龙 G2 Gen 2 芯片，7 英寸 1080P LCD 屏",
+              "lead": "IT之家 9 月 21 日消息，印度厂商 Arc 现已推出 X1 掌机，新品配备 7 英寸屏幕、骁龙 G2 Gen 2 芯片，预计明年第一季度出货。 据介绍，这款掌机采用一块 7 英寸 LCD 触控屏，分辨率为 1920*1080， 支持 120Hz 高刷 ，表面覆盖康宁大猩猩玻璃 3，峰值亮度超 500nits。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/005/028.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "尼泊尔寻求从气候赔偿基金获得 2000 万美元的赔偿",
+              "lead": "尼泊尔正面临从致命泥石流灾难后的艰巨重建任务。它寻求从气候赔偿基金 Fund for Responding to Loss and Damage 获得 2000 万美元的赔偿——即要求主要排放国承担责任，尼泊尔认为这场灾难是由气候变化引发的。尼泊尔外交部长 Shisir Khanal 表示，这不仅仅是寻求援助或慈善，更是一项关于正义以及“法律与道义责任”的诉求。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85434",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "加拿大官员：将选择性与欧盟合作 不会直接向欧盟预算缴款",
+              "lead": "中新网北京9月20日电 综合消息：即将出任加拿大常驻欧盟代表的乔纳森·威尔金森当地时间19日表示，加方将“有选择地”推进同欧盟的“独特联盟”，不会直接向欧盟预算缴款，但会为部分合作项目出资。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-20/10700134.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "联合国专家：有理由相信美国在伊朗袭击行动中犯下战争罪",
+              "lead": "美国并未承认曾发动今年2月造成重大伤亡的袭击，目标包括米纳卜（Minab）一所小学及拉梅尔德（Lamerd）一个体育综合设施。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cwq63qj0119go/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/299b/live/f9fe6fb0-b49e-11f1-a88c-9b45413b5801.jpg"
+            },
+            {
+              "title": "泰国多地遭强降雨致山体滑坡",
+              "lead": "中新社曼谷9月20日电 (李映民 王茜)泰国气象部门20日报告说，受高压系统、季风槽以及较强西南季风共同影响，泰国多地当天出现强降雨，部分地区出现特大暴雨。泰国矿产资源厅当天也报告多地山体滑坡。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-20/10700490.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "“阿尔泰山—天山地区考古发现与研究”国际学术研讨会召开",
+              "lead": "中新网西安9月20日电 (记者 阿琳娜 梅镱泷)记者20日从丝绸之路考古合作研究中心获悉，由新疆维吾尔自治区文物局、陕西省文物局、西北大学指导，丝绸之路考古合作研究中心、哈密市文博院主办，哈密市博物馆、丝绸之路考古合作研究中心哈密分中心承办的“阿尔泰山—天山地区考古发现与研究”国际学术研讨会17日至19日在新疆哈密举办。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/09-20/10700181.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "澳门国安法首案控民主派区锦新，一场「只能意会」的无声审讯",
+              "lead": "9月16日，澳门低调地进行了一场历史性审判：澳门首宗国安案件开审，被告是69岁的民主派领袖区锦新。在澳门西湾初级法院一带，道路被封，封锁区有大量保安人员和警察，外围有交通警指挥车辆驶离。原本只有晨跑者的西湾湖畔，多了不少头戴耳机，眼望四处的人士。 与法院不远处相对的，是澳门立法会——区锦新过去二十年议政的地方。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20260921-macau-first-closed-door-nsl-trial-au-kam-san/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/IMG_4939-1.jpg"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "（爱知·名古屋亚运会）中国男篮获亚运第四 郭士强称球队暴露出问题",
+              "lead": "中新社日本名古屋9月20日电 (记者 李志全)爱知·名古屋亚运会20日进行男篮项目铜牌争夺战，中国男篮70:79不敌伊朗队，获得第四名。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-20/10700404.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "（爱知·名古屋亚运会）现代五项女子团体夺冠 中国体育代表团首金诞生",
+              "lead": "中新社日本名古屋9月20日电 (记者 国璇) 当地时间9月20日进行的爱知·名古屋亚运会现代五项女子团体赛中，由张明煜、吴希瑶、孟鑫和付静组成的中国队夺冠，这是中国体育代表团在本届亚运会夺得的首枚金牌。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-20/10700261.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "中信建投：A股第二轮修复行情展开",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15119312.html"
+        },
+        {
+          "title": "LPR“连续16个月持平”，央行主管媒体刊评“直接下调政策利率的必要性不高”",
+          "lead": "中国贷款市场报价利率（LPR）9月再度按兵不动，自2025年6月以来已连续16个月维持不变。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782160"
+        },
+        {
+          "title": "iPhone 18 Pro曝出死机问题 苹果启动调查",
+          "lead": "苹果新款手机iPhone 18 Pro系列被曝出现设备突然关机后自动重启的“Panic Full”现象，反映相关问题的用户接连不断。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1578858.htm"
+        },
+        {
+          "title": "IT早报 0921：曝快递新一轮涨价；长鑫第五代技术平台量产；苹果 iOS 27 闹钟支持大陆调休；小米 18 Pro 系列 9 月 23 日发布；沃尔沃 S90 汽车被曝腰斩式降价...",
+          "lead": "“IT早报”时间，大家好，现在是 2026 年 9 月 21 日星期一，今天的重要科技资讯有： 1. 曝快递“反内卷”引发新一轮涨价",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/005/029.htm"
+        },
+        {
+          "title": "每个 英伟达 GPU 包含了 10-40 个 RISC-V 核心",
+          "lead": "英伟达在 2024 年称当年它的 GPU 产品共使用了逾 10 亿 RISC-V 核心。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85436"
+        },
+        {
+          "title": "19999 元起，启元机器人想把「个人机器人」先卖进普通人的生活",
+          "lead": "几乎所有的具身智能企业都在画饼：具身智能最终要进入人们的日常生活。 但具体什么时候进入人们的日常生活，你别管。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1681137?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "[程序员] 刚创业，看到智某谱事件，该咋选大模型？",
+          "lead": "过来的大佬，有点大模型比较笨，厉害的又限制不能使用，大神们，请给支支招，我是小白，该咋选模型？",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1243501#reply0"
+        },
+        {
+          "title": "特朗普称将组建一支“人工智能部队”",
+          "lead": "美国总统特朗普19日在社交媒体发文称，他将组建一支“ 人工智能 部队”。 特朗普说，为组建“ 人工智能 部队”",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1351,202609203879272992.html"
+        },
+        {
+          "title": "谁能对上他们的电波？电波系视觉小说与平成日本的自我崩坏",
+          "lead": "编者按：「电波系」是1990年代日本一个极端的视觉小说亚类别——描写精神崩坏、原子化孤独、外部世界的消失。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260920-game-on-denpa-visual-fiction/"
+        },
+        {
+          "title": "奥斯卡最佳女配角——拿出她最佳自尊心 (评论: 藩篱)",
+          "lead": "肆月叁周俩天 评论: 藩篱 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17823755/"
+        },
+        {
+          "title": "华泰证券A股策略：反弹延续但需防节前扰动",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15119257.html"
+        },
+        {
+          "title": "华尔街见闻早餐FM-Radio | 2026年9月21日",
+          "lead": "华见早安之声 要闻精选 中国商务部： 何立峰 于 9月19日至23日率团赴美国与美方举行经贸磋商 。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782126"
+        },
+        {
+          "title": "心灵的创伤，身体会释放——也许是你从未听闻的身体旅程",
+          "lead": "【编者按】谈起身体，我们往往感到不好意思。你喜欢自己的身体吗？你和它有什么故事？有哪些愉悦或艰难的经验？",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260920-in-the-flesh-my-body-release-journey/"
+        },
+        {
+          "title": "《生化危机：爆发夜》：末日从不是怪物降临，是老实人被彻底耗尽 (评论: 生化危机：爆发夜)",
+          "lead": "93学摄 评论: 生化危机：爆发夜 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17823555/"
+        },
+        {
+          "title": "铠甲、布匹与断头台：从历史秩序看《罗斯》的身体规训 (评论: 罗斯)",
+          "lead": "Orbiu 评论: 罗斯 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17823471/"
+        }
+      ],
+      "supplement": {
+        "title": "联合国决议采纳更精准的世界地图，方方正正的地图为何过时？",
+        "lead": "9 月 4 日，联合国通过一项非约束性决议，鼓励使用更准确反映各大洲面积的地图投影方式。建议由非洲国家提出，因为传统常见的墨卡托地图会带来面积的扭曲。例如，非洲的实际面积比格陵兰岛大十四倍，但在墨卡托地图上却是一样大。 地图投影引起的问题是大学地理课第一年就会教的内容，难得这次因为联合国的决议而获得社会重视。决议的核心问题，是世上没有完美的地图，所有的表达都包含取舍，而当中往往隐藏自觉或非自觉的价值判断。",
+        "body": [
+          "9 月 4 日，联合国通过一项非约束性决议，鼓励使用更准确反映各大洲面积的地图投影方式。建议由非洲国家提出，因为传统常见的墨卡托地图会带来面积的扭曲。",
+          "例如，非洲的实际面积比格陵兰岛大十四倍，但在墨卡托地图上却是一样大。地图投影引起的问题是大学地理课第一年就会教的内容，难得这次因为联合国的决议而获得社会重视。",
+          "决议的核心问题，是世上没有完美的地图，所有的表达都包含取舍，而当中往往隐藏自觉或非自觉的价值判断。墨卡托地图的问题只是一例，我们日常遇到的案例数之不尽。地球是展不平的橘子皮"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20260921-international-why-is-mercator-projection-outdated/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/GettyImages-1258714198-copy.jpg"
+      },
+      "stats": {
+        "visible": 33,
+        "sections": 6,
+        "briefs": 15,
+        "groups": 13,
+        "maxGroupShare": 24,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "端傳媒×4",
+          "華爾街見聞×3",
+          "豆瓣×3",
+          "界面×2",
+          "BBC×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 3,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Australia news live: Taylor says fuel price policy would be funded by tobacco excise cut; Albanese to put AI concerns to Trump",
+        "lead": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Dan Tehan says fuel excise cut when oil price high a ‘sensible’ plan",
+        "body": [
+          "Follow the day’s news live Get our breaking news email , free app or daily news podcast Dan Tehan says fuel excise cut when oil price high a ‘sensible’ plan Dan Tehan , the shadow minister for energy, said Gallagher’s criticism of the Coalition’s fuel plan wasn’t fair.",
+          "[What] I would say to Anthony Albanese and the Labor party is get out amongst the people and see what’s happening in your electorates because people are hurting because of cost of living … We have the discipline to be able to do the policy work to make sure we can offset policies like this so it won’t be inflationary and it will provide much needed relief to people, and they need it now."
+        ],
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/2d33fe5e7686718c752fd693ef0fddf11dae5181/352_0_4363_3491/master/4363.jpg?width=140&quality=85&auto=format&fit=max&s=45ddab2a2af567723a5107219f69c1fc",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
+        "lead": "Ukraine says it used a newly developed ballistic missile in the attacks, which also targeted other parts of Russia.",
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/09/20/multimedia/20int-russia-attacks-hcmt/20int-russia-attacks-hcmt-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "ICE agent shoots and wounds man at traffic stop in Austin, Texas, officials say",
+              "lead": "Anti-ICE protests break out in push for transparency as unnamed man is in serious but stable condition at hospital A US Immigration and Customs Enforcement ( ICE ) officer shot and wounded a man on Sunday afternoon in",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/us-news/2026/sep/20/man-shot-ice-agent-austin-texas",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/fba8e7a11fea398e6b62df4efedfaec5e1490daf/844_2_5091_4075/master/5091.jpg?width=140&quality=85&auto=format&fit=max&s=b4ae922332b1a5c32928ad92ab51bc61",
+              "consensus": 5
+            },
+            {
+              "title": "Israeli Shot and Killed in West Bank by Palestinian, Officials Say",
+              "lead": "The Israeli officials said an arrest had been made. The attack was on the eve of Yom Kippur, the holiest day in the Jewish calendar. Violence in the territory has grown recently.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/09/20/world/middleeast/israeli-killed-west-bank-attack.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/09/20/multimedia/20int-westbank-killing-glbp/20int-westbank-killing-glbp-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Germany’s Merz vows to press ahead with reforms after historic state election defeat",
+              "lead": "German Chancellor Friedrich Merz suffered a bruising electoral setback in two state elections on Sunday, including a historic defeat for his party",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/world/europe/article/3368175/germanys-merz-vows-press-ahead-reforms-after-historic-state-election-defeat?utm_source=rss_feed",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/21/38a8400f-b089-44f3-af13-6b66a1f27f2d_cdb535cc.jpg?itok=urUtBdyo&v=1789924993",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "German chancellor Merz vows to stay on despite ‘disaster’ in regional elections",
+              "lead": "Partial results suggest CDU is set to fail to secure parliamentary representation in Mecklenburg-Vorpommern",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8d2cfe2c-bd62-4c09-97bb-106b2950ef98.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Merz vows to press ahead with reforms after historic German state election defeat",
+              "lead": "Projections showed Merz's Christian Democratic Union won 4.9% in Mecklenburg-Western Pomerania — the party's lowest result in any state since World War II.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/09/20/merz-germany-state-election-defeat.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Will you get £13,000 a year when you stop working? Here's how to check",
+              "lead": "How to find out how much state pension you're likely to receive - and what you can do about it now.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc95/live/6d570970-b2a3-11f1-bd7d-0f16235ccc4c.jpg"
+            },
+            {
+              "title": "Trump tariffs hit Canada’s dairy farmers as US sales stall",
+              "lead": "A 50 percent tariff has disrupted dairy exports, leaving Canadian farmers with milk that cannot be redirected overnight.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/features/2026/9/20/trump-tariffs-hit-canadas-dairy-farmers-as-us-sales-stall?traffic_source=rss",
+              "category": "business",
+              "categoryLabel": "Business"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+              "lead": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+              "source": "BBC News",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Trump now says he wants to form an ‘AI Force’",
+              "lead": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+              "lead": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "The gunzels’ grand final: Melbourne Tramaroos’ campaign derails at European TramDriver Championship",
+              "lead": "The Warsaw event saw 26 teams compete across a series of demanding tasks, inspired - to varying degrees - by tram drivers’ day-to-day tasks Get our breaking news email",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/australia-news/2026/sep/20/the-gunzels-grand-final-melbourne-tramaroos-campaign-derails-at-european-tramdriver-championship",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://i.guim.co.uk/img/media/688df0bf5ed39191fbabec57919e60e5035cfdb3/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=48f2f83d9c982c77e4ca09883a21f356",
+              "consensus": 5
+            },
+            {
+              "title": "Smith wins World Series of Darts Finals as Littler run ends",
+              "lead": "England's Ross Smith shocks Wales' Gerwyn Price to win World Series of Darts Finals as Luke Littler's clean-sweep dream ends in last eight in Amsterdam.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/darts/articles/cmx2z19n25w7o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b745/live/27ad8260-b536-11f1-9086-97a1bb7ca00e.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Middlesex beat Leicestershire to win One-Day Cup",
+              "lead": "Middlesex claim their first silverware in a decade as they beat Leicestershire in a thrilling One-Day Cup final.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/cricket/articles/c3vgylgqz8p8o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fd6/live/4db0fdc0-b51d-11f1-b01b-6bc45d07eb85.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "‘Magazine’ Review: Lily McInerny Scores Her Dream Internship in Alexandra Pechman’s Warmly Nostalgic Study of a Bygone Literary Scene",
+              "lead": "In an era when glamorous writing jobs have acquired the unreality of folklore, it feels fitting that Alexandra Pechman’s alluring and affectionate feature debut, “Magazine",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/reviews/magazine-review-2-1236870524/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/09/MAGAZINE_Key-Still-1.jpeg",
+              "consensus": 5
+            },
+            {
+              "title": "La Bola Negra wins Toronto film festival people’s choice award",
+              "lead": "The queer period drama wins Oscar-predicting award, being named the most popular audience film at the festival The Spanish queer drama La Bola Negra has won this year’s people’s choice award at the Toronto film festival .",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/film/2026/sep/20/la-bola-negra-toronto-film-festival",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://i.guim.co.uk/img/media/86a19171220c29393bf89beb123f1335bf2f53ca/792_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6618c5fd279d358bf42fb4b9584b8a0a"
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists discover a hidden “ID card” in cat urine",
+              "lead": "Cats may identify one another through a surprisingly durable chemical “calling card” made from 13 unusual fatty acids in their urine.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260919031033.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Hurricane Hunters reveal 4 warning signs that a storm is about to strengthen",
+              "lead": "Nearly three decades of Hurricane Hunter data reveal four features that can help a tilted tropical cyclone straighten its circulation and become capable of intensifying.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260919031037.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "A giant crater may reveal the origin of Mars’ doomed moon",
+              "lead": "A massive crater on Mars’ moon Phobos may hide a dense region of compressed material that could reveal whether the moon is a captured asteroid or debris from an ancient impact on Mars.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260919031040.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Ukraine targets Moscow with hundreds of drones on final day of Russian election",
+          "lead": "At least three people killed and oil refinery damaged as doubts cast",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election"
+        },
+        {
+          "title": "They Have Almost No Chance in Russia’s Elections. Why Are They Running?",
+          "lead": "The liberal party Yabloko is fielding 98 candidates in this weekend’s",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/09/20/world/europe/russia-duma-election-yabloko.html"
+        },
+        {
+          "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+          "lead": "Exit polls show damaging losses for Merz's centre-right CDU party in",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Germany’s Merz stands his ground but for how long?",
+          "lead": "Lessons from elsewhere in Europe suggest once leaders become deeply",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/a4901983-10a2-488d-8725-66177d6f9ea2?syn-25a6b1a6=1"
+        },
+        {
+          "title": "US extradites 18 suspects in 2021 killing of Haitian president",
+          "lead": "Eighteen suspects in the 2021 assassination of Haitian president",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3368182/us-extradites-18-suspects-2021-killing-haitian-president?utm_source=rss_feed"
+        },
+        {
+          "title": "Germany’s Merz admits ‘disaster’ in state elections, vows to press ahead with reforms",
+          "lead": "German Chancellor Friedrich Merz on Sunday described his CDU party's",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/europe/20260920-germany-s-far-right-afd-makes-strong-gains-in-two-state-elections"
+        },
+        {
+          "title": "Polls close in Russian wartime election with ruling party set to dominate",
+          "lead": "Russian President Vladimir Putin has cast the vote as a test of",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss"
+        },
+        {
+          "title": "Russia's ruling pro-Putin party on track to win wartime election after drones strike Moscow",
+          "lead": "Russia's ruling party was on track to win a parliamentary ⁠election",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/20/russias-ruling-pro-putin-party-on-track-to-win-wartime-election.html"
+        },
+        {
+          "title": "Kojima Productions disputes reports the studio is in trouble",
+          "lead": "After it was announced that Sony was dropping Hideo Kojima's Physint",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation"
+        },
+        {
+          "title": "‘The Assassin(s)’ Review: A Riveting South Korean Popcorn Thriller About a Real Assassination",
+          "lead": "Hur Jin-ho’s star-studded “The Assassin(s)” turns the holes in a",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/news/the-assassins-review-1236869794/"
+        },
+        {
+          "title": "World model companies are keeping a lot of secrets",
+          "lead": "Everyone in the world-models space is sitting on a pile of cash and a",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/"
+        },
+        {
+          "title": "Scientists may have solved a 2,000-year-old Dead Sea Scrolls mystery",
+          "lead": "Researchers may have solved a long-running mystery surrounding the",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260919031035.htm"
+        },
+        {
+          "title": "Don't call it an SUV: The Ferrari Purosangue review",
+          "lead": "Ferrari’s two-seat sports cars might be the brand’s identity",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/"
+        },
+        {
+          "title": "Trump says triumphal arch will be military complex with drones and snipers",
+          "lead": "Trump said the updated plans were at the request of the US military",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Jon Ossoff’s Georgia race stirs talk of 2028 US presidential audition",
+          "lead": "Democrat’s media-savvy attacks on ‘crook president’ give him lead in",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/90714056-d364-43d9-9411-9bde92f966b3?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
+          "lead": "Scott Bessent and China’s He Lifeng are holding talks on trade",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html"
+        }
+      ],
+      "supplement": {
+        "title": "NYU Langone Privately Bought the Site of a Landmark AMC Theater — New Yorkers Are Now Fighting to Save It",
+        "lead": "“We came to this place for magic.” On a rainy Sunday afternoon, Manhattan Borough President Brad Hoylman-Sigal stood in solidarity with more than 100 New Yorkers outside AMC Kips Bay 15.",
+        "body": [
+          "“We came to this place for magic.” On a rainy Sunday afternoon, Manhattan Borough President Brad Hoylman-Sigal stood in solidarity with more than 100 New Yorkers outside AMC Kips Bay 15.",
+          "In his best Australian accent, he recited Nicole Kidman’s iconic AMC Theatres ad in a loving tribute to the neighborhood’s longstanding cultural institution.",
+          "But […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/news/amc-kips-bay-protests-movie-theater-nyu-langone-1236870536/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/09/THE-SHOW-MUST-GO-ON.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "Guardian×4",
+          "BBC×4",
+          "ScienceDaily×4",
+          "Variety×3",
+          "紐約時報×2",
+          "SCMP×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-09-20T23:57:48.595Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 799,
+        "lang": 455,
+        "fresh": 324,
+        "denoised": 323,
+        "deduped": 307
+      },
+      "en": {
+        "fetched": 799,
+        "lang": 344,
+        "fresh": 280,
+        "denoised": 279,
+        "deduped": 273
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 33,
+        "sections": 6,
+        "briefs": 15,
+        "groups": 13,
+        "maxGroupShare": 24,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "端傳媒×4",
+          "華爾街見聞×3",
+          "豆瓣×3",
+          "界面×2",
+          "BBC×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 3,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "Guardian×4",
+          "BBC×4",
+          "ScienceDaily×4",
+          "Variety×3",
+          "紐約時報×2",
+          "SCMP×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

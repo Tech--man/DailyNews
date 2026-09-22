@@ -1,0 +1,885 @@
+{
+  "issue": 8,
+  "date": "2026-09-22",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历八月十二 · 白露",
+    "en": "12th day of the 8th lunar month · White Dew"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "警方打掉一网络暴力违法犯罪团伙，抓获涉案人员98名",
+        "lead": "中新网9月22日电 据“公安部网安局”微信公众号消息，公安网安部门持续深化扫黑除恶专项斗争。近日，吉林省吉林市公安网安部门聚焦网络暴力等新型黑恶犯罪，成功打掉一个通过“网罗门徒、分级收费、按级授能、按劳返利”方式实施网络暴力的违法犯罪团伙，抓获涉案人员98名。",
+        "body": [
+          "中新网9月22日电 据“公安部网安局”微信公众号消息，公安网安部门持续深化扫黑除恶专项斗争。",
+          "近日，吉林省吉林市公安网安部门聚焦网络暴力等新型黑恶犯罪，成功打掉一个通过“网罗门徒、分级收费、按级授能、按劳返利”方式实施网络暴力的违法犯罪团伙，抓获涉案人员98名。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gn/2026/09-22/10701217.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "从年轻县官到国家主席：习近平41年来的访美影像",
+        "lead": "习近平即将到访美国会晤特朗普（川普），这将是他历来第11次以中国官方身份访美。从31岁县委书记到中国国家主席，BBC中文透过历年照片，回顾他的访美行程如何随身份和中美关系变化。",
+        "source": "BBC中文",
+        "group": "BBC",
+        "link": "https://www.bbc.com/zhongwen/articles/c9zrz24j8pdvo/trad?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "categoryLabel": "国际",
+        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9542/live/762ecd10-b5b6-11f1-bc1f-3f186ca4140c.jpg"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "直播外链：国家发展改革委9月份新闻发布会",
+              "lead": "",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/iframe/2026/09-22/10701218.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "白宫内部关于人工智能威胁的复杂辩论",
+              "lead": "特朗普称对人工智能威胁人类未来的担忧是骗局，但白宫内部的讨论要复杂得多。AI智能体失控事件后，政府内部最热衷这项技术的人也承认，诸多风险的可能性已经增加。 Haiyun Jiang/The New York Times 去年，特朗普总统在白宫与戴维·萨克斯和马克·扎克伯格共进晚餐。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20260921/trump-ai-safety-anthropic-openai-china/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "戴安娜弟弟出书谈王室 查尔斯曾称她「很快会被遗忘」",
+              "lead": "戴安娜王妃逝世近30年之际，她的弟弟史宾赛伯爵出版新书，重提姐姐去世后的王室事件。他声称，时任王储查尔斯曾认为戴安娜很快会被世人遗忘，但这项说法遭到王室否认。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c80462gvk1k0o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2503/live/da9dee10-b58f-11f1-b1d1-571ed4d7ff2c.jpg"
+            },
+            {
+              "title": "特朗普向金正恩示好，习近平或借机“卖人情”？",
+              "lead": "特朗普希望与金正恩再次会面。分析认为，尽管中国不愿看到美朝走得过近，但习近平可能会把促成两人的会面视为卖给特朗普一个人情，并借此在美中其他议题上获得筹码。 Erin Schaff/The New York Times 2019年，特朗普总统与金正恩在非军事区朝方一侧。对特朗普而言，与金正恩举行峰会有助于把聚光灯从不得人心的对伊朗战争上移开，转向他自第一任期以来就珍视的领导人之间关系。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20260921/trump-north-korea/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "一片牛肉干嚼出封关“心事” 海南中小企业盼政策红利精准下沉",
+              "lead": "中新网海口9月21日电 (记者 张茜翼)一片牛肉干，能嚼出多少滋味？在民革党员、锦山亚妹牛肉干品牌创始人陈玉妹口中，答案不止于舌尖，“它是文昌锦山的乡愁，是热带特色农业全产业链的脉动，也是封关后中小涉农企业的喜与盼”。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/09-21/10701099.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "美联储10月会议维持利率不变的概率为43.5%",
+              "lead": "据CME“美联储观察”，美联储10月会议维持利率在3.75%-4.00%不变的概率为43.5%，加息25个基点的概率为56.5%。美联储到12月维持利率在3.75%-4.00%不变的概率为9.7%%，累计加息25个基点的概率为46.4%，累计加息50个基点的概率为43.9%。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15124485.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "美联储Goolsbee：回到2%通胀目标“不会毫无痛苦”，就业、工资或付出代价",
+              "lead": "供给冲击持续累积，美联储内部围绕通胀与就业的政策分歧进一步浮现。 9月21日，据彭博，芝加哥联储主席Austan Goolsbee周一警告，近年来供给冲击出现得更频繁、持续时间也更长，美联储不能再简单将其视为暂时性因素而选择“忽视”。 如果供给端的价格压力持续向更广泛领域蔓延，央行仍需通过收紧政策压制通胀，但代价可能是就业减少、薪资下降和经济增长放缓。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3782229",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "报告：北京、杭州、深圳位列中国人工智能算力城市排名前三",
+              "lead": "中新社北京9月21日电 (记者 吕少威)21日在北京发布的《2026年中国人工智能计算力发展评估报告》显示，在2026年中国人工智能算力城市排行榜中，北京、杭州、深圳位列前三，上海、广州、成都、南京、武汉、济南、苏州进入前十。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/09-21/10701180.shtml",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "IT早报 0922：闲鱼回应“媒体报道色情引流”；5499 元起 vivo X500 系列手机发布；被质疑“偷传代码”后智谱 ZCode 开源；AMD 市值历史首次突破 1 万亿美元...",
+              "lead": "“IT早报”时间，大家好，现在是 2026 年 9 月 22 日星期二，今天的重要科技资讯有： 1. 闲鱼回应“媒体报道色情引流的情况”：成立专项小组严打色情引流，呼吁各平台联合行动 闲鱼被曝涉及色情引流的相关话题内容 9 月 21 日冲上热搜。闲鱼官方 9 月 21 日宣布，成立专项小组严打色情引流，并呼吁各平台联合行动。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/005/506.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "日本拟最早2027年在国际空间站举办AI机器人竞赛",
+              "lead": "据《日经亚洲》（Nikkei Asia）报道，日本计划最早于2027年在国际空间站举办一场人工智能机器人竞赛，参赛团队将通过人工智能控制空间站内的机器人，以培养下一代太空工程师。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1579086.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "欧盟通过延长对俄制裁方案 期限长达三年",
+              "lead": "当地时间21日，经过长时间的磋商，欧盟成员国就延长对俄制裁达成一致，同意将相关制裁措施延长三年。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701195.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "中国伊朗利用开源AI展开大规模影响力行动",
+              "lead": "美国官员称，这是首次利用基于中国开源模型的人工智能体来处理影响力行动的各个阶段，从创建虚假账户到协调线上信息传播，以极少的人工干预大幅提升了速度和规模。 Brian Stauffer",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/technology/20260921/iran-china-autonomous-ai-influence-campaigns/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "中国与巴基斯坦新边界安排为何引起印度不满？",
+              "lead": "中巴边界协议挑战印度的领土主张，也加深了印度对喀什米尔争议地区的战略忧虑。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c83v4236470lo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d2fc/live/3d0b2790-b548-11f1-824d-bf0feba51094.jpg"
+            },
+            {
+              "title": "美中讨论建立人工智能国家安全问题通报机制",
+              "lead": "两国官员在习近平访美前召开经济会谈，讨论建立一种通报制度，当与人工智能相关的事项达到国家安全级别时，双方将相互提醒。会谈还讨论了两国贸易等问题。 Kena Betancur/Agence France-Presse — Getty Images 美国财政部长斯科特·贝森特周日表示，当涉及人工智能的事项达到国家安全级别时，该通报系统将启动。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20260921/us-china-ai-warning-system-national-security/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "他们联手追查校长性侵指控，也在追寻公义的路上成为夫妻",
+              "lead": "学生们花了多年搜集证据，指控他们在印尼的校长，其后两名学生堕入爱河并结为夫妻。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6x2z19dgqn5o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8aa3/live/ce27ab50-b029-11f1-b1d1-571ed4d7ff2c.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "接连曝光受试者死亡，中国基因编辑等前沿治疗怎么了？",
+              "lead": "（作者为遗传学博士，科普作者，播客《说医解药》主理人） 2025年6月，美国食品药品监督管理局（FDA）专门召开了一个关于基因治疗、细胞治疗的研讨会，会议重点是：如何赶上中国在这些最前沿的医疗领域的发展速度。 不是讨论如何防止中国在这些领域超越美国，而是探讨美国如何去追赶中国。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20260922-mainland-what-problems-have-emerged-in-chinas-cutting-edge-therapies/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/GettyImages-2218877929.jpg"
+            },
+            {
+              "title": "又见一“湾”明月——2026大湾区电影音乐晚会唱响“我们一家”",
+              "lead": "新华社澳门9月21日电 题：又见一“湾”明月——2026大湾区电影音乐晚会唱响“我们一家”",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/09-21/10701160.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "（爱知·名古屋亚运会）中国女篮大比分击败印尼队 小组头名晋级八强",
+              "lead": "中新社日本名古屋9月21日电 (记者 李志全)在21日举行的爱知·名古屋亚运会女篮小组赛A组第二场比赛中，中国女篮以110:41大胜印度尼西亚队拿下两连胜，锁定小组头名晋级八强。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-21/10701176.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "攀岩世界杯重庆站落幕 中国队斩获2金1银2铜",
+              "lead": "中新网9月21日电 据赛事主办方消息，9月20日，历时三天的“2026年世界攀联攀岩世界杯(中国重庆)”在大田湾全民健身广场落幕。中国队获得混合速度接力和女子速度接力金牌，女子速度银牌，男子速度和男子速度接力铜牌，共计5枚奖牌。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-21/10701054.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "加拿大央行最强滞胀警告：关税或令四季度增速跌破1%，油价高企加剧通胀",
+          "lead": "加拿大央行行长麦克勒姆周一发出迄今最明确的滞胀信号： 美国新一轮关税可能令加拿大第四季度经济增速跌破1%，而年通胀率仍达3%、高于2%目标",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782257"
+        },
+        {
+          "title": "中国豪赌“人工智能大跃进”，经济却陷入大麻烦",
+          "lead": "在习近平领导下，中国大举推进尖端技术发展，经济却陷入通缩螺旋。一些经济学家直言以AI为中心的资源分配可能会让普通人的生计和国家经济付出高昂代",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/business/20260921/china-ai-economy/?utm_source=RSS"
+        },
+        {
+          "title": "OpenAI宣布数学与AI顾问组成立，将独立运作",
+          "lead": "当地时间9月21日，OpenAI宣布正在与部分数学家合作，后者已成立数学与人工智能顾问组。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15124491.html"
+        },
+        {
+          "title": "中共五中全会日期敲定 习近平政治地位新提法成看点",
+          "lead": "习近平执政后的两次六中全会，均对其政治地位作出逐层递进的确认。本届五中全会同样是党建议题，会否出现新的提法，将是全会最值得观察的看点。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c6vgyzdjzl9ko/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "欧盟拟推行数据中心能效与水效强制披露制度",
+          "lead": "欧盟委员会已提出一项新规草案，拟要求欧洲境内的各大数据中心公开披露其能源与水资源的使用效率",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1579078.htm"
+        },
+        {
+          "title": "浪潮信息发布元脑 SD200 Ultra 超节点：单机承载 2.8 万亿参数 Kimi K3，Token 时延首次突破 5.85 毫秒",
+          "lead": "IT之家 9 月 22 日消息，在昨日的 2026 人工智能计算大会（AICC2026）上",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/005/504.htm"
+        },
+        {
+          "title": "「弱化英语」为什么成为中国社会的周期性话题？",
+          "lead": "新一代中国人正在变得更不愿意「与世界接轨」。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260922-mainland-downplaying-english-learning/"
+        },
+        {
+          "title": "Googlebooks 于 10 月 4 日上市，最低 899 美元",
+          "lead": "深度集成 Gemini、运行 Android 的笔记本电脑 Googlebooks 将于 10 月 4 日上市。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85446"
+        },
+        {
+          "title": "早报｜曝iPhone Duo量产初期良率仅过六成/小米18 Pro加入硬件级防窥/OpenAI新模型24天攻克百道数学未解难题",
+          "lead": "曝 iPhone Duo 量产前期整机组装良率仅六成多 曝 DeepSeek 筹备 500 亿元新一轮融资",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1679313?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "全球市场：纳指涨超2%创收盘历史新高 芯片半导体股大涨 国际油价跌超4%",
+          "lead": "美股市场： 美股三大指数09月21日收盘全线上涨，其中纳指创收盘 历史新高 。截至收盘，道琼斯工业平均指数比前一交易日上涨366.19点",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "東方財富",
+          "link": "http://stock.eastmoney.com/news/11784,202609223880398061.html"
+        },
+        {
+          "title": "女主是00后里演技最差的一个女演员 (评论: 主角)",
+          "lead": "momo 评论: 主角 评价: 较差",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17825283/"
+        },
+        {
+          "title": "Muse、Grok Bot大红，OpenAI也要加入“个人Agent大战”",
+          "lead": "SpaceX的Grok Bot、Meta的Muse接连引爆市场，个人AI Agent的战火已经烧到了OpenAI门口。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782259"
+        },
+        {
+          "title": "习近平以强势姿态访美，特朗普该与他讨论什么？",
+          "lead": "习近平在双边关系中拥有筹码，而美国在特朗普领导下实力有所削弱。但两人都希望为局势降温，两国仍可以在人工智能安全方面适度合作。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/opinion/20260921/trump-china-ai/?utm_source=RSS"
+        },
+        {
+          "title": "定制“线上报复订单”进行精神恫吓，警方打掉一网络暴力违法犯罪团伙",
+          "lead": "公安网安部门持续深化扫黑除恶专项斗争。近日，吉林省吉林市公安网安部门聚焦网络暴力等新型黑恶犯罪，成功打掉一个通过“网罗门徒、分级收费",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15124418.html"
+        },
+        {
+          "title": "Nvidia执行长黄仁勋驳「AI灭绝人类」忧虑：是「末日叙事」",
+          "lead": "黄仁勋发表此番言论前，已有人工智能研究人员警告，这项技术可能导致人类灭绝。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cv5yjx7n85rjo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "【华尔街日报】习近平最后一刻缺席金砖晚宴，健康状况引起猜测",
+          "lead": "习近平在印度参加金砖国家峰会期间缺席了一场晚宴，有关他接班安排的担忧因此重新升温。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260922-wsj-xi-jinping-skipped-brics-dinner/"
+        }
+      ],
+      "supplement": {
+        "title": "「联合王国最后的首相」？苏格兰、威尔士与北爱独立峰会的虚与实｜Whatsnew",
+        "lead": "9月14日周一，苏格兰、威尔士（又译威尔斯）和北爱尔兰的政府领导人举行 高峰会 ，并且签署联合 备忘录 ，联合诉求自决权，脱离与英格兰所组成的联合王国。记者会上，苏格兰首席部长施荣礼（John Swinney）更宣称这场聚会是 「关键时刻」 ， 誓言 要让今年夏天刚接任的英国首相贝安德（Andy Burnham）「成为联合王国的最后一任首相」。 可想而知，这样的发言引起国际媒体注意。",
+        "body": [
+          "9月14日周一，苏格兰、威尔士（又译威尔斯）和北爱尔兰的政府领导人举行 高峰会 ，并且签署联合 备忘录 ，联合诉求自决权，脱离与英格兰所组成的联合王国。记者会上，苏格兰首席部长施荣礼（John Swinney）更宣称这场聚会是 「关键时刻」 ， 誓言 要让今年夏天刚接任的英国首相贝安德（Andy Burnham）「成为联合王国的最后一任首相」。可想而知，这样的发言引起国际媒体注意。单以台湾为例，一般专注于财经新闻的非凡电视台在报导标题中 惊呼 「英国分裂危机！威尔斯、苏格兰、北爱喊独立」，将危机描绘为进行中的事实，影音上传YouTube后，三天内观看次数已突破40万次。",
+          "在政治立场光谱的两端，三立和中天两间媒体的报导标题也不约而同，将英国解体视为迫在眉睫的决定，前者写下「脱欧后座力重创英国经济！苏格兰与北爱等三地盼重返欧盟，英国面临解体与分裂危机」，后者更在画面下方打上耸动文字──「英相坐不住了／三地联手闹脱英」。但是，一次高峰会，真的能有效推进苏格兰和威尔士的独立进程，或是加速北爱尔兰与爱尔兰共和国统一吗？即使苏格兰、威尔士或北爱人民未来真能举行自决公投，这场高峰会将会是一道值得载入史册的分水岭吗？答案很可能都是否定的。",
+          "这次高峰会的联合声明内容，完全并未超出三位首席部长所属政党的长年主张，只是重申既有立场而已。同时，三个民族主义政党、特别是苏格兰民族党和威尔士党（Plaid Cymru）之间，其实长年都有 合作关系 。2026年声明唯一的差别是，三位政党领导人此次会面时虽然明确表示是以党职而非公职身分出席，但实际上都顶著首席部长的头衔——这是历史上的第一次，才让这次三方会师更吸引大众目光。在英国本土，BBC苏格兰政治线记者Lynsey Bews对此事的 即时分析 ，标题非常直接，询问这是否真的是施荣礼所称的「关键时刻」，又或者只是个「拍照机会」。或者如同《卫报》苏格兰记者Patrick Greenfield所 指出 ，这样大张旗鼓的宣示可以帮助苏格兰民族党「转移话题」。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20260921-whatsnew-welsh-scotland-northern-ireland-joint-declaration/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/GettyImages-2294735549.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 21,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×4",
+          "紐約時報×4",
+          "端傳媒×4",
+          "華爾街見聞×3",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "South Korean President Calls for Easing Sanctions on the North",
+        "lead": "President Trump should demand that North Korea freeze, not eliminate, its nuclear weapons program, President Lee Jae Myung said in an interview.",
+        "body": [
+          "President Trump should demand that North Korea freeze, not eliminate, its nuclear weapons program, President Lee Jae Myung said in an interview."
+        ],
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/09/21/world/asia/south-korea-president-interview-sanctions-trump-north-korea.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/09/22/multimedia/22int-china-xi-01-zcfw/22int-china-xi-01-zcfw-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "No avoiding the cost of inaction on climate, Anthony Albanese says ahead of UN general assembly",
+        "lead": "Prime minister says Australians know the impact of global heating as well as anyone in keynote speech in New York Australia understands the dangers of global",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/australia-news/2026/sep/21/no-avoiding-the-cost-of-inaction-on-climate-anthony-albanese-says-in-new-york",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/27869614e45fe3747243417a4c789b07a8f7aaa4/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c20036b60f244ab6c633df37d7c86be5",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections",
+              "lead": "Ukraine says it used a newly developed ballistic missile in the attacks, which also targeted other parts of Russia.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/09/20/multimedia/20int-russia-attacks-hcmt/20int-russia-attacks-hcmt-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Halt super-intelligent AI with non-proliferation treaty, Ed Davey to say",
+              "lead": "At Lib Dems’ conference in Brighton, leader will accuse Andy Burnham of relying on Donald Trump and ‘tech bros’ to solve problem Ed Davey is to call for a global nuclear-style non-proliferation treaty to halt the",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/politics/2026/sep/21/halt-super-intelligent-ai-ed-davey-lib-dem-conference",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/8b34809ab945c631baf069850af883b4c987dc05/433_0_3753_3003/master/3753.jpg?width=140&quality=85&auto=format&fit=max&s=120fd967a5800d8cbe4f74993b34fce0",
+              "consensus": 5
+            },
+            {
+              "title": "'No surprises' as results emerge in Russian parliamentary election",
+              "lead": "Preliminary results suggest that Kremlin-backed United Russia is on course to retain its constitutional majority.",
+              "source": "BBC News",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/videos/cjp30pq0rx6ro?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5c1/live/fcd0fb50-b588-11f1-bc1f-3f186ca4140c.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Flights at major US airports delayed after cable cut by construction workers",
+              "lead": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4d4/live/c9f5d180-b608-11f1-b1d1-571ed4d7ff2c.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "OpenAI joins call for US-led global AI standards",
+              "lead": "Chief executive Sam Altman will brief the UN Security Council this week following outcry over safety concerns",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/4e502288-b611-4193-acdb-46ef34b1e3b0?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe3c2996d-d44a-4956-a7a3-0fa3fe0f34ee.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 4
+            },
+            {
+              "title": "CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit",
+              "lead": "Many in China sound far more optimistic than those in the U.S. about the bilateral relationship, ahead of a highly anticipated summit this week.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/09/22/cnbcs-the-china-connection-newsletter-watch-this-at-trump-xi-summit.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+              "lead": "Meta founder and CEO Mark Zuckerberg has gone to great lengths to hype the security of its new AI assistant Muse, claiming it is “built from the ground up for privacy and security.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "A cut cable disrupted hundreds of flights across the US",
+              "lead": "A JetBlue airplane past an FAA air traffic control tower at Philadelphia International Airport (PHL) in Philadelphia, Pennsylvania, US, on Friday, Oct. 24, 2025. JetBlue Airways Corp.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
+              "lead": "Many of The Boring Company's announced projects have not materialized.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "'Far from their best' to 'a joy to watch' - ranking Premier League teams' start to season",
+              "lead": "Five matches into the league season, which teams in the Premier League have impressed so far and who have disappointed?",
+              "source": "BBC News",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cq70d74g4d8go?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/045d/live/68e30950-b51b-11f1-b01b-6bc45d07eb85.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Infantino says he is open to talks over Fifa reform",
+              "lead": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d76a/live/7932d8f0-b5f0-11f1-8f79-396899948b9b.jpg",
+              "consensus": 3
+            },
+            {
+              "title": "Scotland's Scott promoted to PGA Tour with Ohio win",
+              "lead": "Scotland's Sandy Scott puts a career-threatening wrist injury behind him to earn promotion to the main PGA Tour for the first time after winning the Nationwide Children's Hospital Championship in Columbus, Ohio.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/golf/articles/cr93ex7vyd27o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06de/live/9dac2850-b5cb-11f1-abb5-85e9be42cb76.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Robin Williams’ Daughter Calls for Fans Creating AI Videos of the Actor to ‘Have Some Shame’: ‘Leave Him Out of Your Delusional Bulls—’",
+              "lead": "Zelda Williams is calling for fans to stop circulating AI-generated videos of her late father, Robin Williams, nearly a year after she last took to social media to ask them not to send her augmented content featuring",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2025/10/robin-williams.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Paramount-Warner Bros. Settlement: What the Guilds, AGs and Activists Are Saying",
+              "lead": "After almost a year in the trenches pulling together his historic combination of Paramount Skydance and Warner Bros. Discovery, David Ellison has finally emerged victorious.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/paramount-warner-bros-settlement-response-guilds-stars-1236871358/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/05/Ellison-Paramount-Warner-Bros.png",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Stanford scientists discover the human brain may actually be two separate organs",
+              "lead": "Scientists have found that the human brain develops from two distinct cellular systems, suggesting that evolution fused together two ancient nervous systems with very different jobs.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260920222352.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 4
+            },
+            {
+              "title": "Scientists create a needle-thin brain implant that can do three jobs at once",
+              "lead": "A new needle-thin brain implant can record neural activity, deliver drugs, and stimulate multiple brain regions using a single flexible fiber.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260920222416.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 2
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "World leaders address climate crisis before UN meet amid record-breaking El Niño",
+          "lead": "Prime ministers of Australia and Iceland discuss effects on their",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/environment/2026/sep/21/world-leaders-climate-crisis-el-nino"
+        },
+        {
+          "title": "Russia’s Election Was Engineered to Send a Message: Putin Remains in Control",
+          "lead": "A parliamentary vote demonstrated that President Vladimir V.",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/09/21/world/europe/russia-duma-election.html"
+        },
+        {
+          "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+          "lead": "Major US networks later suspended White House TV coverage of Trump as",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "US, China need nuclear-style AI safeguards, congressman says before Xi-Trump summit",
+          "lead": "The US and China should agree on international regulatory standards",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/us/diplomacy/article/3368311/us-china-need-nuclear-style-ai-safeguards-congressman-says-xi-trump-summit?utm_source=rss_feed"
+        },
+        {
+          "title": "Putin’s party wins supermajority in Russia’s parliamentary election",
+          "lead": "Victory of United Russia party strengthens Putin's hand even as the",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss"
+        },
+        {
+          "title": "Pro-Putin United Russia party gets record 355 parliamentary seats",
+          "lead": "The anti-war Yabloko party appeared to have won a tiny foothold in",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/09/22/world/politics/pro-putin-parliament-election/"
+        },
+        {
+          "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
+          "lead": "Amazon plans to spend $20 million on water conservation projects",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river"
+        },
+        {
+          "title": "Trump and Mamdani strike friendly tone in New York City housing talks",
+          "lead": "Unlikely rapport between the Republican president and the democratic",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/68d4f774-fbcb-48b3-9cd2-00b281d1beb6"
+        },
+        {
+          "title": "Iranian President Pezeshkian to head to New York for UN meeting as Trump warns of no-deal consequences",
+          "lead": "Trump threatened to destroy Iran's economy or eliminate its",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html"
+        },
+        {
+          "title": "Saudi Arabia wants a car industry, launches Ceer with two EVs",
+          "lead": "Ceer provided flights from Detroit to Riyadh, Saudi Arabia",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/"
+        },
+        {
+          "title": "David Ellison Says Paramount Hopes to Close Warner Bros. Deal in ‘Approximately Two Weeks’; Studios to Remain in California",
+          "lead": "Update: David Ellison isn’t looking for greener pastures.",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/news/david-ellison-paramount-warner-deal-staff-memo-1236871327/"
+        },
+        {
+          "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+          "lead": "Apple Store architect Ron Johnson says Apple's secret sauce has",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/"
+        },
+        {
+          "title": "NASA just powered up Roman’s massive 300-megapixel camera",
+          "lead": "NASA’s Roman Space Telescope has successfully activated its",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260921081058.htm"
+        },
+        {
+          "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
+          "lead": "The deal includes an agreement to produce 30 films a year",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
+          "lead": "Paramount has reached a settlement with California and the 11 other",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement"
+        },
+        {
+          "title": "Kremlin-backed forgery scheme moved $6.9bn through global banks",
+          "lead": "FT finds thousands of Russian payments received by Standard Chartered",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/3848a4ad-1426-4352-ba86-ef1279c4ffd1?syn-25a6b1a6=1"
+        }
+      ],
+      "supplement": {
+        "title": "WGA Settles Antitrust Lawsuit With Paramount Over Warner Bros. Discovery Merger",
+        "lead": "The Writers Guild of America East and Writers Guild of America West, jointly the WGA, have settled their lawsuit to block the proposed merger of Paramount Skydance and Warner Bros.",
+        "body": [
+          "The Writers Guild of America East and Writers Guild of America West, jointly the WGA, have settled their lawsuit to block the proposed merger of Paramount Skydance and Warner Bros.",
+          "Discovery per a statement released by the organization Monday.",
+          "The settlement comes following the news that Paramount has reached a deal with 12 state attorneys […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/news/wga-settles-lawsuit-paramount-skydance-warner-bros-merger-1236871354/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/08/GettyImages-1700864074.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 35,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "The Verge×3",
+          "ScienceDaily×3",
+          "紐約時報×2",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-09-22T00:39:10.634Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 798,
+        "lang": 454,
+        "fresh": 382,
+        "denoised": 379,
+        "deduped": 363
+      },
+      "en": {
+        "fetched": 798,
+        "lang": 344,
+        "fresh": 313,
+        "denoised": 311,
+        "deduped": 300
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 21,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×4",
+          "紐約時報×4",
+          "端傳媒×4",
+          "華爾街見聞×3",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 35,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "The Verge×3",
+          "ScienceDaily×3",
+          "紐約時報×2",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

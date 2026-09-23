@@ -1,0 +1,925 @@
+{
+  "issue": 9,
+  "date": "2026-09-23",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历八月十三 · 秋分",
+    "en": "13th day of the 8th lunar month · Autumn Equinox"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "欧盟宣布：延长涉乌克兰危机制裁措施至2029年",
+        "lead": "中新网9月23日电 综合报道，欧盟理事会22日发表声明宣布，将针对“破坏或威胁乌克兰领土完整、主权和独立”的个人和实体的制裁措施延长36个月，至2029年9月22日。目前相关措施累计制裁个人和实体超3000个。",
+        "body": [
+          "中新网9月23日电 综合报道，欧盟理事会22日发表声明宣布，将针对“破坏或威胁乌克兰领土完整、主权和独立”的个人和实体的制裁措施延长36个月，至2029年9月22日。",
+          "目前相关措施累计制裁个人和实体超3000个。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/09-23/10701937.shtml",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "secondary": {
+        "title": "OpenAI再推两款GPT-6模型：Sol、Luna定价腰斩，Astra能力加速下沉",
+        "lead": "OpenAI已经进一步扩充GPT-6产品线，并将部分Astra的能力带入更快、更便宜的模型。 美东时间9月22日周二，OpenAI宣布推出GPT-6 Sol和GPT-6 Luna两款新模型。距离OpenAI发布其号称“全球最智能”的旗舰模型GPT-6 Astra还不到三周，OpenAI已经进一步补齐GPT-6产品线",
+        "source": "華爾街見聞",
+        "group": "華爾街見聞",
+        "link": "https://wallstreetcn.com/articles/3782320",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 4
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "中国选手石升吉夺得亚运会男子半程马拉松竞走金牌",
+              "lead": "9月23日，名古屋亚运会男子半程马拉松竞走决赛，中国选手石升吉夺得金牌。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-23/10701935.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "人工智能议题中美说了算？联合国被边缘化",
+              "lead": "预计习近平将缺席联合国大会，而是前往华盛顿与特朗普会面。专家表示，这凸显出人工智能在很大程度上已演变为两个超级大国的角逐，世界其他地区基本被推向边缘。 Tingshu Wang/Reuters 上周，北京千寻智能公司总部数据训练中心里的员工。人工智能将成为本周联合国大会数场会议的主导议题。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20260922/united-nations-artificial-intelligence-china-us/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "香港提出「人民币支付政府开支」为何引发「去美元化」忧虑？",
+              "lead": "有经济学者对BBC中文指出，港府希望建立「示范作用」，未来甚至「可能连收税都收人民币」，增加其他国家在香港使用人民币买卖黄金、投资股票的信心。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2882/live/94072490-b624-11f1-b7d1-4dd4889e8b44.jpg"
+            },
+            {
+              "title": "CNN 等三家美国媒体被禁入白宫后 起诉特朗普政府",
+              "lead": "随后，当川普前往纽约参加联合国峰会时，美国各大电视网暂停了白宫的电视转播。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cjp30pv25xd7o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5aa1/live/5ce86ed0-b60e-11f1-a054-8fb9a369004b.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "OpenAI推出GPT-6 Sol与GPT-6 Luna",
+              "lead": "",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15129831.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 4
+            },
+            {
+              "title": "2026中国民营企业500强发布会在天津举行",
+              "lead": "中新网天津9月22日电 (徐雪莹 周亚强 孙翼飞)由全国工商联、天津市人民政府共同主办的2026中国民营企业500强发布会22日在天津举行。全国政协副主席、全国工商联主席高云龙，天津市委副书记、市长张工出席并致辞。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/09-22/10701784.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "OpenAI新举措：允许第三方机构在模型训练、开发阶段进行安全评估",
+              "lead": "OpenAI计划将第三方安全评估引入人工智能模型开发的更早阶段，此举是AI行业在安全监管压力持续上升背景下的最新应对举措。 OpenAI周二发布文章表示， 将允许外部机构在模型训练、评估及部署的全流程中开展技术安全评估，而非仅限于发布前的例行审查。 这一转变表明，随着AI模型能力边界不断拓展，业界对训练阶段潜在风险的关注程度正显著提升。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3782321",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 3
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "OpenAI发布GPT-6 Sol和Luna 智能水平进一步提升且价格更低",
+              "lead": "OpenAI近日推出GPT-6系列中的两款新模型GPT-6 Sol和GPT-6 Luna，并将其定位为新一代前沿模型。两款模型重点提升了编程、推理、工具调用以及复杂任务执行能力，同时在定价方面进行了下调，使开发者能够以更低的成本使用更强的模型。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1579246.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 4
+            },
+            {
+              "title": "“超级”在哪里？高通第六代骁龙 8 超级至尊版 / 至尊版芯片规格对比",
+              "lead": "IT之家 9 月 23 日消息，夏威夷时间 9 月 22 日 9 点（北京时间 9 月 23 日 3 点）召开的 2026 骁龙峰会上， 高通正式宣布推出第六代骁龙 8 超级至尊版和第六代骁龙 8 至尊版两款芯片。 IT之家查询高通官网规格资料，附上两款芯片的差异如下",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/006/016.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "[OpenAI] GPT-6 Sol 已在 Codex 可用，还有 GPT-6 Luna",
+              "lead": "",
+              "source": "V2EX",
+              "group": "V2EX",
+              "link": "https://www.v2ex.com/t/1244096#reply6",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 4
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "加拿大一省政府就校园枪击案起诉OpenAI",
+              "lead": "中新网北京9月22日电 据加拿大通讯社报道，加拿大不列颠哥伦比亚省政府于当地时间21日起诉美国开放人工智能研究中心(OpenAI)及其首席执行官萨姆·奥尔特曼，指控该公司未将塔布勒岭枪击案凶手在ChatGPT上的异常对话报告给当地警方。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701786.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "从年轻县官到国家主席：习近平41年来的访美影像",
+              "lead": "习近平即将到访美国会晤特朗普（川普），这将是他历来第11次以中国官方身份访美。从31岁县委书记到中国国家主席，BBC中文透过历年照片，回顾他的访美行程如何随身份和中美关系变化。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c9zrz24j8pdvo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9542/live/762ecd10-b5b6-11f1-bc1f-3f186ca4140c.jpg"
+            },
+            {
+              "title": "“习特会”在即，中美贸易“暗战”小动作不断",
+              "lead": "分析认为习近平此行重点是确保双边关系稳定。但两国继续采取针对彼此的行动，有时险些彻底破坏脆弱的休战协议。两国都指责对方违反去年在韩国做出的承诺。 Haiyun Jiang/The New York Times 特朗普总统与中国领导人习近平去年在韩国釜山会面。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20260922/trump-xi-china-trade/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "习近平：从失去一切的「太子」到中国最有权势的领导人",
+              "lead": "现年73岁的习近平，早已不再是那名访美时的县级官员。在近14年的中国领导人任期内，他改变了中国共产党以及这个国家在世界上的地位。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c98r687436nvo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c5b8/live/fd47ee80-b5d4-11f1-b1d1-571ed4d7ff2c.png"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "港版五年规划出炉：如何框定香港议程，重塑中港关系？",
+              "lead": "「香港政治经济形势处于历史最好时期。」 9月16日，香港特首李家超发布《香港第一个五年规划》(2026-2030年)和本届任期最后一份《施政报告》。李家超在开篇指出，香港过去五年在中央的领导和大力支持下，实现从「由乱到治」走向「由治及兴」的历史性转折，经济增速由负转正。其后，他用六万字篇幅勾勒香港未来五年的蓝图，涵盖强化香港现有优势，加快北部都会区建设等，并在《施政报告》颁布具体的政策。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20260923-hongkong-mainland-hk-first-five-year-plan-explainer/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/TKH20260916W1287-2.jpg"
+            },
+            {
+              "title": "近万名孩子画作将分100期陆续亮相中国艺术研究院油画院",
+              "lead": "中新网北京9月22日电 (记者 应妮)“哇！原来孩子是这样看世界的！”百期策展计划日前启动，近万幅青少年画作将陆续亮相中国艺术研究院油画院青年展厅。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/09-22/10701809.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "2026比利·简·金杯深圳总决赛开赛 捷克队取得开门红",
+              "lead": "中新社深圳9月22日电 (记者 张璐)2026比利·简·金杯深圳总决赛22日在深圳开赛。当日，捷克队以2:0战胜英国队，取得开门红。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-23/10701910.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "（爱知·名古屋亚运会）中国羽毛球男女团体赛首秀告捷 双双晋级四强",
+              "lead": "中新社日本名古屋9月22日电 (记者 李志全)爱知·名古屋亚运会羽毛球项目22日举行男子、女子团体四分之一决赛，中国女团以3:0战胜泰国队，中国男团以3:2击败韩国队，双双晋级半决赛。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-22/10701868.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "人工智能等领域8位专家做客格致论道 以《行者，新世界》为主题开讲",
+              "lead": "中新网北京9月22日电 (记者 孙自法)以“行者，新世界”为主题的格致论道第133期近日举行，来自人工智能、基础科学、国际象棋、海洋生态、植物与稀土、喜剧创作、合成生物学等不同领域的8位专家学者分别登台开讲。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701813.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "美联储加息靴子落地，私募机构谋划A股“新打法”",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15129812.html"
+        },
+        {
+          "title": "美联储Perli：美联储购债将视市场情况调整，关注融资压力信号，维持准备金充裕",
+          "lead": "纽约联邦储备银行官员罗伯托·佩利（Roberto Perli）表示，美联储将继续评估银行体系准备金水平",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782328"
+        },
+        {
+          "title": "OpenAI将让第三方机构更早介入AI模型安全评估",
+          "lead": "OpenAI计划让第三方机构在人工智能（AI）模型开发周期的更早阶段评估安全风险，此举旨在继续努力应对围绕AI潜在危害的担忧。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1579248.htm"
+        },
+        {
+          "title": "「双休购」爆红与下架：一个网购平台如何撬动劳工权益讨论",
+          "lead": "提倡双休的民间自发平台「双休购」昙花一现后快速被下架，中国打工人开始在社交媒体上要求双休正当权利。学者指这样的消费抵制是正向的发展。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cr9dw3z7v01yo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "中国曾承诺购买更多美国农产品，但并未兑现",
+          "lead": "特朗普在北京与习近平会晤后曾宣布，中国已同意大幅增加对农产品的采购。但截至目前，除大豆以外，中国并未大举采购美国农产品。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/business/20260922/china-agriculture-trade-soybeans/?utm_source=RSS"
+        },
+        {
+          "title": "红魔 12 Pro+ 手机官宣搭载高通第六代骁龙 8 超级至尊版芯片，号称“迄今为止手感最好的红魔旗舰”",
+          "lead": "IT之家 9 月 23 日 2026 高通骁龙峰会现场报道， 高通公司宣布推出第六代骁龙 8 超级至尊版移动平台和第六代骁龙 8",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/006/013.htm"
+        },
+        {
+          "title": "天文学家发现已知最年轻行星",
+          "lead": "天文学家发现了已知最年轻的行星——Elias 2-24 b。这颗不到 100 万年的木星大小行星仍被其形成时的气体和尘埃包围。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85454"
+        },
+        {
+          "title": "[程序员] claude opus 5.5 和 gpt 6 sol ,你们都用上了吗？",
+          "lead": "我主要做 vibe coding 工具用，大神们支招，哪个对新手能更友好一点呢？",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1244099#reply1"
+        },
+        {
+          "title": "台北市长选举民调仅差1.2点：蒋万安市政连环爆，沈伯洋「洋流」来袭｜Whatsnew",
+          "lead": "台湾民调专家戴立安近日受托进行台北市长大选民调，9月22日公布结果，寻求连任的市长蒋万安支持度41.7%",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260922-whatsnew-taiwan-taipei-mayor-election-poll/"
+        },
+        {
+          "title": "伊朗外长与美特使在纽约会晤 特朗普：美伊代表会谈“非常有建设性”",
+          "lead": "当地时间22日，伊朗外长阿拉格齐与美国总统特使威特科夫在第81届联合国大会会议期间于纽约举行会晤。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1351,202609233881637937.html"
+        },
+        {
+          "title": "10.99 万元起！日产新 N7 这次是真加量还降价",
+          "lead": "去年 4 月，东风日产 N7 带着 11.99 万元起的价格进入市场时，一度成为合资新能源阵营里颇受关注的一款车。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1681515?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "OpenAI拟在AI模型开发早期阶段引入第三方机构评估安全风险",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15129839.html"
+        },
+        {
+          "title": "美联储Barkin：通胀压力消退需要时间，后续是否加息“视情况而定”",
+          "lead": "美联储里士满联储主席Tom Barkin周二警告称，通胀冲击的消退不会一蹴而就，当前高企的通胀水平存在向未来预期传导并形成固化的风险。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782318"
+        },
+        {
+          "title": "张又侠被开除党籍，将面临军事法庭审判",
+          "lead": "官方通报张又侠和刘振立被开除党籍并移交军事检察机关。通报称两人滥用职权帮助他人谋取职务晋升，收受巨额贿赂，且违反政治纪律",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/china/20260922/china-generals-expelled-corruption/?utm_source=RSS"
+        },
+        {
+          "title": "接连曝光受试者死亡，中国基因编辑等前沿治疗怎么了？",
+          "lead": "（作者为遗传学博士，科普作者，播客《说医解药》主理人） 2025年6月，美国食品药品监督管理局（FDA）专门召开了一个关于基因治疗",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260922-mainland-what-problems-have-emerged-in-chinas-cutting-edge-therapies/"
+        },
+        {
+          "title": "脆弱的美中关系中最具破坏性的问题：对台军售",
+          "lead": "习近平5月与特朗普在北京会晤时曾发出警告，台湾问题若处理不当可能“十分危险”。特朗普随后推迟了拟议中的对台军售计划。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/world/20260922/china-trump-taiwan-arms-sales/?utm_source=RSS"
+        }
+      ],
+      "supplement": {
+        "title": "数说科技：当 AI 学会与动物沟通，对动物是福是祸？",
+        "lead": "编按：「 数说科技 」是端传媒的注册免费栏目，每周三更新。从一个数字出发，用1500字解析科技话题，追踪值得关注的 AI 趋势。邀请你在资讯过载的时代，每周花三分钟理解科技世界。欢迎至「帐户中心」的「电子邮件管理」，订阅电子信。 1000万美元：实现人类与动物双向沟通的团队，可获得的股权奖励。 长久以来，人类始终试图破解动物的沟通模式，理解牠们的叫声与行为背后的意义。",
+        "body": [
+          "编按：「 数说科技 」是端传媒的注册免费栏目，每周三更新。从一个数字出发，用1500字解析科技话题，追踪值得关注的 AI 趋势。",
+          "邀请你在资讯过载的时代，每周花三分钟理解科技世界。欢迎至「帐户中心」的「电子邮件管理」，订阅电子信。",
+          "1000万美元：实现人类与动物双向沟通的团队，可获得的股权奖励。长久以来，人类始终试图破解动物的沟通模式，理解牠们的叫声与行为背后的意义。如今，随著 AI 技术的发展，科学家得以分析大量声音与行为资料，跨物种沟通的梦想，有望成为现实。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20260923-tech-in-numbers-ai-assisted-animal-communication/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/RC2YQG97VAL9.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "華爾街見聞×4",
+          "BBC×4",
+          "端傳媒×4",
+          "紐約時報中文×3",
+          "紐約時報×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Macron Criticizes Israel and Russia in Final U.N. Speech as France’s President",
+        "lead": "In his farewell address to the General Assembly, the French president criticized Russia, Israel and, in more veiled terms, the United States.",
+        "body": [
+          "In his farewell address to the General Assembly, the French president criticized Russia, Israel and, in more veiled terms, the United States."
+        ],
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/09/22/world/europe/macron-farewell-united-nations-speech.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/09/22/multimedia/22unga-live-macron-address-kjgt/22unga-live-macron-address-kjgt-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Watch: Trump floats rebranding artificial intelligence as super intelligence",
+        "lead": "\"The use of the word artificial makes it sound fake,\" he said told the UN. \"It's not fake, it's actually amazing.\"",
+        "source": "BBC Business",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/videos/c8n5d9x10v14o?at_medium=RSS&at_campaign=rss",
+        "category": "tech",
+        "categoryLabel": "Technology",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd34/live/958ea3f0-b69d-11f1-b1d1-571ed4d7ff2c.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Macron to Make His Final U.N. General Assembly Appearance as France’s President",
+              "lead": "During his tenure as France’s president, Emmanuel Macron has evolved from a political upstart to a senior statesman.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/09/22/world/europe/macron-un-general-assembly.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/09/22/multimedia/22unga-live-macron-setup-topart-ljmh/22unga-live-macron-setup-topart-ljmh-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Iran and US have held talks on sidelines of UN summit, says Donald Trump",
+              "lead": "Senior Iranian official indicates willingness to reopen strait of Hormuz if US takes steps to ease pressure on Tehran Iranian officials held three hours of talks with US special envoy Steve Witkoff on the sidelines of",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/sep/22/iran-us-talks-sidelines-un-summit-trump-israel-us",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/0e83809b06b6077027cd3b905b78c52f8cc12e22/87_0_2573_2058/master/2573.jpg?width=140&quality=85&auto=format&fit=max&s=fdd42bc65efdbfe686c8a9f3caecf31e",
+              "consensus": 5
+            },
+            {
+              "title": "Canada seeks to wrap up India trade talks soon, as US ties fray",
+              "lead": "Canadian Prime Minister Mark Carney said on Tuesday that trade negotiations with India are making “good progress” and that the two countries are aiming to conclude talks by the G20 summit in mid-December.",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/world/united-states-canada/article/3368443/canada-seeks-wrap-india-trade-talks-soon-us-ties-fray?utm_source=rss_feed",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/23/141abaf3-9ec3-4296-a8df-3a0118adaa2d_ba807e5b.jpg?itok=t69c1cjW&v=1790121143",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
+              "lead": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efbc/live/4e7c88d0-b696-11f1-bc1f-3f186ca4140c.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "US and Iran hold first talks since June as Trump threatens ‘annihilation’",
+              "lead": "President says Steve Witkoff and Jared Kushner had ‘good meeting’ with Iranian delegation on the sidelines of the UN gathering",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/1434496d-0eaf-4270-8ad3-87724cd3721e?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc6f1f0c2-4396-4ef4-9bfe-052d3155a7cb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Trump slams Iran and Cuba, defends AI growth in boastful UN speech",
+              "lead": "The U.S. \"will no longer permit threats to America to gain a foothold anywhere in the Western Hemisphere,\" Trump told the UN leaders.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/09/22/trump-un-speech-today.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "What Xi wants from his summit with Trump",
+              "lead": "Chinese leader’s most urgent goal is extending trade truce with US, but he is also expected to discuss Taiwan, Iran and AI",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/9bea08f4-c9e8-450a-9d0f-0af0bf47b64e?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbd654bbd-ea9b-4390-922a-e60d83ba46d4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+              "lead": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Paramount will need to release way more movies to make this merger work",
+              "lead": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD)",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+              "lead": "OpenAI and Anthropic both recently released new models aimed at lowering costs. Anthropic announced Opus 5.5, the latest version of its main mass-market workhorse model",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Claude-ChatGPT-1152x648-1790110487.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "England ease to big victory as Sri Lanka crumble in first ODI",
+              "lead": "England maintain their excellent one-day form in a comfortable victory against Sri Lanka, as Will Jacks' stars with bat and ball to help the home side to an 89-run win at Chester-le-Street in the first ODI.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/cricket/videos/cw1mvyz30jy3o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32d0/live/7ced4c00-b6b8-11f1-bc1f-3f186ca4140c.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Israel FA comments on Hallgrimsson 'unacceptable' - Irish taoiseach Martin",
+              "lead": "Irish taoiseach Micheal Martin says comments made by the Israel Football Association about the Republic of Ireland manager Heimir Hallgrimsson are \"unacceptable\".",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cmkgw0drzr38o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4d8/live/7195f740-b6b7-11f1-8448-334c53ba4316.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Dream debut - Colombage takes three wickets to stifle England",
+              "lead": "Sachindu Colombage enjoys a debut to remember as he removes Joe Root, Jos Buttler and Jamie Overton to finish with figures of 3-44 in the first One Day International between England and Sri Lanka at Chester-le-Street.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/cricket/videos/c9rk3vxn2lljo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbb4/live/30c0ec30-b698-11f1-a430-4d16ee157c41.jpg"
+            },
+            {
+              "title": "Five charged over football pitch hearse disorder",
+              "lead": "Five are charged over disorder which saw a hearse driven onto the pitch at Dunston UTC v Gateshead.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/crwyzkw2lzk1o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9893/live/37927210-d7b9-11ee-9a5b-e35447f6c53b.png"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Tom Cruise Welcomes Prince William and Kate Middleton at ‘Digger’ World Premiere in London: ‘We Love Them and Really Appreciate What They Do for the Arts’",
+              "lead": "Tom Cruise world-premiered his new film “Digger” on Tuesday night to an enthusiastic audience in London, which included some royal guests.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/global/tom-cruise-prince-william-kate-digger-premiere-london-1236871955/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/09/GettyImages-2296641108.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Ari Emanuel on Outrunning ‘Entourage,’ the Art of the Phone Call and the Stolen Commission that Still Hurts",
+              "lead": "The Thomas Guide is a map that painstakingly details how to navigate Los Angeles by car. It’s a spiral-bound relic that almost none of your junior executives remember.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/biz/news/ari-emanuel-outrunning-entourage-stolen-commission-1236872503/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/09/split-single-1000x667-3.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists discover first new penguin species in more than 100 years",
+              "lead": "Genetic evidence has revealed a previously unknown gentoo penguin species on the remote Kerguelen Islands and shown that gentoos actually consist of four distinct species.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260920222410.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "The end of humanity? What would happen if the Yellowstone supervolcano erupted now",
+              "lead": "A Yellowstone super-eruption would begin not with a sudden surprise, but with weeks of increasingly alarming warning signs such as migrating earthquake swarms, rapid ground uplift, changing geysers",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260922005655.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Stopping Ozempic may raise heart attack and stroke risk",
+              "lead": "A large study suggests the cardiovascular benefits of GLP-1 drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound can disappear surprisingly quickly when treatment stops.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260920222414.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Mexico Becomes Latest Country to Restrict Phones in Schools",
+          "lead": "President Claudia Sheinbaum has sharply limited the use of cellphones",
+          "category": "society",
+          "categoryLabel": "Society",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/09/22/world/americas/mexico-bans-phones-schools.html"
+        },
+        {
+          "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
+          "lead": "In his speech, the US president pondered whether a peace deal would",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Cost of raising two children in Australia has risen 134% in two decades, study says",
+          "lead": "Parenting advocate Georgie Dent says rising childcare cost has pushed",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/australia-news/2026/sep/23/cost-of-raising-two-children-in-australia-has-risen-134-in-two-decades-study-says"
+        },
+        {
+          "title": "Trump says he would back US diesel export ban",
+          "lead": "President’s support for suspending foreign sales comes as conflicts",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/22d1154b-8bea-4f8d-bfc4-5db7761d3612?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+          "lead": "The seven-year-old startup has raised a $350 million Series E to fuel",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
+        },
+        {
+          "title": "Zelensky says Ukraine is ready for an energy ceasefire with Russia",
+          "lead": "On the sidelines of the UN General Assembly in New York on Tuesday",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/europe/20260922-zelensky-says-ukraine-is-ready-for-an-energy-ceasefire-with-russia"
+        },
+        {
+          "title": "Why China’s frontier AI pioneers are expected to miss this week’s Xi-Trump summit",
+          "lead": "As President Xi Jinping prepares to travel to the United States to",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/economy/global-economy/article/3368409/why-chinas-frontier-ai-pioneers-are-expected-miss-weeks-xi-trump-summit?utm_source=rss_feed"
+        },
+        {
+          "title": "Fake and divisive ads proliferate in Israel’s first AI election",
+          "lead": "Israel's elections will be the country's first since the deadly Hamas",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/09/22/world/fake-ads-israel-ai-election/"
+        },
+        {
+          "title": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+          "lead": "Republican lawmakers have called for an export ban as high diesel",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html"
+        },
+        {
+          "title": "UNGA Day 1: US and Iran hold talks despite Trump’s threat",
+          "lead": "The US and Iran hold talks on UNGA’s first day",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/unga-day-1-us-and-iran-hold-talks-despite-trumps-threat?traffic_source=rss"
+        },
+        {
+          "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
+          "lead": "The 8 Elite Extreme Gen 6 and 8 Elite Gen 6 share most of their specs",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6"
+        },
+        {
+          "title": "All the Top Shows, Movies and Networks in the Merged Paramount-Warner Bros: ‘Yellowstone,’ ‘Harry Potter,’ ‘Mission: Impossible’ and DC Under One Roof",
+          "lead": "In line with mega-mergers that have come before",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/tv/news/paramount-warner-bros-merger-shows-movies-networks-1236872287/"
+        },
+        {
+          "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+          "lead": "Meta founder and CEO Mark Zuckerberg has gone to great lengths to",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
+        },
+        {
+          "title": "Stem cells reverse stroke damage and restore movement in mice",
+          "lead": "Stem cell transplants helped regenerate stroke-damaged brain tissue",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm"
+        },
+        {
+          "title": "Anthropic and OpenAI release cheaper models as price war intensifies",
+          "lead": "New Claude and ChatGPT tools slash costs from earlier versions while",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+          "lead": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/"
+        }
+      ],
+      "supplement": {
+        "title": "‘Digger’ First Reactions Split Over Tom Cruise’s ‘Baffling,’ ‘Unpleasant’ and ‘Brave’ New Movie: ‘The Divide on This Is Going to Be Wide’",
+        "lead": "Tom Cruise’s star vehicle “Digger” has finally been unveiled to members of the film press, who have been left divided by the satirical black comedy.",
+        "body": [
+          "Tom Cruise’s star vehicle “Digger” has finally been unveiled to members of the film press, who have been left divided by the satirical black comedy.",
+          "The latest directorial effort from “Birdman” and “The Revenant” Oscar winner Alejandro González Iñárritu is being called everything from “baffling” to “unpleasant” to “fascinating stuff.” Most film journalists seem to […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/news/digger-first-reactions-tom-cruise-baffles-1236871935/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/09/MCDDIGG_WB016.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 16,
+        "categories": 8,
+        "topGroups": [
+          "BBC×6",
+          "Variety×4",
+          "ScienceDaily×4",
+          "TechCrunch×3",
+          "紐約時報×2",
+          "SCMP×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-09-23T00:08:29.023Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 779,
+        "lang": 435,
+        "fresh": 363,
+        "denoised": 362,
+        "deduped": 343
+      },
+      "en": {
+        "fetched": 779,
+        "lang": 344,
+        "fresh": 335,
+        "denoised": 332,
+        "deduped": 324
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "華爾街見聞×4",
+          "BBC×4",
+          "端傳媒×4",
+          "紐約時報中文×3",
+          "紐約時報×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 16,
+        "categories": 8,
+        "topGroups": [
+          "BBC×6",
+          "Variety×4",
+          "ScienceDaily×4",
+          "TechCrunch×3",
+          "紐約時報×2",
+          "SCMP×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

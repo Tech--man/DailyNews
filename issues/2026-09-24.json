@@ -1,0 +1,902 @@
+{
+  "issue": 10,
+  "date": "2026-09-24",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历八月十四 · 秋分",
+    "en": "14th day of the 8th lunar month · Autumn Equinox"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "探路医学人工智能，浙江建起“医疗Token工厂”",
+        "lead": "中新网杭州9月24日电(张煜欢)当医疗人工智能加速走进临床，数据安全、模型调用、能力标准化等难题成为产业落地堵点。23日，在浙江杭州举办的第五届全球数字贸易博览会数字医疗健康产业对接活动上，浙江正式发布“医疗Token工厂”1.0版本，尝试以新型基础设施破局医疗AI产业化痛点，为行业探索算模数一体化的可行路径。",
+        "body": [
+          "中新网杭州9月24日电(张煜欢)当医疗人工智能加速走进临床，数据安全、模型调用、能力标准化等难题成为产业落地堵点。",
+          "23日，在浙江杭州举办的第五届全球数字贸易博览会数字医疗健康产业对接活动上，浙江正式发布“医疗Token工厂”1.0版本，尝试以新型基础设施破局医疗AI产业化痛点，为行业探索算模数一体化的可行路径。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/jk/2026/09-24/10702714.shtml",
+        "category": "top",
+        "categoryLabel": "要闻"
+      },
+      "secondary": {
+        "title": "特朗普迎接习近平开展对美国事访问 贝森特宣布两国贸易战继续「停火」",
+        "lead": "中国国家主席习近平专机抵达首都华盛顿附近的安德鲁斯联合基地，美国总统特朗普（川普）打破惯例，亲自接机。",
+        "source": "BBC中文",
+        "group": "BBC",
+        "link": "https://www.bbc.com/zhongwen/articles/cqvgyl2k378go/trad?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "categoryLabel": "国际",
+        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a231/live/81f1b650-b7a3-11f1-a430-4d16ee157c41.jpg"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "新华图讯丨习近平抵达华盛顿对美国进行国事访问",
+              "lead": "当地时间9月23日下午，国家主席习近平乘专机抵达华盛顿，应美国总统特朗普邀请，对美国进行国事访问。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gn/2026/09-24/10702721.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "巴士上大声播放音乐？在新加坡可能要被罚数百美元",
+              "lead": "当局正加强打击各类「扰乱秩序行为」，包括在车上饮食及把双脚放在座位上。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cw9802p97qgvo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4a9f/live/ba761e40-b653-11f1-8d77-eb0cf812c06a.jpg"
+            },
+            {
+              "title": "脆弱的美中关系中最具破坏性的问题：对台军售",
+              "lead": "习近平5月与特朗普在北京会晤时曾发出警告，台湾问题若处理不当可能“十分危险”。特朗普随后推迟了拟议中的对台军售计划。习近平此次访美可能会继续说服他推迟军售。 Kenny Holston/The New York Times 今年5月，特朗普总统与中国国家主席习近平在北京会晤。特朗普在寻求与中国建立务实关系的同时暂缓了对台军售。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20260922/china-trump-taiwan-arms-sales/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "中日僵局难解，高市早苗向特朗普“求助”",
+              "lead": "习近平访美在即，高市与特朗普在纽约举行会晤。分析称高市可能寻求重申美日同盟关系，以此作为对抗习近平的缓冲。但尚不清楚特朗普是否愿意进一步介入中日争端。 Haiyun Jiang/The New York Times 日本首相高市早苗去年在东京与特朗普总统（未出现在照片中）会晤。高市早苗仍致力于说服特朗普维持在东亚的安全承诺。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/asia-pacific/20260923/trump-takaichi-japan-china-economy/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "房地产市场交易总量趋于稳定",
+              "lead": "国家统计局日前公布8月份商品住宅销售价格变动情况统计数据和1至8月份全国房地产市场基本情况。国家统计局城市司高级统计师杨彩芳介绍，8月份，70个大中城市中，一线城市商品住宅销售价格环比上涨，二三线城市环比降幅总体收窄，一二三线城市同比降幅继续收窄。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/09-24/10702701.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "一文读懂美债\"黑色星期三\"：\"完美风暴\"冲击，\"10月再加息\"风起",
+              "lead": "多重利空因素在同一天集中引爆，美国国债市场经历了近18个月来最惨烈的单日抛售。 10年期美债收益率周三单日飙升约14个基点，收于5.113%，创2007年以来新高 ，单日涨幅为特朗普去年4月所谓\"对等关税日\"冲击以来最大。这一走势被市场人士形容为\"完美风暴\"—— 强劲PMI数据、中东局势升温、美联储官员鹰派表态，以及疲软的国债拍卖结果 ，四重打击在同一个交易日接连落下。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3782417",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "全球市场：美股三大指数收跌 纳指跌超1% 光通信、存储芯片股多数下挫",
+              "lead": "美股市场： 美股三大指数09月23日收盘全线下跌。截至收盘，道琼斯工业平均指数比前一交易日下跌352.1点，收于51511.59点，跌幅为0.68%； 标准普尔 500种股票指数下跌58.61点，收于7706.03点，跌幅为0.75%； 纳斯达克 综合 指数下跌308.24点，收于26936.04点，跌幅为1.13%。 “科技七巨头”涨跌分化，Meta涨1.02%领涨， 微软 涨0.52%， 特斯拉 涨0.32%；",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://stock.eastmoney.com/news/11784,202609243882845387.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "微软发布搭载骁龙X2 Plus芯片的新一代12英寸Surface Pro",
+              "lead": "在高通骁龙峰会上，微软正式发布了第二代12英寸Surface Pro二合一平板电脑。新机型全面换装高通新一代骁龙X2 Plus处理器，在维持便携无风扇设计的同时，大幅提升了图形处理、端侧AI运算以及电池续航效率。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1579384.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "Anthropic 宣布成立生命科学团队和实验室，Claude 自主发现新型酶系统",
+              "lead": "IT之家 9 月 24 日消息，当地时间 9 月 23 日，Anthropic 宣布成立生命科学研究团队及自有分子生物学实验室，并公布了一项由 Claude 参与生物学研究取得的早期成果。 在人类科学家仅提供宏观研究方向的情况下，Claude 自主发现了一种此前未被表征的酶系统，Anthropic 将其命名为阵列关联逆转录酶（Array-associated Reverse Transcriptases，ART）。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/006/524.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "美国准备再次制裁 ICC",
+              "lead": "荷兰正在为位于海牙的国际刑事法院（ICC）面临美国新一轮制裁做准备。荷兰正研究如何协助法院维持运作，包括支付员工薪酬、保护证人以及维护拘留设施。美国已制裁了十多名现任和前任 ICC 工作人员，国务卿国卢比奥（Marco Rubio）表示，这是一场彻底瓦解 ICC 所构成威胁的全面行动。ICC 有 125 个成员国，美国、以色列等都未加入该机构。美国的制裁可能会导致法院无法使用金融和 IT 服务，甚至两年无法向美籍员工支付薪酬。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85463",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "伊朗总统：愿意谈判合作 不接受强权威胁",
+              "lead": "当地时间9月23日，伊朗总统佩泽希齐扬在第81届联合国大会一般性辩论上发表讲话。他表示，伊朗愿意谈判与合作，但不会接受以强权、制裁或军事威胁迫使其让步，和平必须建立在公平、正义、尊严和各国平等权利的基础上。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-24/10702671.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "习近平抵美，特朗普罕有接机——中美外交礼宾惯例解读",
+              "lead": "美国总统亲赴机场迎接外国元首极为罕见。若不计教宗访美的特例，这将是超过 60 年来美国总统首次以这种方式迎接他国元首。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cx980mjemv73o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/72a3/live/5843c0a0-b7a8-11f1-a430-4d16ee157c41.jpg"
+            },
+            {
+              "title": "美中元首峰会聚焦人工智能议题，但恐难有实质进展",
+              "lead": "人工智能将成为“习特会”的核心议题，但鉴于两国之间的科技竞争如此激烈，且美国国内对人工智能监管的前进方向缺乏共识，专家预计会谈不会取得太大进展。 Haiyun Jiang/The New York Times 特朗普总统与中国领导人习近平去年在韩国。特朗普放宽了向中国及其他国家提供人工智能技术的限制。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20260923/us-china-ai-competition/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "李在明接受时报专访，敦促美国放松对朝鲜的制裁",
+              "lead": "李在明认为，目前的制裁并无太大效果，主张放松制裁以换取冻结朝鲜武器计划。他认为特朗普是唯一有能力将金正恩拉回谈判桌的领导人，希望以外交手段说服朝鲜削减核武库。 Chang W. Lee/The New York Times 韩国总统李在明在首尔的总统官邸青瓦台与《纽约时报》交谈了约70分钟。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/asia-pacific/20260922/south-korea-president-interview-sanctions-trump-north-korea/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "当人工智能解出「千禧年难题」，人类还需要亲自做数学吗？",
+              "lead": "【编者按】什么是信息，什么是知识？在 AI 时代，两者有怎样的差别，又有哪些知识是仍然值得拥有的？人工智能发展正对许多学科带来冲击，尤其是在信息丰富，但需投入海量计算资源的领域，例如预测新的蛋白质 3D 结构，解决数学问题，描绘生物演化关系等。 前所未有的效率工具让学科进步提速，但变化日新月异，想要辨明当下的发展方向也变得更加困难。端传媒推出 「未来怎么学」 系列，关心 AI 时代的学习问题，大到「还要做数学吗？",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20260924-international-did-openai-kill-math/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/GettyImages-2294520318-------.jpg"
+            },
+            {
+              "title": "法学专家：海外流失文物追索需加强溯源研究",
+              "lead": "中新网北京9月23日电 (记者 应妮 徐皇冠)中国人民大学教授、联合国教科文组织文化遗产法教席主持人王云霞23日参加2026北京文化论坛接受中新社记者专访时表示，应加强对中国海外流失文物的溯源研究，并推动其制度化、规范化，为追索返还流失文物提供重要支撑。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/09-23/10702572.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "宁波网球公开赛发布单打入围阵容 5位世界前十选手参赛",
+              "lead": "中新网宁波9月24日电(张煜欢)23日，2026宁波银行·宁波网球公开赛新闻发布会在浙江宁波举行。作为WTA年终总决赛前的关键一站，今年赛事吸引了5位世界前十选手参赛，世界第一莱巴金娜领衔阵容，6次大满贯冠军得主斯瓦泰克进入名单。赛事将在10月17日至25日在宁波(鄞州)网球中心举行。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-24/10702686.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "“安宁”，前NBA球员马布里用一个词形容中国",
+              "lead": "中新社北京9月23日电 (记者 曾玥 刘子衿)“中国是我的第二故乡。”23日在北京接受中新社记者专访时，前美国职业篮球联赛(NBA)球员斯蒂芬·马布里(Stephon Marbury)用“安宁”一词形容中国以及在华感受。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-23/10702634.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "青海双寨物流基地铁路改造收官 年装卸能力突破500万吨",
+              "lead": "中新网西宁9月24日电 (祁增蓓马福贵应永平)9月23日凌晨，青海双寨物流基地扩能改造关键工程顺利完工，17组道岔及轨件更新施工通过信号联锁试验圆满收官，标志着这座青海唯一的铁路二级物流基地完成核心设施提质升级。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/09-24/10702691.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Anthropic推出首个生物实验室助手Claude CRISPR 助力基因编辑与生命科学研究",
+          "lead": "人工智能研究公司Anthropic宣布推出一款专门针对生命科学与生物工程领域优化的AI助手“Claude CRISPR”。",
+          "category": "science",
+          "categoryLabel": "科学",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1579372.htm"
+        },
+        {
+          "title": "习近平访美晤特朗普：中美AI超级强国的雄心成为焦点",
+          "lead": "美国与中国正争夺人工智能领先地位，同时寻求确保这项技术仍在人类掌控之中。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c9kgv31pg8eeo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "意外强劲PMI重燃加息预期，美债遭“血洗”！纳指终结四连涨，美元涨黄金跌",
+          "lead": "油价上涨与强劲经济数据的双重夹击，令市场对美联储将维持更长时间紧缩立场的押注急剧升温，美国国债收益率飙升至近二十年高位，美股随之承压下行。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782354"
+        },
+        {
+          "title": "面对人工智能威胁，这回真得喊“狼来了”",
+          "lead": "现在进行彻底的反思还不算太晚。只有美中携手合作，确保这项技术只能以有益于人类福祉的方式运行，我们才有可能避免巨大的灾难。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/opinion/20260923/trump-china-ai/?utm_source=RSS"
+        },
+        {
+          "title": "微软 Surface Pro 12 与 Laptop 13 升级高通骁龙 X2 Plus 处理器，基础内存从 8GB 提升至 16GB 且价格大涨",
+          "lead": "IT之家 9 月 24 日消息，当地时间 9 月 23 日，微软在高通 2026 骁龙峰会上发布了新一代 Surface Pro 12",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/006/517.htm"
+        },
+        {
+          "title": "【华尔街日报】马斯克、黄仁勋和库克等人将与习近平共进晚餐，他们的公司对中国有何诉求",
+          "lead": "编按：《华尔街日报》是全球最具影响力的财经媒体之一，每日产出大量深度报导，涵盖国际政治、商业财经与科技趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260924-wsj-trump-xi-summit-us-companies-business-in-china/"
+        },
+        {
+          "title": "年检显示高里程电动车比汽油车更可靠",
+          "lead": "对 4740 万英国机动车年检（MOT test）数据的分析发现，当汽车行驶里程达到 9-12 万英里时",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85467"
+        },
+        {
+          "title": "小米 18 Pro Max 首发评测：最好的小米手机，也是最好玩的小米手机",
+          "lead": "如果现在回头看 2025 年的直板机市场，小米 17 Pro Max 无疑是其中最特立独行的一个。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1681778?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "[AI Agent 智能体] 大模型越来越强了，现在还有哪些 skill 是有用的？",
+          "lead": "以后 skill 会不会都失效？",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1244385#reply0"
+        },
+        {
+          "title": "9月24日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+          "lead": "9月24日(星期四)，今日报刊头条主要内容精华如下： 中国证券报 MLF+隔夜逆回购 央行双管齐下呵护流动性 中国人民 银行 9月23日消息",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1344,202609233882761064.html"
+        },
+        {
+          "title": "阿里发布 Qwen Intelligence，规划 Agent 靠「模型 ×Harness」，成功率达 90%",
+          "lead": "AI 手机的概念喊了好几年，阿里这次把底座直接摆了出来。9 月 22 日云栖大会上，阿里千问发布 AI 手机全栈解决方案 Qwen",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/502713"
+        },
+        {
+          "title": "如果有刻板印象这一说，这部电影可以拿来对照特朗普。 (评论: 满洲候选人)",
+          "lead": "梁佩直 评论: 满洲候选人 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17827377/"
+        },
+        {
+          "title": "中国希望伊朗战争结束，但不是以特朗普想要的方式",
+          "lead": "分析人士指，北京可能推动德黑兰重启谈判，但不太可能停止购买伊朗石油。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cwp847n9n7m2o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "微软、谷歌在气候峰会上正面回应数据中心争议",
+          "lead": "数据中心建设浪潮正在引发前所未有的社会阻力，科技巨头反驳了对数据中心快速扩张的批评。 本周微软和谷歌母公司Alphabet的高管在纽约气候会",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782401"
+        },
+        {
+          "title": "“习特会”最棘手议题之一：中国稀土出口管制",
+          "lead": "几个月来，美国、欧洲、日本等地制造商一直抱怨难以从中国获取足够的稀土金属。在特朗普即将与习近平会晤之际",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/business/20260923/china-rare-earth-summit/?utm_source=RSS"
+        },
+        {
+          "title": "尼泊尔特大洪灾：为何将口岸建在灾害频发的山谷？｜端闻 Podcast",
+          "lead": "https://open.acast.com/public/streams/66b07190af99592b5329f43a/episode",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260923-initium-audio-mainland-explaner-of-gyirong-rasuwa-border-crossing/"
+        }
+      ],
+      "supplement": {
+        "title": "孙宇晨与景甜，「大结果」时代的幻想与幻灭",
+        "lead": "在抛出一颗卵子与五千万美元的重量差这样的金句后，多年来一直在大陆主流社会面目模糊，宛如锦衣夜行的币圈富豪孙宇晨，终于靠一篇以在中国家喻户晓的女明星景甜作为标题，「纯属虚构、如有雷同纯属巧合」作为结尾的6000字长文，引爆了整个舆论场，再次走入大众视野。 孙宇晨，这位离开大陆多年，过去一直用600万美元的香蕉与2800万美元的太空旅行向公众竭力证明自己财富的九零后，或许一直有一个遗憾：因为中国大陆对加密货币的监管政策",
+        "body": [
+          "在抛出一颗卵子与五千万美元的重量差这样的金句后，多年来一直在大陆主流社会面目模糊，宛如锦衣夜行的币圈富豪孙宇晨，终于靠一篇以在中国家喻户晓的女明星景甜作为标题，「纯属虚构、如有雷同纯属巧合」作为结尾的6000字长文，引爆了整个舆论场，再次走入大众视野。孙宇晨，这位离开大陆多年，过去一直用600万美元的香蕉与2800万美元的太空旅行向公众竭力证明自己财富的九零后，或许一直有一个遗憾：因为中国大陆对加密货币的监管政策，导致大陆的普通人对他那些存在于TRX、USDT和各种加密货币的商业帝国缺少实感。终于，通过一个具体的、著名的、美丽的女人，他将自己那镜花水月般的财富量化为一种普罗大众都可以理解的具体形式：私人飞机用来接送女友、40页的私人背调，岛特内里费岛与马尔代夫，转给景甜及其父母的3000万，与给得起却不想给的5000万美元。",
+          "那些属于币圈的，惊人却不接地气的挥霍手段终于被呈现为普罗大众熟所悉的用途，又在孙宇晨发起的、向景甜及其父母追讨3000万人民币的民事诉讼中，被转译成一个对普通人更加亲切的名字——彩礼。景甜在电影中的演出剧照。这篇没有任何佐证、结尾强调虚构的长文引起空前轰动，证明无论是巴菲特、特朗普还是太空旅行，一个男人在中国想要证明自身财力的最简单方式还是占有，或在占有之后羞辱一个女人，尤其是一个美丽的、为中国人知晓的女人。",
+          "在对前《环球时报》主编胡锡进的回应、凤凰周刊的采访与由曾代理过王宝强离婚案的律师张起淮发表的律师声明里，孙宇晨从三千万一直谈到三百万、三十万、三万，仿佛只要不断从三千万后面删掉一个零，他就可以跨越香江、跨越阶级，一步步走回他口中的「两亿青年男性」中间。这位可以买私人飞机、花几千万追求女明星、上太空的青年富豪，其坐拥的财富早已跨越国境、法律、普通劳动所能解释的尺度，这位与绝大多数中国青年男性不在同一阶级的男人，终于重新回到了年轻男性同胞中来：原来大家都有一个烦恼，就是女人太贵。在中国互联网存在着广泛的泛女权社群的事实基础上，被孙宇晨以各种露骨细节报复的景甜则得到了年轻女性的普遍支持。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20260924-mainland-controversy-of-justin-sun-jing-tian/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/GettyImages-2186736726.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 21,
+        "categories": 8,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "端傳媒×4",
+          "BBC×3",
+          "華爾街見聞×3",
+          "東方財富×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Xi arrives for high-stakes summit with Trump as leaders extend trade truce",
+        "lead": "Treasury secretary Scott Bessent says the countries have agreed to January 10 extension",
+        "body": [
+          "Treasury secretary Scott Bessent says the countries have agreed to January 10 extension"
+        ],
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/8ff1b8fd-ff58-42a4-8e44-6a31f6db8154?syn-25a6b1a6=1",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbc461a74-57c5-48a4-888a-8b747cc8a971.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Why is Woodside sponsoring Fremantle’s AFL team – and will the climate crisis shift the relationship?",
+        "lead": "Dockers supporters cannot buy a barrel of Woodside oil – but the fossil fuel company hopes to buy into fans’ loyalty Follow our Australia news live blog for",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/australia-news/2026/sep/24/woodside-energy-sponsorship-deal-fremantle-afl-team-fans-logo",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/706def155b74d8a17927e127d143b4f5df14df7a/0_87_1179_943/master/1179.jpg?width=140&quality=85&auto=format&fit=max&s=916edef0133f494094dd10777dab5aa8",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Venezuela being ‘reborn’, Rodríguez tells UN; Trump greets Xi Jinping ahead of high-stakes US-China summit – live",
+              "lead": "Acting president says Venezuela returning strongly after ‘setbacks’; Trump meets Chinese leader at US air base ahead of meeting set to include trade",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/78cb7eee8e74de84b09b979e0be92c6e48255169/196_0_2935_2348/master/2935.jpg?width=140&quality=85&auto=format&fit=max&s=725525980016abf149770b8fad7713a1",
+              "consensus": 5
+            },
+            {
+              "title": "Iran’s president says his country will not give up its right to a peaceful nuclear program.",
+              "lead": "",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine/irans-president-says-his-country-will-not-give-up-its-right-to-a-peaceful-nuclear-program",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/09/23/multimedia/23unga-live-iran-nuclear-program-topart-qvpm/23unga-live-iran-nuclear-program-topart-qvpm-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "US lawmakers seek sanctions for Israel’s ‘E1’ West Bank settlement plan",
+              "lead": "Project would effectively cleave Palestinian territory in half and has prompted widespread international condemnation.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/2026/9/23/us-lawmakers-seek-sanctions-for-israels-e1-west-bank-settlement-plan?traffic_source=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "OpenAI ‘agent’ hacked an Australian health service website",
+              "lead": "Prime Minister Anthony Albanese says breach is ‘obviously unacceptable’",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ca874e8-fbcb-4162-9bcc-524e92cf8aa9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "OpenAI and Anthropic bosses push UN for global terms on AI",
+              "lead": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6c/live/9e4ea090-b791-11f1-a7dc-51a9fb487fda.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Inside India newsletter: Apple set to take a bigger bite of the world’s second-largest smartphone market",
+              "lead": "Apple's latest iPhone launch will boost its market share in India at a time when many incumbent Chinese brands that dominate the market are struggling to sell.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/09/24/india-apple-iphone-samsung-chinese-smartphones.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Trump wants AI to be rebranded as super intelligence. Will it work?",
+              "lead": "Some people close to the president have started to use the term but experts say it is unlikely to catch on.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/891c/live/a452a4e0-b6ed-11f1-af5e-b359cc50acc4.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "US lawmakers propose sweeping AI restrictions with superintelligence ban",
+              "lead": "Legislation seeks to pause advanced AI systems until federal safety standards are established.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/economy/2026/9/23/us-lawmakers-propose-sweeping-ai-restrictions-with-superintelligence-ban?traffic_source=rss",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "YouTube Music gets more conversational with new AI features",
+              "lead": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "England players carrying World Cup scar - Saka",
+              "lead": "England winger Bukayo Saka says the team are still carrying the \"scar\" of their heartbreaking World Cup semi-final exit to Argentina.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cvde0jw2l6g4o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa8/live/5af6d780-b74c-11f1-b1d1-571ed4d7ff2c.jpg"
+            },
+            {
+              "title": "Burnham says ban on alcohol for football fans in stands is 'discrimination'",
+              "lead": "The prime minister opposes the law - in place since 1985 - and believes there is a case to remove it.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c933ky0nknxko?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce25/live/08123a00-b78d-11f1-9871-9f85ee3099c6.jpg",
+              "consensus": 2
+            },
+            {
+              "title": "Man Utd still £1bn in debt with £63.5m spent on new stadium",
+              "lead": "Manchester United's overall debt remains over £1bn despite Sir Jim Ratcliffe's extensive cost-cutting measures, with the club also confirming it has spent £63.5m buying land for their new stadium.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c5evwlmdmy00o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a61/live/ae28e830-b74c-11f1-a430-4d16ee157c41.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "‘Game Changer’ Host Sam Reich on Season 8’s 23-Contestant, 90-Minute, Non-Chili’s-Sponsored Finale and ‘Acid Trip’ Season 9 Episode Plans",
+              "lead": "SPOILER ALERT: This article contains spoilers for the Season 8 finale of “Game Changer,” now streaming on Dropout. “Game Changer” capped off its eighth season Monday with a finale episode that was not at all sponsored",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/news/game-changer-finale-sam-reich-season-8-episodes-season-9-1236872466/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/09/Game-Changer-Season-8-finale-Sam-Reich.png",
+              "consensus": 5
+            },
+            {
+              "title": "‘The Visit’ at Pasadena Playhouse Review: The ’50s Absurdist Comedy Is Too Smug in Its Peak-Bleak View of Venal Humanity, but Jefferson Mays and Melinda Page Hamilton Are Worth the Visit",
+              "lead": "When an “Amadeus” revival opened at Pasadena Playhouse in February, it was such a spectacular success on every level that you wouldn’t have minded if the keepers of the venerable San Gabriel Valley venue just turned",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/legit/reviews/the-visit-pasadena-playhouse-stage-review-absurdist-comedy-1236873818/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/09/The-Visit_Melinda-Page-Hamilton-and-Jefferson-Mays_Photo-by-Jeff-Lorch-e1790208581939.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "El Nino: Climate scientists warn of \"Godzilla-level\" climate event",
+              "lead": "Extreme heat caused by this year’s “super El Niño” could lead to as many as 451,000 excess deaths worldwide in the six months to February 2027, according to researchers at the University of Chicago’s Climate Impact Lab.",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/video/20260923-el-nino-climate-scientists-warn-of-godzilla-level-climate-event",
+              "category": "science",
+              "categoryLabel": "Science",
+              "image": "https://s.france24.com/media/display/b1fe9db2-b75e-11f1-8954-a5615d7a48ac/w:1024/p:16x9/EN-20260923-164141-164333-CS.jpg"
+            },
+            {
+              "title": "The LHC just ruled out another hiding place for quantum black holes",
+              "lead": "Physicists searching through Large Hadron Collider data found no evidence that the machine has been producing microscopic quantum black holes",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260922005649.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            },
+            {
+              "title": "One of America’s largest reservoirs just hit a record low",
+              "lead": "Lake Powell has fallen to its lowest level on record after an exceptionally dry and warm winter left the Colorado River Basin with little mountain snow to melt.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260922005701.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+          "lead": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Millions in England unaware they have ‘silent killer’ condition, research reveals",
+          "lead": "Approach to treating high blood pressure ‘not fit for purpose’",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose"
+        },
+        {
+          "title": "At Trump’s Request, Nations Are Designating Crime Groups as Terrorists",
+          "lead": "Secretary of State Marco Rubio said leaders of countries across Latin",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/09/23/world/americas/trump-shield-of-the-americas.html"
+        },
+        {
+          "title": "US oil industry pushes back against proposed diesel export ban",
+          "lead": "Groups say there is no ‘silver bullet’ to fuel price crisis after",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/c902e192-8bbb-4f32-813c-ee255d3aebd0?syn-25a6b1a6=1"
+        },
+        {
+          "title": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+          "lead": "The deal, which was set to expire in November",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html"
+        },
+        {
+          "title": "Bessent announces 2-month extension of Busan trade deal with China",
+          "lead": "US Treasury Secretary Scott Bessent announced on Wednesday that",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3368555/bessent-and-he-meet-again-tackle-some-unfinished-business-xi-summit-nears?utm_source=rss_feed"
+        },
+        {
+          "title": "AI leaders urge caution at UN, with Anthropic chief pledging to slow down",
+          "lead": "Leaders of some of the world's biggest AI companies urged caution at",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/americas/20260923-ai-leaders-urge-caution-at-un-with-anthropic-chief-pledging-to-slow-down"
+        },
+        {
+          "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+          "lead": "This week, the US and China, the two world leaders on AI",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/"
+        },
+        {
+          "title": "Iran threatens countries enforcing US airline sanctions",
+          "lead": "Iran has threatened countries enforcing US sanctions on its airlines",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-mohsin-rezai-airlines-clip-mp4?traffic_source=rss"
+        },
+        {
+          "title": "YouTube releases new AI features for creators within its Studio app",
+          "lead": "YouTube is adding new features to generate ideas and monitor the",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
+        },
+        {
+          "title": "Original ‘Willy Wonka’ Oompa-Loompa Rusty Goffe ‘Shed a Tear’ at Gene Wilder’s Voice Recreated by AI: ‘It Was Lovely Hearing It Again’",
+          "lead": "“Have a scrumdiddlyumptious day!” is how Rusty Goffe",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/tv/global/oompa-loompa-gene-wilder-willy-wonka-ai-voice-1236865243/"
+        },
+        {
+          "title": "Meta is making a standalone Muse AI gadget",
+          "lead": "Meta is building a dedicated hardware device for its new Muse AI agent.",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
+        },
+        {
+          "title": "For the first time, scientists watch sound jump between quantum states",
+          "lead": "Stanford researchers have recorded the first real-time quantum jumps",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm"
+        },
+        {
+          "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+          "lead": "The US and China are vying for AI supremacy while seeking to keep it",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "European diesel prices climb over prospect of US export ban",
+          "lead": "Any move by Washington to suspend foreign sales would be",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/a8614065-b38b-426d-b176-192c6cd75f56?syn-25a6b1a6=1"
+        },
+        {
+          "title": "South Korea pushes for Trump summit with renegade North Korea, seeing opportunity for peace",
+          "lead": "South Korea pushes for Trump summit with renegade North Korea",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/23/lee-jae-myung-trump-kim-summit-north-korea.html"
+        }
+      ],
+      "supplement": {
+        "title": "Jeff Garlin Says ‘Undiagnosed Bipolar’ Made Him ‘Mean’ on ‘The Goldbergs’ Set; Wendi McLendon-Covey Responds: ‘I Remember Things Differently’",
+        "lead": "Jeff Garlin revealed in a recent interview on The Daily Beast’s “Obsessed” podcast (via Entertainment Weekly) that he had undiagnosed bipolar disorder during the making of ABC’s “The Goldbergs",
+        "body": [
+          "Jeff Garlin revealed in a recent interview on The Daily Beast’s “Obsessed” podcast (via Entertainment Weekly) that he had undiagnosed bipolar disorder during the making of ABC’s “The Goldbergs,” which he notably exited from after an HR investigation into multiple claims of inappropriate conduct against him.",
+          "The 1980s-set family sitcom, which ran for 10 seasons […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/tv/news/jeff-garlin-bipolar-goldbergs-set-misconduct-wendi-mclendon-covey-1236872191/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/09/goldbergs.png",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "Al Jazeera×3",
+          "ScienceDaily×3",
+          "FT×2",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-09-24T00:18:25.071Z",
+    "sources": {
+      "configured": 36,
+      "ok": 35,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "界面新聞",
+          "reason": "fetch failed"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 772,
+        "lang": 430,
+        "fresh": 366,
+        "denoised": 366,
+        "deduped": 352
+      },
+      "en": {
+        "fetched": 772,
+        "lang": 342,
+        "fresh": 326,
+        "denoised": 323,
+        "deduped": 313
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 21,
+        "categories": 8,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "端傳媒×4",
+          "BBC×3",
+          "華爾街見聞×3",
+          "東方財富×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "Al Jazeera×3",
+          "ScienceDaily×3",
+          "FT×2",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

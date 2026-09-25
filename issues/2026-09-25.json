@@ -1,0 +1,908 @@
+{
+  "issue": 11,
+  "date": "2026-09-25",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历八月十五 · 秋分",
+    "en": "15th day of the 8th lunar month · Autumn Equinox"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "中美第八轮经贸磋商达成多项共识",
+        "lead": "中新社北京9月24日电 (记者 尹倩芸)中国商务部新闻发言人何亚东24日在例行新闻发布会上称，近日，中美两国经贸团队在美国举行第八轮经贸磋商，双方达成多项共识。",
+        "body": [
+          "中新社北京9月24日电 (记者 尹倩芸)中国商务部新闻发言人何亚东24日在例行新闻发布会上称，近日，中美两国经贸团队在美国举行第八轮经贸磋商，双方达成多项共识。"
+        ],
+        "source": "中新網財經",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/cj/2026/09-24/10703173.shtml",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "特朗普与习近平在白宫会面，外界对峰会成果预期较低",
+        "lead": "这是习近平十余年来首次对美国进行国事访问。特朗普在致辞中强调两人之间“真正伟大的友谊”，习近平则着重谈及地缘政治问题。外界对峰会成果预期较低。 Haiyun Jiang/The New York Times",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/world/20260925/trump-xi-summit-china/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "习近平出席美国总统特朗普在白宫举行的欢迎仪式",
+              "lead": "",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cnhttps://www.chinanews.com.cn/tp/hd2011/2026/09-25/1205763.shtml",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 4
+            },
+            {
+              "title": "「让女性感到被看见」：为何荷兰人为阴唇创造了一个新词？",
+              "lead": "倡议人士希望，这些新词语能减少对身体的羞辱，并推动更正向的性观念。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cqx2z782j7y7o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b5f/live/11ea22b0-b736-11f1-aa9c-3d062fa3aea7.jpg"
+            },
+            {
+              "title": "中美AI竞赛：美国在哪些领域领先、哪些领域落后？",
+              "lead": "两国人工智能模型的性质截然不同。西方专家估计，就领先模型而言，美国领先中国约六个月左右。但中国拥有其他优势，在政治上面临的阻力较小，在培养人才方面处于领先。 Ng Han Guan/Associated Press 7月在上海举行的世界人工智能大会。中美两国正陷入一场人工智能竞赛，双方都认为这场竞赛对在军事、技术和经济领域占据上风至关重要。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/technology/20260924/ai-us-china-trump-xi-economy/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "制造「朱镕基改革」：经济学家、改革官僚与一个时代的政策生产",
+              "lead": "经济学家越来越专业化，决策权却牢牢把握在政治强人手中。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20260925-mainland-zhurongji-and-his-economists/",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/GettyImages-1189603430.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "长三角公安重点实验室联盟会议在杭州举行",
+              "lead": "中新网杭州9月24日电 (钱晨菲 钟冉 张翔)9月24日，“之江智汇”AI警务研讨会暨长三角公安重点实验室联盟会议在杭州举行。本次会议旨在深化人工智能技术在公安实战中的应用，推动长三角区域警务科技协同创新。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/09-24/10703450.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "习近平同美国总统特朗普小范围交流",
+              "lead": "",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15139828.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 4
+            },
+            {
+              "title": "美联储3位官员同日放鹰，市场预期10月加息概率升至69%",
+              "lead": "美联储多位官员近日密集表态，警告通胀持续高企，当前政策立场可能仍不足以将物价压回2%目标，市场对10月加息的预期随之大幅升温。 周四，费城联储主席Anna Paulson明确表示，若经济形势如预期演变，\"适度进一步收紧政策或有必要\"。 纽约联储主席John Williams 亦在同日发言表示，年底前再度加息是“合理”的，降低通胀仍需付出更多努力。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3782502",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "特朗普政府称被禁媒体获准重返白宫",
+              "lead": "特朗普政府在提交给法院的文件中表示，已暂时恢复三家媒体进入白宫的权限。此前，特朗普上周禁止这些媒体进入白宫。在联邦法院下令暂停执行相关禁令后，CNN和MS NOW记者开始重返白宫。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1579534.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "长安启源 Q06 上市 24 小时累计订单突破 3.5 万台，限时权益价 13.59 万元起",
+              "lead": "IT之家 9 月 25 日消息，长安汽车昨晚宣布，长安启源 Q06 上市 24 小时， 累计订单突破 35000 台 。 据IT之家此前报道， 长安启源 Q06 于 9 月 23 日上市 ，提供纯电与增程两种动力选择，官方指导价 13.99-16.99 万元。 602 越享型：官方指导价 13.99 万元，上市权益价 13.59 万元 602 智享型：官方指导价 14.99 万元，上市权益价 14.59 万元 700 智享型",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/007/049.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "蝙蝠起源于欧洲",
+              "lead": "发表在《自然》期刊上的一项研究结合基因组和化石证据，重建了蝙蝠长达 6500 万年的演化历史。最新研究推翻了此前蝙蝠起源于亚洲、非洲或北美的假说，蝙蝠最早起源于欧洲，之后进入非洲，然后向亚洲、美洲和澳大利亚扩散。澳大利亚昆士兰州东南部 Murgon 发现的蝙蝠化石 Australonycteris 距今已有 5500 万年，仅比欧洲的化石稍晚。蝙蝠是唯一能真正进行动力飞行的哺乳动物。大多数蝙蝠仅靠声音就能在漆黑的环境中辨别方向和捕食。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85473",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "第八届中国—欧盟电影节在布鲁塞尔开幕",
+              "lead": "中新网布鲁塞尔9月24日电 第八届中国—欧盟电影节23日在比利时首都布鲁塞尔拉开帷幕，《日挂中天》《陪你到清晨》《二十四味》等多部影片将与欧洲观众见面，呈现当代中国电影的多元创作。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-24/10703273.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "习近平访美排场十足，但迄今进展甚微",
+              "lead": "有分析人士表示，峰会至今主要着眼于营造「正面气氛」，但仍有多项迫切议题有待讨论。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cqpvew870ezko/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/16ba/live/5491a2f0-b849-11f1-bc1f-3f186ca4140c.jpg"
+            },
+            {
+              "title": "倾国之力：习近平希望用人工智能助中国赢得未来",
+              "lead": "习近平希望借助人工智能引领中国迈向下一场经济革命。为了实现这一愿景，中国正在动用倾国之力。政府提供巨额资金支持，并利用开源策略帮助中国企业赢得全球用户。 Karolis Strautniekas",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/china/20260924/china-ai-economy-xi-jinping/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "特朗普为何淡化中美竞争、“讨好”习近平",
+              "lead": "尽管两国在贸易、人工智能等诸多问题上存在重大竞争，特朗普却更多地把习近平描绘成自己的私人朋友，而非地缘政治竞争对手。高调礼遇习近平能为美国换回什么？ Kenny Holston/The New York Times 数周来，在准备以“莫大的荣幸”于华盛顿接待中国国家主席习近平之际，特朗普总统一直对有关中国违规行为的报道轻描淡写，或为其开脱。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20260924/trump-xi-china-visit/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "特习会2.0：中美元首四个月内再会，比起突破更想避免失控？｜Whatsnew",
+              "lead": "2026年9月23日，中国国家主席习近平乘专机抵达美国，正式开启为期三天的国事访问。这是习近平时隔11年再次以国事访问形式前往美国，也是他与美国总统特朗普在今年5月于北京会面后的 再次会晤 。与5月相比，本次会谈的核心议题预计不会发生太大变化，仍将围绕四个「T」展开：关税（Tariff）、科技与人工智慧（Technology）、伊朗（Tehran）以及台湾（Taiwan）。 除了实质性的政策议题，这次访问也是一场高规格的 外交展示 。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20260925-whatsnew-trump-xi-summit-day1-what-to-watch/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/GettyImages-2296204500.jpg"
+            },
+            {
+              "title": "“2026横店影视节暨横店新大众文艺周”新闻发布会在京举办",
+              "lead": "中新网北京9月24日电 (记者 高凯)以“新时代新视听大众文艺共绽放”为主题的“2026横店影视节暨横店新大众文艺周”新闻发布会24日在北京召开。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/09-24/10703465.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "比利·简·金杯深圳总决赛：乌克兰队连续两年闯入四强",
+              "lead": "中新网深圳9月24日电 (记者 张璐)9月24日，2026比利·简·金杯深圳总决赛在深圳继续进行。当日，乌克兰队以2:1战胜比利时队，连续两年挺进半决赛。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-24/10703501.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "商竣程成都公开赛首轮出局 无缘晋级",
+              "lead": "中新网成都9月24日电 (袁牟知博)2026年成都公开赛—ATP250(下称成都公开赛)男单首轮24日结束一场焦点战，2024年成都公开赛男单冠军、中国男网新生代代表商竣程以6:7(9)、2:6不敌法国老将马纳里诺，止步首轮。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-24/10703448.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "浙江绘就养老新图景 打造家门口幸福养老省域样板",
+              "lead": "中新网杭州9月24日电(张煜欢)24日，浙江省“十五五”老龄事业发展和养老服务体系建设规划新闻发布会在杭州举行。面对“十五五”时期60周岁以上户籍人口占比预计突破30%的老龄化新形势，浙江锚定积极应对人口老龄化先行实践省域样板目标，民政、卫健、医保、老干部局等多部门协同发力，系统构建事业产业协同的老龄工作体系，推动养老服务从“有没有”向“好不好”转变。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/09-24/10703492.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "特朗普迎接习近平开展对美国事访问 贝森特宣布两国贸易战继续「停火」",
+          "lead": "中国国家主席习近平专机抵达首都华盛顿附近的安德鲁斯联合基地，美国总统特朗普（川普）打破惯例，亲自接机。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cqvgyl2k378go/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "中美关系正步入一个新时代",
+          "lead": "这场峰会不会带来重大突破，但它为两国提供了一个契机，摒弃任何一方能够取得决定性“胜利”的破坏性幻想，着手建立持久的缓和关系。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/opinion/20260924/trump-xi-meeting-us-china/?utm_source=RSS"
+        },
+        {
+          "title": "报道：蓝色起源按1400亿美元估值融资100亿美元",
+          "lead": "蓝色起源完成首轮外部融资，估值达1400亿美元，创始人杰夫·贝索斯在这家太空公司上的累计投入已高达300亿美元。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782506"
+        },
+        {
+          "title": "巴总理会见伊朗总统，强调落实美伊谅解备忘录",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15139910.html"
+        },
+        {
+          "title": "白宫要求OpenAI与Anthropic暂缓向英国提供新模型测试权限",
+          "lead": "美国与英国在人工智能安全监管领域的协调正面临新的考验。多名知情人士透露，白宫近期已要求OpenAI和Anthropic在美国完成相关评估程序",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1579522.htm"
+        },
+        {
+          "title": "英特尔 Arc 显卡驱动 32.0.101.9033 Beta 版发布：支持《控制：共振》游戏",
+          "lead": "IT之家 9 月 25 日消息，英特尔 Graphics Software 32.0.101.9033 显卡驱动（适用于 Arc ）今日发布",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/007/048.htm"
+        },
+        {
+          "title": "奕境 X9 上市 28.98 万元起！华为系大六座有了一个新选项",
+          "lead": "9 月 24 日，奕境 X9 正式上市。 聊起这台车，你很难不把它跟问界 M9 联系在一起。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1682142?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "部分三星智能冰箱在升级固件之后停止工作",
+          "lead": "本周二，部分三星智能冰箱在升级固件之后停止工作。受影响的是三星 Bespoke AI 系列冰箱，大部分是 2024 年或之后生产的四门冰箱。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85472"
+        },
+        {
+          "title": "[macOS] 一个开源项目，让你的 Mac 支持人脸解锁，但安全性降低",
+          "lead": "由于不像 iPhone 有深度传感器，硬件限制只能纯 2D 识别 https://github.com/jonnyoo/glance",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1244688#reply0"
+        },
+        {
+          "title": "央行：综合运用并适时调整货币政策工具 保持流动性充裕",
+          "lead": "中国人民 银行 货币政策委员会2026年第三季度（总第114次）例会于9月19日召开。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1345,202609243883763774.html"
+        },
+        {
+          "title": "孙宇晨与景甜，「大结果」时代的幻想与幻灭",
+          "lead": "在抛出一颗卵子与五千万美元的重量差这样的金句后，多年来一直在大陆主流社会面目模糊，宛如锦衣夜行的币圈富豪孙宇晨",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260924-mainland-controversy-of-justin-sun-jing-tian/"
+        },
+        {
+          "title": "底层打工人除了自救，除了利用一切能活下去的资源，还能怎么自救呢？ (评论: 欧盟制造)",
+          "lead": "Oz 评论: 欧盟制造 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17828620/"
+        },
+        {
+          "title": "特朗普为何亲赴机场，超规格接待习近平？",
+          "lead": "这是习近平时隔11年再次国事访问美国。更是相隔64年，再有美国总统亲自迎接他国元首到访。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cmkgw6r62jr7o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "关于人工智能安全，中国真正在乎的是什么",
+          "lead": "对习近平而言，确保人工智能安全可控的最终目的是确保中共政权的安全。理念的分歧令中美对人工智能的灾难性风险达成共识极为困难。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/opinion/20260924/us-china-summit-ai/?utm_source=RSS"
+        },
+        {
+          "title": "美债抛售加剧，30年期美债收益率创逾20年新高，美股指承压横盘，美元原油齐升",
+          "lead": "美债持续承压、油价走高与美联储官员密集发表鹰派表态，三重压力叠加，令市场风险偏好明显收紧。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782452"
+        },
+        {
+          "title": "落实“两国方案”高级别国际会议召开",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15139890.html"
+        }
+      ],
+      "supplement": {
+        "title": "当人工智能解出「千禧年难题」，人类还需要亲自做数学吗？",
+        "lead": "【编者按】什么是信息，什么是知识？在 AI 时代，两者有怎样的差别，又有哪些知识是仍然值得拥有的？人工智能发展正对许多学科带来冲击，尤其是在信息丰富，但需投入海量计算资源的领域，例如预测新的蛋白质 3D 结构，解决数学问题，描绘生物演化关系等。 前所未有的效率工具让学科进步提速，但变化日新月异，想要辨明当下的发展方向也变得更加困难。端传媒推出 「未来怎么学」 系列，关心 AI 时代的学习问题，大到「还要做数学吗？",
+        "body": [
+          "【编者按】什么是信息，什么是知识？在 AI 时代，两者有怎样的差别，又有哪些知识是仍然值得拥有的？人工智能发展正对许多学科带来冲击，尤其是在信息丰富，但需投入海量计算资源的领域，例如预测新的蛋白质 3D 结构，解决数学问题，描绘生物演化关系等。前所未有的效率工具让学科进步提速，但变化日新月异，想要辨明当下的发展方向也变得更加困难。端传媒推出 「未来怎么学」 系列，关心 AI 时代的学习问题，大到「还要做数学吗？」，小至「我还有机会给小行星亲自命名吗？",
+          "」。我们希望搭建信息桥梁，在不同代际间开展对话，给「未来怎么学」带来一些启发。2000 年，克雷数学研究所选出七道数学题，将其称为「千禧年大奖难题」，每道问题悬赏 100 万美元。二十六年来，已被公认解决的只有「庞加莱猜想」（Conjecture de Poincaré），其余六题仍有待研究。9 月 8 日，美国人工智能公司 OpenAI 宣布，旗下的人工智能系统已解出「千禧年大奖难题」之一的「纳维—斯托克斯存在性与光滑性问题⁠」（下简称 N-S 方程式）。该难题探究的是，描述流体运动的 N-S 方程式在三维空间中是否能永远产生「光滑的解」，还是会在有限时间内出现数学上的「爆破」现象——流速或旋转在某一点急剧增至无限大，方程式因而失效。这对天气预报、飞机设计的稳定性都意义非凡。",
+          "OpenAI 宣称 ，公司动用了约一万个 AI agent、历时 88 小时，证明方程式的解会在有限时间内发生爆破。整个过程发送 270 万条消息请求，消耗约 1300 亿个 Token，等约价值 600 万美金。目前，结果仍未获克雷研究所或数学界正式验证。但事件显示， AI 正在改变做数学的方式。过去，数学进步需要的是一张纸、一只笔，和研究者的长年苦思，如今，可能愈来愈取决于模型能力、算力和科技公司的资源投入。如果一道困扰人类几十年的难题可以在 88 小时内被人工智能攻下，人类为什么还要亲自做数学？2024年10月9日，伦敦，Google DeepMind 的办公室。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20260924-international-did-openai-kill-math/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/GettyImages-2294520318-------.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "端傳媒×4",
+          "華爾街見聞×3",
+          "BBC×2",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "OpenAI breach of Australian government linked to wider AI hacking campaign",
+        "lead": "Researchers detail three other attempts by AI agents to break into websites during ‘mundane data retrieval tasks’",
+        "body": [
+          "Researchers detail three other attempts by AI agents to break into websites during ‘mundane data retrieval tasks’"
+        ],
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/2a77e2f7-3c22-4082-8bb3-492675f46c77?syn-25a6b1a6=1",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0d5f0095-265f-4685-9822-fc48d04fa1a7.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+        "lead": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2842/live/d1b99780-b833-11f1-b4bc-39c67eb36497.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Australia news live: Albanese ramps up security council bid at UN; Hume says AI hack shows Australia needs more AI",
+              "lead": "Follow the day’s news live Get our breaking news email , free app or daily news podcast AI hack of Medicare exposes Australia’s vulnerabilities Technology experts have warned revelations an artificial intelligence agent",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/f1df674150ee6ffd402b040aec73d2667b3ed5ac/585_0_4698_3759/master/4698.jpg?width=140&quality=85&auto=format&fit=max&s=f03f3d6522a6a4f2ccc2d991946d3f43",
+              "consensus": 5
+            },
+            {
+              "title": "Australia’s prime minister aims to rally middle powers and rein in A.I.",
+              "lead": "",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news/australias-prime-minister-aims-to-rally-middle-powers-and-rein-in-ai",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/09/24/multimedia/24unga-live-albanese-setup-vfqg/24unga-live-albanese-setup-vfqg-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "US and China presidents discuss cooperation, trade and AI risks",
+              "lead": "Donald Trump and Xi Jinping discussed trade tensions, technology and AI risks at the White House",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Oracle on the hook to pay data centre investors even if site has no electricity",
+              "lead": "The tech group is responsible for ‘Project Jupiter’ payments despite force majeure notice on New Mexico project",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F47283fbd-3e2f-40bf-b8eb-cac713e7276a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Tories would prevent long-term jobless spending benefits on alcohol and cigarettes",
+              "lead": "The proposals would also see benefits cut for people who are able to work but have failed to hold down a job.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c920vy2jxle8o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6817/live/74cc1330-b73f-11f1-aa9c-3d062fa3aea7.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Trump, Xi to attend state dinner after White House meeting",
+              "lead": "Trump greeted China's Xi at Joint Base Andrews, marking the U.S. president's first time traveling to the facility to welcome a foreign leader.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+              "lead": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch?",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+              "lead": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+              "lead": "Australian Prime Minister Anthony Albanese said his government is investigating a June incident in which an OpenAI agent accessed \"non-public files\" from the country's online Medicare statistics portal.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1336652477-1152x648.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "US edge opening session of Presidents Cup",
+              "lead": "The US begin their bid to win an 11th consecutive Presidents Cup by opening up a 3-2 lead over the International team on day one.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/golf/articles/cm62k9gx9j37o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cecb/live/b7eceab0-b869-11f1-9c87-39f93ad008c3.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Buttler injury halts England as Sri Lanka level series",
+              "lead": "Jos Buttler's bravery comes in vain as Sri Lanka fight back to beat England in the second one-day international at Headingley and set up a series decider at The Oval.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/cricket/articles/cw804nd022elo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4636/live/c2faa030-b852-11f1-a2ec-c153af45023f.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Mendis stars as Sri Lanka beat England to set up series decider",
+              "lead": "Kusal Mendis scores 121 to help Sri Lanka to a surprise win against England as they fought back to secure a 16-run victory against England at Headingley to level the three-match series and set up a decider at The Oval",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/cricket/videos/cq2dwkz2368po?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4368/live/ec3e0ce0-b850-11f1-bc1f-3f186ca4140c.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "NBA's first MVP Pettit dies aged 93",
+              "lead": "Bob Pettit, one of the earliest stars of the NBA and the first man to win the MVP award, has died aged 93.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/basketball/articles/c52e0l1lxl4ko?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81b6/live/930c0710-b866-11f1-a665-1bcd19a2555e.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Xsolla President’s New Book Reveals How Gaming Companies Can ‘Get Off That Hit-Driven Hamster Wheel’",
+              "lead": "Amid more layoffs and contraction and renewed going-discless discourse, we are facing no shortage of opinions about what strategies will finally rightsize the global-gaming-industry ship.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/gaming/news/gaming-industry-book-ending-hit-driven-model-xsolla-1236874531/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/09/Chris-Hewish.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Dakota Johnson on Being in Taylor Swift’s ‘Patient Zero’ Music Video: ‘We Respect Each Other’s Creative Minds’",
+              "lead": "New, mysterious and cryptic clips of Dakota Johnson flanked by another woman and man have taken rhe internet by storm, but this time, they aren’t part of her latest movie, “Verity”;",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/dakota-johnson-taylor-swift-music-video-1236875221/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2025/06/GettyImages-2170426341.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "ADHD and autism diagnoses have surged. A massive study may help explain why",
+              "lead": "A large Danish study found that children diagnosed with ADHD or autism today more closely resemble their peers in the general population than those diagnosed 10 years ago.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260924020353.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Aging muscles may be losing strength for a reason scientists missed",
+              "lead": "A newly identified breakdown in communication between nerves and muscles could help explain why people lose strength as they age. Researchers were able to improve muscle strength in an animal model by targeting a key",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260923035924.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "More REM sleep linked to lower risk of 83 diseases",
+              "lead": "A large study tracking more than 95,000 people suggests that how you sleep may be linked to your risk of developing dozens of diseases.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260923035930.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "A Corruption Scandal Is Reshaping Brazil’s Presidential Election",
+          "lead": "Allegations embroiling the Brazilian judge who jailed former",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/09/24/world/americas/brazil-supreme-court-justice-moraes-vorcaro-trump.html"
+        },
+        {
+          "title": "Russia could attack a Nato country within months, Danish intelligence says",
+          "lead": "Warning comes hours after Poland says fire at Starlink satellite",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/sep/24/russia-could-attack-a-nato-country-within-months-danish-intelligence-says"
+        },
+        {
+          "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
+          "lead": "Proceeds from the tour, which begins in Dublin next month",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Goldman reaped more than $200mn in fees from hedge fund Situational Awareness",
+          "lead": "Barely two-year-old AI-focused investment firm became biggest client",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/bdec4129-ccac-4149-aa53-90ddd50cb925?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Costa Rica’s foreign minister fired for attending Trump meeting without telling president",
+          "lead": "Costa Rica’s President Laura Fernandez on Thursday fired her foreign",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/americas/article/3368722/costa-ricas-foreign-minister-fired-attending-trump-meeting-without-telling-president?utm_source=rss_feed"
+        },
+        {
+          "title": "Costa Rica minister fired for unapproved meeting with Trump in US",
+          "lead": "President Fernandez dismisses foreign minister over his attendance at",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/24/costa-rica-minister-fired-for-unapproved-meeting-with-trump-in-us?traffic_source=rss"
+        },
+        {
+          "title": "REPLAY: Israeli Prime Minister Benjamin Netanyahu speaks at the UNGA",
+          "lead": "Prime Minister Benjamin Netanyahu on ​Thursday mounted a forceful",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/video/20260924-replay-israeli-prime-minister-benjamin-netanyahu-speaks-at-the-unga"
+        },
+        {
+          "title": "OpenAI says agent hacked Australian government website without being told to do so",
+          "lead": "An OpenAI agent gained unauthorized access to an Australian",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/24/openai-agent-hacked-australian-government-website-.html"
+        },
+        {
+          "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+          "lead": "Feather is betting on a customizable, $30,000 platform built for",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/"
+        },
+        {
+          "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+          "lead": "This week, New Jersey ordered the operator of one of the East Coast’s",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/"
+        },
+        {
+          "title": "‘Quiz From God’: Japanese Remake of CJ ENM K-Drama, Starring Mamiya Shotaro, Sets Global Prime Video Launch (EXCLUSIVE)",
+          "lead": "Mamiya Shotaro leads a Japanese remake of CJ ENM’s Korean hit drama",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/tv/news/quiz-from-god-japanese-remake-prime-video-release-date-1236873267/"
+        },
+        {
+          "title": "These massive stars could explain Webb’s strangest galaxies",
+          "lead": "Hubble observations of massive stars in metal-poor dwarf galaxies are",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260923035922.htm"
+        },
+        {
+          "title": "Jensen Huang talks about AI and climate change like a supervillain",
+          "lead": "As Jensen Huang puts it, AI can help fight climate change - but only",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain"
+        },
+        {
+          "title": "Xi says US and China must ‘coexist in peace’ in historic White House visit",
+          "lead": "The Chinese leader is meeting his US counterpart Donald Trump in",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Senate narrowly votes down resolution calling for end to Iran war",
+          "lead": "The vote came weeks before the midterm election",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html"
+        },
+        {
+          "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+          "lead": "The notice would allow Oracle to delay payments should the facility",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/"
+        }
+      ],
+      "supplement": {
+        "title": "Jay Pharoah, Cheri Oteri, Adam Devine Among ‘Universal Basic Guys’ Season 3 Guest Stars (EXCLUSIVE)",
+        "lead": "“Saturday Night Live” alums Jay Pharoah and Cheri Oteri, as well as “Workaholics” star Adam Devine, are among the guest stars set to appear on the upcoming Season 3 of Fox’s animated series “Universal Basic Guys.",
+        "body": [
+          "“Saturday Night Live” alums Jay Pharoah and Cheri Oteri, as well as “Workaholics” star Adam Devine, are among the guest stars set to appear on the upcoming Season 3 of Fox’s animated series “Universal Basic Guys.” Also set to join in on the universal basic fun this season: Thomas Lennon (“Reno 911!”), Brandon Wardell (“Wonder […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/tv/news/universal-basic-guys-season-3-guest-stars-jay-pharoah-more-1236874002/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/09/Universal-Basic-Guys.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 16,
+        "categories": 7,
+        "topGroups": [
+          "BBC×6",
+          "Variety×4",
+          "ScienceDaily×4",
+          "TechCrunch×3",
+          "FT×2",
+          "Al Jazeera×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-09-25T00:21:09.014Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 800,
+        "lang": 455,
+        "fresh": 367,
+        "denoised": 365,
+        "deduped": 347
+      },
+      "en": {
+        "fetched": 800,
+        "lang": 345,
+        "fresh": 334,
+        "denoised": 331,
+        "deduped": 325
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "端傳媒×4",
+          "華爾街見聞×3",
+          "BBC×2",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 16,
+        "categories": 7,
+        "topGroups": [
+          "BBC×6",
+          "Variety×4",
+          "ScienceDaily×4",
+          "TechCrunch×3",
+          "FT×2",
+          "Al Jazeera×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

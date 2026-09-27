@@ -1,0 +1,926 @@
+{
+  "issue": 13,
+  "date": "2026-09-27",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历八月十七 · 秋分",
+    "en": "17th day of the 8th lunar month · Autumn Equinox"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "大熊猫“平平”“福双”已启程赴美",
+        "lead": "2026年9月27日2时55分，大熊猫“平平”“福双”从成都双流机场搭乘包机前往亚特兰大动物园，开启为期十年的旅居生活。启程前，成都大熊猫繁育研究基地为两只大熊猫举办了欢送仪式。",
+        "body": [
+          "2026年9月27日2时55分，大熊猫“平平”“福双”从成都双流机场搭乘包机前往亚特兰大动物园，开启为期十年的旅居生活。",
+          "启程前，成都大熊猫繁育研究基地为两只大熊猫举办了欢送仪式。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gn/2026/09-27/10704316.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "欧盟拟大力增加卫星发射能力 寻求开辟域外发射场",
+        "lead": "负责防御与太空事务的欧盟委员安德留斯·库比柳斯日前说，欧盟计划今后数年内大力增加卫星发射，寻求在加拿大等欧盟以外地区开辟发射场。据英国方面26日援引库比柳斯的话称，相比2016至2024年期间，欧盟计划今后8年内把政府卫星的发射数量从近70颗增至近630颗，商业卫星将翻倍至1000颗，国防卫星从大约20颗增至近300颗。",
+        "source": "cnBeta",
+        "group": "cnBeta",
+        "link": "https://www.cnbeta.com.tw/articles/tech/1579714.htm",
+        "category": "tech",
+        "categoryLabel": "科技",
+        "consensus": 3
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "伊朗总统：不再信任同美国的对话",
+              "lead": "据伊朗方面26日消息，伊朗总统佩泽希齐扬在接受采访时表示，鉴于每一轮谈判后美国都会发动袭击并实施制裁，伊朗不再信任与美国的对话。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-27/10704302.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "特朗普拒绝伊朗停火方案，重提中期选举后恢复军事打击",
+              "lead": "特朗普在联大发言时已重申他本月稍早的预测，美国将在11月国会选举后与伊朗达成协议，否则就彻底摧毁伊朗政权。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15142139.html",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 2
+            },
+            {
+              "title": "报道：特朗普拒绝伊朗7天停火提议，预计中期选举后恢复轰炸",
+              "lead": "美伊冲突在战争与和平之间徘徊，局势或再度滑向敌对状态。 周六，据媒体援引美国官员最新消息， 特朗普已拒绝伊朗提出的7天停火方案，并向幕僚表示，他预计将在11月中期选举后恢复对伊朗的轰炸行动。 伊朗的停火提议原本包含重开霍尔木兹海峡、重启核谈判等条件，以换取美国解除对伊朗港口的封锁。 特朗普私下对伊朗是否能满足其要求持怀疑态度，已向幕僚表示，他认为恢复轰炸行动的可能性较大。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3782570",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 2
+            },
+            {
+              "title": "中国、台湾民众如何看「习特会」？专家如何解读峰会成果？",
+              "lead": "中国国家主席习近平时隔11年再次访美进行国是访问，与美国总统特朗普举行今年第二次会晤。今次「习特会」有哪些成果？中国及台湾民众又如何看待？",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cmq5x6557lqdo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dbda/live/e3070730-b8eb-11f1-a430-4d16ee157c41.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "链上天津｜天津如何解码“绿色生意链”？",
+              "lead": "从子牙经开区二十余年的循环经济探索，到中国资源循环集团这一“中字头”央企总部落户，从退役风机“再上岗”，到废旧电池“返产线”，天津正把资源综合利用从环保“成本项”变成一门有政策护航、有资金支撑、有平台依托的“绿色生意链”。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/09-26/10704292.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "欧盟拟大力增加卫星发射，寻域外发射场",
+              "lead": "负责防御与太空事务的欧盟委员安德留斯·库比柳斯日前说，欧盟计划今后数年内大力增加卫星发射，寻求在加拿大等欧盟以外地区开辟发射场。英国《金融时报》26日援引库比柳斯的话报道，相比2016至2024年期间，欧盟计划今后8年内把政府卫星的发射数量从近70颗增至近630颗，商业卫星将翻倍至1000颗，国防卫星从大约20颗增至近300颗。（新华社）",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15142071.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 3
+            },
+            {
+              "title": "AI杀入科学家“主场”！OpenAI智能体将挑战人类蛋白质设计，原定“人机大战”临时改赛制",
+              "lead": "人工智能与人类科学家之间的竞争，正从棋盘和数学题蔓延至生命科学的核心领域。 Ginkgo Bioworks原本策划了一场蓄意打造\"卡斯帕罗夫对决深蓝\"历史时刻的蛋白质设计竞赛，计划让斯坦福大学教授Michael Jewett单独迎战OpenAI的AI智能体团队。然而，就在9月14日首轮对决前夕，这场比赛被紧急叫停，随后以一种截然不同的面貌重新登场——赛制从\"单挑\"变为\"合竞\"（coopetition），任何科学家均可报名组队参与。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3782583",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "科学家首次在超冷气体中观测到“贝特串” 1931年量子预言成为现实",
+              "lead": "一个诞生于1931年的量子力学预言，在接近一个世纪后终于被科学家成功实现。 来自奥地利因斯布鲁克大学、荷兰阿姆斯特丹大学以及德国慕尼黑工业大学的研究团队宣布，他们首次在超冷原子气体中创造并直接观测到被称为“贝特串”（Bethe Strings）的特殊量子结构。这项成果不仅验证了德国物理学家汉斯·贝特近百年前提出的理论预测，也为研究量子多体系统提供了全新的实验平台。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/science/1579724.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "欧盟拟增加卫星发射，或向挪威、英国、加拿大等寻求域外发射场",
+              "lead": "IT之家 9 月 26 日消息，据金融时报报道，主管太空事务的欧盟专员安德留斯 · 库比柳斯（Andrius Kubilius）表示，为了实现卫星组网目标，欧盟必须放眼境外，物色新的发射阵地。 库比柳斯在接受采访时指出，根据欧盟对 2034 年前火箭发射量增长六倍的预测， 他们将不得不借用挪威、英国及加拿大的发射场地 。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/007/435.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            },
+            {
+              "title": "YouTube、TikTok 和 Meta 都拒绝投放马斯克纪录片的商业广告",
+              "lead": "负责发行 Alex Gibney 拍摄的马斯克（Elon Musk）纪录片《Musk》的公司 Bleecker Street 发现，主流社交平台 YouTube、TikTok 和旗下包括 Instagram 和 Facebook 的 Meta 公司，以及马斯克旗下的 X 平台都拒绝投放该纪录片的商业广告。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85480",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "南非约翰内斯堡东部接连发现10具女性遗体",
+              "lead": "中新网约翰内斯堡9月26日电 (记者 孙翔)南非警方26日称，当日上午，在约翰内斯堡东部城市群埃库鲁莱尼再次发现一具女性遗体，地点靠近一处非正规定居点。这是近期在该地区发现的第10具女性遗体，引发社会关注。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-26/10704224.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "“习特会”落幕，中美分歧仍然暗流涌动",
+              "lead": "除了盛大的场面，世界两大经济体和人工智能超级大国的领导人会谈几乎没有达成任何成果。特朗普似乎更专注于款待习近平，而不是挑战自己的地缘政治对手。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20260926/trump-xi-state-visit/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "习近平访美晤特朗普：中美竞赛谁领先？美国民众怎么看",
+              "lead": "「特习会2.0」即将登场，此时中美竞争白热化、亦敌亦友，美国民众认为谁正在领先？BBC中文走访纽约街头，听听他们最期待两位元首讨论哪些议题？美国大众眼中的习近平与特朗普又是如何？",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/ckddvj0jy3zgo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/33b4/live/d778dbc0-b7bd-11f1-bc1f-3f186ca4140c.jpg"
+            },
+            {
+              "title": "白宫国宴：AI巨头与习近平共进晚餐，特朗普脱稿演讲",
+              "lead": "中美元首与萨姆·奥特曼、马斯克、黄仁勋和库克在白宫国宴厅共进晚餐。关于人工智能威胁的讨论喧嚣尘上，但特朗普与习近平的峰会并未就该技术的发展方向达成什么共识。 Doug Mills/The New York Times 周四晚，特朗普总统和中国国家主席习近平携夫人出席了在白宫举行的国宴。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20260926/state-dinner-scene/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "习近平访美最后一天 参观国家档案馆后返华",
+              "lead": "在访美行程的最后一天，中国国家主席习近平伉俪与美国总统特朗普（川普）伉俪在白宫茶叙，然后参观国家档案馆，之后启程回国。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c97700x5exleo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/933a/live/43bf2a20-b906-11f1-a430-4d16ee157c41.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "他们的晚年，我的「脏活」——老人院外劳护理员的自白",
+              "lead": "【编者按】「其实你返工有咩做㗎？」——这个问题，你有问过别人或被人问起吗？ 这个来自日常的问题，启发我们开启「返工这回事」这个栏目。在当代社会，工作主宰我们的生活，既定义个人的身份，亦维系社会的「正常」运转，但在「隔行如隔山」的区隔中，我们并不容易看见彼此——从恒常的工作劳动，到行业内的语言词汇、职场文化、人际关系、性别分工、权力层级以至价值体系。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20260927-job-inside-out-imported-care-worker-elderly-service/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/L_018486-1.jpg"
+            },
+            {
+              "title": "平遥国际电影展纪念“诗人导演”费穆诞辰120周年",
+              "lead": "中新社山西平遥9月26日电 (记者 胡健)第十届平遥国际电影展26日举办“小城春未远——费穆120周年诞辰与《小城之春》修复”大师班活动。费穆之子费明煦、《小城之春》中戴秀饰演者张鸿眉的孙女丁天以及众多导演、影评人、学者展开对谈。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/09-26/10704258.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "比利·简·金杯深圳总决赛：乌克兰队战胜意大利队晋级决赛",
+              "lead": "中新社深圳9月26日电 (记者 张璐)2026比利·简·金杯深圳总决赛半决赛26日举行，乌克兰队以2:0战胜意大利队，成功晋级决赛。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/dwq/2026/09-27/10704307.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "2026斯巴达勇士儿童赛上海站落幕 奥运冠军许昕带儿子参赛",
+              "lead": "中新网上海9月26日电(缪璐 狄权)9月25日至26日，2026泰兰尼斯—斯巴达勇士儿童赛上海站举行，近5000名小勇士及家庭齐聚临港，在奔跑、翻越与攀爬中尽情释放体能与热情，用实际行动诠释勇气的意义。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-26/10704261.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "西安交大举行航空与海洋交叉学科高质量发展会议",
+              "lead": "中新网西安9月26日电 (阿琳娜 张煜晨)西安交通大学24日在中国西部科技创新港举行航空与海洋交叉学科高质量发展会议，并为航空发动机结构安全基础科学研究中心、航空发动机学院、海洋科学与工程学院揭牌。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/09-26/10704260.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "特朗普据报拒绝伊朗的7日停火方案",
+          "lead": "据美国《国会山报》今天（9月26日）报道，美国总统特朗普已私下拒绝伊朗提出的一项为期七天的停火方案",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15142118.html"
+        },
+        {
+          "title": "科学家首次实时观测单个声子消失，量子计算纠错研究迈出重要一步",
+          "lead": "IT之家 9 月 26 日消息，斯坦福大学宣布，该校团队首次实时观测到单个“声子”（phonon）消失的量子跃迁过程。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/007/438.htm"
+        },
+        {
+          "title": "AI并未引发毕业生就业崩盘 最新研究显示美国应届大学生失业率仍处正常区间",
+          "lead": "尽管人工智能取代初级岗位的担忧持续升温，一项最新研究显示，至少从目前数据来看，所谓“AI就业末日”尚未降临到美国应届大学毕业生身上。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1579730.htm"
+        },
+        {
+          "title": "中美贸易休战延长为习近平赢得喘息之机",
+          "lead": "这场峰会明显缺乏对抗色彩。中美紧张关系缓和将使得北京有余力应对国内的经济困境。习近平能够将精力更好地集中于国内核心议题",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/business/20260926/china-trump-xi-truce/?utm_source=RSS"
+        },
+        {
+          "title": "Excel 的单元格将支持输入多个值",
+          "lead": "微软宣布其电子表格软件 Excel 的单元格将支持输入多个值，而不是以前的只能一个值。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85482"
+        },
+        {
+          "title": "AI基础设施撞上“墙”！Marvell：铜连接、内存瓶颈成下一阶段算力扩张关键",
+          "lead": "AI算力竞赛正从单纯的芯片之争，演变为一场涵盖互连、内存与网络的系统级博弈。 Marvell高管近日在Six Five Summit",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782579"
+        },
+        {
+          "title": "和平曙光乍现又生阴云 特朗普拒绝“七天协议” 伊朗总统再谈信任问题",
+          "lead": "就在欧美市场周五为伊朗主动提出“七天重启霍尔木兹海峡”提案受到提振后，这份提案快速转化为市场利好的可能性迅速蒙上阴霾。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1356,202609273884417590.html"
+        },
+        {
+          "title": "[Claude] 各位大佬，请问怎么才能用上 Claude？",
+          "lead": "听大家对 Claude 评价如此高？请问走哪里可以用上 Claude 呀？封号真的很夸张吗？ 目前是自己的节点，走的搬瓦工的机器。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1244970#reply0"
+        },
+        {
+          "title": "夜场日记（一）：在歌声里听见夜场，也听见自己",
+          "lead": "在我旅居过的地方中，W镇是个有点特殊的存在。 W镇位于中国云南省境内，距离中缅边境大约半小时车程。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260926-mainland-a-nightlife-worker-diary-chapter-one/"
+        },
+        {
+          "title": "复联1-4 (评论: 复仇者联盟4：终局之战)",
+          "lead": "Claire 评论: 复仇者联盟4：终局之战 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17830928/"
+        },
+        {
+          "title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
+          "lead": "距离宜家首批Matter智能家居产品在海外上市已有大半年的时间，而中国市场则是许久未有消息。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "少數派",
+          "link": "https://sspai.com/post/114958"
+        },
+        {
+          "title": "四川宜宾市长宁县发生3.9级地震，震源深度5千米",
+          "lead": "中国地震台网正式测定：09月27日02时31分在四川宜宾市长宁县（北纬28.35度，东经104.89度）发生3.9级地震，震源深度5千米。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15142163.html"
+        },
+        {
+          "title": "在国宴上穿裤子的美国第一夫人",
+          "lead": "梅拉尼娅穿了一条印有牡丹图案的黑色礼服长裤，搭配一件有巨大蝴蝶结的白色衬衫。在正装晚宴上穿裤装反映出她一如既往地不愿顺从人们对第一夫人这一角",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/style/20260926/china-state-dinner-melania-trump-pants/?utm_source=RSS"
+        },
+        {
+          "title": "Meta AI主管Alexandr Wang：为何我要做Muse",
+          "lead": "Meta首席AI官Alexandr Wang近日发表公开信，阐述其主导构建Muse AI助手背后的核心理念—",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782587"
+        },
+        {
+          "title": "谁的心事也是微微酸的？ (评论: 校园暗恋警报)",
+          "lead": "Ansel的日记本 评论: 校园暗恋警报 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17830450/"
+        },
+        {
+          "title": "描绘直至生命尽头 追番日记 (评论: 描绘直至生命尽头)",
+          "lead": "天依天依天 评论: 描绘直至生命尽头 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17830541/"
+        }
+      ],
+      "supplement": {
+        "title": "港裔移民面临遣返背后：特朗普政府长期无差别执法，同党议员面临连任压力",
+        "lead": "🔮 特朗普政府扩大移民执法，大量无犯罪纪录的长期居留者遭ICE抓捕，如9月17日被拘的港裔幕僚毛皓延。此举引发选民反弹，同日佛州共和党众议员公开批评执法过激。多位面临连任压力的共和党议员纷纷要求政府将执法重点转回暴力犯罪者，原本的移民优势议题已在部分选区转为政治压力。 本周不可错过的五则新闻透视出： 特朗普政府对中政策维持鹰派，但受制于总统的外交默契。国务卿澄清对台军售延迟因产能限制，未作为谈判筹码。",
+        "body": [
+          "🔮 特朗普政府扩大移民执法，大量无犯罪纪录的长期居留者遭ICE抓捕，如9月17日被拘的港裔幕僚毛皓延。此举引发选民反弹，同日佛州共和党众议员公开批评执法过激。多位面临连任压力的共和党议员纷纷要求政府将执法重点转回暴力犯罪者，原本的移民优势议题已在部分选区转为政治压力。本周不可错过的五则新闻透视出： 特朗普政府对中政策维持鹰派，但受制于总统的外交默契。国务卿澄清对台军售延迟因产能限制，未作为谈判筹码。",
+          "因应油价波动，政府对柴油出口禁令态度分歧。同时，白宫违抗法院命令，持续拒绝三大媒体采访。此外，调查指特朗普长子婚宴由俄国寡头买单，引发政商疑虑。关于特朗普政府的移民执法，有两个新闻事件无巧不巧都发生在9月17日，其一获得许多香港读者关注，另一条新闻则在密切关注美国政治的圈子里引发许多「行家」注意。而这两个事件的背后，也都指向同一个主题：特朗普第二任期移民大执法「实际上抓的人」跟许多选民的想像有落差，这让共和党本来的优势议题现在成了一些候选人的麻烦议题。",
+          "先从香港开始。9月17日，香港裔移民毛皓延（Ho Yin Mo）在三藩市（又译旧金山） 遭到 移民执法单位ICE逮捕拘留，可能将被遣返香港。毛皓延现为州众议员司嘉怡（Catherine Stefani）办公室幕僚，常 负责 与当地华裔社群的联络工作，过去则曾在三藩市华语电视台KTSF担任主播，因此具有相当知名度。9月23日，司嘉怡在社群媒体上 发文 公开此事，并呼吁ICE释放毛皓延，形容他是一位「无私的公仆，受肯定且合法的雇员」。另外，三藩市参事委员会（Board of Supervisors，相当于市议会）的11位参事也全数联名公开致信移民法庭法官， 表示 「我们认识中的皓延负责任、尊重人、对他的社群尽心尽力，我们没有任何理由认为他会对任何人造成危险」，因此希望法庭予以释放。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20260926-syncing-with-america-newsletter/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/AP26214646618606.jpg"
+      },
+      "stats": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "華爾街見聞×4",
+          "cnBeta×3",
+          "BBC×3",
+          "端傳媒×3",
+          "豆瓣×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia",
+        "lead": "In his talks with President Trump, the Chinese leader used praise, warnings and wartime history to challenge American support for Taiwan and Japan.",
+        "body": [
+          "In his talks with President Trump, the Chinese leader used praise, warnings and wartime history to challenge American support for Taiwan and Japan."
+        ],
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/09/25/multimedia/25int-china-us-assess-01-kvlm/25int-china-us-assess-01-kvlm-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Major storm in US north-east knocks out power for 100,000 and floods roads",
+        "lead": "Residents across New Jersey, Massachusetts, Delaware and New York without electricity as storm hits A slow-moving",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/us-news/2026/sep/26/noreaster-north-east-us",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/b78c0dbcb73b98f13cb5606a1f22faa70f2943b9/843_0_4621_3699/master/4621.jpg?width=140&quality=85&auto=format&fit=max&s=c665d4a5255d9724992f4515a8aa0007",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Palestinian careers adviser who was allegedly told to stop wearing keffiyeh at Sydney school sues for racial discrimination",
+              "lead": "Wasim El-Haj alleges NSW government school ordered him to stop wearing symbolic garment as it ‘may cause discord’ Get our breaking news email",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/australia-news/2026/sep/27/palestinian-careers-adviser-who-was-allegedly-told-to-stop-wearing-keffiyeh-at-sydney-school-sues-for-racial-discrimination-ntwnfb",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/caa1b2adde96505e97db359a165e6f4ac2c66523/385_0_2462_1970/master/2462.jpg?width=140&quality=85&auto=format&fit=max&s=5944168a1df224f23ebadb36a0945d7a",
+              "consensus": 5
+            },
+            {
+              "title": "Russian Attacks Destroy Ukrainian Books",
+              "lead": "Our reporter Kim Barker goes inside a storied Kyiv book market that was hit by an air strike. Russian attacks have damaged millions of books in Ukraine in the last few months.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/video/world/europe/100000011148419/russian-attacks-destroy-ukrainian-books.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            },
+            {
+              "title": "Brazil's Lula bans online gambling ahead of presidential election",
+              "lead": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
+              "source": "BBC News",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c10f/live/bf3283b0-b95a-11f1-b4ff-03f89ad0727d.jpg",
+              "consensus": 3
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "German and Russian foreign ministers meet for first time in over four years",
+              "lead": "Johann Wadephul said he warned Sergei Lavrov about drone incursions and urged de-escalation in Ukraine in ‘intense conversation’",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/ec92933f-7147-410e-8ade-ab09add476a7?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1a6d5602-03cd-4c89-9314-0e6cb212fda0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Scottish drivers hit as diesel passes £2 a litre across the country",
+              "lead": "Motoring organisation the RAC says it expects the average UK diesel price to hit a new record high over the weekend.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cr86xn04gxj9o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d55/live/5ec72f60-b8cb-11f1-ad1f-538855f30ba1.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "China, U.S. agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says",
+              "lead": "The three-day summit ​between Xi and President Donald Trump, which ended on Friday, showcased personal diplomacy rather than big public breakthroughs.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/09/26/china-us-tariff-cut-ai-dialogue.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Thai capital Bangkok declared disaster zone amid flooding",
+              "lead": "",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/09/26/thai-capital-bangkok-declared-disaster-zone-amid-flooding.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 3
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Amid many thorny issues with China, Trump pushes to rename AI as superintelligence",
+              "lead": "US President Donald Trump is pushing for a rebrand of artificial intelligence (AI) — and looking to get the world’s other AI superpower, China, on board.",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/china/diplomacy/article/3368921/amid-many-thorny-issues-china-trump-pushes-rename-ai-superintelligence?utm_source=rss_feed",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/27/1b32ab9f-657a-47ae-bae2-e84dc6536540_cf75bc3d.jpg?itok=d8WJmbvK&v=1790460932",
+              "consensus": 5
+            },
+            {
+              "title": "Apple hit with $5.7 billion in damages over haptic patents",
+              "lead": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
+              "lead": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Who made an uncharacteristic error? England player ratings v Spain",
+              "lead": "England were beaten 3-2 in an entertaining game by world champions Spain in the Nations League - here's how BBC Sport rated the Three Lions' players.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cmy0zz2ylr5no?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc71/live/eeee61e0-b9e7-11f1-a7c8-cfea26a12219.jpg",
+              "consensus": 3
+            },
+            {
+              "title": "England embrace the chaos - but control also needed to win big prizes",
+              "lead": "England embrace the chaos, but superb Spain show it will never win big prizes, says chief football writer Phil McNulty.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cqx2zz6d5716o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c5a/live/3a5d71b0-b9f3-11f1-afb9-0ba46641015c.jpg",
+              "consensus": 2
+            },
+            {
+              "title": "GB's Potter takes silver at Triathlon World Series",
+              "lead": "Georgia Taylor-Brown finishes second to France's Cassandre Beaugrand at the World Championship Triathlon Series final, with GB team-mates Kate Waugh and Beth Potter in third and fourth respectively.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/triathlon/articles/ckge440vd3jeo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c91d/live/02c2c010-b9db-11f1-86cc-4faf426f07a8.jpg"
+            },
+            {
+              "title": "Lynn remaining positive despite Wales' USA setback",
+              "lead": "Head coach Sean Lynn is still seeing the positives despite Wales' narrow WXV defeat to USA.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cjly44x72n0lo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60fb/live/57f60380-b9d1-11f1-b9a2-c51fbcac2d8e.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "His Novel Had a Shot at a Top Book Prize. Then Someone Ran an A.I. Test.",
+              "lead": "“It Was Either That Or Die,” by the Haitian-Canadian author Thélyson Orélien, was the hit of the French literary season. Now it has been pulled from the shortlist for a prestigious prize.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/09/25/world/europe/thelyson-orelien-ai-canada-haiti-france.html",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://static01.nyt.com/images/2026/09/23/multimedia/00int-author-accusation-qkgv/00int-author-accusation-qkgv-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "‘The Simpsons’ Boss on Season Premiere Guests Emma Thompson and Colin Jost; ‘Treehouse of Horror’ Spoilers; Jack in the Box Meal Easter Eggs and Movie Update",
+              "lead": "“The Simpsons” returns on Sunday, Sept. 27, on Fox with a Season 38 opener (“The Children’s Book Job”) that parodies children’s books",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/news/simpsons-season-38-premiere-treehouse-horror-movie-update-1236876630/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/09/2052_01ak_02Promo-0012_cc_v2-e1790460267541.png",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Two astronauts who flew farther than anyone before are taking new NASA roles",
+              "lead": "Artemis II astronauts Victor Glover and Reid Wiseman are transitioning to emeritus status at NASA after their historic journey around the Moon earlier this year.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260925005423.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
+              "lead": "The first in a new class of space telescopes is on track to reach the launch pad in the early 2030s, NASA announced this week. The PRIMA mission will be the first of NASA's Probe Explorers",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
+              "category": "science",
+              "categoryLabel": "Science",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/prima_art-1152x648.jpg",
+              "consensus": 3
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Trump and Xi to meet twice more after summit fails to resolve tensions",
+          "lead": "Observers say the US and China maintained good communications during",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/bd99d372-d3d1-4972-a3fe-1bed8f71e14c?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Australia news live: Marles said OpenAI CEO didn’t tell him about hack at meeting; flight cancellation heartbreak for AFL fans",
+          "lead": "Follow live updates Get our breaking news email",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/australia-news/live/2026/sep/27/australia-news-live-anthony-albanese-openai-medicare-hack-united-nations-richard-marles-jane-hume-liberal-coalition-one-nation-pauline-hanson-ntwnfb"
+        },
+        {
+          "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+          "lead": "Iran's foreign minister acknowledges Trump's comments",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Six Dead After Explosion in Athens Tourist District",
+          "lead": "Officials said a gas leak might have caused the blast",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/09/25/world/europe/athens-tourists-explosion.html"
+        },
+        {
+          "title": "Trade truce extension aside, was AI the real Xi-Trump summit breakthrough?",
+          "lead": "The Xi-Trump summit may prove more significant for stabilising",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/economy/global-economy/article/3368908/trade-truce-extension-aside-was-ai-real-xi-trump-summit-breakthrough?utm_source=rss_feed"
+        },
+        {
+          "title": "Powerful storm brings flooding, power outages to northeastern United States",
+          "lead": "Authorities warn residents that extreme conditions in the region",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/26/powerful-storm-brings-flooding-power-outages-to-northeastern-united-states?traffic_source=rss"
+        },
+        {
+          "title": "Pope Leo XIV calls to protect migrants during his official visit to France",
+          "lead": "Father Philip Larrey and Father Michael Baggott are on France 24.",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/pope-leo-xiv-calls-to-protect-migrants-during-his-official-visit-to-france"
+        },
+        {
+          "title": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
+          "lead": "Trump expects renewed U.S. bombing of Iran after the midterm elections",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html"
+        },
+        {
+          "title": "Kids turned the comment section of an NPR podcast into a group chat",
+          "lead": "Middle schoolers, likely blocked from other apps and social networks",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section"
+        },
+        {
+          "title": "Emmy Rossum Says Nude ‘Shameless’ Scenes Affected Her Dating Life Because Men Had ‘Preconceived Notions’ of ‘How I Was Sexually’",
+          "lead": "Emmy Rossum recently revealed that playing Fiona Gallagher on",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/tv/news/emmy-rossum-nude-shameless-scenes-1236876622/"
+        },
+        {
+          "title": "REM sleep paradox: Dreaming may drain the brain’s energy even as fuel supply rises",
+          "lead": "Scientists discovered a surprising energy paradox in the brain during",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260925093206.htm"
+        },
+        {
+          "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
+          "lead": "When NPR staffers flagged strange comments under their podcasts on",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/"
+        },
+        {
+          "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
+          "lead": "A US appeals court today approved the Department of Defense's",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
+        },
+        {
+          "title": "Trump rejects Iran’s ceasefire proposal to reopen Strait of Hormuz",
+          "lead": "Tehran offered a week-long break in hostilities to kick-start peace",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/4d71acf8-dda7-475e-88c5-5351f0176558?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
+          "lead": "A federal jury awarded Taction Technology more than $5.",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html"
+        },
+        {
+          "title": "Control Resonant is a great game — it’s even better when you read everything",
+          "lead": "In Control Resonant , the entire world is at stake.",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs"
+        }
+      ],
+      "supplement": {
+        "title": "‘NAZA’ Co-Director Yuval Abraham Calls Out the U.S. Government for ‘Funding’ Israel’s Destruction of Gaza, Telling NYFF Audience: ‘This Is What Your Country Is Supporting’",
+        "lead": "The Gaza documentary “NAZA” made its North American premiere at the New York Film Festival to a massive standing ovation for co-directors Yuval Abraham and Rachel Szor who gave a brief Q&A with festival director Dennis",
+        "body": [
+          "The Gaza documentary “NAZA” made its North American premiere at the New York Film Festival to a massive standing ovation for co-directors Yuval Abraham and Rachel Szor who gave a brief Q&A with festival director Dennis Lim after the screening.",
+          "Journalist and co-director Abraham told the crowd, many of whom were still drying their eyes […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/news/naza-yuval-abraham-us-government-funding-israel-gaza-1236876606/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/09/GettyImages-2297302988.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 16,
+        "categories": 7,
+        "topGroups": [
+          "BBC×6",
+          "紐約時報×3",
+          "The Verge×3",
+          "Variety×3",
+          "Guardian×2",
+          "CNBC×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-09-27T00:21:09.828Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 794,
+        "lang": 450,
+        "fresh": 304,
+        "denoised": 303,
+        "deduped": 278
+      },
+      "en": {
+        "fetched": 794,
+        "lang": 344,
+        "fresh": 311,
+        "denoised": 311,
+        "deduped": 304
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "華爾街見聞×4",
+          "cnBeta×3",
+          "BBC×3",
+          "端傳媒×3",
+          "豆瓣×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 16,
+        "categories": 7,
+        "topGroups": [
+          "BBC×6",
+          "紐約時報×3",
+          "The Verge×3",
+          "Variety×3",
+          "Guardian×2",
+          "CNBC×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

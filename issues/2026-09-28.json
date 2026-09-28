@@ -1,0 +1,887 @@
+{
+  "issue": 14,
+  "date": "2026-09-28",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历八月十八 · 秋分",
+    "en": "18th day of the 8th lunar month · Autumn Equinox"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "公安部网安局公布2起拒不履行信息网络安全管理义务罪典型案例",
+        "lead": "中新网9月28日电 据公安部网安局微信公众号消息，公安网安部门持续推进“净网—2026”专项行动，聚焦网络黑灰产打击和信息安全保护、数据安全保护等方面，大力开展互联网生态治理，坚决维护网络空间清朗有序。今日，公布2起拒不履行信息网络安全管理义务罪典型案例。",
+        "body": [
+          "中新网9月28日电 据公安部网安局微信公众号消息，公安网安部门持续推进“净网—2026”专项行动，聚焦网络黑灰产打击和信息安全保护、数据安全保护等方面，大力开展互联网生态治理，坚决维护网络空间清朗有序。",
+          "今日，公布2起拒不履行信息网络安全管理义务罪典型案例。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gn/2026/09-28/10704658.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "裸甲风潮为何跟「白人至上」发生关联？",
+        "lead": "裸甲——或者看起来像裸甲的指甲——正成为越来越流行的趋势。但这真的像看起来那么无害吗？",
+        "source": "BBC中文",
+        "group": "BBC",
+        "link": "https://www.bbc.com/zhongwen/articles/cj5ydnw3pxr9o/trad?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "categoryLabel": "国际",
+        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/942b/live/73fb0ed0-8cd2-11f1-a7ab-8b30adf0800a.jpg"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "塞尔维亚总统武契奇宣布辞职",
+              "lead": "当地时间9月27日晚，塞尔维亚总统武契奇向民众发表讲话，宣布辞职。武契奇在讲话中感谢塞尔维亚民众两次在总统选举中给予他的信任。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-28/10704636.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "中美峰会后 伊朗提出七天达成协议 被特朗普拒绝",
+              "lead": "「我拒绝他们的协议，」特朗普周六表示，并补充美国已对该海峡拥有「完全控制权」，「大量石油」经此通行，导致全球油价大幅上涨，消费者燃料成本急升。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cx5yln334jq5o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c2f6/live/86e0e040-ba15-11f1-851b-7de4b36a82e3.jpg"
+            },
+            {
+              "title": "为何成年后才突然过敏？新冠、抗生素甚至蜱虫都可能是诱因",
+              "lead": "我们往往以为，过敏是童年时期，甚至出生前就已埋下的「倒霉伏线」。但其实，「任何人在人生任何阶段，都可能突然出现新的过敏」。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/ck05rqdz4zy3o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7423/live/3998e9e0-b8da-11f1-a430-4d16ee157c41.jpg"
+            },
+            {
+              "title": "TikTok与阿拉巴马州和解：支付一亿美元，限儿童使用时长、禁用美妆滤镜",
+              "lead": "阿拉巴马州原计划就TikTok涉嫌故意让年轻用户上瘾一事对其提起诉讼。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c8zxzl6vr3zno/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0514/live/9c315500-b935-11f1-9f63-299d77d07e85.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "科创与资本双向奔赴 数贸会成投融资对接“强磁场”",
+              "lead": "中新网杭州9月27日电(奚金燕)9月23日至27日，第五届全球数字贸易博览会在杭州举办。作为全球数字贸易领域的重要窗口，本届数贸会不仅集中展示前沿技术、创新产品与应用场景，也成为观察资本流向、产业趋势和科创生态的重要平台。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/09-27/10704606.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "海南省政府召开专题会议，研究全省“六张网”建设项目储备工作",
+              "lead": "",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15143152.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "\"从ICU到KTV\"！两级摇摆的\"AI叙事\"让投资者\"心累\"",
+              "lead": "AI股票市场在短短两周内经历了从恐慌性抛售到狂热追涨的极端轮回，数千亿美元资金随叙事切换而剧烈进出，令投资者疲于应对。 过去两周，AI相关股票上演了一出令人眩晕的\"过山车\"行情——先是因行业领袖呼吁放缓AI开发而遭遇重挫，纳斯达克100指数两日内蒸发逾6000亿美元市值；随后又因Meta个人助手的爆红引发市场狂欢，科技股强势反弹，纳斯达克100指数自9月15日低点至周末累计收复3万亿美元市值，并创下6月初以来首个历史新高。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3782611",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "Linux移动系统postmarketOS正式更名为“Nura”",
+              "lead": "在运营接近十年后，Linux移动操作系统项目postmarketOS宣布正式更名。开发团队表示，之所以作出这一决定，一个最现实的原因是：太多人根本不知道这个项目，也记不住它的名字。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1579834.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "目标让手机用十年：Linux 手机系统 postmarketOS 正式更名为 Nura",
+              "lead": "IT之家 9 月 28 日消息，Linux 手机系统 postmarketOS 宣布项目正式更名为“Nura”，新的名称源自意大利撒丁岛古老的努拉吉（nuraghe）石结构建筑，寓意项目希望让智能手机长期保持可用。 公开信息显示，postmarketOS 诞生于 2017 年，最初目标是让智能手机能够持续使用 10 年。该系统基于 Alpine Linux 开发，希望让受支持的手机在厂商停止提供系统更新后仍能继续运行。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/007/620.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "“网红芯片分析师”P Equity访谈：算力缺口、存储周期、隐形瓶颈、铜退光进以及“10年需求能见度的弥天大谎”",
+              "lead": "在市场沉浸于AI超大型云厂商无休止资本支出预期的狂热中，资深分析师一针见血地指出：长达十年的需求能见度不过是“弥天大谎”，而真正扼住AI咽喉的，早已不是单纯的GPU数量，而是昂贵的存储账单、落后的电网以及被忽视的ABF载板环节。 9月26日，在最新一期的Logan Jastremski播客节目中，长期跟踪AI基础设施建设的匿名分析师、P Equity Research背后的操刀人Mr. P作为嘉宾出席。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3782602",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "武契奇宣布即将辞去总统职务",
+              "lead": "新华社贝尔格莱德9月27日电(记者张璇 石中玉)当地时间27日中午，塞尔维亚总统武契奇在接受塞尔维亚广播电视台采访时表示，他将于当地时间27日晚8时左右正式提交辞呈，辞去总统职务。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-27/10704555.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "特习峰会成果盘点：关税休战、AI对话、未提台湾、暗指日本",
+              "lead": "BBC中文梳理两国展现了什么成果，以及外界如何解读二人的举措。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cqdr78l1x1mjo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d0ec/live/fbea8a60-ba53-11f1-9a84-01517feb24bf.jpg"
+            },
+            {
+              "title": "特朗普称预计本周继续与伊朗谈判",
+              "lead": "据美国方面当地时间9月27日消息，美国总统特朗普接受采访时表示，预计本周将与伊朗继续举行谈判。此前一天，特朗普拒绝了伊朗提出的结束战争方案。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-27/10704632.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "中国年轻人的「学术偶像」项飙：他读懂了一代人的焦虑",
+              "lead": "中国的经济和科技发展迅猛，但也有很多令Z世代担忧的事情。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/crd6888x916go/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9ee7/live/4e7a9f40-ba13-11f1-ab99-758cf41ba3f5.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "当空白变成常态，广州大学城持刀伤人事件留下了什么？",
+              "lead": "狭窄的过道内，一名身穿黑色上衣、蓝色牛仔裤，戴口罩与眼镜的寸头男子朝着迎面走来的女性的脸部刺入一把尖锐的小刀。她双手提着购物袋，毫无防备，下意识用左手把小刀拨开，刀子掉在地上。她靠墙蹲了下去，用手捂住眼部。男子行凶后，很快跑开。 这是一段来自监控视频的画面。2026年9月14日下午5点多，广州市番禺区大学城的GOGO新天地商场（下称「GOGO商场」）一带发生持刀伤人事件。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20260928-mainland-guangzhou-stabbing-incident/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/GOGO--------------copy-2.jpg"
+            },
+            {
+              "title": "孙阳首次担纲主演 《发现之旅》平遥首映：把电子游戏“玩”进电影",
+              "lead": "中新网山西平遥9月27日电 (记者 胡健)演员孙阳首次担纲电影“大男主”影片《发现之旅》27日在第十届平遥国际电影展举行亚洲首映，该片将电子游戏元素嵌入真人叙事，导演董劼试图“让虚拟与现实在银幕上互相渗透。”",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/09-27/10704591.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "（爱知·名古屋亚运会）综合消息：中国队包揽乒乓球女单冠亚军 严子怡首秀破纪录夺冠",
+              "lead": "中新社日本名古屋9月27日电 当地时间27日，爱知·名古屋亚运会共决出35枚金牌。乒乓球赛场，王曼昱战胜孙颖莎夺得女单冠军，中国乒乓球女单包揽金银并实现亚运会该项目八连冠。田径赛场，18岁中国小将严子怡首投即投出70米46打破亚运会纪录，力压日本名将北口榛花夺得女子标枪金牌。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-27/10704631.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "（爱知·名古屋亚运会）中国选手陈圆将男子110米栏夺冠 吴艳妮女子100米栏摘铜",
+              "lead": "中新社日本名古屋9月27日电 (记者 李志全)爱知·名古屋亚运会田径项目男子110米栏、女子100米栏决赛27日上演，20岁的中国选手陈圆将以13秒15夺得男子110米栏冠军，中国名将吴艳妮以13秒12摘得女子100米栏铜牌。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-27/10704617.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "美联储10月加息的概率为65.9%",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15143132.html"
+        },
+        {
+          "title": "科学家首次成功测定无容器可盛装的极端超流体 揭示量子流体核心物理特性",
+          "lead": "物理学界在极端物质状态研究领域取得突破性进展，科研团队首次成功对一种没有任何传统容器能够盛装的非凡量子材料——超流氦进行了高精度微观特性测定。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/science/1579806.htm"
+        },
+        {
+          "title": "华尔街见闻早餐FM-Radio | 2026年9月28日",
+          "lead": "华见早安之声 市场概述 上周五，美国消费者信心公布后， 标普纳指 曾转跌， 最终和此前三连跌的道指均收涨 ；",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782578"
+        },
+        {
+          "title": "当美国再次火辣：90年代真是女人最美丽的年代吗？",
+          "lead": "保守派认为Sydney Sweeney代表的是90年代的美。但有没有人记得小甜甜布兰妮？",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260928-international-sydney-sweeney-and-90s-beauty/"
+        },
+        {
+          "title": "CDPR 开发者回顾《赛博朋克 2077：往日之影》开发：以结局为起点反向构建剧情",
+          "lead": "IT之家 9 月 28 日消息，《赛博朋克 2077》的谍战惊悚资料片《往日之影》日前迎来发售三周年。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/007/640.htm"
+        },
+        {
+          "title": "Meta 屏蔽了巴西总统的 FB 主页以及竞选广告",
+          "lead": "距离 2026 年 10 月巴西大选不到两周，Meta 本周短暂屏蔽了巴西现任总统卢拉的 FB 主页以及竞选连任广告，在抗议和投诉之后",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85487"
+        },
+        {
+          "title": "翰森制药：欧盟撤销阿美替尼片上市许可 公司保留对该决定提出质疑的所有权利",
+          "lead": "2026年9月27日， 翰森制药 集团有限公司（以下简称“ 翰森制药 ”）公告称，欧盟委员会（EC）宣布撤销甲磺酸阿美替尼片在欧盟的上市许可。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://hk.eastmoney.com/news/11223,202609273884512772.html"
+        },
+        {
+          "title": "[人工智能] [开源] KevANE：让 0.6B 决策模型跑在 Mac 神经引擎（ANE）上， GPU 零占用、超低功耗",
+          "lead": "最近 Jev 很火，它是一种 RLCD 的 System One 决策模型，但其完全闭源、API 也不好申请，而且不能私有化部署让我不放心。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1245102#reply0"
+        },
+        {
+          "title": "派早报：OpenAI 称与苹果合作效果不佳",
+          "lead": "OpenAI 称与苹果合作效果不佳 iPhone 4「天线门」媒体问答录像时隔十六年现身 F-Droid 2.0 发布",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "少數派",
+          "link": "https://sspai.com/post/115079"
+        },
+        {
+          "title": "汉娜 爱宾德，你就是伪善西方东林党！ (评论: 绝望写手 第一季)",
+          "lead": "反派公主慕moon 评论: 绝望写手 第一季 评价: 很差",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17832466/"
+        },
+        {
+          "title": "拒不履行信息网络安全管理义务致多人被骗，两公司法人获刑",
+          "lead": "公安网安部门持续推进“净网—2026”专项行动，聚焦网络黑灰产打击和信息安全保护、数据安全保护等方面，大力开展互联网生态治理",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15143188.html"
+        },
+        {
+          "title": "黑客盯上AI“金矿”：盗账号、劫云算力，AI资源正成为网络犯罪新生意",
+          "lead": "AI账号和算力，正在成为网络犯罪地下市场最炙手可热的商品。黑客们盯上了价格高昂的大型语言模型，将其用于勒索、网络战和间谍活动。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782604"
+        },
+        {
+          "title": "港裔移民面临遣返背后：特朗普政府长期无差别执法，同党议员面临连任压力",
+          "lead": "🔮 特朗普政府扩大移民执法，大量无犯罪纪录的长期居留者遭ICE抓捕，如9月17日被拘的港裔幕僚毛皓延。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260926-syncing-with-america-newsletter/"
+        },
+        {
+          "title": "惠英红吞下捐献书那下，我破防了? (评论: 数到三)",
+          "lead": "李白 评论: 数到三 评价: 还行",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17832387/"
+        },
+        {
+          "title": "我们正在撕毁自己的诗 (评论: 百年孤独 第一季)",
+          "lead": "Pierrot 评论: 百年孤独 第一季 评价:",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17831803/"
+        }
+      ],
+      "supplement": {
+        "title": "他们的晚年，我的「脏活」——老人院外劳护理员的自白",
+        "lead": "【编者按】「其实你返工有咩做㗎？」——这个问题，你有问过别人或被人问起吗？ 这个来自日常的问题，启发我们开启「返工这回事」这个栏目。在当代社会，工作主宰我们的生活，既定义个人的身份，亦维系社会的「正常」运转，但在「隔行如隔山」的区隔中，我们并不容易看见彼此——从恒常的工作劳动，到行业内的语言词汇、职场文化、人际关系、性别分工、权力层级以至价值体系。",
+        "body": [
+          "【编者按】「其实你返工有咩做㗎？」——这个问题，你有问过别人或被人问起吗？这个来自日常的问题，启发我们开启「返工这回事」这个栏目。在当代社会，工作主宰我们的生活，既定义个人的身份，亦维系社会的「正常」运转，但在「隔行如隔山」的区隔中，我们并不容易看见彼此——从恒常的工作劳动，到行业内的语言词汇、职场文化、人际关系、性别分工、权力层级以至价值体系。借此栏目，我们希望打破边界，深入聆听多位「打工仔」的行业见闻，不但走进社会各行业的「贴地」日常，亦从职业的视角观照当代社会的切面和现象。在人口老化的香港，现时逾 4万 名 长者入住私营安老院 。",
+          "然而，因护理工作工时长、体力消耗大且收入与地位低微，安老院前线陷入「有工无人做」的困局。政府遂推出输入外劳计划，各类院舍共引入逾 6000名 中国大陆护理员。今期文章，「地鸣」实习计划的实习生带来这群隐形劳动者的故事，他们访问护理员阿玲（化名），并整理成第一人称自述。阿玲离乡别井来港近七年，每天照顾数十位异乡老人，日复一日与排泄物、消毒水和暮年的生命打交道。这份「脏活」的日常为何？外劳护理员背后又隐藏著哪些行业内幕？",
+          "她又是如何看待自己的「外劳」身份？且听她用朴素的语言，讲述真实的体会。午夜两点，九龙旧区某座残旧商厦的二楼，一间私营安老院灯光昏黄，排泄物、消毒剂和老人味掺和一起。「铃铃铃……」召唤钟声响起，身为私院夜更护理员的我，揉了揉双眼，走向房间。我熟练地掀开被褥，为老人擦拭、更换尿布、转身。为了生计，我离乡别井来港已七年。每日的深夜劳动，就是照料老人家，处理他们的屎尿与呻吟。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20260927-job-inside-out-imported-care-worker-elderly-service/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/L_018486-1.jpg"
+      },
+      "stats": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 15,
+        "groups": 13,
+        "maxGroupShare": 22,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×6",
+          "華爾街見聞×4",
+          "端傳媒×4",
+          "豆瓣×3",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Embattled Serbian president resigns, paving way for early elections",
+        "lead": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
+        "body": [
+          "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption."
+        ],
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2059/live/af01bc20-baa6-11f1-96c0-052f341a8103.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Serbia’s populist president Aleksandar Vučić resigns to run for prime minister",
+        "lead": "Vučić not allowed to seek third presidential term and election will test his grip on rule after widespread protests Serbia’s populist president",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/world/2026/sep/27/serbia-president-aleksandar-vucic-resigns-run-prime-minister",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/50da5abc3c751cac65f50b45fe65a5536f2f6696/184_0_2456_1965/master/2456.jpg?width=140&quality=85&auto=format&fit=max&s=cde40925316e0945dc8dc0e5d8f6b3db",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Failure to protect free speech could cost Labour votes at next election, says Liberty",
+              "lead": "Polling for rights group shows issue is concern for voters and many feel recent policies have had negative effect Free speech will be a big concern for voters at the next general election",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/sep/28/protect-free-speech-labour-liberty-poll",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/3cd5fefc9614794b8fef1bc6a1d0fd233c84c860/771_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=8076a1fc4e8f07e425a0c23073dff9ac",
+              "consensus": 5
+            },
+            {
+              "title": "A Transcript From The Times Interview with Prime Minister Mark Carney of Canada",
+              "lead": "New York Times journalists pressed the Canadian prime minister about a range of topics in an hourlong interview last week. Here’s a transcript of their conversation.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/09/27/world/canada/mark-carney-interview-transcript.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/09/27/multimedia/27int-canada-carney-transcript-photo-hglz/27int-canada-carney-transcript-photo-hglz-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Ireland defeats Israel in controversial UEFA Nations League match",
+              "lead": "Ireland's players wore black armbands in support of Palestine, bowed their heads, and refused pre-match handshakes.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
+              "lead": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ef/live/05e9aa10-bac1-11f1-b327-372771fd59f2.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Terrorism arrests made in ‘major incident’ near RAF Fairford",
+              "lead": "President Donald Trump suggests US worked with UK to prevent an attack on air base used for US strikes on Iran",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/875027a3-db29-40a6-b17c-fa97c30fd07b?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff3c6a083-b1ec-44e5-b26c-beb003a41bcb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table",
+              "lead": "Iran's foreign minister says talks are the only way to break the deadlock, while its navy says it's analyzing data from a captured U.S. underwater drone.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/09/27/iran-foreign-minister-keeps-indirect-talks-with-us-open-state-media.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Inside AT&S and the race to make the critical layer beneath AI chips",
+              "lead": "Managing Asia’s Christine Tan goes inside AT&S’s Malaysia plant, where CEO Michael Mertin explains why IC substrates — the high-tech base layers beneath AI chips",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/video/2026/09/26/ats-ai-chip-substrate-bottleneck.html",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "How the Smithsonian became the latest front in Trump’s culture war",
+              "lead": "In November 2021, the Smithsonian’s National Museum of American History opened an exhibit called “The Electric Dr. Franklin,” describing “Benjamin Franklin’s pioneering contributions to electrical science.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2287653556-1152x648.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Engram is a sampler that turns broken AI hallucinations into music",
+              "lead": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram . It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+              "category": "tech",
+              "categoryLabel": "Technology"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Man Utd bag their first win of the season against West Ham",
+              "lead": "Eva Olid claims her first Women's Super League victory as Manchester United manager, but they were made to work hard to beat West Ham.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/cm9qrzlqyz58o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d58/live/769dc4e0-ba7f-11f1-bd21-bdf910f2cec6.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Germany selects Munich for Olympics host bid",
+              "lead": "Launched as a race between four candidates, it was ultimately a choice between two as Berlin withdrew on Thursday after Hamburg pulled out in May.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/olympics/2026/09/27/germany-munich-olympics-bid/",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/565286.JPG"
+            },
+            {
+              "title": "Fernandes, Gakpo & Dorgu join international break's injury list",
+              "lead": "Bruno Fernandes, Cody Gakpo and Patrick Dorgu all join the international break's high-profile injury list after suffering issues that have curtailed their involvement in Nations League matches.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cm0qxknzpn8jo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/374f/live/7967c1e0-baa1-11f1-afa8-43b99a243ced.png"
+            },
+            {
+              "title": "Superb South Africa seal series win over Australia",
+              "lead": "David Miller and Temba Bavuma's sublime centuries set up South Africa's 32-run win over Australia in a high-scoring second ODI in Johannesburg.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f691/live/ed4373f0-ba8a-11f1-8b67-d15ca96e4c99.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Anthony Mackie Says Chris Evans Gave Him the ‘Avengers: Endgame’ Script Early, Revealing How He’d Become Captain America: ‘It Was Really Great and Really Emotional’",
+              "lead": "Chris Evans and Anthony Mackie’s bond goes beyond their shared roles as Captain America. They’re also close friends, so much so that Evans gave Mackie early access to the “Avengers: Endgame” script",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/chris-evans-anthony-mackie-avengers-endgame-script-early-1236876896/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/09/2026-comic-con-international-san-diego-day-3-press-line-2025-1000x667-1.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Asian Games 2026 Livestream: Where to Watch the Event In the U.S. Online",
+              "lead": "Some of the best athletes in the world are in Japan this week for the 2026 Asian Games, a multi-sport competition held every four years for countries in Asia.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/shopping/news/where-to-watch-asian-games-2026-usa-livestream-online-free-1236876889/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/09/watch-asian-games-2026.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression",
+              "lead": "A large health-record analysis found that glucosamine use was associated with a 25% higher likelihood of mild cognitive impairment progressing to dementia.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260927033754.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "One CRISPR treatment cut “bad” cholesterol in half for a full year",
+              "lead": "A single dose of an experimental CRISPR therapy cut LDL cholesterol and triglycerides by about half in patients with difficult-to-treat lipid disorders.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260925005434.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Quantum computer simulates matter “popping into existence”",
+              "lead": "Scientists recreated a particle-forming process linked to the extreme physics of the early universe using a 13-ion quantum simulator.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260925005416.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Iran Still Awaits ‘Official’ U.S. Response Despite Trump’s Rebuff of Cease-Fire Offer",
+          "lead": "Abbas Araghchi, Iran’s foreign minister, said a history of",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/09/27/world/middleeast/iran-trump-ceasefire-strait-of-hormuz.html"
+        },
+        {
+          "title": "Australia news live: Mike Baird resigns as Cricket Australia chair; RBA expected to hike cash rate to 4.6%",
+          "lead": "Follow the day’s news live Get our breaking news email",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb"
+        },
+        {
+          "title": "Venezuela releases dozens of political prisoners as election calls grow",
+          "lead": "A slew of dissidents being released from long-term detention comes",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Serbian President Aleksandar Vucic resigns to run for prime minister in October elections",
+          "lead": "Serbian President Aleksandar Vucic stepped down as the country's head",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/europe/20260927-serbian-president-aleksandar-vucic-resigns-expected-to-run-for-prime-minister"
+        },
+        {
+          "title": "Venezuelans rally to demand opposition leader’s safe return and presidential elections",
+          "lead": "Supporters of Venezuelan opposition leader Maria Corina Machado took",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/americas/article/3368985/venezuelans-rally-demand-opposition-leaders-safe-return-and-presidential-elections?utm_source=rss_feed"
+        },
+        {
+          "title": "Ramos fires holders Portugal to 2-1 Nations League win in Norway",
+          "lead": "Goncalo Ramos starts in place of Cristiano Ronaldo and scores the",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/9/27/ramos-fires-holders-portugal-to-2-1-nations-league-win-in-norway?traffic_source=rss"
+        },
+        {
+          "title": "World’s worst-performing market slashes minimum price for stocks",
+          "lead": "Indonesia is trying to boost liquidity by allowing shares to trade at",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/04923b0e-a955-4cfa-bd05-cd828807f61d?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Wall Street money takes back over from small investors as driving force of the stock market",
+          "lead": "One firm sees a \"reasonably constructive signal for risk appetite\"",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/27/institutional-investors-stocks-treaurys-retail-traders.html"
+        },
+        {
+          "title": "Anthropic’s CEO is about to have dinner with President Trump",
+          "lead": "This will be the first one-on-one meeting between Dario Amodei and",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
+        },
+        {
+          "title": "1.7-billion-year-old fossils reveal a crucial clue to the rise of complex life",
+          "lead": "Scientists studying ancient Australian rocks uncovered more than 12",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260925005447.htm"
+        },
+        {
+          "title": "Jeff Probst Says ‘Survivor’ Needs Diversity Despite Paramount’s DEI Rollbacks: ‘All Those Differences Matter in the Story’",
+          "lead": "Fifty seasons later, one key factor of “Survivor” remains the same",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/tv/news/jeff-probst-survivor-casting-hasnt-changed-paramount-dei-1236876965/"
+        },
+        {
+          "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+          "lead": "If you were to ask me what game or game series I've sunk the most",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review"
+        },
+        {
+          "title": "Inside Yemen's front-line city as Houthis battle for control",
+          "lead": "In rare access to Yemen's conflict zone the BBC travels to the front",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Corporate America embraces cheaper ‘open’ AI models",
+          "lead": "US businesses far beyond Silicon Valley are adopting Chinese",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait",
+          "lead": "Oil prices jumped on Monday after U.S. President Donald Trump",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html"
+        },
+        {
+          "title": "I created an interactive digital avatar of myself — and you can talk to it",
+          "lead": "After obtaining an interactive avatar and training it to discuss",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/"
+        }
+      ],
+      "supplement": {
+        "title": "Why rheumatoid arthritis pain may persist even when inflammation is under control",
+        "lead": "Pain and fatigue in rheumatoid arthritis can persist even after inflammation improves, with depression, poor sleep, obesity, smoking, and chronic pain potentially helping sustain symptoms.",
+        "body": [
+          "Pain and fatigue in rheumatoid arthritis can persist even after inflammation improves, with depression, poor sleep, obesity, smoking, and chronic pain potentially helping sustain symptoms.",
+          "Researchers say identifying these hidden drivers could prevent unnecessary medication changes and lead to more personalized treatment."
+        ],
+        "source": "ScienceDaily",
+        "group": "ScienceDaily",
+        "link": "https://www.sciencedaily.com/releases/2026/09/260925093208.htm",
+        "category": "science",
+        "categoryLabel": "Science",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "ScienceDaily×5",
+          "Variety×3",
+          "Guardian×2",
+          "Al Jazeera×2",
+          "CNBC×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-09-28T00:24:26.080Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 792,
+        "lang": 449,
+        "fresh": 307,
+        "denoised": 306,
+        "deduped": 283
+      },
+      "en": {
+        "fetched": 792,
+        "lang": 343,
+        "fresh": 279,
+        "denoised": 278,
+        "deduped": 273
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 15,
+        "groups": 13,
+        "maxGroupShare": 22,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×6",
+          "華爾街見聞×4",
+          "端傳媒×4",
+          "豆瓣×3",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "ScienceDaily×5",
+          "Variety×3",
+          "Guardian×2",
+          "Al Jazeera×2",
+          "CNBC×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

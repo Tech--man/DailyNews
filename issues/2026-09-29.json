@@ -1,0 +1,932 @@
+{
+  "issue": 15,
+  "date": "2026-09-29",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历八月十九 · 秋分",
+    "en": "19th day of the 8th lunar month · Autumn Equinox"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "购买后既没产权还要背银行贷款？起底“0公里二手车”延迟过户的销售套路",
+        "lead": "近日，来自全国多地的二手车买主反映称，此前在河北秦皇岛的一家汽车销售公司处，低价全款入手了一台九成新二手车。最后发现，到手的是一台拿不到产权、背负银行贷款的抵押车。",
+        "body": [
+          "近日，来自全国多地的二手车买主反映称，此前在河北秦皇岛的一家汽车销售公司处，低价全款入手了一台九成新二手车。",
+          "最后发现，到手的是一台拿不到产权、背负银行贷款的抵押车。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705220.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "美中同意互降关税，涉及商品价值600亿美元",
+        "lead": "习近平访问华盛顿后，美中分别宣布了价值300亿美元的降低关税商品清单，清单中未包括敏感原材料和产品。这是两国迄今为止采取的最具有实质意义的举措。 Mario Tama/Getty Images 洛杉矶港。华盛顿列出的可享受关税降低的进口商品清单包括圣诞玩具和装饰品，北京列出的清单则包括农产品和医疗器械。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/business/20260929/china-us-summit-tariffs/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "《我们的钱瑗》新版上市 讲述“我们仨”之外的新故事",
+              "lead": "中新网北京9月29日电 (记者 应妮)作为畅销多年的《我们仨》姊妹篇，《我们的钱瑗(增补本)》日前由生活·读书·新知三联书店全新出版发行。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/09-29/10705240.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "人工智能末世论：为什么有人相信AI是敌基督，诱骗人类崇拜撒旦",
+              "lead": "许多知名基督徒在 TikTok、播客、出版物等各种平台上开始讨论人工智能是否会成为世界毁灭的催化剂。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c54g7dr9nlkpo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20c6/live/5ec04ba0-b367-11f1-a430-4d16ee157c41.jpg"
+            },
+            {
+              "title": "美驻华大使：特朗普曾提议向中国出售武器",
+              "lead": "美国驻华大使庞德伟在接受采访时表示，特朗普曾询问习近平是否愿意购买美国武器。他没有透露更多细节和习近平的答复。白宫随后表示，美国没有进行此类军售的计划。 Kenny Holston/The New York Times 中国国家主席习近平上周对美国进行国事访问。中国是全球军事力量增长最快的国家。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20260928/trump-weapons-sale-china/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "人工智能末日警告？中国人为何“不买帐”",
+              "lead": "对许多中国民众而言，这些末日警告带有鲜明的西方色彩。在人们的认知中，中共对某项技术失去控制几乎不可思议。还有一些解读认为这类警告是美国企业的“恐惧营销”。 Kevin Frayer/Getty Images 对许多中国民众而言，人工智能末日警告显得遥远且带有鲜明的西方色彩。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/technology/20260928/china-us-ai-distrust/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "国务院国资委：将指导央企推动人工智能成果公平可及",
+              "lead": "中新社北京9月28日电 (记者 庞无忌)中国国务院国资委规划发展局局长戴希28日在国新办新闻发布会上透露，将继续加大焕新社区开放力度，(指导中央企业)推动人工智能成果公平可及。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/09-28/10705152.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "特朗普瞄准中期选举关键州爱荷华：宣布150亿美元钢厂建设计划，创造8000个就业岗位",
+              "lead": "特朗普政府将一项大规模制造业投资与中期选举布局深度捆绑。 在选情胶着的爱荷华州，白宫周一宣布Mesabi Metallics计划斥资150亿美元兴建一座大型钢铁厂，以期提振当地经济信心并稳固共和党的选举优势。 特朗普在白宫椭圆形办公室宣布， 该工厂建成后年产钢铁可达1000万吨 ，原料铁矿石将取自该公司在明尼苏达州的矿山。 他将此项目定性为\"迄今美国最大的钢铁厂\" ，同时称配套矿山是\"美国50余年来首个新建铁矿\"。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3782686",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "全球市场：美股三大指数收跌 半导体、光通信板块走低 国际金银价格跳水",
+              "lead": "美股市场： 美股三大指数9月28日收盘全线下跌。截至收盘，道琼斯工业平均指数比前一交易日下跌347.11点，收于51481.51点，跌幅为0.67%； 标准普尔 500种股票指数下跌59.72点，收于7683.69点，跌幅为0.77%； 纳斯达克 综合 指数下跌248.34点，收于26820.38点，跌幅为0.92%。",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://stock.eastmoney.com/news/11784,202609293885612223.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "总台起底“0 公里二手车”延迟过户销售套路，购买后既没产权还要背银行贷款",
+              "lead": "IT之家 9 月 29 日消息，据中央广播电视总台中国之声今日报道，来自全国多地的二手车买主近日反映称，此前在河北秦皇岛的一家汽车销售公司处，低价全款入手了一台九成新二手车。最后发现， 到手的是一台拿不到产权、背负银行贷款的抵押车 。 甚至有新买主在不知情的情况下， 遭遇原车主跨省拖车 。汽车销售公司涉嫌将同一台车，一边找人背下车贷，一边对外转卖，又拿汽车“以旧换新”补贴当说辞拖延过户。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/008/097.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "早报｜苹果修复iPhone 18 Pro面容ID卡死重启/AMD收购李飞飞世界模型/智界RX上市，余承东：鸿蒙智行「最好开的车」",
+              "lead": "苹果推送 iOS 27.0.1，修复 iPhone 18 Pro 面容 ID 卡死 bug Manus 发布 2.0，新增独立个人智能体应用 Cue AMD 宣布以 82 亿美元股票收购 World Labs，李飞飞将任首席科学家 Anthropic 发布 Claude Sonnet 5.5，称生成速度提升逾三成 星舰首次进入地球轨道，部署 26 颗 Starlink V3 卫星 罗福莉晋升至小米 22 级",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1682292?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "SpaceX星舰首次入轨并部署26颗V3星链卫星 公司CFO称其为“创收飞行”",
+              "lead": "SpaceX巨型星舰火箭周一早晨首次进入轨道，为该项目取得重要里程碑。此前，火箭在上升过程中一台发动机失效，一度令此次任务能否继续面临不确定性。星舰于当地时间上午7：49从SpaceX位于德克萨斯州南部的Starbase发射基地升空，开始一次可能持续近10小时的测试飞行。火箭搭载了26颗升级版星链卫星，并已成功将它们部署至轨道，加入现有的太空互联网卫星网络。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1579930.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "日本突发4.9级地震",
+              "lead": "中新网9月29日电 综合报道，据日本气象厅消息，日本茨城县南部29日凌晨发生4.9级地震。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705191.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "带一杯冰咖啡去面试，会令你失去工作机会吗？",
+              "lead": "员工和招募人员都参与了关于面试礼仪的线上讨论。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cm9w4zv14lz2o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2add/live/03c9d510-b905-11f1-bc1f-3f186ca4140c.png"
+            },
+            {
+              "title": "中国商界领袖缺席白宫国宴，这说明了什么？",
+              "lead": "习近平首次对美国进行国事访问时，马云等多名科技公司高管随行。如今中美经贸关系已经发生了巨大变化；两国企业竞争加剧，一些企业甚至在美国面临政治风险。 Haiyun Jiang/The New York Times 周四，中国领导人习近平携夫人彭丽媛在白宫与特朗普总统和梅拉尼娅·特朗普合影。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20260928/trump-xi-jinping-chinese-executives/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "从台海到日本，习近平试图“撬动”特朗普的亚太立场",
+              "lead": "在与特朗普的峰会上，习近平精心选择措辞，试图引导对方立场向北京靠拢。他向特朗普施压，敦促美国限制对台支持；还援引二战历史试图在美日间制裂痕。 Doug Mills/The New York Times 中国领导人习近平和特朗普总统周四在白宫举行的欢迎仪式上。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/china/20260928/summit-xi-trump-taiwan-japan/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "习近平缺席联大：一个日益失去影响力的联合国",
+              "lead": "在伊朗战争、加沙冲突和人工智能等重大议题上，联合国几乎没有发挥影响力。随着世界大国日益规避或无视这一机构，它正陷入摇摇欲坠、失能且基本无效的困境。 Doug Mills/The New York Times 周五，特朗普总统与中国国家主席习近平在白宫外并肩而立。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20260928/trump-china-united-nations/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "2026，中国的加税大年：为甚么经济越差，征税越严？",
+              "lead": "「不能提过高的目标，搞过头的保障，坚决防止落入『福利主义』养懒汉的陷阱。」",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20260929-mainland-taxing-china/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/2025-10-20T080301Z_1052401126_RC2VEHATMDWK_RTRMADP_3_CHINA-ECONOMY-GDP.JPG"
+            },
+            {
+              "title": "“造展人”马可·穆勒平遥谈影展：为电影留下文献",
+              "lead": "中新社山西平遥9月28日电 (记者 胡健)第十届平遥国际电影展“电影使者东游记”大师·对话活动28日在山西平遥举行，意大利电影制片人、策展人马可·穆勒与英国圣安德鲁斯大学全球电影研究荣休教授迪娜·尤尔丹诺娃展开对谈。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/09-28/10705122.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "评赫尔佐格《Bucking Fastard》（吐槽向）：一条无处遁逃的隧道 (评论: 魂淡)",
+              "lead": "Aleph 评论: 魂淡 评价:",
+              "source": "豆瓣",
+              "group": "豆瓣",
+              "link": "https://movie.douban.com/review/17832853/",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "（爱知·名古屋亚运会）综合消息：中国乒乓球队6金收官 中国队卫冕田径男、女4X100米接力",
+              "lead": "中新社日本名古屋9月28日电 爱知·名古屋亚运会28日共决出24枚金牌。乒乓球项目迎来收官，中国队当日包揽男单、女双两枚金牌。本届赛事中国乒乓球队参加全部7项，共斩获6金4银1铜。田径赛场，中国队成功卫冕田径男、女4X100米接力冠军。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-28/10705183.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "（爱知·名古屋亚运会）亚运会乒乓球：蒯曼/王曼昱女双摘金 林诗栋男单夺冠",
+              "lead": "中新社日本名古屋9月29日电 (记者 国璇) 爱知·名古屋亚运会乒乓球项目28日晚收官。中国组合蒯曼/王曼昱以大比分4:0力克东道主组合张本美和/早田希娜，夺得女双冠军。男单决赛中，林诗栋以4:0战胜卫冕冠军王楚钦，首次夺得亚运会男单冠军。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-28/10705182.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "新就业形态劳动者的“医保账”该怎么算",
+              "lead": "有人愿意主动参保 有人心中仍在掂量",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705200.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "在印尼一座热带岛屿上，备受珍视的「永恒积雪」即将永远消失",
+          "lead": "气候变化正改变著印尼巴布亚长年被积雪覆盖的山峰，而这些山峰不但具有科学价值，还有其精神意义。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cwly54drj5l1o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "人工智能与全球政策真空：技术飞速发展、政策制定落后",
+          "lead": "许多国家的政府既希望利用人工智能，又担心它带来的风险。此外，国内政治、技术知识、地缘政治分歧以及不愿在这场关键竞争中落后的心态也令各国领导人",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/world/20260928/ai-government-regulation/?utm_source=RSS"
+        },
+        {
+          "title": "AI从“降息理由”变“加息论据”：库克称2万亿美元资本开支仅花一小部分，电价水价已涨约5%",
+          "lead": "美联储理事库克（Lisa Cook）周一给出了迄今美联储官员对AI通胀效应最具体的量化警告：人工智能带来的生产率提升",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782683"
+        },
+        {
+          "title": "内部测试发现安全隐患，消息称 OpenAI 取消发布 AI 模型 GPT‑6.1 Astra",
+          "lead": "IT之家 9 月 29 日消息，据《华尔街日报》报道，由于内部测试过程中研究人员提出多项安全隐患",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/008/090.htm"
+        },
+        {
+          "title": "在汽车旅馆里研究生命的起源",
+          "lead": "Julia Van Etten 博士热衷于坐在沙发上用一台 300 美元的显微镜观察水滴，寻找其中的生命痕迹。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85496"
+        },
+        {
+          "title": "【华尔街日报】中国催婚催生出奇招：婚姻登记处打造成「浪漫圣地」",
+          "lead": "编按：《华尔街日报》是全球最具影响力的财经媒体之一，每日产出大量深度报导，涵盖国际政治、商业财经与科技趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260929-wsj-china-wants-more-babies/"
+        },
+        {
+          "title": "意大利私人银行高管遭深度伪造骗局设局 AI语音诈骗卷走9500万欧元",
+          "lead": "一起利用人工智能技术实施的高端金融诈骗案近日震惊欧洲银行业。意大利知名私人银行Fideuram因一场精心策划的AI语音诈骗",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1579946.htm"
+        },
+        {
+          "title": "余承东：鸿蒙智行「最好开的车」来了！智界 RX 上市，25.98 万元起",
+          "lead": "要看懂今天刚发布的智界 RX，就要先看懂这台车的方向盘。 在方向盘右下方，智界 RX 带来了一个 BOOST 按键，按下后",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1682272?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "特朗普：没有建议对伊朗实施制裁豁免",
+          "lead": "美国总统特朗普表示，Axios刚发布的有关“特朗普愿向伊朗提供制裁缓解和解冻被冻结资金”的报道不属实，要求该媒体“立即撤回”相关报道。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1351,202609293885615253.html"
+        },
+        {
+          "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
+          "lead": "少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "少數派",
+          "link": "https://sspai.com/post/115134"
+        },
+        {
+          "title": "“尸位素餐”——《夺魂索》的台前幕后 (评论: 夺魂索)",
+          "lead": "桃浪九🌈 评论: 夺魂索 评价: 还行",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17834030/"
+        },
+        {
+          "title": "白宫习特会更多内容公布 可此刻无声胜有声",
+          "lead": "白宫峰会最耐人寻味之处，或许在于中美两国领导人没有说哪些事，以及我们至今仍不知道哪些事。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cmzxzl450p2no/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "欧央行加息预期降温，拉加德：长端利率上行将抑制增长与通胀",
+          "lead": "欧洲央行行长的最新表态，令市场对欧央行进一步收紧政策的押注明显降温。 欧洲央行行长Christine Lagarde（拉加德）周一表示",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782679"
+        },
+        {
+          "title": "补看周末：康乃尔兄弟会性侵案重启调查",
+          "lead": "这一周，许多事都始于不起眼的瞬间：一则群组讯息、一名句警觉性的居民、一封以健康为由的辞呈。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260928-weekly/"
+        },
+        {
+          "title": "回购、业绩预告 A股利好来了！",
+          "lead": "9月28日晚，一批A股上市公司发布三季度业绩预增公告以及回购公告。 其中，芯联集成公告称",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1354,202609283885522965.html"
+        },
+        {
+          "title": "五年烁灭，七载彷徨 (评论: 复仇者联盟4：终局之战)",
+          "lead": "福雷斯特·冈普 评论: 复仇者联盟4：终局之战 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17833982/"
+        }
+      ],
+      "supplement": {
+        "title": "抵达欧洲，仍未自由：中国酷儿如何向德国庇护体系证明自己？",
+        "lead": "「我是走进来的」，茜茜异常平静地描述自己来到德国的方式，没有情绪起伏的语气背后，却是一段从巴尔干半岛出发、长达上千公里的跋涉。 今年5月，茜茜坐上了前往波黑首都萨拉热窝（Sarajevo，又译塞拉耶佛）的飞机。这是来自中国、今年刚20岁出头的她第一次申请护照，也是第一次出国。此前，她在抖音上频繁刷到关于「走线」的视频。在看到特价机票后，她几乎没有犹豫，只带著手机、充电宝和600欧元现金，穿著一条单薄的裙子，就踏上了远离中国的旅途。",
+        "body": [
+          "「我是走进来的」，茜茜异常平静地描述自己来到德国的方式，没有情绪起伏的语气背后，却是一段从巴尔干半岛出发、长达上千公里的跋涉。今年5月，茜茜坐上了前往波黑首都萨拉热窝（Sarajevo，又译塞拉耶佛）的飞机。",
+          "这是来自中国、今年刚20岁出头的她第一次申请护照，也是第一次出国。此前，她在抖音上频繁刷到关于「走线」的视频。在看到特价机票后，她几乎没有犹豫，只带著手机、充电宝和600欧元现金，穿著一条单薄的裙子，就踏上了远离中国的旅途。",
+          "她的目的地是德国，但茜茜离开中国并不只是为了寻找更好的工作机会，而是希望能够以自己认同的女性身份来生活，并希望有一天能够接受跨性别医疗手术。从抖音上，她了解到德国每年都有彩虹节，许多居民楼外会挂著彩虹旗，性少数可以公开表达甚至庆祝自己的性别。茜茜希望以酷儿身份申请德国的难民庇护，展开全新的自由生活。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20260929-international-chinese-queer-asylum-seekers-in-germany/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/------5-1.jpg"
+      },
+      "stats": {
+        "visible": 40,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 20,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×6",
+          "端傳媒×4",
+          "華爾街見聞×3",
+          "東方財富×3",
+          "豆瓣×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "lead": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
+        "body": [
+          "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards."
+        ],
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d46e/live/100af420-bba4-11f1-b5d5-0be7b4d3c75d.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "OpenAI scraps release of new model over safety concerns in internal testing",
+        "lead": "GPT-6.1 Astra showed deceptive behavior and tried to use external tools despite knowing it would be unsafe OpenAI is scrapping the release of GPT-6.",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/888177c732f90802c4408241d5ffe34e0afa610d/701_0_4167_3335/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=f6663bc4adf28068eb0383edc5ca1925",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Local representatives question official accounts after suspected bomb plot at RAF Fairford",
+              "lead": "Amid conflicting statements, local MP and councillors demand answers over how suspects were allowed to enter residential areas of nearby village An MP and councillors representing the residents of the village near RAF",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/uk-news/2026/sep/28/raf-fairford-representatives-sceptical-suspected-bomb-plot",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/e2fa2a94484bf6e10408de19620068b8ed6f33f9/359_0_3545_2835/master/3545.jpg?width=140&quality=85&auto=format&fit=max&s=49f76571b856fb9cba63fc16513b35c4",
+              "consensus": 5
+            },
+            {
+              "title": "Netanyahu Visits Emirati Leader After Reports on Warning About Hamas Attack",
+              "lead": "Official statements said bilateral relations were discussed. But the question of who bears responsibility for failing to prevent the Oct. 7 attack is a major election issue in Israel.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/09/28/world/middleeast/netanyahu-emirati-leader-hamas-attack.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/09/28/multimedia/28int-netanyahu-uae-mqfp/28int-netanyahu-uae-mqfp-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Nations League: Italy rebound in Turkey as France snatch late win in Belgium",
+              "lead": "Italy bounced back in style on Monday, thumping Turkey 4-1 in the rain to revive their Nations League campaign, while France edged Belgium 1-0 in Brussels with a late winner from Michael Olise.",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/sport/20260928-italy-rebound-in-turkey-as-france-win-late-in-belgium",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://s.france24.com/media/display/8995ab96-bb81-11f1-a917-177f79e345bf/w:1024/p:16x9/7061f5ab976a03337a9ed9ea70acca05fe405af8.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Anthropic warns of ‘existential risks to humanity’ in IPO prospectus",
+              "lead": "Long-awaited S1 filing reports Claude maker lost $8bn last year on $4.6bn in revenue",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2d7c5a8f-c202-466f-8e5b-fdf19320f2d6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Unis are offering degrees in content creation for £30,000. But are they worth it?",
+              "lead": "Content creation degrees aim to help people make money from their social media posts.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bd8/live/052c6f10-b754-11f1-bc1f-3f186ca4140c.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Muse AI agent led Meta Platforms into the Best Stocks in the Market list. What Josh Brown thinks",
+              "lead": "Meta made it into Josh Brown's list after last week's surge.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/09/28/muse-ai-agent-led-meta-platforms-into-the-best-stocks-in-the-market-list.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
+              "lead": "Another federal appeals court has ruled that states can enforce their gambling laws against the prediction market Kalshi, which asserts that it can only be regulated by the US government.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "OpenAI scraps release of latest AI model over safety concerns",
+              "lead": "AI giant says GPT-6.1 Astra failed to meet alignment standards during internal testing.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown",
+              "lead": "The company said Sonnet 5.5 doesn't advance the frontier, but that it is better at coding and knowledge work tasks than its predecessor.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/09/28/anthropic-sonnet-5-5-launch.html",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "OpenAI reportedly ditches model over safety concerns",
+              "lead": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "FAI investigates alleged racist abuse of Idah",
+              "lead": "The FAI is amassing high-quality footage of the alleged incident with the aim of presenting evidence to Uefa.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cx4gq167288lo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a3b/live/1d4838a0-bb31-11f1-a9b8-670e5d9d8eee.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "US retain Presidents Cup with final day comeback",
+              "lead": "Watch highlights from the final day of the Presidents Cup as the United States complete a thrilling comeback to beat the Internationals and win their 11th successive title.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/golf/videos/ck790pj7dd32o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ecc/live/a05bc540-bb2c-11f1-a430-4d16ee157c41.jpg"
+            },
+            {
+              "title": "Ferguson retains Rangers dream but Bologna exit never close",
+              "lead": "Lewis Ferguson reveals \"nothing was ever that close\" on a move away from Bologna this summer amid reports of interest from Rangers but he does harbour ambitions of a return to his boyhood club.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cw62jy1e40mlo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe90/live/6b6d4940-bb53-11f1-bd21-bdf910f2cec6.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Rob Lowe Says ‘St. Elmo’s Fire’ Sequel Is Still ‘In the Works,’ Confirms There’s a Script: ‘All of Us Actors Want to Do It’",
+              "lead": "Rob Lowe finally has an update on the long-discussed “St. Elmo’s Fire” sequel. “It is definitely in the works, for sure,” the actor said when asked about the project’s current status during a “Watch What Happens Live”",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/rob-lowe-st-elmos-fire-sequel-in-the-works-1236877779/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/09/MSDSTEL_EC034.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Former ‘South Park’ Writer Launches Site to Expose Information About Cornell University Sexual Assault Case: ‘There Will Be Accountability’",
+              "lead": "Following the news that a former Cornell student had accused seven men of raping and drugging her at a frat house party in October 2024 — and none faced legal consequences",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/news/south-park-writer-cornell-university-sexual-assault-case-1236877772/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/09/tobym.avif",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Blood tests reveal why astronauts get constipated in space",
+              "lead": "Spaceflight may dramatically change the gut within weeks, causing bacteria to break down more protein as food moves more slowly through the intestines.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260927225030.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "160-million-year-old proteins show surprising power against superbugs",
+              "lead": "Scientists resurrected antimicrobial peptides from mammals that lived millions of years ago and found that some were more potent against drug-resistant bacteria than modern human versions.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260925093155.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Is the universe infinite? The answer gets weird fast",
+              "lead": "Measurements of ancient light from the cosmic microwave background suggest that the universe is remarkably flat. But that does not prove it is infinite",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260927225041.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Australia news live: OpenAI apologises for Medicare hack, calling it a ‘new kind of cyber incident’",
+          "lead": "Follow the day’s news live Get our breaking news email",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/australia-news/live/2026/sep/29/treasurer-jim-chalmers-reserve-bank-cash-rate-decision-coalition-one-nation-ntwnfb"
+        },
+        {
+          "title": "Sign before praying: A new conversion law is affecting churchgoers in Indian state",
+          "lead": "A new anti-conversion law in Maharashtra is raising questions about",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmj4jg2vxvpdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "UK Villages That Host US Bombers Are Abuzz Over Possible Terrorist Plot",
+          "lead": "Two villages and a town near R.A.F. Fairford were thrust into the",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/09/28/world/europe/uk-fairford-base-terrorist-plot.html"
+        },
+        {
+          "title": "Netanyahu under pressure over reports he was warned about October 7",
+          "lead": "Opposition attacks Israeli premier ahead of election over leaks",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/f261c9cd-7169-4d16-97fc-9859099ce0f8?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Olise scores late to grab France 1-0 Nations League win at Belgium",
+          "lead": "Bayern Munich star Olise set off from inside his own half to score",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss"
+        },
+        {
+          "title": "Anthropic warns AI may pose 'existential risks to humanity' in IPO filing: Reuters",
+          "lead": "Anthropic plans to warn IPO investors that advanced AI could pose",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html"
+        },
+        {
+          "title": "Trump and Xi’s ‘stalemate’ summit was a glitzy gift to China",
+          "lead": "The summit's limited outcomes showed just how far apart Washington",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/09/29/world/politics/trump-xi-summit-gift-china/"
+        },
+        {
+          "title": "‘Missed opportunity’: US soybean farmers question exclusion from China tariff cuts",
+          "lead": "US soybean farmers have described the exclusion of US soybeans from",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/us/diplomacy/article/3369119/missed-opportunity-us-soybean-farmers-question-exclusion-china-tariff-cuts?utm_source=rss_feed"
+        },
+        {
+          "title": "Nvidia launches new platform for reining in rogue AI agents",
+          "lead": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
+        },
+        {
+          "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+          "lead": "OpenAI says it has paused all internal training of \"our most capable",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/"
+        },
+        {
+          "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+          "lead": "World Labs co-founder and CEO Fei-Fei Li. | Bloomberg via Getty",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal"
+        },
+        {
+          "title": "Scientists found a surprising driver of Alzheimer’s outside the brain",
+          "lead": "Scientists found that immune cells contributing to",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260925093150.htm"
+        },
+        {
+          "title": "Mohammad Rasoulof, O Mipo to Receive Tokyo Film Festival’s Kurosawa Akira Award",
+          "lead": "Mohammad Rasoulof, the Iranian filmmaker who secretly left his",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/festivals/mohammad-rasoulof-o-mipo-tokyo-kurosawa-akira-award-1236877201/"
+        },
+        {
+          "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
+          "lead": "It comes after the woman filed a civil lawsuit alleging she was",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "OpenAI axes next model citing safety issues",
+          "lead": "AI lab will hold back GPT-6.1 Astra following mounting pressure over",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/488cb467-3cb7-4d06-9a5f-c0749c729d91?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs: Reuters",
+          "lead": "Anthropic is making a massive bet that AI will transform the global",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html"
+        }
+      ],
+      "supplement": {
+        "title": "How to Watch Tonight’s ‘All American’ Series Finale Online Free",
+        "lead": "After eight seasons and more than 100 episodes, The CW’s “All American” bids farewell tonight. The high school football drama airs its final episode tonight at 8 p.m.",
+        "body": [
+          "After eight seasons and more than 100 episodes, The CW’s “All American” bids farewell tonight.",
+          "The high school football drama airs its final episode tonight at 8 p.m.",
+          "on The CW, closing a chapter that first premiered in October of 2018. Viewers can tune into the hour-long “All American” finale on TV through their local […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/shopping/news/how-to-watch-all-american-series-finale-sept-28-online-free-1236877762/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/09/watch-all-american-series-finale-online-free.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×4",
+          "Guardian×2",
+          "CNBC×2",
+          "Ars Technica×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-09-29T01:36:05.885Z",
+    "sources": {
+      "configured": 36,
+      "ok": 35,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "界面新聞",
+          "reason": "fetch failed"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 773,
+        "lang": 430,
+        "fresh": 347,
+        "denoised": 346,
+        "deduped": 328
+      },
+      "en": {
+        "fetched": 773,
+        "lang": 343,
+        "fresh": 324,
+        "denoised": 323,
+        "deduped": 316
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 40,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 20,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×6",
+          "端傳媒×4",
+          "華爾街見聞×3",
+          "東方財富×3",
+          "豆瓣×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×4",
+          "Guardian×2",
+          "CNBC×2",
+          "Ars Technica×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

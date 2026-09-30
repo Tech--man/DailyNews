@@ -1,0 +1,932 @@
+{
+  "issue": 16,
+  "date": "2026-09-30",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历八月二十 · 秋分",
+    "en": "20th day of the 8th lunar month · Autumn Equinox"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "欧盟相关成员国推动欧委会打造欧版“301”工具 中国商务部回应",
+        "lead": "中新社北京9月30日电 就欧盟相关成员国推动欧委会打造欧版“301”工具，中国商务部新闻发言人9月29日晚间表示，如欧方执意出台对中国企业或产品的歧视性限制措施，中方必将坚决予以回应。",
+        "body": [
+          "中新社北京9月30日电 就欧盟相关成员国推动欧委会打造欧版“301”工具，中国商务部新闻发言人9月29日晚间表示，如欧方执意出台对中国企业或产品的歧视性限制措施，中方必将坚决予以回应。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/cj/2026/09-30/10705983.shtml",
+        "category": "top",
+        "categoryLabel": "要闻"
+      },
+      "secondary": {
+        "title": "“中国制造”背后的声音：在农民工文学里读懂中国",
+        "lead": "在中国，由零工经济从业者和工厂工人创作的文学体裁正日益流行，但也面临着政府越来越严格的审视。这些书让人们窥见那些无处不在却鲜少能发出声音的工人群体的生活。 Gilles Sabrié for The New York Times 去年，深圳赛格广场外。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/china/20260930/china-workers-poetry-pope-leo/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "居民购房贷款贴息政策10月1日起实施",
+              "lead": "记者 汪文正",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/09-30/10705962.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "我付了3万英镑读个「网红」学位，这是为什么",
+              "lead": "内容创作学位旨在帮助人们透过社群媒体贴文赚钱。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/ck0e3v1zjvj9o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3bd8/live/052c6f10-b754-11f1-bc1f-3f186ca4140c.jpg"
+            },
+            {
+              "title": "中国当局为何要求中学生读《简·爱》？",
+              "lead": "《简·爱》在中国一直很受欢迎。今年秋天，当局要求九年级学生完整阅读这本书，官媒将其誉为反物质主义爱情故事。分析认为，这部小说符合中国政府关于女性平等的愿景。 Zhu Zhenqiang/VCG, via Getty Images 8月，一名女子在北京的一家书店里阅读。自一个世纪前首次被译成中文以来，《简·爱》在中国已吸引了数代读者。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/china/20260929/china-jane-eyre-required-reading-literature/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "中国真的在窃取美国公司的人工智能技术吗？",
+              "lead": "多家硅谷公司指责中国企业利用蒸馏技术不当挪用其先进的人工智能技术。许多专家认为，这些说法有夸大之嫌。本文对蒸馏如何成为一个地缘政治问题进行了解析。 Hector Retamal/Agence France-Presse — Getty Images 智谱和月之暗面等中国公司与Anthropic和OpenAI的差距并不大。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/technology/20260929/china-ai-distillation-copying/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "车船税政策调整，新能源汽车行业有何变化",
+              "lead": "车船税政策调整，新能源汽车行业有何变化(政策问答·回应关切)",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/09-30/10705947.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "尽管油价走低、尽管美联储高管“放鸽”，美债收益率依旧在走高",
+              "lead": "美国国债抛售潮持续蔓延，长端收益率屡创新高，令市场对利率前景的判断愈发复杂。 周二，30年期美债收益率触及24年高位，10年期收益率亦升至2002年以来最高水平。这一走势令人瞩目——当日油价明显回落，纽约联储主席John Williams也发出偏鸽派信号，暗示加息无需急于求成，但两大利空因素均未能阻止收益率的上行。美债市场的顽固走势，正在向股市传导，三大股指小幅收跌。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3782785",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "央行调整完善若干货币政策工具：下调抵押补充贷款（PSL）利率0.25个百分点",
+              "lead": "为贯彻中央政治局会议精神和国务院常务会议部署，实施好适度宽松的货币政策，中国人民 银行 在充分发挥各项存量政策效能的基础上，决定进一步调整完善几项货币政策工具，为经济平稳增长、高质量发展和金融市场稳定运行创造适宜的货币金融环境，推动经济持续向新向优向好发展，支持“十五五”实现良好开局。 一是下调抵押补充贷款（PSL）利率0.25个百分点。一年期抵押补充贷款利率从1.75%降至1.5%，更好激励政策性 银行 支持实体经济、服务国家战略。",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://finance.eastmoney.com/news/1345,202609293886558061.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "消息称 OpenAI 计划 IPO 前再融资至少 300 亿美元，估值达 1.4 万亿美元",
+              "lead": "IT之家 9 月 30 日消息，据彭博社当地时间周二报道，OpenAI 正在与投资方展开磋商，计划在首次公开募股之前完成一轮融资，至少募集 300 亿美元 （IT之家注：现汇率约合 2,016.47 亿元人民币） 资金，对应的企业估值大约为 1.4 万亿美元 （现汇率约合 9.41 万亿元人民币） 。 在市场普遍预期这家 ChatGPT 开发企业将于明年登陆公开市场之前，投资者都希望向其追加投入更多资金。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/008/558.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "ASML称人工智能对芯片制造的影响将持续10至15年",
+              "lead": "全球唯一能够制造极紫紫外光刻设备的企业ASML表示，人工智能热潮对社会和芯片产业的影响不会在短期内结束，而是可能在未来10至15年持续展开。ASML首席执行官克里斯托夫·福凯表示，目前人工智能带来的变化“只是冰山一角”。满足未来需求不仅需要更多AI加速器，还需要改进光学系统、发展垂直芯片设计，并扩大全球专业供应商网络。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1580112.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "OpenAI 年度发布会最全总结：25 个新品很夯，但额度减半拉爆了",
+              "lead": "在实力至上主义的 AI 圈，用户口碑只看产品能力和性价比。 所以，随着这几天能力拉爆一切的 Opus 5.5 和 Sonnet 5.5 上线，Anthropic 那一厢可以说是勃勃生机万物竞发；而面临着压力的 OpenAI 最近又开始了谜语人模式，各种语焉不详的推文大意就是：「到 DevDay 看我们怎么还击！」 今天凌晨，OpenAI 一年一度的开发者活动 DevDay 2026 终于到来。",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1682571?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "欧盟公布“五点计划”应对非法入境问题",
+              "lead": "中新社布鲁塞尔9月29日电 (记者 德永健)在今年夏天西班牙休达发生边境移民危机后，欧盟29日公布“五点计划”，应对非法入境问题。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-30/10705949.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "美军撤离伊拉克：驻军20年留下什么遗产？接下来会发生什么？",
+              "lead": "美国计划于9月30日前从伊拉克撤出剩余部队，结束自2003年美国领导的推翻萨达姆·侯赛因政权的入侵以来在伊拉克的军事存在。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cr5ye133p55qo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/499c/live/b9e586f0-bb49-11f1-a071-65d2e11c8f4a.png"
+            },
+            {
+              "title": "产能过剩背景下，中国汽车业走向并购重组时代",
+              "lead": "蔚来和吉利达成充换电合作，这是中国汽车行业激烈竞争背景下行业整合的最新迹象。分析认为，在产能过剩的大背景下，中国汽车业的并购重组将成为未来趋势。 Qilai Shen for The New York Times 去年，中国宁波吉利汽车极氪工厂装配线上的一组电池组。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20260929/china-ev-geely-nio/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "美中同意互降关税，涉及商品价值600亿美元",
+              "lead": "习近平访问华盛顿后，美中分别宣布了价值300亿美元的降低关税商品清单，清单中未包括敏感原材料和产品。这是两国迄今为止采取的最具有实质意义的举措。 Mario Tama/Getty Images 洛杉矶港。华盛顿列出的可享受关税降低的进口商品清单包括圣诞玩具和装饰品，北京列出的清单则包括农产品和医疗器械。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20260929/china-us-summit-tariffs/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "人工智能末世论：为什么有人相信AI是敌基督，诱骗人类崇拜撒旦",
+              "lead": "许多知名基督徒在 TikTok、播客、出版物等各种平台上开始讨论人工智能是否会成为世界毁灭的催化剂。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c54g7dr9nlkpo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20c6/live/5ec04ba0-b367-11f1-a430-4d16ee157c41.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "放弃本科读职校，中国职校生终于「逆袭」了吗？",
+              "lead": "大家期待的华为实习并没有如期到来，来的都是一些名不见经传的制造业公司，招技术工。这比拧螺丝好不到哪里。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20260930-mainland-vocational-training-in-china/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/GettyImages-2288470129.jpg"
+            },
+            {
+              "title": "第十届平遥国际电影展各奖项揭晓",
+              "lead": "中新社山西平遥9月29日电 (记者 胡健)第十届平遥国际电影展“平遥之夜”29日晚在山西晋中平遥古城举行，各竞赛单元荣誉逐一揭晓。山西籍导演牛牛执导的《尾款》摘得费穆荣誉最佳影片与最佳男演员两项荣誉。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/09-29/10705939.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "（爱知·名古屋亚运会）综合消息：中国羽毛球队两金收官 田径赛场“多点开花”",
+              "lead": "中新社日本名古屋9月29日电 当地时间29日，爱知·名古屋亚运会共决出34枚金牌，羽毛球、田径等多个项目迎来收官。中国羽毛球队当日在混双项目上收获一枚金牌，在男双、女双项目中获得两枚银牌，最终以2金3银3铜结束本届亚运会。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-29/10705936.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "（爱知·名古屋亚运会）李雯雯“稳稳”夺冠",
+              "lead": "中新网日本名古屋9月29日电 题：李雯雯“稳稳”夺冠",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-29/10705917.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "“外媒看中国”活动走进黑龙江 见证农业“智”变",
+              "lead": "中新社黑龙江佳木斯9月29日电 (记者 王妮娜)“稻田一眼望不到边，看不到人，只有无人驾驶收割机在自动收割水稻，很震撼。”新加坡《海峡时报》记者游润恬29日在黑龙江佳木斯富锦市万亩水稻科技示范园参观时说。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705929.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "美国消费者信心骤降至2014年以来最低，消费意愿全面降温，美联储面临政策两难",
+          "lead": "美国消费者信心在9月大幅下滑，触及逾十年低点， 能源价格高企与通胀压力持续侵蚀家庭实际收入，购房、购车及大件家电需求意愿同步收缩。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782775"
+        },
+        {
+          "title": "人工智能末日警告？中国人为何“不买帐”",
+          "lead": "对许多中国民众而言，这些末日警告带有鲜明的西方色彩。在人们的认知中，中共对某项技术失去控制几乎不可思议。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/technology/20260928/china-us-ai-distrust/?utm_source=RSS"
+        },
+        {
+          "title": "特朗普会晤人工智能业界领袖 反对新增联邦安全监管",
+          "lead": "在全球对人工智能威胁的担忧日益加剧之际，美国总统唐纳德·特朗普在白宫与人工智能行业高管会面后，否定了针对人工智能出台新联邦法规的想法。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1580118.htm"
+        },
+        {
+          "title": "伊朗女歌手演出不戴头巾遭判笞刑74鞭 上诉遭驳回",
+          "lead": "帕拉斯托·阿赫玛迪因在一场直播音乐会中身穿无袖连身裙演唱，被裁定犯有「冒犯公共道德」罪。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cq5yj1dd5wxyo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "拳头游戏虚拟乐团“真实伤害”回归，演唱 2026 英雄联盟全球总决赛主题曲",
+          "lead": "IT之家 9 月 30 日消息，拳头游戏今日（9 月 30 日）宣布，旗下英雄联盟虚拟嘻哈音乐组合“真实伤害”回归",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/008/577.htm"
+        },
+        {
+          "title": "数说科技：从立场到文化，AI 让我们的写作越来越像",
+          "lead": "编按：「 数说科技 」是端传媒的注册免费栏目，每周三更新。从一个数字出发，用1500字解析科技话题，追踪值得关注的 AI 趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260930-tech-in-numbers-ai-writing-homogenization/"
+        },
+        {
+          "title": "早报｜曝苹果新CEO想更快发产品/华为Mate 90真机进店/GPT‑6.1 Sol推出，价格仅Astra的五分之一",
+          "lead": "曝苹果新 CEO Ternus 希望更快发产品、精简组织 华为 Mate 90 真机进店",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1682554?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "AMD 以 82 亿美元收购李飞飞的 World Labs",
+          "lead": "AMD 宣布收购李飞飞联合创办的 AI 初创公司 World Labs，交易总额约 82 亿美元，采用全股票形式支付。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85501"
+        },
+        {
+          "title": "[投资] A 股 万科 房地产新政策",
+          "lead": "9 月 29 发的新政策，万科 A 提前 11 天就开始涨停了，如果算上前期默默吸筹的时间，还指不定是多久前知道消息的。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1245687#reply8"
+        },
+        {
+          "title": "全球市场：美股三大指数均小幅收跌 AI硬件股普涨 美油跌近4%",
+          "lead": "美股市场： 美股三大指数09月29日收盘全线下跌。截至收盘，道琼斯工业平均指数比前一交易日下跌131.59点，收于51349.92点",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://stock.eastmoney.com/news/11784,202609303886865649.html"
+        },
+        {
+          "title": "路迢远兮千万里，谁为余兮传致 (评论: 挑情丑闻)",
+          "lead": "蓝紫青灰 评论: 挑情丑闻 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17835245/"
+        },
+        {
+          "title": "多位美联储官员支持进一步加息，“三把手”称年内还需加息但不急，10月加息降温",
+          "lead": "美联储多位官员周二密集发声，强化了年内仍需进一步收紧货币政策的预期，但市场对近期加息的押注却有所降温。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782768"
+        },
+        {
+          "title": "一名锡安教会被捕牧师妻子的流亡、煎熬与信仰",
+          "lead": "耿朋朋的丈夫高颖佳是锡安教会的二号人物，去年10月被中国当局抓捕。耿朋朋带着年幼的儿子逃往泰国，仍在努力营救丈夫。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/china/20260929/china-zion-church-pastor-detained-family/?utm_source=RSS"
+        },
+        {
+          "title": "亦敌亦友：澳洲如何在超级大国竞争中找平衡？",
+          "lead": "澳洲越来越担心中国的军事实力——但北京也是其最大的贸易伙伴。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c6lyq5d3g9j8o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "西藏民主化65年后，流亡藏人政府如何准备「后达赖喇嘛时代」？｜Whatsnew",
+          "lead": "今年2月至4月，全球流亡藏人完成新一届大选。但「无国之国」的流亡民主依然面临严峻的现实困境。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260928-whatsnew-exiled-tibetan-democracy-day-lobga-rangzen-sacrifice/"
+        },
+        {
+          "title": "9月29日晚间上市公司利好消息一览(附名单)",
+          "lead": "沪深两市多家上市公司9月29日晚间发布重要公告，以下为利好的消息汇总： 网宿科技 ：拟3亿元投资视频生成模型公司Sand.ai 网宿科技",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1353,202609293886636928.html"
+        }
+      ],
+      "supplement": {
+        "title": "深海是一门好生意吗？一艘无人使用的科考船，与中国的深海淘金梦",
+        "lead": "2026年5月5日，中国首艘由民间集资建造的3500吨级科学考察船「海鹰加科」号在浙江省温岭市正式下水。这台深海探测能力的大洋综合科考船，是由福建省船舶及海洋工程技术研究院设计，于 2025年3月开工建造，历时14个月建造完成。 相较于过往由国家研究机构或高等教育院校出资建造的科考船，「海鹰加科」号的投资者是37位浙江温岭渔民，每人出资几万至几百万人民币不等，总投资约1.5亿元。",
+        "body": [
+          "2026年5月5日，中国首艘由民间集资建造的3500吨级科学考察船「海鹰加科」号在浙江省温岭市正式下水。这台深海探测能力的大洋综合科考船，是由福建省船舶及海洋工程技术研究院设计，于 2025年3月开工建造，历时14个月建造完成。",
+          "相较于过往由国家研究机构或高等教育院校出资建造的科考船，「海鹰加科」号的投资者是37位浙江温岭渔民，每人出资几万至几百万人民币不等，总投资约1.5亿元。然而，根据中国科技部下属官方媒体《科技日报》 报导 ，截至6月初，「海鹰加科」尚未接到任何科考合作项目；",
+          "至今我们也未能查询到「海鹰加科」出海科研的公开纪录。中国民间集资的第一艘科考船，正面临找不到合作方、无人使用的窘境。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20260930-mainland-chinas-deepsea-mining-business/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/GettyImages-2275113918.jpg"
+      },
+      "stats": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "端傳媒×4",
+          "BBC×3",
+          "華爾街見聞×3",
+          "東方財富×3"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+        "lead": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
+        "body": [
+          "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers."
+        ],
+        "source": "BBC Business",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+        "category": "tech",
+        "categoryLabel": "Technology",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/181a/live/455d3af0-bc41-11f1-bc1f-3f186ca4140c.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Evicted Woman Set to Return Home as Spain Announces Plans to Fix Housing Crisis",
+        "lead": "The eviction of an 87-year-old set off protests in the country, which has an acute housing shortage. The government presented legislation to protect renters.",
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/09/29/world/europe/spain-housing-eviction-maricarmen-abascal-madrid-protests.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/09/29/multimedia/29int-spain-housing-01-hczq/29int-spain-housing-01-hczq-mediumSquareAt3X-v2.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "News live: Alan Kohler announces retirement from ABC after 31 years; six Australian universities in top 100 global rankings",
+              "lead": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Who is potential Greens deputy leader candidate Steph Hodgins-May?",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/f50ed3f4e3b852296f13d51f33261059f9e31d66/458_0_3405_2724/master/3405.jpg?width=140&quality=85&auto=format&fit=max&s=ce1d48c8852bd2e1268c5b3d3c0c7b76",
+              "consensus": 5
+            },
+            {
+              "title": "First female prime minister named in Morocco after winning elections",
+              "lead": "Her appointment by the king makes her only the second woman to lead a government in the Arab world.",
+              "source": "BBC News",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89e1/live/1f6a3b30-b8f5-11f1-bd4a-e9ce4be469f6.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Morocco’s King Names a Female Prime Minister, in a Historic First",
+              "lead": "Fatima Ezzahra El Mansouri, a lawyer and politician from the centrist Authenticity and Modernity Party, is only the second woman to lead the government of a North African country.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/09/29/world/middleeast/morocco-first-woman-prime-minister.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/09/29/multimedia/29int-morocco-pm-1-bfqz/29int-morocco-pm-1-bfqz-mediumSquareAt3X.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Huel ad banned for suggesting its products could replace all conventional food",
+              "lead": "The advertising watchdog said that viewers could assume from the ad that replacing all normal food with Huel was \"nutritionally appropriate\".",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd00/live/b8e0d640-bb4b-11f1-a071-65d2e11c8f4a.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Altman says OpenAI will delay its IPO until it overcomes safety concerns",
+              "lead": "ChatGPT maker launches a new AI personal assistant as it faces a challenge from Meta’s Muse",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/211d10ae-cf9e-481d-99ed-0321d2eb0676?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F375fbad2-09c8-405e-85c5-959d39c6ee8d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Microsoft shares might be rangebound. Here's how you can still make money",
+              "lead": "Trader Julia Spina explains an iron condor trade on Microsoft.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/09/29/microsoft-shares-might-be-rangebound-heres-how-you-can-still-make-money.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
+              "lead": "Another federal appeals court has ruled that states can enforce their gambling laws against the prediction market Kalshi, which asserts that it can only be regulated by the US government.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+              "lead": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue",
+              "lead": "Trump shrugged when asked if he is concerned that his support for AI and data centers could hurt Republicans in the upcoming midterm election.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/09/29/trump-ai-super-intelligence.html",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+              "lead": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Red Roses to return to Sunderland for Women's Six Nations",
+              "lead": "England will return to Sunderland's Stadium of Light – the venue for their record-breaking Women's Rugby World Cup opener – for the 2027 Six Nations.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ck1e5wn123xxo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b57/live/96e37760-bbf4-11f1-9074-3d74885a19d6.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Who 'battled impressively' for Scots? And how did you rate players?",
+              "lead": "How Scotland's players rated in their Nations League defeat by Switzerland.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cj046wdz0gd4o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d366/live/54a53bc0-bc4b-11f1-a430-4d16ee157c41.jpg",
+              "consensus": 2
+            },
+            {
+              "title": "What have Man City been found guilty of doing?",
+              "lead": "Manchester City are found guilty of all charges related to breaches of Premier League financial rules between the 2009-10 and 2017-18 seasons. BBC sports editor Dan Roan explains what it means for the club and the league.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/cm1j46n74ke6o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7698/live/b00e4a00-bc2e-11f1-bd21-bdf910f2cec6.jpg"
+            },
+            {
+              "title": "Who continues to show how important they are? England player ratings",
+              "lead": "How the England players rated following their Nations League match.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c6g7kldr9378o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e69/live/c94a88f0-bc40-11f1-8666-b5dc4bdc94cb.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Penn Badgley Swore Off Sex Scenes. His Wife Says It Was Not Her Idea: ‘He Decided to Do This for Mental Health Reasons’",
+              "lead": "Penn Badgley infamously swore off sex scenes before the production of “You” Season 4, revealing on a viral episode of his “Podcrushed” podcast in Feb.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/news/penn-badgley-banned-sex-scenes-wife-mental-health-1236878374/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2023/03/You.Season4.PennBadgley.main_.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "‘The Little Prince’ Live-Action Movie Set With ‘The Imitation Game’ Director Morten Tyldum and Simon Beaufoy (EXCLUSIVE)",
+              "lead": "“The Little Prince” is getting a new big-screen treatment with “The Imitation Game” director Morten Tyldum set to helm an ambitious live-action feature inspired by the life of French aviator Antoine de Saint-Exupéry.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/global/the-little-prince-imitation-game-morten-tyldum-simon-beaufoy-1236878558/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/09/FotoJet-2026-09-29T233634.574.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "The ice blasting from Saturn's moon Enceladus is stranger than scientists realized",
+              "lead": "Enceladus may naturally separate and concentrate chemicals from its hidden ocean as droplets slowly freeze and shatter on their way into space.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260929053528.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Earth’s day isn’t exactly 24 hours. The reason may lie deep inside the planet",
+              "lead": "Scientists may have solved why the length of Earth’s day changes by a few milliseconds over decades. Subtle shifts in the inner core appear to tug on the mantle",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260928100540.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Hidden stem cells may be fueling spinal stenosis",
+              "lead": "Scientists have discovered a stem cell that appears to serve as a master source for tendon and ligament cells throughout the body. In lumbar spinal stenosis",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260927225017.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "US Senate blocks resolution demanding accountability over Israeli violence in West Bank",
+          "lead": "Nine American citizens have been killed by Israeli settlers or",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/us-news/2026/sep/29/senate-resolution-west-bank-israel-violence"
+        },
+        {
+          "title": "Prime Minister Andy Burnham Lays Out Plan to Change UK in Emotional Speech at Labour Conference",
+          "lead": "Andy Burnham set out a range of policies on Tuesday in his biggest",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/09/29/world/europe/andy-burnham-labour-conference-uk.html"
+        },
+        {
+          "title": "Suspect in RAF Fairford incident called 999 shortly before arrest",
+          "lead": "Motive for the emergency call is unclear, as police continue to",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/e9b18367-5144-4775-8ddd-d1d133672db0?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Trump, top tech firms sign accord to ‘self-police’ AI development",
+          "lead": "Accord says companies will implement 'robust internal controls' for",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development?traffic_source=rss"
+        },
+        {
+          "title": "Morocco’s king appoints El Mansouri as first woman prime minister",
+          "lead": "King Mohammed VI appointed Fatima Ezzahra El Mansouri on Tuesday as",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/africa/article/3369259/moroccos-king-appoints-el-mansouri-first-woman-prime-minister?utm_source=rss_feed"
+        },
+        {
+          "title": "Safeguards 'build a moat' around US AI firms, prevent open-source models from advancing, expert says",
+          "lead": "US President Donald Trump on Tuesday said the tech executives",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/tv-shows/a-propos/20260929-safeguards-build-a-moat-around-us-ai-firms-prevent-open-source-models-from-advancing-expert-says"
+        },
+        {
+          "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+          "lead": "For months, people have wondered when OpenAI will go public.",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
+        },
+        {
+          "title": "Can a chatbot fix the government maze? The White House is about to find out",
+          "lead": "America.gov is intended to simplify the process of navigating",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/"
+        },
+        {
+          "title": "Ford CEO says it's 'too late' for Europe to fend off Chinese automakers, but not for U.S.",
+          "lead": "CEO Jim Farley's warning comes on the heels of a high-profile visit",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/29/ford-ceo-jim-farley-china-automakers.html"
+        },
+        {
+          "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+          "lead": "Last week, when Australian Prime Minister Anthony Albanese told the",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/"
+        },
+        {
+          "title": "Lady A’s Charles Kelley Shares Blood Cancer Diagnosis: ‘I’m Confident That We’re Going to Get Through It’",
+          "lead": "Charles Kelley, the co-lead vocalist and founding member of the",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/music/news/lady-a-charles-kelley-shares-blood-cancer-diagnosis-1236878685/"
+        },
+        {
+          "title": "Scientists expected these Galápagos sea turtles to wander. They stayed put",
+          "lead": "Yellow-morph green sea turtles in the Galápagos surprised scientists",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260927225032.htm"
+        },
+        {
+          "title": "Trump praises tech bosses’ ‘tremendous self-regulation’ of AI",
+          "lead": "President says chief executives have signed a ‘morally binding’",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/a8c1d14d-97aa-4b09-8162-adbcac1d0029?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Suspected ShinyHunters leader arrested in the Netherlands",
+          "lead": "Dutch police say they arrested a 24-year-old Amsterdam man in",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested"
+        },
+        {
+          "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+          "lead": "Before OpenAI launched its new AI agent, Dots, on Tuesday",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/"
+        },
+        {
+          "title": "Supreme Court lets Trump resume third-country deportations",
+          "lead": "The Supreme Court granted a hold request to let the Trump",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/29/supreme-court-lets-trump-resume-third-country-deportations.html"
+        }
+      ],
+      "supplement": {
+        "title": "‘What Remains’ Review: A Pensive but Stirring Drama Finds Poetry in the Landscapes of Rural Turkey",
+        "lead": "If you love something, let it go, the adage advises, and maybe it will come back to you. Maybe, however, it will go and go and go and never come back, and that",
+        "body": [
+          "If you love something, let it go, the adage advises, and maybe it will come back to you.",
+          "Maybe, however, it will go and go and go and never come back, and that, so Yeşim Ustaoğlu’s increasingly lyrical and persuasive “What Remains” would have it, might be its own sort of reclamation.",
+          "The slowly built, […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/reviews/what-remains-review-1236876765/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/09/What-Remains.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 17,
+        "maxGroupShare": 18,
+        "categories": 6,
+        "topGroups": [
+          "BBC×7",
+          "Variety×4",
+          "ScienceDaily×4",
+          "The Verge×3",
+          "TechCrunch×3",
+          "紐約時報×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-09-30T01:09:34.153Z",
+    "sources": {
+      "configured": 36,
+      "ok": 35,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "界面新聞",
+          "reason": "fetch failed"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 775,
+        "lang": 430,
+        "fresh": 356,
+        "denoised": 355,
+        "deduped": 338
+      },
+      "en": {
+        "fetched": 775,
+        "lang": 345,
+        "fresh": 329,
+        "denoised": 326,
+        "deduped": 316
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "端傳媒×4",
+          "BBC×3",
+          "華爾街見聞×3",
+          "東方財富×3"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 17,
+        "maxGroupShare": 18,
+        "categories": 6,
+        "topGroups": [
+          "BBC×7",
+          "Variety×4",
+          "ScienceDaily×4",
+          "The Verge×3",
+          "TechCrunch×3",
+          "紐約時報×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

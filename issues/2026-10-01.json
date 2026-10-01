@@ -1,0 +1,934 @@
+{
+  "issue": 17,
+  "date": "2026-10-01",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历八月廿一 · 秋分",
+    "en": "21st day of the 8th lunar month · Autumn Equinox"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "英国首相伯纳姆：将重返欧盟纳入未来可选路径",
+        "lead": "中新社伦敦9月30日电 (记者 欧阳开宇)英国首相伯纳姆近期公开释放重磅信号，重新开启“脱欧”后英国与欧盟未来关系的讨论。9月30日接受媒体采访时，伯纳姆明确将重返欧盟纳入未来可选路径，直言“脱欧”对英国造成的负面影响远超收益。",
+        "body": [
+          "中新社伦敦9月30日电 (记者 欧阳开宇)英国首相伯纳姆近期公开释放重磅信号，重新开启“脱欧”后英国与欧盟未来关系的讨论。",
+          "9月30日接受媒体采访时，伯纳姆明确将重返欧盟纳入未来可选路径，直言“脱欧”对英国造成的负面影响远超收益。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706579.shtml",
+        "category": "world",
+        "categoryLabel": "国际",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "军情五处警告：中国资助英国研究，成果交予北京间谍机关",
+        "lead": "当局敦促英国各大学，停止与中国通用技术研究院往来，该研究院与中国国家安全部有联系。",
+        "source": "BBC中文",
+        "group": "BBC",
+        "link": "https://www.bbc.com/zhongwen/articles/cmwyz8y494xvo/trad?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "categoryLabel": "国际",
+        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/347f/live/b70622b0-bcd3-11f1-9f83-d9975ff80416.jpg"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "俄外交部召见丹麦大使 抗议丹麦直升机接近俄军舰",
+              "lead": "中新社莫斯科9月30日电 俄罗斯外交部9月30日召见丹麦驻俄罗斯大使罗尔夫·霍尔姆博(Rolf Holmboe)，就丹麦空军直升机针对俄波罗的海舰队护卫舰的“不专业且具有挑衅性”的行为提出强烈抗议。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706585.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "特朗普要求人工智能巨头自我监管",
+              "lead": "行业领袖在与特朗普会面后签署了一项自愿协议，承诺采取安全措施，对AI系统进行风险审查与评估。他们还同意采用特朗普偏爱的人工智能新名称：超级智能。 Doug Mills/The New York Times 周二，特朗普总统在白宫向公众推出一个由人工智能驱动的政府网站。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20260930/ai-trump-meta-microsoft-openai/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "美军撤离伊拉克：驻军20年留下什么遗产？接下来会发生什么？",
+              "lead": "美国计划于9月30日前从伊拉克撤出剩余部队，结束自2003年美国领导的推翻萨达姆·侯赛因政权的入侵以来在伊拉克的军事存在。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cr5ye133p55qo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/499c/live/b9e586f0-bb49-11f1-a071-65d2e11c8f4a.png"
+            },
+            {
+              "title": "恋爱结婚效率为上？日本单身年轻人走进婚介所",
+              "lead": "厌倦了约会软件的一代人正在拥抱企业对传统婚介方式的重新诠释，这推动了一个承诺快速通往婚姻的行业发展。创纪录的年轻人在婚姻介绍所注册，寻求专业媒人的支持。 Noriko Hayashi for The New York Times IBJ婚介服务的客户安田泰然走在东京街头。“我认为这将是找到有结婚这个相同目标者的最快方式，”他说。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/asia-pacific/20260930/japan-marriage-matchmaking/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "江西红谷滩发算力券“礼包” 单家企业年度最高可获50万元支持",
+              "lead": "中新网南昌9月30日电 (熊锦阳)9月30日，江西省南昌市红谷滩区印发《红谷滩区算力券(词元券)实施方案》，年度设置总额600万元的算力券(词元券)，其中算力券额度200万元、词元(Token)券额度400万元，以真金白银助企发展，激发区域数智创新活力。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/09-30/10706461.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "美联储6比1投票通过压力测试改革：资本要求波动性减半，唯一反对票警告韧性受损",
+              "lead": "美联储以6比1的投票结果，正式通过对年度银行压力测试的重大改革，为华尔街大型银行的多年博弈画上句号。 9月30日，美联储正式批准了两项最终规则，旨在提升压力测试的透明度与公众监督力度，并减少相关资本要求的波动性。这两项规则与2025年发布的征求意见稿基本保持一致。 根据新规，美联储将公开征求对压力测试情景及重大模型变更的意见，并更新假设情景框架、测试日历及全球市场冲击组成部分。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3782854",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "9月30日晚间上市公司利好消息一览(附名单)",
+              "lead": "沪深两市多家上市公司9月30日晚间发布重要公告，以下为利好的消息汇总： 晶合集成 ：拟以股权出资方式向安徽晶镁增资 助力布局光罩产业 晶合集成 (688249)9月30日公告，公司拟与其他投资方以1.0758元/注册资本的价格共同向安徽晶镁光罩有限公司（简称“安徽晶镁”）进行增资，其中，公司拟以全资子公司合肥晶为100%股权作价9.08亿元，认缴安徽晶镁新增注册资本8.44亿元。",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://finance.eastmoney.com/news/1353,202609303887881794.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "罗技推出Zone Vibe Pro头戴式耳机 支持自适应降噪与蓝牙6.0 电池和头梁均可更换",
+              "lead": "罗技正式推出全新的Zone Vibe Pro无线头戴式耳机，这款产品定位于办公、通勤和日常娱乐等多场景使用，在提供主动降噪、AI语音隔离以及40毫米驱动单元的同时，还采用了可更换电池和可更换头梁等设计，并支持蓝牙6.0连接。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1580262.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "罗技带来 Zone Vibe Pro 头戴式耳机：40mm 驱动单元，支持全天候应用场景",
+              "lead": "IT之家 10 月 1 日消息，Logitech（罗技）当地时间昨日发布了 Zone Vibe Pro 头戴式无线耳机。这一设备 同时针对工作和娱乐需求优化 ，支持全天候应用场景。 Zone Vibe Pro 内置 40mm 驱动单元和 6 个全向 MEMS 麦克风； 支持自适应 ANC 降噪功能 ，提供通透模式； 搭载 AI 驱动的语音隔离技术 ；拥有柔软缓冲耳垫与可减轻压力的均衡头带。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/008/971.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "美国佛蒙特州通过家庭电池储能网络应对气候变化",
+              "lead": "过去几年极端气候频发，美国佛蒙特州每年都会因此发生十几次持续数小时的断电事故。当地电力公司 Green Mountain Power(GMP)记录到的 10 场最具有破坏性的飓风有 7 场发生在过去十年，造成了逾 2.25 亿美元的损失。为了应对气候变化导致的断电，该公司推出了分布式电池储能网络，向参与该网络的家庭出租两块电池，租期十年，每月费用为 55 美元。该州有超过 5,500 人参与了该家庭电池网络，半数家庭还安装了太阳能电池板。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85517",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "中国常驻联合国代表团举行国庆77周年招待会",
+              "lead": "中新网纽约9月30日电 (记者 王帆)当地时间9月29日晚，中国常驻联合国代表团在纽约驻地举行庆祝中华人民共和国成立77周年招待会。中国常驻联合国代表傅聪大使夫妇、副代表孙磊大使同联合国秘书长办公厅主任拉特雷等9位联合国副秘书长、100多国常驻联合国代表及美东各界友人逾400人出席活动。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/09-30/10706506.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "OpenAI曾无视员工关于其人工智能安全问题的警告",
+              "lead": "在OpenAI人工智能失控前数月，该公司两名员工曾向高管发出警告，但遭到忽视。公司管理层决定按计划推进测试。业界人士表示，该公司对安全问题的疏忽令人担忧。 Manuel Orbegozo for The New York Times OpenAI首席执行官山姆·奥特曼。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/technology/20260930/openai-warnings-security/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "英国首相伯纳姆：英国可将重新加入欧盟列为选项",
+              "lead": "英国首相周二称，计划在英欧峰会前夕，发起一场关于“英国与欧洲伙伴长期关系”的讨论。欧洲外交官预计，本次峰会将于11月20日在布鲁塞尔举行。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1580230.htm",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 2
+            },
+            {
+              "title": "中国人工智慧工具「教导」研究人员制造生物武器",
+              "lead": "有研究机构发现月之暗面的Kimi模型可以绕过开发者的安全限制，提供制造生化武器的资讯。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c64grn5g7em2o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg"
+            },
+            {
+              "title": "猫眼如何启发机器人的照相机技术发展",
+              "lead": "据说曾启发反光道路标记发明数十年后，猫眼的形状和「发光」现象如今正被工程师仿效，用于设计高科技相机。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/crz9zd51289jo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/198c/live/9a84d010-bcaf-11f1-bc2e-018d645d8d21.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "当「告洋状」成为爽文：没有联盟的复仇者",
+              "lead": "劳动者把自己训练成「告洋状」的超级原告，普通大众们则在爽文中想像一个「复仇者联盟」。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261001-mainland-labor-dispute-avengers/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/GettyImages-1352664994.jpg"
+            },
+            {
+              "title": "奥地利美景宫博物馆60件馆藏真迹亮相成都",
+              "lead": "中新社成都9月30日电 (祝欢)由成都市美术馆与奥地利美景宫博物馆联合主办的“花的姿态——维也纳美景宫百年花卉名作展”9月30日在成都市美术馆开幕。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/09-30/10706484.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "我只是想写感受，但字数太多了 (评论: 相反的你和我 第二季)",
+              "lead": "晏予耶 评论: 相反的你和我 第二季 评价: 力荐",
+              "source": "豆瓣",
+              "group": "豆瓣",
+              "link": "https://movie.douban.com/review/17835331/",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "英超联赛公布曼城俱乐部财务违规案裁决",
+              "lead": "英超联赛29日公布了独立委员会针对曼城俱乐部财务违规案的裁决。委员会认定，曼城在2009-2010至2017-2018赛季期间，违反英超相关财务规定，通过部分商业合同安排，虚增俱乐部收入、降低成本，使账目与实际情况不符。委员会同时认定，曼城提交的部分财务信息存在失实情况，曼城在部分调查事项上没有履行应尽的合作义务。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-30/10706338.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "“广西龙超”吸引逾190支队伍参赛 留学生体验划桨逐浪",
+              "lead": "中新网广西柳州9月30日电 (陈梅)9月30日，广西龙超——2026年融安龙舟公开赛、第二十五届长安龙舟大赛暨“秋冬游柳州”系列活动在广西柳州市融安县开幕。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/09-30/10706560.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "云南昆明4.3级地震暂无人员伤亡报告 启动地震四级应急响应",
+              "lead": "中新网昆明9月30日电 (罗婕)9月30日18时31分，云南省昆明市发生4.3级地震。云南省应急管理厅消息，截至目前，昆明市盘龙区、五华区、西山区、官渡区、呈贡区暂未接到人员伤亡情况报告，电力、交通、通信均正常。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/09-30/10706534.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "“中国制造”背后的声音：在农民工文学里读懂中国",
+          "lead": "在中国，由零工经济从业者和工厂工人创作的文学体裁正日益流行，但也面临着政府越来越严格的审视。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/china/20260930/china-workers-poetry-pope-leo/?utm_source=RSS"
+        },
+        {
+          "title": "“美联储最爱通胀指标”低于预期，高盛不再预期10月加息",
+          "lead": "美国8月PCE通胀低于预期 ，正在改变华尔街对美联储下一次加息时点的判断。 高盛周三将美联储年内第二次加息的预期从10月推迟至12月",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782850"
+        },
+        {
+          "title": "特朗普排除美中合作开发人工智能",
+          "lead": "美国总统继续拒绝为人工智慧设立监管措施的呼吁，认为这将扼杀人工智慧的发展。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "澎程系列上市首月：小米汽车 9 月交付量超 4 万台",
+          "lead": "IT之家 10 月 1 日消息，小米汽车官微刚刚宣布，2026 年 9 月，小米汽车交付量超过 40,000 台。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/008/977.htm"
+        },
+        {
+          "title": "【华尔街日报】华尔街对秋季 IPO 热潮的期待降温",
+          "lead": "编按：《华尔街日报》是全球最具影响力的财经媒体之一，每日产出大量深度报导，涵盖国际政治、商业财经与科技趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261001-wsj-wall-streets-fall-ipo-boom-is-losing-steam/"
+        },
+        {
+          "title": "研究认为附近系外行星中可能有外星生命 但多数或仍停留在微生物阶段",
+          "lead": "一项新研究提出，系外行星上的复杂生命能否演化，不只取决于行星存在了多久，还可能取决于其在漫长历史中积累了多少光合作用能量。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/science/1580244.htm"
+        },
+        {
+          "title": "早报｜曝苹果10月13日发布家庭中枢/豆包接入机票和火车票预订/东方甄选溜溜凳双倍退款",
+          "lead": "曝苹果进军智能家居，拟于 10 月 13 日推出家庭中枢 iPhone 18 Pro 中国首销 3 天销量超上代首周",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1682780?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "PS5 越狱取得突破",
+          "lead": "由于索尼频繁更新 PS5 的固件，而大部分 PS5 越狱方法只针对特定固件版本的漏洞，因而这些越狱方法实用性相当有限。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85520"
+        },
+        {
+          "title": "openKylin参展2026明日城市・上海：开源操作系统走向国际舞台",
+          "lead": "9月22日至26日，2026明日城市・上海（Tomorrow.City Shanghai 2026，TCS 2026）于上海张江科学会堂举办。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/502832"
+        },
+        {
+          "title": "9月30日晚间沪深上市公司重大事项公告最新快递",
+          "lead": "沪深两市多家上市公司9月30日晚间发布公司公告，以下为重要公告汇总。 【品大事】 晶合集成",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1345,202609303887837189.html"
+        },
+        {
+          "title": "盖茨比与塑料棚 (评论: 燃烧)",
+          "lead": "乡土咸鱼 评论: 燃烧 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17836674/"
+        },
+        {
+          "title": "一名锡安教会被捕牧师妻子的流亡、煎熬与信仰",
+          "lead": "耿朋朋的丈夫高颖佳是锡安教会的二号人物，去年10月被中国当局抓捕。耿朋朋带着年幼的儿子逃往泰国，仍在努力营救丈夫。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/china/20260929/china-zion-church-pastor-detained-family/?utm_source=RSS"
+        },
+        {
+          "title": "特朗普再次布局中期选举：宣布韩国2000亿美元赴美投资计划，540亿美元投向阿拉斯加LNG",
+          "lead": "美国总统特朗普周三宣布， 韩国计划在美国投资最多2000亿美元，资金将投向能源及基础设施等项目",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782855"
+        },
+        {
+          "title": "印度德里毛孩竞逐「最肥狗狗」头衔",
+          "lead": "印度首都「最肥」小狗的评选活动吸引了数千张选票。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c674k2vl0ev0o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "放弃本科读职校，中国职校生终于「逆袭」了吗？",
+          "lead": "大家期待的华为实习并没有如期到来，来的都是一些名不见经传的制造业公司，招技术工。这比拧螺丝好不到哪里。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20260930-mainland-vocational-training-in-china/"
+        },
+        {
+          "title": "沪指收涨0.31% 医药股走强 半导体板块跌幅居前",
+          "lead": "A股三大指数今日小幅震荡，截止收盘，沪指涨0.31%，深证成指跌0.11%，创业板指跌0.23%。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1345,202609303887667475.html"
+        }
+      ],
+      "supplement": {
+        "title": "AI讲台语，长辈为何有听没有懂？｜端闻 Podcast",
+        "lead": "https://open.acast.com/public/streams/66b07190af99592b5329f43a/episodes/6abcb3ab4e059d44b55d2ad5.mp3 https://shows.acast.com/initium-reports/20260930-initium-audio-can-ai-speak-taiwanese-for-healthcare 【「端闻」播出安排调整公告】",
+        "body": [
+          "https://open.acast.com/public/streams/66b07190af99592b5329f43a/episodes/6abcb3ab4e059d44b55d2ad5.mp3 https://shows.acast.com/initium-reports/20260930-initium-audio-can-ai-speak-taiwanese-for-healthcare 【「端闻」播出安排调整公告】 从10月2日本周五开始，端传媒将推出全新Video Podcast访谈栏目「不端著」。「不端著」隔周五播出一集，邀请不同领域的来宾，切开议题的一个侧面，展开一场真诚、有趣且深入的对话。随著新栏目加入，端传媒Podcast的播出安排也将有所调整： 每周三：固定播出「端闻」 每周五：「端闻」与「不端著」交替播出 感谢大家一直以来对「端闻」的支持，也欢迎收听新栏目「不端著」。越来越多人习惯用 AI 翻译、查资料，甚至跟 AI 聊天。",
+          "在你所想像的 AI 使用场景中是否有「医疗沟通」这块？在医院，一句话没有讲清楚，可能就影响到后续的治疗。以台湾东部、面临人口高龄化的花莲、台东为例，许多长辈习惯讲台语、对华语不太熟悉，而年轻一辈的护理师，大多是讲华语长大的。隔著一层语言隔阂，卫教与医疗知识传达都困难重重。",
+          "作为花东地区唯一的医学中心，花莲慈济医院为了让长辈回家之后能复习怎么照顾自己，他们和台湾人工智慧实验室合作，用 AI 生成了台语的卫教影片。但影片放给长辈看之后，得到的回应是「听不懂」。问题出在哪呢？看似无所不能的 AI 为何在台语发展碰壁？本期「端闻」，端传媒特约撰稿人李修慧从花莲的诊间出发，带你了解台语 AI 走到了什么阶段，以及它离真正帮得上长辈还有多远。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20260930-initium-audio-can-ai-speak-taiwanese-for-healthcare/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/IMGL4843-copy.jpg"
+      },
+      "stats": {
+        "visible": 40,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 20,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×4",
+          "端傳媒×4",
+          "紐約時報×3",
+          "華爾街見聞×3",
+          "東方財富×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Google releases most advanced Gemini AI model",
+        "lead": "Tech giant hopes ‘Argon’ will help it re-establish itself at the frontier of artificial intelligence",
+        "body": [
+          "Tech giant hopes ‘Argon’ will help it re-establish itself at the frontier of artificial intelligence"
+        ],
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/46194a0b-a0e4-42cc-ad40-0df753492768?syn-25a6b1a6=1",
+        "category": "tech",
+        "categoryLabel": "Technology",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4fe47cb5-7c4e-4cea-981d-d1cb04479782.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Gavin Newsom signs laws to protect California workers from AI threat",
+        "lead": "Democratic governor sharply critical of Donald Trump for not passing comprehensive federal AI regulations Governor Gavin Newsom signed laws Wednesday aimed at",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/us-news/2026/sep/30/gavin-newsom-california-ai-threat",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/8fc5556b3133a76dad9330f3efb7b1cfb0aa2da1/233_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=01b94822f711c75f5df478f1854be46c",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Plane to Israel Narrowly Averts Disaster After Pilot Stabbing",
+              "lead": "Passengers said that they entered the cockpit and subdued the attacker, who Israeli officials said was one of the pilots. The motive for the attack was not clear.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/09/30/multimedia/30israel-plane-promo8p-bgpj/30israel-plane-promo8p-bgpj-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Tennessee execution of Christa Pike can go ahead, US supreme court rules",
+              "lead": "Pike, sentenced to death over 1995 murder, set to be executed Wednesday night after justices lift lower-court ruling Tennessee is set to execute a woman for the first time in 200 years on Wednesday",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/us-news/2026/sep/30/tennessee-execution-halted-christa-pike",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/32cecd4632615ae888b3dbf65938ff640a20fdcc/364_243_1735_1389/master/1735.jpg?width=140&quality=85&auto=format&fit=max&s=347cc871687cc749829a9ed08d3f3ead",
+              "consensus": 5
+            },
+            {
+              "title": "Trump claims he discussed release of political prisoners in China with Xi at summit",
+              "lead": "US President Donald Trump said on Wednesday that he discussed the release of political prisoners in China with his counterpart, Xi Jinping, in Washington last week.",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/china/diplomacy/article/3369396/trump-claims-he-discussed-release-political-prisoners-xi-summit?utm_source=rss_feed",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/01/926ff33a-cf5b-47fc-a555-eb45b456ffee_0867bab4.jpg?itok=FbH79F8n&v=1790809990",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Paramount names Mattel boss co-CEO as it looks to close Warner Bros deal",
+              "lead": "Ynon Kreiz appointed as the entertainment company looks to integrate two of the most storied entertainment studios",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/baa261b7-681d-41b7-b41a-d704858cd0b2?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff69d7ae8-d988-4f31-a687-be71df3c64c4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
+              "lead": "Kashkari sat down with CNBC's Steve Liesman for an exclusive conversation Wednesday night.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Drop in donations puts community pantry at risk",
+              "lead": "St Paul's Pantry in Norton Lees say things are looking \"pretty grim\" without support.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cme30d4qkj3eo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4303/live/07893380-bc25-11f1-bd53-1b67dc8fba34.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
+              "lead": "The long-awaited report by the Fed's inspector general said it found no reasonable grounds to believe federal criminal law had been violated.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+              "lead": "Google promised Gemini 3.5 Pro in June, but it spent the summer trotting out smaller Flash models . Now, Google is ready to take on the frontier again with Gemini 4 Argon .",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-1152x648.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "OpenAI flags Chinese-linked effort to extract AI model reasoning",
+              "lead": "OpenAI says it identified an attempt to extract protected reasoning from its AI models, linking part of the activity with China’s Moonshot AI.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+              "lead": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Burnham 'really concerned' if Man City owners sell up after rule breaches",
+              "lead": "The prime minister compares the allegations against Manchester City to the plight of his own club Everton.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/crkgwvv8xvw0o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b1/live/6b9dd230-bcdf-11f1-afec-ebbb2634c4cd.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Ronaldo leaves Portugal training camp after coach drops him from upcoming match",
+              "lead": "Portugal captain and striker Cristiano Ronaldo said Wednesday he had walked out on the national team's training camp in Copenhagen after coach Jorge Jesus announced the 41-year-old player would be dropped from the",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/sport/20260930-ronaldo-leaves-portugal-training-camp-after-coach-drops-him-from-upcoming-match",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://s.france24.com/media/display/a94802c6-bcf9-11f1-ab0c-ddce071186a9/w:1024/p:16x9/5e59e151fd9de4028ee658699a78fdd885897e2d.jpg",
+              "consensus": 3
+            },
+            {
+              "title": "Liverpool contenders for Schade - Thursday's gossip",
+              "lead": "Germany forward Kevin Schade is wanted by Liverpool, Erling Haaland and Phil Foden are among the Manchester City players drawing interest from Europe's top clubs, plus more.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c3ew9vv7444xo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d297/live/e5e71cc0-bd09-11f1-a64c-550be9e3c66b.png"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Laura Benanti on Her Journey From Broadway to Stand-Up With a Riotous One-Woman Show, ‘Nobody Cares,’ and Why Melania Remains One of Her Proudest Roles",
+              "lead": "Laura Benanti is out of the woods and into a thicket that is very different from her initial Broadway base: the world of stand-up comedy.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/legit/news/laura-benanti-nobody-cares-broadway-comedy-melania-interview-1236894247/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/09/3-LauraBenanti_Photo-by-Avery-Brunkus-e1790813687989.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Tom Cruise's 'Digger' divides critics as Zurich Film Festival stars steal the spotlight",
+              "lead": "This week on arts24's film show, an unrecognisable Tom Cruise takes a career gamble in \"Digger\", Alejandro González Iñárritu’s new satire",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/tv-shows/arts24/20260930-tom-cruise-s-digger-divides-critics-as-zurich-film-festival-stars-steal-the-spotlight",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://s.france24.com/media/display/3770b5a6-bcdd-11f1-8053-816a8398162d/w:1024/p:16x9/DLS-AFF-DIGGER-frame-49.jpeg"
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "NASA’s Curiosity rover just hit 5,000 days on Mars and sent back this stunning view",
+              "lead": "NASA’s Curiosity rover marked 5,000 Martian days by capturing morning and afternoon views that were blended into a striking Mars “postcard.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260928100556.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "NASA's Perseverance Mars rover finds groundwater, lakes, and hot fluids in one place",
+              "lead": "NASA’s Perseverance rover has uncovered a surprisingly complicated history of water in Jezero Crater. Scientists expected the crater’s Margin Unit to contain lake sediments",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260928100537.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            },
+            {
+              "title": "Ocean heatwaves are hiding months of extra warming",
+              "lead": "Marine heatwaves may be only the most intense part of much longer warming events, with elevated temperatures sometimes lingering for months.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260928100603.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "California bans child marriage, a practice still legal in 32 US states",
+          "lead": "Gov Gavin Newsom called it a \"long overdue measure to protect young",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "FlyDubai Passenger Who Helped Subdue Pilot Describes Stabbing Attack in Cockpit",
+          "lead": "A passenger on a flight to Tel Aviv on Wednesday said he watched in",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/09/30/world/middleeast/israel-plane-flydubai-passenger-eyewitness-account.html"
+        },
+        {
+          "title": "Pilot who stabbed co-pilot on Israel-bound plane may have tried to crash it, says Netanyahu",
+          "lead": "Accused pilot being questioned in Saudi Arabia as Israeli officials",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud"
+        },
+        {
+          "title": "US competition watchdog expands investigation of Anthropic and OpenAI",
+          "lead": "The Federal Trade Commission will demand information and seek",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/a3075bf9-5b6c-40c8-bb6b-aca4422d1cbb?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Google rolls out Gemini 4 Argon, its most advanced AI model",
+          "lead": "Gemini 4 Argon is Alphabet's most advanced model yet",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/09/30/google-gemini-4-argon-ai.html"
+        },
+        {
+          "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+          "lead": "\"One of the biggest reasons we are winning against robotics companies",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/"
+        },
+        {
+          "title": "Returning from vacation? The government can search your phone without a warrant.",
+          "lead": "An Argentinian-American writer and immigration advocate recently sued",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/"
+        },
+        {
+          "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+          "lead": "Google today revealed its next AI frontier model",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
+        },
+        {
+          "title": "Passengers tell of ‘nightmare’ onboard diverted Flydubai flight",
+          "lead": "Israeli passengers tell of the horror onboard the Flydubai flight",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/passengers-tell-of-nightmare-onboard-diverted-flydubai-flight?traffic_source=rss"
+        },
+        {
+          "title": "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot stabs pilot",
+          "lead": "After passengers and crew overpowered the co-pilot",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/01/world/dubai-tel-aviv-flight-co-pilot-stabs/"
+        },
+        {
+          "title": "Paramount takeover of Warner Bros. Discovery clears legal hurdle",
+          "lead": "A federal judge on Wednesday approved a settlement clearing",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/americas/20260930-paramount-takeover-of-warner-bros-discovery-clears-legal-hurdle"
+        },
+        {
+          "title": "Golden Globes Predictions: Let the Genre Games Begin for ‘Obsession,’ ‘Michael,’ ‘Wildwood’ and More",
+          "lead": "Variety Awards Circuit section is the home for all awards news and",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/lists/2027-golden-globes-predictions/"
+        },
+        {
+          "title": "Pompeii’s 2,000-year-old eruption just gave scientists a better clock for Earth’s past",
+          "lead": "Mount Vesuvius’ famous 79 CE eruption has given scientists a",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260928100531.htm"
+        },
+        {
+          "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+          "lead": "The death by lethal injection was scheduled to happen earlier on",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Paramount stumps up high borrowing costs to fund Warner Bros deal",
+          "lead": "Investors pile into the record-breaking $52bn financing package as",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/188ab0ab-e39d-4221-9730-0610fbc22ee9?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Inside India newsletter: Foreign insurers get the red-carpet treatment — and policy uncertainty",
+          "lead": "Foreign insurers brace for another set of policy changes in India's",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/01/india-insurance-prudential-aviva-axa.html"
+        }
+      ],
+      "supplement": {
+        "title": "Mark Ruffalo Says Paramount-Warner Bros. Merger Will ‘Stifle Creativity’ and ‘Weaken Free Speech’: It ‘Should Never Have Been Approved’",
+        "lead": "Mark Ruffalo is speaking out against the Paramount-Warner Bros. Merger once again, this time following the news on Wednesday that the deal has been approved and is tentatively set to close next week.",
+        "body": [
+          "Mark Ruffalo is speaking out against the Paramount-Warner Bros.",
+          "Merger once again, this time following the news on Wednesday that the deal has been approved and is tentatively set to close next week.",
+          "“This merger will stifle creativity, weaken free speech, and cost people their jobs — it is a bad deal for this country […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/news/mark-ruffalo-speaks-out-paramount-warner-bros-merger-1236894262/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/08/Mark-Ruffalo.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "ScienceDaily×4",
+          "CNBC×3",
+          "BBC×3",
+          "France24×3",
+          "Variety×3",
+          "FT×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-01T01:09:04.097Z",
+    "sources": {
+      "configured": 36,
+      "ok": 35,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "界面新聞",
+          "reason": "fetch failed"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 776,
+        "lang": 430,
+        "fresh": 331,
+        "denoised": 328,
+        "deduped": 309
+      },
+      "en": {
+        "fetched": 776,
+        "lang": 346,
+        "fresh": 327,
+        "denoised": 325,
+        "deduped": 317
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 40,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 20,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×4",
+          "端傳媒×4",
+          "紐約時報×3",
+          "華爾街見聞×3",
+          "東方財富×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "ScienceDaily×4",
+          "CNBC×3",
+          "BBC×3",
+          "France24×3",
+          "Variety×3",
+          "FT×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

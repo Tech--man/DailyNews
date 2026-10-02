@@ -1,0 +1,905 @@
+{
+  "issue": 18,
+  "date": "2026-10-02",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历八月廿二 · 秋分",
+    "en": "22nd day of the 8th lunar month · Autumn Equinox"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "迪拜航空因驾驶舱冲突事件暂停往返以色列航班",
+        "lead": "中新社北京10月1日电 综合消息：阿联酋迪拜航空公司当地时间9月30日发表声明，称在当日该公司一航班发生驾驶舱冲突事件后，决定暂停往返以色列的航班，等待有关方面对事件展开调查。",
+        "body": [
+          "中新社北京10月1日电 综合消息：阿联酋迪拜航空公司当地时间9月30日发表声明，称在当日该公司一航班发生驾驶舱冲突事件后，决定暂停往返以色列的航班，等待有关方面对事件展开调查。"
+        ],
+        "source": "中新網國際",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706639.shtml",
+        "category": "world",
+        "categoryLabel": "国际",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "\"二号、三号高管\"连续放鸽，压制一众鹰派发声，美联储平息\"10月加息\"预期",
+        "lead": "美联储内部权力核心连续发出\"按兵不动\"信号，市场对10月加息的押注几近瓦解。 美联储副主席杰斐逊（Philip Jefferson）周四发表讲话，措辞与纽约联储主席威廉姆斯（John Williams）本周早些时候的表态高度一致，两人均强调在决定下一步政策行动之前需要更多时间评估数据。",
+        "source": "華爾街見聞",
+        "group": "華爾街見聞",
+        "link": "https://wallstreetcn.com/articles/3782895",
+        "category": "business",
+        "categoryLabel": "财经"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "从“看电影”到“逛影院” 浙江探索“电影+”新场景",
+              "lead": "中新网杭州10月1日电(曹丹)10月1日，浙江省文化产业投资集团下属之江电影集团“不止影院”改革重塑工程启幕仪式在杭州举行。当天，由之江电影集团旗下时代电影院线打造的全CINITY LED影院——伍笛坞在杭州城西银泰城正式亮相。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-02/10707011.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "FirstDate：新加坡用诺贝尔奖演算法，为公务员配对约会对象",
+              "lead": "FirstDate推出之际，这个人口老化的国家正面临历来最低的生育率。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c60e3e4yn858o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/468f/live/78984d40-bcac-11f1-a3e9-bbda6f9b9e25.jpg"
+            },
+            {
+              "title": "机师刀刺同僚企图劫机 杜拜往以色列航班乘客化解空难",
+              "lead": "一架从阿联酋杜拜飞往以色列的「杜拜航空」（Flydubai）客机上，发生企图空中劫机事件。其中一名机师刺伤另一名机副机后，机上乘客在机人员协助下闯进驾驶舱并合力制伏施袭者。以色列即将举行大选，当局尚未透露涉案副机师的施袭动机。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/ck3rerpdp7x9o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8498/live/da229bc0-bd5f-11f1-a64c-550be9e3c66b.jpg"
+            },
+            {
+              "title": "感情走下坡还有救吗？伴侣治疗师谈修复关系的要素",
+              "lead": "批评、轻蔑、防卫、冷处理——这四种行为显示你的关系可能正走向分手。但感情还是能挽救的，伴侣治疗师提出了一些具体建议。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cqvgy2z0r958o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/546d/live/d2874890-bce5-11f1-bc2e-018d645d8d21.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "品类更多、品牌更强！国货出海有新变化",
+              "lead": "国庆假期，别人忙着出游，这里忙着“出货”！灯具、服装、鞋子等一批批国货完成查验、装进集装箱，从深圳盐田港出发，奔向美国、墨西哥、荷兰等全球市场。眼下正值出口旺季，盐田港开启“国庆假期不停运”模式，为国货出海按下“加速键”。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-02/10706986.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "美股10月惊险开门红，美联储二把手放鸽，美债收益率暂别多年高位，美元站上102，油金齐涨",
+              "lead": "10月1日周四，全球金融市场迎来剧震的第四季度首个交易日：美股三大指数集体高开后走出V形，惊险“开门红”；美债价格探底回升，基准10年期美债收益率盘中续创多年新高后掉头下行；美元指数盘中站上102，创一年半新高；国际原油继续反弹、抹平一周来跌幅，黄金则震荡保住反弹势头，继续走出近两个月低谷。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3782859",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "迪拜航空驾驶舱冲突事件受伤机长和副驾返回阿联酋",
+              "lead": "沙特阿拉伯内政部10月1日发表声明说，迪拜航空公司客机驾驶舱冲突事件中受伤的机长和副驾驶在沙特接受治疗后，当天在阿联酋安全工作组陪同下离开沙特。声明说，沙特有关部门与阿联酋安全工作组协调开展的初步调查显示，迪拜航空FZ1073航班副驾驶袭击机长，导致两人均受伤。两人被送往沙特医院接受检查和治疗，在获得医疗许可后于1日返回阿联酋首都阿布扎比。（新华社）",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15159140.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "流式转录 AI 新标杆：微软 MAI-Transcribe-2-Streaming 登场，2.5% 词错误率、0.13 秒延迟夺冠",
+              "lead": "IT之家 10 月 2 日消息，微软昨日（10 月 1 日）发布公告，宣布推出其首个实时流式语音转写模型 MAI‑Transcribe‑2‑Streaming，可在讲话进行时持续输出文字，覆盖 60 种语言，并支持自动语言检测。 费用方面，MAI‑Transcribe‑2‑Streaming 模型目前处于优惠阶段，价格为每小时 0.54 美元 （IT之家注：现汇率约合 3.6 元人民币）",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/009/183.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "OpenAI解雇三名研究员 指其不当分享敏感信息",
+              "lead": "OpenAI以违反处理不公开信息规定为由与三名员工解除雇佣关系，指其对外泄密。“我们的调查证实，这些人未按公司既定程序、不当处理了敏感信息，违反了我们的政策，破坏了对我们工作至关重要的信任，” 该公司一位发言人周四发表声明说。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1580386.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "PS5 模拟器的开发取得突破",
+              "lead": "当前一代游戏机的模拟器通常需要较长时间才能成熟，但 PS5 的模拟器仅仅几个月时间就让许多 PS5 游戏能在 PC 平台上可玩。SharpEmu 从 5 月的极早 Alpha 阶段到现在具备加载真实游戏 eboot.bin 文件、执行原生 CPU 指令以及部分处理 GPU 相关功能的能力。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85524",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "美国“龙”飞船送新一批宇航员飞赴国际空间站",
+              "lead": "美国太空探索技术公司的“龙”飞船10月1日搭载4名宇航员升空，开启前往国际空间站的载人飞行任务。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-02/10706980.shtml",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 2
+            },
+            {
+              "title": "香港国安处以「23条」拘捕网媒记者，与8.31事件相关",
+              "lead": "香港记者协会关注事件，指邓浩荣是首名在涉嫌违反《维护国家安全条例》（俗称「23条」）生效后，于公众领域中因该例煽动罪被捕的新闻工作者。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6wyzy7ykn5go/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8c47/live/70d075e0-bd71-11f1-bc2e-018d645d8d21.jpg"
+            },
+            {
+              "title": "日本突发5.1级地震",
+              "lead": "中新网10月1日电 综合报道，据日本气象厅消息，日本千叶县东北部10月1日发生5.1级地震。此次地震不会引发海啸。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706944.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "军情五处警告：中国资助英国研究，成果交予北京间谍机关",
+              "lead": "当局敦促英国各大学，停止与中国通用技术研究院往来，该研究院与中国国家安全部有联系。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cmwyz8y494xvo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/347f/live/b70622b0-bcd3-11f1-9f83-d9975ff80416.jpg"
+            },
+            {
+              "title": "中国开始打击AI恋爱关系，是过度干预还是先见之明？",
+              "lead": "北京正在打击那些能够模拟人际关系的AI聊天机器人。专家质疑这是否是正确的做法。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cmz9z9e4247vo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/035f/live/4e878500-bcdb-11f1-babe-4199b0e7ccea.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "逃离中国的维吾尔人，为何加入叙利亚内战？专访《唯红花绽放》作者冯哲芸",
+              "lead": "2011 年，叙利亚内战的烽烟燃起。俄罗斯、伊朗与真主党力挺阿萨德政府；土耳其与美国分别支持逊尼派阿拉伯势力与库德族武装；2013年伊斯兰国与盖达组织决裂，带著「哈里发国」的黑旗扩张⋯⋯几乎每个外部强权都找到了代理人，在这片人类古文明最早的起源地厮杀一片。13年期间约62万人死亡，三分之一是平民，逾600万人逃出国境。 其中，一群人的到来或许最令世人意外——来自新疆的维吾尔族。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261002-international-emily-feng-uyghur-militants-in-syria/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/signal-2026-10-01-22-23-58-996_002-1.jpg"
+            },
+            {
+              "title": "2026年中国电影国庆档首日票房破亿元 已呈 “一超一强”格局",
+              "lead": "中新社北京10月1日电 (记者 高凯)据灯塔专业版数据，截至北京时间10月1日16时，2026年中国内地电影国庆档首日票房已达1.24亿元(人民币，下同)，观影人次342.87万，放映场次47.07万场。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-01/10706826.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "第三届全国青少年棒球联赛总决赛启幕",
+              "lead": "中新网10月1日电 第三届全国青少年棒球联赛总决赛于10月1日在绍兴棒垒球体育文化中心启幕。经过此前20余站分站赛以及分区赛的层层考验，16支队伍突出重围，参与总决赛角逐。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-01/10706935.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "中网综合：郑钦文、朱琳、孙心然、高馨妤晋级女单次轮",
+              "lead": "中新社北京10月1日电 (刘梦青)2026中国网球公开赛1日在国家网球中心继续进行。中国选手郑钦文、朱琳、孙心然和高馨妤携手晋级女单次轮。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-01/10706977.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "特朗普：中期选举后或升级对伊打击，美联储不断加息“非常糟糕”",
+          "lead": "美国总统特朗普表示，在11月中期选举后，美国可能会升级针对伊朗的军事打击。同时，他对美联储持续加息的政策路径表达了不满。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782887"
+        },
+        {
+          "title": "微软宣布推出MAI-Transcribe-2-Streaming",
+          "lead": "当地时间10月1日，微软宣布推出MAI-Transcribe-2-Streaming，并同时发布两款全新语音模型",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15159104.html"
+        },
+        {
+          "title": "马斯克：为推进 Optimus 机器人量产，特斯拉 AI5 芯片内存用量砍半",
+          "lead": "IT之家 10 月 2 日消息，全球首富埃隆 · 马斯克今天（10 月 2 日）在 X 平台发布推文",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/009/196.htm"
+        },
+        {
+          "title": "日本收紧外国人居留条件，申请费用上调二十倍",
+          "lead": "这次加费是高市政府收紧移民政策的一环，目的是管理快速增长的外国人口。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cxyvzvqp0z01o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Google旗下Debug计划“以蚊控蚊” 沃尔巴克氏体雄蚊或可压低病媒数量",
+          "lead": "Google旗下Debug项目希望通过释放携带沃尔巴克氏体（Wolbachia）的雄蚊，减少传播疾病的蚊虫种群。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/science/1580424.htm"
+        },
+        {
+          "title": "二手 CPU 导致玩家被 Riot 封禁",
+          "lead": "一名玩家购买了一个二手 CPU Ryzen 7 5800X3D，结果发现无法启动 Riot 工作室旗下的多款游戏，每次启动游戏就被踢出",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85523"
+        },
+        {
+          "title": "会员限定！完成限时任务抽《反对普丁的无名先生》电影票",
+          "lead": "即日起免费注册成为端传媒会员并登录表单，就能获得电影票抽奖机会票",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261001-movie-ticket/"
+        },
+        {
+          "title": "第一次感觉看电影是在浪费时间 (评论: 火遮眼)",
+          "lead": "一点烟火 评论: 火遮眼 评价: 很差",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17838382/"
+        },
+        {
+          "title": "华为 Mate 90 系列发布：最强 Mate来了，5999 起即日开售",
+          "lead": "集齐龙珠的过程，不可谓不漫长。 在刚刚结束的华为 Mate 90 系列发布会上，我们终于见到了 2026 年高端机市场的最后一块拼图。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1682801?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "[随想] 想起 @angelshq 老哥了",
+          "lead": "上回看他说找到投资人，在找合伙人。 现在都 AI 时代，不知道他的客服平台如何。 前文 /t/833951",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1246087#reply0"
+        },
+        {
+          "title": "谷歌面临逾32亿美元广告技术垄断索赔，出版商获准推进陪审团审判",
+          "lead": "谷歌在广告技术垄断诉讼中面临新的重大法律压力。纽约联邦法院裁定，多家大型出版商可就谷歌垄断广告技术市场造成的损害寻求逾32亿美元赔偿。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782901"
+        },
+        {
+          "title": "Anthropic据悉计划在感恩节假期前进行大规模IPO",
+          "lead": "当地时间10月1日，据报道，知情人士透露，Anthropic正寻求最快于11月中旬上市，此前该公司曾推迟IPO计划。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15159100.html"
+        },
+        {
+          "title": "钠离子电池：「美国制造」能超越中国吗？",
+          "lead": "基于钠离子技术的电池可以在美国使用本地采购的材料生产。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cwx2ze4g2d2go/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "当「告洋状」成为爽文：没有联盟的复仇者",
+          "lead": "劳动者把自己训练成「告洋状」的超级原告，普通大众们则在爽文中想像一个「复仇者联盟」。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261001-mainland-labor-dispute-avengers/"
+        },
+        {
+          "title": "从容地爱 (评论: 秋天的故事)",
+          "lead": "Us-oo 评论: 秋天的故事 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17838405/"
+        },
+        {
+          "title": "美光财报炸裂，股价却“无动于衷”！华尔街仍看好，最高目标价喊到1625美元",
+          "lead": "美光科技最新公布的季度财报全面超越华尔街预期，但由于前期涨幅巨大，其股价在盘前交易中反应平淡，周四收涨3%。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782889"
+        }
+      ],
+      "supplement": {
+        "title": "香港狗咬人事故：从人宠共融到全城猎狗，狗只管理链是如何断裂的？",
+        "lead": "8月20日，香港新界打鼓岭一间宠物酒店及犬只训练中心外，33岁的中心负责人Jojo被发现倒卧在狗舍外草地，她的头部、下颚、颈及双臂疑被狗噬咬，当场死亡。 9月上旬，一位狗主在渔护署更新对危险犬的管制行动后，在忧虑下决定带小狗蒙猪绝育，但蒙猪在绝育手术后死亡。 不论是致命袭击，抑或是官方加强管制后出现的死亡事故，都将香港犬只管理制度推到公众眼前。",
+        "body": [
+          "8月20日，香港新界打鼓岭一间宠物酒店及犬只训练中心外，33岁的中心负责人Jojo被发现倒卧在狗舍外草地，她的头部、下颚、颈及双臂疑被狗噬咬，当场死亡。9月上旬，一位狗主在渔护署更新对危险犬的管制行动后，在忧虑下决定带小狗蒙猪绝育，但蒙猪在绝育手术后死亡。不论是致命袭击，抑或是官方加强管制后出现的死亡事故，都将香港犬只管理制度推到公众眼前。随后的格斗犬分类争议、以及对犬只来源、主人责任，渔护署执法权等疑问，甚至最近的流浪狗袭击人致死事件，接连事故暴露出犬只管理的不同难题。",
+          "与此同时，香港正逐步打开城市对宠物的大门：食肆开始容许狗只进入，「人宠共融」成为政府政策方向。当愈来愈多狗走进公共空间，一些更基本的问题变得紧迫：香港是否真的知道城市里养著什么狗？牠们从哪里来？牠们过去有没有攻击纪录？出事后，又由谁负责？",
+          "端传媒从近日多宗狗只事故出发，访问狗主和动物团体，尝试拼凑一只狗由进入香港、申领牌照、日常饲养，到发生事故及接受执法的整条管理链，了解制度如何运作，又在哪些环节出现落差。问一：香港近日发生多宗狗咬狗、狗咬人事故的来龙去脉为何？香港《危险狗只规例》规管了哪些品种的狗？为什么会掀起「格斗犬」判定的争议？在打鼓岭现场，警方翻查闭路电视，发现Jojo在喂饲后引导一只30公斤重的混种犬「太阳」返回狗笼，狗突然狂咬事主约一分钟，直到两小时后被发现。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261002-hongkong-fighting-dog-controversy-after-fatal-attack/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/09/TKH20260926W181-W-W.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 13,
+        "maxGroupShare": 21,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×6",
+          "華爾街見聞×5",
+          "端傳媒×4",
+          "IT之家×2",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Accenture shares surge as consultancy confounds AI fears",
+        "lead": "Group says revenues could accelerate in the coming year despite worries over demand for its services",
+        "body": [
+          "Group says revenues could accelerate in the coming year despite worries over demand for its services"
+        ],
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/e1074ce0-cd16-4a91-9934-50df917b3b20?syn-25a6b1a6=1",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F998f388c-6ae4-4241-ad83-b9142d631cef.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Women hospitalised and three men charged with assault and choking after separate home invasions in Sydney",
+        "lead": "NSW police allege the men, aged 18, 19 and 20, broke into homes in Arncliffe and Bankstown this week before assaulting the women aged 31 and 32 Follow our",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/australia-news/2026/oct/02/sydney-home-invasions-arncliffe-bankstown-ntwnfb",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/0dd8d500bb82d23f4f62b813daf1d506d5751ec9/402_0_2155_1724/master/2155.jpg?width=140&quality=85&auto=format&fit=max&s=6a8101c277b07e79c6ddbc3ee0923fe8",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Trump doesn’t rule out sending ICE to polling sites; US supreme court to review policy to detain immigrants challenging deportation – live",
+              "lead": "Justices will consider whether immigrants have a right to a hearing to determine if they should remain detained while challenging their possible deportation Sign up for the Breaking News US email The White House has",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/us-news/live/2026/oct/01/tennessee-governor-halts-executions-christa-pike-lethal-injection-donald-trump-hegseth-musk-us-politics-latest-news-updates",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/0fb39ace15608064274a64ee4a25a4fb6d3bacac/338_0_4863_3892/master/4863.jpg?width=140&quality=85&auto=format&fit=max&s=e0b148f7f1761dc0811b3f4f7e51ea6a",
+              "consensus": 5
+            },
+            {
+              "title": "Israeli Politicians Trade Barbs Over FlyDubai Attack",
+              "lead": "Prime Minister Benjamin Netanyahu’s campaign for a coming election was already dominated by discussion of the policy, military and intelligence failures leading up to the Hamas-led attacks on Oct. 7, 2023.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/01/world/middleeast/israel-flydubai-netanyahu-elections.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/01/multimedia/01israel-plane-politicization-01-hpjb/01israel-plane-politicization-01-hpjb-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
+              "lead": "1,439 Palestinians have been killed in Gaza and 5,052 injured since the 'ceasefire' began in October 2025.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "US mortgage rates jump the most in four years in blow to housing market",
+              "lead": "Homebuilders and prospective buyers continue to face challenging market conditions with midterms looming weeks away",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/22779c05-8bda-423e-b5bf-6839d597f499?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F013fe10e-ca75-47ce-8458-d45c71f7c45c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "OpenAI fires three workers over mishandling 'sensitive information'",
+              "lead": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
+              "lead": "Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "General Motor Q3 sales drop 5.5%, while Toyota buoyed by EVs, hybrids",
+              "lead": "GM's sales of all-electric vehicles are down across the board, as enthusiasm for electric vehicles wanes.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html",
+              "category": "business",
+              "categoryLabel": "Business"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
+              "lead": "Google's tensor processing units were launched into orbit on Planet Labs satellites.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+              "lead": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+              "lead": "In a setback for publishers worried about the effects of AI search, a US federal judge has dismissed lawsuits filed by Chegg and Penske Media against Google.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Man City appeal plan emerges as HMRC urged to examine case findings",
+              "lead": "The Treasury Committee, which is responsible for overseeing HMRC, has urged the body to scrutinise tax implications of the Manchester City verdict.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda1/live/922cde20-bdaa-11f1-8373-27235719cf2a.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "More elite-level events to award equal prize money",
+              "lead": "The Women's Tennis Association confirms all its combined 1000 events will award equal prize money from 2027 in a \"major milestone\".",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/tennis/articles/ckq6360827rpo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7777/live/b4e1bd30-bdb1-11f1-b7d8-31573a2bd831.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Unheralded Stewart stars at Alfred Dunhill Links",
+              "lead": "On a day when Matt Fitzpatrick began his quest for a fifth win of the year, Robert MacIntyre reacted furiously to a drone and Lee Westwood and Ian Poulter made a DP World Tour return after an absence of almost four years",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/golf/articles/c65y7y21n051o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eeb/live/31414a20-bdc7-11f1-9e71-df11b537d069.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Donna Langley Says the Key to Stealing Taylor Sheridan Away From Paramount Was a Better Film Deal: ‘I Saw an Opportunity’",
+              "lead": "NBCUniversal Entertainment chair Donna Langley managed to snag “Yellowstone” creator Taylor Sheridan away from Paramount after a decade at the studio. How did she do it?",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/donna-langley-taylor-sheridan-paramount-universal-1236897194/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-1441279681.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Oscars: Pakistan Selects Documentary ‘Hanging by a Wire’ for International Feature Race (EXCLUSIVE)",
+              "lead": "Mohammed Ali Naqvi’s documentary thriller “Hanging by a Wire” has been selected as Pakistan’s submission for the Best International Feature Film Oscar at the 99th Academy Awards",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/awards/oscars-pakistan-hanging-by-a-wire-international-feature-1236897231/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/01/Hanging_by_a_Wire-Still_1.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "This giant stick insect fooled scientists for decades",
+              "lead": "Scientists have identified two new species of large Australian stick insects, including one that lays extraordinary “lidded” eggs never before recorded in the group.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
+              "lead": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by shielding quantum information from common forms of electromagnetic noise.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            },
+            {
+              "title": "This diet may slow brain aging by 2.5 years",
+              "lead": "People who followed the MIND diet more closely showed slower brain shrinkage and less grey matter loss over time, with the strongest differences equivalent to about 2.5 years of delayed brain aging.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Fires break out at French schools as students protest nationwide",
+          "lead": "The French government holds a crisis meeting as demonstrations grow",
+          "category": "society",
+          "categoryLabel": "Society",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Enter Shikari announce indefinite hiatus from 2027: ‘We don’t think we’re splitting up’",
+          "lead": "Rock band will still tour the UK, Europe and US over the next year",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/music/2026/oct/02/enter-shikari-announce-indefinite-hiatus-from-2027"
+        },
+        {
+          "title": "US sanctions Kremlin-backed fintech A7 for allegedly assisting Iran",
+          "lead": "Payments group that moved almost $7bn through global banks designated",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/29e2d078-4476-41f2-a180-faf0b2001068?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Swiss Glaciers Vanished by Nearly a Fifth in Recent Years, Scientists Say",
+          "lead": "One researcher called it a “desperately needed warning sign” that",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/01/world/europe/switzerland-glaciers-melting-climate.html"
+        },
+        {
+          "title": "The U.S. just made it much easier for retail investors to access private markets",
+          "lead": "The Securities and Exchange Commission has approved new plans to open",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/01/private-credit-sec-retail-investors.html"
+        },
+        {
+          "title": "Greer says no specific timeline set for enforcing US-China Board of Trade",
+          "lead": "United States Trade Representative Jamieson Greer said on Thursday",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/us/economy-trade-business/article/3369490/greer-says-no-specific-timeline-set-enforcing-us-china-board-trade?utm_source=rss_feed"
+        },
+        {
+          "title": "Teens block high schools across France, demand better conditions",
+          "lead": "France's prime minister convened a crisis meeting on Thursday and",
+          "category": "society",
+          "categoryLabel": "Society",
+          "source": "France24",
+          "link": "https://www.france24.com/en/video/20261001-teens-block-high-schools-across-france-demand-better-conditions"
+        },
+        {
+          "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
+          "lead": "Putin warned the West he would deploy nuclear weapons if necessary to",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss"
+        },
+        {
+          "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
+          "lead": "Audible is rolling out new features that help listeners keep track of",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/"
+        },
+        {
+          "title": "What we know about the Cornell University rape investigation",
+          "lead": "The reopened case has prompted public outcry and raised questions",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/02/world/crime-legal/cornell-rape-investigation/"
+        },
+        {
+          "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+          "lead": "A federal judge has dismissed a pair of antitrust lawsuits filed by",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed"
+        },
+        {
+          "title": "SpaceX describes surgical intervention before launch of latest crew mission",
+          "lead": "A four-person crew rocketed into orbit Thursday from Cape Canaveral",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/"
+        },
+        {
+          "title": "Oscars: International Feature — ‘La Bola Negra,’ ‘Fjord’ and ‘Woman Unknown’ Lead Early Contenders",
+          "lead": "Variety Awards Circuit section is the home for all awards news and",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/feature/2027-oscars-best-international-feature-predictions-1236878525/"
+        },
+        {
+          "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
+          "lead": "UCLA researchers built an AI system that uses light to analyze more",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm"
+        },
+        {
+          "title": "Watch: Why are students protesting at schools in France?",
+          "lead": "The BBC's Hugh Schofield is in Paris as a wave of school protests",
+          "category": "society",
+          "categoryLabel": "Society",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cwy8z8rney97o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Flydubai scare revives Israel’s hijacking trauma",
+          "lead": "Air travel for Israelis has been shaped by a long and painful history",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/b6021793-741f-4b76-beab-20f1b672d014?syn-25a6b1a6=1"
+        }
+      ],
+      "supplement": {
+        "title": "Halle Berry Accused of Child Abuse by Ex Olivier Martinez, Who Is Seeking a Restraining Order",
+        "lead": "Halle Berry is being accused of abusing her 12-year-old son by her ex-husband, actor Olivier Martinez, who has filed a petition for a temporary restraining order against the actress. Martinez alleges that on Sept.",
+        "body": [
+          "Halle Berry is being accused of abusing her 12-year-old son by her ex-husband, actor Olivier Martinez, who has filed a petition for a temporary restraining order against the actress.",
+          "Martinez alleges that on Sept.",
+          "26, the “Catwoman” actress “physically abused our son Maceo, by jumping on him, putting her hands around his neck, and choking […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/news/halle-berry-accused-child-abuse-restraining-order-1236897135/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-450971818.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "ScienceDaily×4",
+          "CNBC×3",
+          "FT×2",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-02T01:25:02.777Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 799,
+        "lang": 455,
+        "fresh": 308,
+        "denoised": 307,
+        "deduped": 287
+      },
+      "en": {
+        "fetched": 799,
+        "lang": 344,
+        "fresh": 329,
+        "denoised": 328,
+        "deduped": 321
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 13,
+        "maxGroupShare": 21,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×6",
+          "華爾街見聞×5",
+          "端傳媒×4",
+          "IT之家×2",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "ScienceDaily×4",
+          "CNBC×3",
+          "FT×2",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

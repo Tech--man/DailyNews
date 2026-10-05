@@ -1,0 +1,894 @@
+{
+  "issue": 21,
+  "date": "2026-10-05",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历八月廿五 · 秋分",
+    "en": "25th day of the 8th lunar month · Autumn Equinox"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "巴西总统选举首轮投票无人胜出 将进行第二轮角逐",
+        "lead": "新华社快讯：巴西高等选举法院4日晚公布巴西总统选举首轮投票计票结果，由于无人胜出，得票最多的前总统雅伊尔·博索纳罗之子、自由党候选人弗拉维奥·博索纳罗和巴西现任总统、劳工党候选人卢拉将于10月25日进行第二轮角逐。",
+        "body": [
+          "新华社快讯：巴西高等选举法院4日晚公布巴西总统选举首轮投票计票结果，由于无人胜出，得票最多的前总统雅伊尔·博索纳罗之子、自由党候选人弗拉维奥·博索纳罗和巴西现任总统、劳工党候选人卢拉将于10月25日进行第二轮角逐。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-05/10708007.shtml",
+        "category": "world",
+        "categoryLabel": "国际",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "「特习会」后两架美国 F-16V 抵台 「虽迟但到」的时机与信号",
+        "lead": "本周五，台湾在2019年向美国订购的2架F-16V战机先行抵达台湾台东空军志航基地，同批次共有66架同型号战机，是1990 年代以来台湾首次战机采购。",
+        "source": "BBC中文",
+        "group": "BBC",
+        "link": "https://www.bbc.com/zhongwen/articles/c6pwg52xjp8jo/trad?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "categoryLabel": "国际",
+        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/87ff/live/ac94d930-bfe8-11f1-b06d-85ecedcb7cff.jpg"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "巴西总统选举开启首轮投票",
+              "lead": "中新社圣保罗10月4日电 (记者 林春茵)巴西利亚时间4日8时，巴西2026年总统选举开启首轮投票。首轮结果预计在当天投票结束后的数小时内揭晓。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-05/10707998.shtml",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 2
+            },
+            {
+              "title": "寒背又疼痛？五个保护颈部的运动",
+              "lead": "现代生活为颈部带来不少挑战，但我们可以做很多事情，减低颈部问题出现的风险。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c3lylw2yx1pvo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b383/live/56629e70-be54-11f1-a64c-550be9e3c66b.jpg"
+            },
+            {
+              "title": "西班牙数万人上街游行：抗议住房危机 扎营占领马德里市中心",
+              "lead": "周六，由于政府未能使紧急立法在议会获得通过，爆发了 50 多起抗议活动。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6pwg8wkk951o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/225b/live/a58f5d00-bf24-11f1-bc2e-018d645d8d21.jpg"
+            },
+            {
+              "title": "迪拜航空劫机案：阿联酋官员称副驾驶用应急斧头砍伤机长",
+              "lead": "多家媒体报道称，试图劫持飞往以色列的飞机的男子名叫哈马姆·哈马米。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/ck20w70p4n5wo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "人均带三个空箱来华购物的“China Haul”火了",
+              "lead": "在海外社交媒体上，又有一条关于中国的话题词“China Haul”悄然兴起。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-04/10707978.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "波黑公布主席团成员选举初步结果",
+              "lead": "",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15161578.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "华尔街见闻早餐FM-Radio | 2026年10月5日",
+              "lead": "华见早安之声 要闻精选 G7 决定释放1亿桶紧急油储 ，立即行动、持续四个月， 前20天先大规模投放柴油 。 特朗普 称 不会实施柴油出口禁令 。 中东战火恐升级：周五报道称 沙特 考虑大举反击胡塞武装 ，获美情报支持； 也门胡塞武装 称 周六袭击并击中油企沙特阿美目标 ； 也门政府 周日宣布 启动大规模军事行动 ， 以收复胡塞武装 近期 控制地区 。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3782961",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "“机器人通用大脑”受追捧：FieldAI 拟融资 7 亿美元，估值达 100 亿美元",
+              "lead": "IT之家 10 月 5 日消息，FieldAI 正在为人形机器人、无人机等各类机器人打造一款通用大脑。投资者正为重押这一发展愿景投入巨资。 据《商业内幕》报道，一位了解本次交易的人士透露，这家机器人企业正在融资 7 亿美元 （IT之家注：现汇率约合 46.97 亿元人民币） ，投后估值达到 100 亿美元 （现汇率约合 671.04 亿元人民币） ；短短一年多时间之内，其估值就翻至原先的五倍。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/009/746.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "内存涨价倒逼操作系统优化 微软详解Windows 11为何必须降低RAM占用",
+              "lead": "随着全球内存成本持续上涨，微软正将降低Windows 11内存占用列为未来发展的核心任务之一。微软Windows与设备业务负责人帕万·达武卢里近日表示，内存价格不断攀升已经成为整个PC行业面临的重要挑战，这也是微软推动Windows 11减少RAM消耗的重要原因。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1580682.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "十年前的「外挂相机」，如何在华为 Mate 90 上复活？｜硬哲学",
+              "lead": "十几年前，模块化一度被视作智能手机最性感的未来之一。 2013 年，摩托罗拉公布 Project Ara：一块「骨架」上，处理器、屏幕、电池、传感器都可以像积木一样拆装。既然电脑可以自己换显卡、内存和硬盘，为什么手机不能？ 相信很多人的第一反应也和我一样：既然什么都能换，那如果给手机装上一套更大的镜头和传感器，是不是就能得到一张媲美相机、甚至单反的高画质照片？ 图｜Dezeen 许多厂商也抱着类似的期待，做过不少尝试。",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1682933?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "巴西2026年总统选举首轮投票开始",
+              "lead": "中新网10月4日电 巴西2026年总统选举首轮投票于巴西利亚时间10月4日8时(北京时间19时)开始。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707900.shtml",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 2
+            },
+            {
+              "title": "加拿大为何要为（概率极小的）美国入侵做准备",
+              "lead": "加拿大总理马克‧卡尼表示，军方正在制定应对方案，以防美国入侵加拿大这种不太可能发生的情况。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cr89zllz31wdo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4c81/live/804a5860-bd08-11f1-8a64-4f07fd1a6b57.jpg"
+            },
+            {
+              "title": "白宫AI峰会“权力图谱”：扎克伯格最受特朗普认可，马斯克刻意疏离，Amodei焦虑藏不住",
+              "lead": "科技巨头再度齐聚白宫，一场AI峰会在政策议程之外，意外成为一堂关于权力与人际关系的公开课。 本周二，马克·扎克伯格、埃隆·马斯克、Anthropic首席执行官Dario Amodei、英伟达CEO Jensen Huang、谷歌CEO Sundar Pichai、OpenAI总裁Greg Brockman等AI领域头部人物齐聚白宫，就AI安全与数据中心建设展开会谈。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3782984",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "连续4天单日破亿！2026国庆档电影票房已超7亿",
+              "lead": "据网络平台数据",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-04/10707912.shtml",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "consensus": 2
+            },
+            {
+              "title": "最后一个公子：蒋万安连任危机，与公子政治的黄昏",
+              "lead": "在国民党的历史来说，公子们高估自己、同时被党内大老高估，早已是不变的规律。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261005-taiwan-the-fall-of-princeling-politics/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/IMGL3286-copy.jpg"
+            },
+            {
+              "title": "站在课桌上，反抗权威机构的压迫，用不同的眼光看待事物 (评论: 死亡诗社)",
+              "lead": "haerin_cat 评论: 死亡诗社 评价: 力荐",
+              "source": "豆瓣",
+              "group": "豆瓣",
+              "link": "https://movie.douban.com/review/17841699/",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "2026年海南自贸港乡村龙舟大赛总决赛收官 318海峡联盟龙舟队获特邀组冠军",
+              "lead": "中新网海南万宁10月4日电 (记者 符宇群)随着最后一声终点鸣笛响起，2026年海南自贸港乡村龙舟大赛总决赛在万宁市和乐镇港北港落幕。海南永升龙舟队、源动旅游龙舟队、318海峡联盟龙舟队分获男子组、混合组、特邀组冠军。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-04/10707927.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "河北千名乒乓小将齐聚正定 竞逐国青国少集训队“入场券”",
+              "lead": "中新网石家庄10月4日电 (裴国荣 韩晓欧)4日，为期3天的2026年中国乒协国青国少集训队(第七期)河北省选拔赛在石家庄正定开赛，河北共计1105名运动员参赛。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-04/10707930.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "校馆弦歌丨中央民族大学图书馆：万卷藏珍 同心报国",
+              "lead": "如果说馆藏典籍是读懂中国的钥匙，那么中央民族大学图书馆的万千文献，就藏着中华民族多元一体、交融共生的历史密码，实证着各民族休戚与共、同心报国的千年脉络。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/10-04/10707959.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "新疆阿克苏地区沙雅县发生3.0级地震，震源深度20千米",
+          "lead": "中国地震台网正式测定：10月05日06时56分在新疆阿克苏地区沙雅县（北纬41.16度，东经83.13度）发生3.0级地震，震源深度20千米。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15161520.html"
+        },
+        {
+          "title": "内存涨价倒逼系统瘦身：微软详解 Win11 为何要降低 RAM 占用",
+          "lead": "IT之家 10 月 5 日消息，随着内存成本持续上涨，微软正将“降低 Windows 11 内存占用”列为 2026",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/009/738.htm"
+        },
+        {
+          "title": "MIT超薄肌肉机器人靠蓝光驱动 在水中以每分钟4倍体长前进",
+          "lead": "麻省理工学院工程师研发出一款由活体骨骼肌细胞驱动的薄型水下机器人。装置没有传统电机，主体是两片可独立控制的凝胶鳍片，每片约长15毫米",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/science/1580694.htm"
+        },
+        {
+          "title": "落幕的威尼斯影展：大写的政治，小写的电影",
+          "lead": "柏林、康城和威尼斯都没有解决电影与政治之间的矛盾，而是把这个矛盾暴露得更加彻底。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261005-international-venice-film-festival/"
+        },
+        {
+          "title": "纳入6280亿美元表外承诺后，Meta股票“贵了”35%？",
+          "lead": "Meta约6280亿美元的表外负债长期隐匿于财报脚注，当这一数字被纳入企业价值计算后，整个超大规模科技股的估值框架正面临重构。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782985"
+        },
+        {
+          "title": "OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相",
+          "lead": "如果说现在形容一件事很厉害，最常见的用词不是「牛 X」，而是「瘫坐在地，仿佛看到了核爆炸。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1682922?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "[分享创造] [开源] Precedent Loop：让 Agnet 换个会话也记得项目里踩过的坑",
+          "lead": "用 Codex 和 Claude Code 写代码久了，最头疼的是它不记事。上周跟它一起查了一下午，根因找到了，方案也定了。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1246437#reply1"
+        },
+        {
+          "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
+          "lead": "iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。 查看全文",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "少數派",
+          "link": "https://sspai.com/post/115308"
+        },
+        {
+          "title": "陈飞宇毛骨悚然一笑，成为《神探之痕迹》的惊心动魄名场面 (评论: 神探之痕迹‎)",
+          "lead": "大侃 评论: 神探之痕迹‎ 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17841820/"
+        },
+        {
+          "title": "四川宜宾市高县发生3.8级地震，震源深度5千米",
+          "lead": "中国地震台网正式测定：10月05日01时19分在四川宜宾市高县（北纬28.54度，东经104.65度）发生3.8级地震，震源深度5千米。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15161480.html"
+        },
+        {
+          "title": "下周重磅日程：美伊与也门局势牵动油价、美联储纪要定价加息预期、诺贝尔奖揭晓",
+          "lead": "10月05日 - 10月11日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 首先关注货币政策与美债拍卖。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782971"
+        },
+        {
+          "title": "罗杰·伊伯特《默片时代的第三位天才》 (评论: 安全至下)",
+          "lead": "东木头 评论: 安全至下 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17841643/"
+        },
+        {
+          "title": "现货黄金向上触及4150美元",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15161639.html"
+        },
+        {
+          "title": "被男主劝退 (评论: 我看见两朵一样的云)",
+          "lead": "momo 评论: 我看见两朵一样的云 评价: 较差",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17841267/"
+        },
+        {
+          "title": "只是一点吐槽（有剧透） (评论: 翠鸟谋杀案)",
+          "lead": "Eloise 评论: 翠鸟谋杀案 评价: 还行",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17840946/"
+        }
+      ],
+      "supplement": {
+        "title": "香港独立书店在日本的实验：重构一种自由，但会否是自由的幻影？",
+        "lead": "这年夏天，对香港的独立书店而言，似乎是多事之夏。 本地屡次传来坏消息，书籍下架，多间独立书店被警察搜捕，老牌书店与年轻书店相继宣告结业。身穿「我是书店店员」字句黑色T恤的女生遭警方拘捕的画面更传遍网路，引发港台两地对于声援与消费等立场争议，纷扰不休。 另一边厢，在日本东京一所翻新活化的旧学校里，由位于上环的独立书店「见山书店」举办了一场小型书展，以「异国的暑假」（异国の夏休み）为主题，在两个月的展期内，办过二十场讲座和工作坊活动",
+        "body": [
+          "这年夏天，对香港的独立书店而言，似乎是多事之夏。本地屡次传来坏消息，书籍下架，多间独立书店被警察搜捕，老牌书店与年轻书店相继宣告结业。身穿「我是书店店员」字句黑色T恤的女生遭警方拘捕的画面更传遍网路，引发港台两地对于声援与消费等立场争议，纷扰不休。",
+          "另一边厢，在日本东京一所翻新活化的旧学校里，由位于上环的独立书店「见山书店」举办了一场小型书展，以「异国的暑假」（异国の夏休み）为主题，在两个月的展期内，办过二十场讲座和工作坊活动，人们自由自在地读书买书交流，竟似一场阅读的平行时空。回顾这场书展实验，理解独立书店和出版如何在外地开辟新路径，似乎无法摆脱香港阅读出版空间愈趋压缩的社会脉络。这次专题找来参与其中的两地作家、书业人士和读者，希望从多个层面切入，一方面，由日本社群角度检视这次跨地域文化交流的连结和局限；",
+          "与此同时，当拉开距离，本地的文化工作者又是否能真正呼吸自由，抑或离不开内心无形的恐惧？见山书店店主Sharon作为主办者，甚至提出反问：「今时今日，如果我们要做一件事，关于艺术文化，就从美的角度出发讨论，是不是有点困难呢？」 「异国的暑假」为期两个月，选址东京世田谷区一所由废弃学校改建而成的复合设施HOME/WORK VILLAGE。摄影：黄静美智子"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261004-hongkong-japan-culture-indie-bookstores-cross-border-experiment/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/44.jpg"
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 7,
+        "briefs": 15,
+        "groups": 12,
+        "maxGroupShare": 22,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×5",
+          "豆瓣×5",
+          "華爾街見聞×4",
+          "端傳媒×3",
+          "界面新聞×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Brazil presidential election 2026: first-round live results",
+        "lead": "Luiz Inácio Lula da Silva is standing against Flávio Bolsonaro in the first round of the presidential race The incumbent, Luiz Inácio Lula da Silva",
+        "body": [
+          "Luiz Inácio Lula da Silva is standing against Flávio Bolsonaro in the first round of the presidential race The incumbent, Luiz Inácio Lula da Silva, is up against Flávio Bolsonaro, the son of the former president Jair Bolsonaro, who is in prison for plotting a military coup.",
+          "The president in Brazil is directly elected, and candidates need more than 50% of the vote to avoid a second round.",
+          "Continue reading..."
+        ],
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/57b638a4d4d903a611efbeecbdfac0df5ef21692/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9c00a21e71375914289846c3d01d7179",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+        "lead": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ea/live/56a0e6c0-c053-11f1-babe-4199b0e7ccea.png",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live",
+              "lead": "At least 5,000 people, mainly teenagers, have been arrested while dozens of people, including students and teachers, have been injured Germany is Ukraine’s largest donor and has sent Kyiv more than €43.3 billion ($48.",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/492d44ad34e677cfa238bab5d6f1df6e245b6a75/0_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=818433e4404ba057290808c6d93df130",
+              "consensus": 5
+            },
+            {
+              "title": "Brazil Elections Head to Runoff Between Lula and Bolsonaro Son",
+              "lead": "Neither President Luiz Inácio Lula da Silva nor his top challenger, Flávio Bolsonaro, won a majority of votes in the first round. But for now, Mr. Bolsonaro is leading the race.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/04/multimedia/04int-brazil-elections-takeaways-ckzh/04int-brazil-elections-takeaways-ckzh-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Brazil election results live: Lula and Bolsonaro locked in a tight race",
+              "lead": "Leftist incumbent Lula is seeking a fourth term in office, facing off against right-wing Senator Flavio Bolsonaro.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Investors look to shelter portfolios from rising AI concentration risks",
+              "lead": "Fund managers see hedge funds and emerging markets assets as bulwarks against sudden shift in sentiment on artificial intelligence",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/3302fd5c-8b92-425b-9523-673b2565bb10?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F11bbeef8-6387-4177-a1ee-9154203c16a1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
+              "lead": "Yemen's government said it was launching a major military campaign to recapture all areas of the country controlled by the Iran-backed Houthis.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/04/yemen-launches-offensive-to-seize-all-areas-from-iran-backed-houthis.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets",
+              "lead": "Britain under pressure to put tariffs on cheap Chinese vehicle imports ahead of protectionist trade measures Britain’s car industry is grappling with a “difficult trade-off” between China and Europe",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://i.guim.co.uk/img/media/b10db41e65d9e09adda2a58a3691fd5ec4bb508a/1094_279_2900_2320/master/2900.jpg?width=140&quality=85&auto=format&fit=max&s=34c20b3fbecf653ece4347d0b7483316"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Trump names intelligence chief Jay Clayton as new White House AI czar",
+              "lead": "Clayton had said AI was a ‘gamechanger’ but also posed ‘a threat’ during his confirmation hearing Donald Trump on Sunday named Jay Clayton, the director of national intelligence",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://i.guim.co.uk/img/media/144d386f8c00039748c3a55ec9b55f147d589d98/2296_881_2186_1748/master/2186.jpg?width=140&quality=85&auto=format&fit=max&s=c78eef28a6408c2241944a8febff928e",
+              "consensus": 3
+            },
+            {
+              "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar",
+              "lead": "Director of National Intelligence Jay Clayton will lead the administration's AI policy.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 3
+            },
+            {
+              "title": "Trump unveils his new Super Intelligence Force",
+              "lead": "This new task force is Trump's latest response to the debate over AI safety.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 3
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Israel 'tried to intimidate' Irish amid spitting row - Hallgrimsson",
+              "lead": "Republic of Ireland head coach Heimir Hallgrimsson says he felt Israel were \"trying to intimidate\" his team amid allegations of spitting during Sunday's Nations League draw.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cw4g14eg5p22o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e2/live/2ac00d80-c042-11f1-b3e5-8557f7e62bde.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "World No. 979 Stewart's dilemma after finishing fourth at Alfred Dunhill Links",
+              "lead": "Scotland's Michael Stewart has a choice to make after securing his best finish at a DP World Tour event.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/golf/articles/c6pwg5z9982zo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f70/live/bb6d8220-c00d-11f1-b8fc-7927883c19e9.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "'We fought for every ball' - Hemp on Man City's thrilling win",
+              "lead": "Two-goal Lauren Hemp says Manchester City showed passion and character in their 4-2 win over Arsenal in the WSL.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/cqly0lgy37z8o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28f2/live/9b50ed40-c01e-11f1-babe-4199b0e7ccea.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "J. Todd Anderson, ‘The Nice Guys’ Storyboard Artist and Longtime Coen Brothers Collaborator, Dies at 67",
+              "lead": "J. Todd Anderson, the storyboard artist behind films like “The Nice Guys” and “Raising Arizona” and a longtime Coen Brothers collaborator, has died following a battle with cancer. He was 67.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/people-news/j-todd-anderson-dead-the-nice-guys-coen-brothers-1236898722/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/j_todd_anderson_sq.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Sarah Jessica Parker Says She’s ‘Never’ Worn Her Archived ‘Sex and the City’ Wardrobe: ‘There’s a Huge Separation Between Myself and Carrie Bradshaw’",
+              "lead": "Despite Carrie Bradshaw’s reputation for wearing trend-setting outfits, Sarah Jessica Parker never wears any of her “Sex and the City” character’s iconic wardrobe. But she does have it.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/news/sarah-jessica-parker-carrie-bradshaw-sex-and-the-city-wardrobe-1236898781/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2022/11/Sarah-Jessica-Parker-Sex-and-the-City.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
+              "lead": "Tiny magnetic fields created shortly after the Big Bang may help explain the long-running disagreement over how fast the universe is expanding.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 3
+            },
+            {
+              "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
+              "lead": "Scientists studying Chang’e-6 lunar soil have discovered a previously unknown magnetic mineral in natural Moon samples: a form of metallic iron called γ-Fe.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
+              "lead": "ESA’s Juice spacecraft raced past Earth on September 28, using our planet’s gravity to dramatically reshape its path toward Jupiter without burning much fuel.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Brazil’s presidential race to go to second round as Flávio Bolsonaro leads incumbent Lula",
+          "lead": "Far-right challenger and son of disgraced ex-president Jair Bolsonaro",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro"
+        },
+        {
+          "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+          "lead": "The Yemeni president's announcement comes amid an exchange of strikes",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "What to Know About France’s High School Protests",
+          "lead": "Hundreds of schools will suspend some or all classes on Monday",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/03/world/europe/high-school-student-protest-what-to-know.html"
+        },
+        {
+          "title": "US recalls B-1 bombers from UK air base following alleged terror plot",
+          "lead": "UK and American officials have claimed Iran was involved in the",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/66897ef7-936b-43d0-a067-576be636f876?syn-25a6b1a6=1"
+        },
+        {
+          "title": "France to shutter up to 500 schools as more student protests called",
+          "lead": "Education minister cites safety concerns for closures as organisers",
+          "category": "society",
+          "categoryLabel": "Society",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss"
+        },
+        {
+          "title": "Hundreds of schools to close on Monday as education protests rock France",
+          "lead": "Up to 500 schools across France will be totally or partly closed on",
+          "category": "society",
+          "categoryLabel": "Society",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/europe/article/3369730/hundreds-schools-close-monday-education-protests-rock-france?utm_source=rss_feed"
+        },
+        {
+          "title": "Hundreds of schools to shut Monday as France braces for more student protests",
+          "lead": "France's education minister said lessons would be \"totally or partly",
+          "category": "society",
+          "categoryLabel": "Society",
+          "source": "France24",
+          "link": "https://www.france24.com/en/france/20261004-up-to-500-french-schools-to-be-totally-or-partly-closed-monday-due-to-protests"
+        },
+        {
+          "title": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East",
+          "lead": "Tehran's conditions include a halt to U.S. \"acts of aggression",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html"
+        },
+        {
+          "title": "Is ‘Rubber Soul’ the Beatles’ Best Album? The Answer to That is as Malleable as the Shifting Track Lists, but This ‘Super Deluxe’ Is Super Essential: Boxed Set Review",
+          "lead": "What is the Beatles’ best album? “The one you’re listening to right",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/music/album-reviews/beatles-rubber-soul-super-deluxe-boxed-set-review-1236898774/"
+        },
+        {
+          "title": "Cornell president vows review in wake of alleged student gang rape",
+          "lead": "The incident has sparked outrage against the Ivy League school and",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/04/world/crime-legal/cornell-president-review-student-rape/"
+        },
+        {
+          "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+          "lead": "On Equity, we discussed the Trump administration's attempts to",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
+        },
+        {
+          "title": "Prick’s theatrical industrial punk is perfect for spooky season",
+          "lead": "While deep in the recording process for The Downward Spiral",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review"
+        },
+        {
+          "title": "A meteor hit Oklahoma 100 million years later than scientists thought",
+          "lead": "A meteor crater buried beneath Oklahoma has turned out to be nearly",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm"
+        },
+        {
+          "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
+          "lead": "Chimps fish for algae in a rare example of primate tool use.",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/"
+        },
+        {
+          "title": "More than 400 schools in France to be closed on Monday as more protests planned",
+          "lead": "Education minister says 24 schools have been burnt or ransacked and",
+          "category": "society",
+          "categoryLabel": "Society",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/oct/04/schools-france-closed-protests-planned"
+        },
+        {
+          "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
+          "lead": "Polls suggest the election will be a closely run contest between the",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "supplement": {
+        "title": "Marvel Canceled ‘Blade,’ But the Gory Vampire Brawler ‘Half’ Will Thrill Genre Fans",
+        "lead": "Marvel mastermind Kevin Feige has made some of the shrewdest financial decisions in Hollywood history, but he sure dropped the bag when he didn’t make a new “Blade.” (Just ask would-be star Mahershala Ali.",
+        "body": [
+          "Marvel mastermind Kevin Feige has made some of the shrewdest financial decisions in Hollywood history, but he sure dropped the bag when he didn’t make a new “Blade.” (Just ask would-be star Mahershala Ali.) Luckily, Indian auteur Samjad has directed a film that will bring joy to fans of the battle-ready half-vampire Wesley Snipes popularized […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/features/half-vampire-action-movie-india-blade-1236898106/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/08/Half.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 8,
+        "topGroups": [
+          "Guardian×4",
+          "BBC×4",
+          "Variety×4",
+          "ScienceDaily×4",
+          "Al Jazeera×2",
+          "CNBC×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-05T00:33:27.345Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 777,
+        "lang": 436,
+        "fresh": 266,
+        "denoised": 265,
+        "deduped": 235
+      },
+      "en": {
+        "fetched": 777,
+        "lang": 341,
+        "fresh": 267,
+        "denoised": 265,
+        "deduped": 261
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 37,
+        "sections": 7,
+        "briefs": 15,
+        "groups": 12,
+        "maxGroupShare": 22,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×5",
+          "豆瓣×5",
+          "華爾街見聞×4",
+          "端傳媒×3",
+          "界面新聞×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 8,
+        "topGroups": [
+          "Guardian×4",
+          "BBC×4",
+          "Variety×4",
+          "ScienceDaily×4",
+          "Al Jazeera×2",
+          "CNBC×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

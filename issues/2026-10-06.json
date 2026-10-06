@@ -1,0 +1,923 @@
+{
+  "issue": 22,
+  "date": "2026-10-06",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历八月廿六 · 秋分",
+    "en": "26th day of the 8th lunar month · Autumn Equinox"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "三名科学家因光遗传学发现获2026年诺贝尔生理学或医学奖",
+        "lead": "中新社北京10月5日电 斯德哥尔摩消息：瑞典卡罗琳医学院5日宣布，将2026年诺贝尔生理学或医学奖授予三名科学家卡尔·戴塞罗思、彼得·黑格曼和格奥尔格·内格尔，以表彰他们发现光门控离子通道并创立光遗传学。",
+        "body": [
+          "中新社北京10月5日电 斯德哥尔摩消息：瑞典卡罗琳医学院5日宣布，将2026年诺贝尔生理学或医学奖授予三名科学家卡尔·戴塞罗思、彼得·黑格曼和格奥尔格·内格尔，以表彰他们发现光门控离子通道并创立光遗传学。"
+        ],
+        "source": "中新網國際",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-05/10708251.shtml",
+        "category": "world",
+        "categoryLabel": "国际",
+        "consensus": 4
+      },
+      "secondary": {
+        "title": "驻日美军涉谋杀女性被捕 重燃冲绳抗议浪潮",
+        "lead": "对于冲绳岛上的许多当地人来说，再次有驻日美军涉嫌犯罪被捕，唤起了他们数十年来积累的挫折感。",
+        "source": "BBC中文",
+        "group": "BBC",
+        "link": "https://www.bbc.com/zhongwen/articles/cwzd6164jv6ro/trad?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "categoryLabel": "国际",
+        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f69b/live/e2156f10-c09d-11f1-a64c-550be9e3c66b.jpg"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "2026年诺贝尔生理学或医学奖揭晓 这三位科学家获奖",
+              "lead": "中新网10月5日电(魏晨曦) 当地时间10月5日，瑞典卡罗琳医学院宣布，将2026年诺贝尔生理学或医学奖授予卡尔·戴塞洛斯(Karl Deisseroth)、彼得·黑格曼(Peter Hegemann)、格奥尔格·纳格尔(Georg Nagel)三位科学家，以表彰他们在光门控离子通道和光遗传学方面的发现。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-05/10708203.shtml",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 4
+            },
+            {
+              "title": "普京不怎么去的「黑海北戴河」为何要偷偷重建？",
+              "lead": "卫星影像显示，这座行宫在战时经历大规模改建；而法庭纪录与以现金支薪的招聘广告，则揭露了这项庞大工程隐藏的文件线索。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cq80zr4l8xkzo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ff3e/live/5b667bb0-b76c-11f1-b1d1-571ed4d7ff2c.jpg"
+            },
+            {
+              "title": "「特习会」后两架美国 F-16V 抵台 「虽迟但到」的时机与信号",
+              "lead": "本周五，台湾在2019年向美国订购的2架F-16V战机先行抵达台湾台东空军志航基地，同批次共有66架同型号战机，是1990 年代以来台湾首次战机采购。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6pwg52xjp8jo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/87ff/live/ac94d930-bfe8-11f1-b06d-85ecedcb7cff.jpg"
+            },
+            {
+              "title": "反恐案件后 美国从英国西南基地撤走全数轰炸机",
+              "lead": "一份声明表示，所有部署至英国皇家空军费尔福德基地（RAF Fairford）的轰炸机均已「重新部署至美国本土基地」。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/ckjwedyygxgvo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dc8f/live/fbf333b0-c037-11f1-86a1-ad5985eac783.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "年轻人爱上房车旅行！国庆假期房车消费迎来新变化",
+              "lead": "今年国庆假期，公路出行占比预计超90%，自驾游成为出行主力，房车消费发生转变，从短期租赁体验，走向直接购置自用。政策加码+配套完善，房车从小众爱好走向更多人消费。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-06/10708313.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "神经科学新时代开启！2026年诺贝尔医学奖揭晓：三位“光遗传学”科学家获奖",
+              "lead": "三位科学家凭借一项将藻类蛋白质转化为神经细胞“开关”的突破性技术，摘得2026年诺贝尔生理学或医学奖。 当地时间10月5日，瑞典卡罗琳医学院宣布，将2026年诺贝尔生理学或医学奖授予美国科学家 卡尔·戴塞洛斯（Karl Deisseroth） 和德国科学家 彼得·黑格曼（Peter Hegemann） 、 格奥尔格·纳格尔（Georg Nagel） ，以 表彰他们在光门控离子通道和光遗传学方面的发现。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3783017",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 4
+            },
+            {
+              "title": "谷歌与Constellation接近达成十亿美元核电采购协议",
+              "lead": "据报道，知情人士透露，谷歌接近与Constellation达成一项多年期协议，合同总金额预计将达到或超过10亿美元，最早可能于本周宣布。亚马逊公司上周刚刚与Constellation达成类似协议，购买690兆瓦电力，其中包括通过升级美国马里兰州卡尔弗特克利夫斯（Calvert Cliffs）核电站获得的新增电力产能。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15162858.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "2026年诺贝尔生理学或医学奖授予光遗传学三位奠基者",
+              "lead": "2026年诺贝尔生理学或医学奖授予Karl Deisseroth、Peter Hegemann和Georg Nagel，以表彰他们“ 在光控离子通道和光遗传学方面的发现 ”。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1580786.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 4
+            },
+            {
+              "title": "Constellation 收获亚马逊 20 年核电长单，接近与 Alphabet 达成 10 亿美元交易",
+              "lead": "IT之家 10 月 6 日消息，美国能源企业 Constellation 当地时间 9 月 30 日宣布与 Amazon（亚马逊）签署了一份长达 20 年的核电供应协议。 Constellation 将利用其位于马里兰州 Calvert Cliffs 的核电站 为亚马逊供应 690MW 的电力 ，其中包括 2030~2032 年上线的 190MW 新增容量。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/009/956.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "科学家识别出三种叫声最响亮的鸟",
+              "lead": "生物学家在巴西识别出三种叫声最响亮的鸟。至于这些鸟如何演化出最响亮的叫声则仍然是个迷。白钟雀（white bellbird）叫声能达到 125 分贝，裸喉钟雀（bare-throated bellbird）和红腿叫鹤（red-legged seriema）叫声都超过 120 分贝。三种鸟类有着共同的生理特征：即宽大的喙口和肌肉厚实的大块头身体。研究人员表示，120 分贝可能是鸟类发声的生理极限；",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85539",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "俄外交部：日方对俄制裁进一步恶化双边关系",
+              "lead": "中新社莫斯科10月5日电 俄罗斯外交部发言人扎哈罗娃5日就日本最新对俄制裁发表评论称，日本政府继续采取轻率行动，导致本已“所剩无几”的俄日关系进一步恶化。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-06/10708302.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "台北市长选战：蒋万安的2028前哨战，沈伯洋能否靠「洋流」突围？",
+              "lead": "原先不被看好的沈伯洋，自宣布参选后大力改变形象，近期声势高涨，给本享有执政优势的蒋万安带来了挑战。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/ck0j0wv57jw7o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c945/live/0f426370-c0c7-11f1-a5b0-6f550c662e91.jpg"
+            },
+            {
+              "title": "总统选举首轮结果出炉 巴西史诗级暴涨",
+              "lead": "【导读】轮到巴西暴涨了 大家好啊，这个假期，外围真的涨不停。今晚，轮到巴西史诗级暴涨了。 一起看看怎么回事。 10月5日晚间，巴西资产，无论是汇率还是股市，都全线暴涨。 首先，巴西股市开盘暴涨近9%。 MSCI巴西指数暴涨超13%！ 巴西汇率同样暴涨，涨近5%！ 消息面上，巴西正在进行总统大选，因为市场更青睐的候选人、参议员弗拉维奥·博索纳罗在首轮选举中出人意料地击败民调预期，得票领先现任总统路易斯·伊纳西奥·卢拉·达席尔瓦",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://finance.eastmoney.com/news/1351,202610053888685540.html",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "美国华裔房产经纪涉监视赖清德儿子 被FBI拘捕",
+              "lead": "美国联邦调查局（FBI）在洛杉矶国际机场逮捕华裔房产经纪张婉莹，她被指控曾长期监视台湾总统赖清德之子赖廷与。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cw5yn53n4y7ko/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2706/live/60367c90-c07b-11f1-babe-4199b0e7ccea.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "《南韩民主家政课》：父亲在体制，母亲在街头，「我」在哪里？",
+              "lead": "「广场总被分成不同的部分，大家都带著韩国国旗，每个人都说，我们是爱国者。」",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261006-international-nam-arum-k-family-affairs/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/mm_de2fee92d34f46-W.jpg"
+            },
+            {
+              "title": "国庆档电影票房超9亿！光影文旅双向奔赴",
+              "lead": "据网络平台数据",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-05/10708276.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "新片评论丨期待马浴柯取代陈思诚 (评论: 重生2)",
+              "lead": "福雷斯特·冈普 评论: 重生2 评价: 还行",
+              "source": "豆瓣",
+              "group": "豆瓣",
+              "link": "https://movie.douban.com/review/17842960/",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "2026年东北地区城市足球联赛落幕 长春队夺冠",
+              "lead": "中新网大连10月6日电 (记者 杨毅)2026年东北地区城市足球联赛(简称“东北超”)决赛5日晚在大连梭鱼湾足球场举行，长春队1:0击败大连队夺得本届东北超冠军。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-06/10708323.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "超三联赛首支单赛季三夺争霸赛冠军的球队诞生",
+              "lead": "中新网北京10月5日电(记者 岳川) 为期三天的2026年超三联赛北京密云争霸赛4日收官。上海久事队在决赛中“绝杀”上海横沙誉民队，成为联赛历史上首支单赛季三夺争霸赛冠军的球队。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-05/10708294.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "传承红色基因 凝聚前行力量 国庆假期，长征展览人潮涌动",
+              "lead": "今年是中国工农红军长征胜利90周年。国庆假期，全国各地一场场有温度、有深度、有力量的纪念红军长征胜利90周年主题陈列展览，成为客流涌动的热门出行目的地。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/10-06/10708322.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "台北同志酒吧遭搜查 警员歧视言论惹争议",
+          "lead": "有关注同志权益团体号召集结抗议，逾百人出席表达不满警方不当执法。警方证实有警员言行不当已惩处；台北巿长蒋万安致歉。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cmz98p0x525xo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "创纪录AI芯片融资启动分销：420亿高级债靠博通信用背书，180亿次级债要等Anthropic IPO",
+          "lead": "一笔600亿美元的AI芯片融资据称进入银团分销环节，美国银行、花旗和摩根士丹利开始向其他银行转手部分债务。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783041"
+        },
+        {
+          "title": "我国海水淡化日处理能力突破300万吨",
+          "lead": "据自然资源部消息，截至目前，我国海水淡化总规模已达到每日307.7万吨。目前，全国已建海水淡化工程总规模为307.7万吨/日，据不完全统计",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15162791.html"
+        },
+        {
+          "title": "微软工程师回应“Win10/Win11 不适合开发”论调，称其开发者规模超 macOS / Linux",
+          "lead": "IT之家 10 月 6 日消息，科技媒体 Windows Latest 昨日（10 月 5 日）发布博文",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/009/954.htm"
+        },
+        {
+          "title": "OpenAI将在欧盟为ChatGPT文本加入隐形水印 无需特殊字符 改写后可能失效",
+          "lead": "OpenAI正在欧盟地区为ChatGPT和Codex生成的文本逐步加入隐形水印，以满足欧盟《人工智能法案》对AI生成内容可识别性的要求。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1580828.htm"
+        },
+        {
+          "title": "【华尔街日报】AI 正在挤压美股的其他板块",
+          "lead": "编按：《华尔街日报》是全球最具影响力的财经媒体之一，每日产出大量深度报导，涵盖国际政治、商业财经与科技趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261006-wsj-ai-squeezes-rest-of-stock-market/"
+        },
+        {
+          "title": "因涌入大量 AI 报告 Google 冻结其 Bug 悬赏计划",
+          "lead": "因涌入大量无效的 AI bug 报告，Google 宣布冻结其 Bug 悬赏计划 Open Source Software",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85538"
+        },
+        {
+          "title": "[人工智能] 开源了个翻译模型 Index-Translate 🌍 150 种语言，免费 API 已开，欢迎体验",
+          "lead": "大家好，我是 B 站 Index LLM 团队成员 最近开源了 Index-Translate",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1246568#reply6"
+        },
+        {
+          "title": "Termexo v0.10.10 发布：19 个本地 MCP 工具，五种编程 Agent 自动接入",
+          "lead": "AI 生成概念图，非产品界面。 MIT 开源的 Windows AI 编程工作台 Termexo 发布 v0.10.10。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/502845"
+        },
+        {
+          "title": "全球市场：美股三大指数集体收涨 纳指涨超1%创收盘新高",
+          "lead": "美股市场： 美股三大指数10月05日收盘全线上涨， 纳指涨超1%，创收盘新高 。截至收盘，道琼斯工业平均指数比前一交易日上涨90.94点",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://stock.eastmoney.com/news/11784,202610063888706547.html"
+        },
+        {
+          "title": "文盲修仙修成魔气，这剧笑到肚子疼? (评论: 谁让这个文盲修仙的)",
+          "lead": "李白 评论: 谁让这个文盲修仙的 评价: 还行",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17844137/"
+        },
+        {
+          "title": "蔡康永现身造势活动遭砲轰 盘点大陆商界「割席台独」案例",
+          "lead": "蔡康永现身民进党沈伯洋造势活动，事情登上微博热搜；曾与其合作的大陆汽车企业发表声明「割席」。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c98rzd82m7r1o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "美债期货细则暗藏玄机：30年期收益率逼近6%或引发连锁调仓压力",
+          "lead": "30年期美债收益率逼近6%，可能触发国债期货\"最便宜可交割券\"（CTD）切换，迫使资产管理机构卖出期货，进一步加剧长端收益率上行。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783043"
+        },
+        {
+          "title": "美联储10月维持利率不变的概率为77.3%",
+          "lead": "据CME“美联储观察”，美联储到10月维持利率不变的概率为77.3%，累计加息25个基点的概率为22.7%。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15162852.html"
+        },
+        {
+          "title": "「来见识一下」：蔡康永坐进沈伯洋造势现场，微博网民扬言抵制｜Whatsnew",
+          "lead": "10月4日下午，台北市长民进党候选人沈伯洋的竞选总部成立，现场声势浩大，人流超乎预期，主办单位喊出共有12万人参与。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261006-whatsnew-kevin-tsai-show-up-puma-shen-campaign-hq-buzz/"
+        },
+        {
+          "title": "《功夫女足》：如果不是周星驰作品…… (评论: 功夫女足)",
+          "lead": "火神纪 评论: 功夫女足 评价: 较差",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17844021/"
+        }
+      ],
+      "supplement": {
+        "title": "2026 年诺贝尔生理学或医学奖授予了三位研究光遗传学的科学家",
+        "lead": "2026 年诺贝尔生理学或医学奖授予了美国斯坦福-霍华德·休斯医学研究所的 Karl Deisseroth、德国柏林洪堡大学的 Peter Hegemann 和维尔茨堡大学的 Georg Nagel，以表彰他们在光门控离子通道和光遗传学方面的发现。大脑如何掌管情感、行为和身体功能，长期以来一直是个谜。20世纪，研究人员开始探究大脑的哪些区域影响哪些功能，但所用的方法意味着他们无法证明因果关系。",
+        "body": [
+          "2026 年诺贝尔生理学或医学奖授予了美国斯坦福-霍华德·休斯医学研究所的 Karl Deisseroth、德国柏林洪堡大学的 Peter Hegemann 和维尔茨堡大学的 Georg Nagel，以表彰他们在光门控离子通道和光遗传学方面的发现。大脑如何掌管情感、行为和身体功能，长期以来一直是个谜。20世纪，研究人员开始探究大脑的哪些区域影响哪些功能，但所用的方法意味着他们无法证明因果关系。",
+          "光遗传学——一种能揭示神经细胞如何在活体大脑中塑造记忆、情感和行为的方法——改变了这一状况。Peter Hegemann 和 Georg Nagel 发现了通道视紫红质——一种具有独特性质的藻类蛋白质，存在于细胞表面。当它被蓝光照射时，蛋白质上会打开一个通道。",
+          "带电离子随即流入细胞，产生电脉冲。他们发现，无论将这种蛋白质放入哪种细胞，那些细胞都会变得对光敏感。Karl Deisseroth 将通道视紫红质的基因导入大鼠的神经细胞中。通过用蓝光照射这些细胞，他能够触发神经信号。"
+        ],
+        "source": "Solidot",
+        "group": "Solidot",
+        "link": "https://www.solidot.org/story?sid=85537",
+        "category": "science",
+        "categoryLabel": "科学",
+        "consensus": 4
+      },
+      "stats": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "BBC×6",
+          "華爾街見聞×3",
+          "Solidot×3",
+          "端傳媒×3",
+          "豆瓣×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 4,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Spain’s Leader Calls Early Election After Housing Crisis Roils Government",
+        "lead": "Pedro Sánchez, the Spanish prime minister, has faced challenges including a migration crisis and several corruption scandals involving his inner circle.",
+        "body": [
+          "Pedro Sánchez, the Spanish prime minister, has faced challenges including a migration crisis and several corruption scandals involving his inner circle."
+        ],
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/10/05/world/europe/spain-snap-elections-sanchez.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05int-spain-live-hqtl-cop-promo/05int-spain-live-hqtl-cop-promo-mediumSquareAt3X-v3.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Five reasons India's stock market is sinking even when its economy is growing",
+        "lead": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+        "source": "BBC Business",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f8e/live/e8ffe940-c09d-11f1-b72b-c3e328aa18ed.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Brazil Election Could Give Bolsonaro a Key Role in Trump’s Latin America Map",
+              "lead": "Flávio Bolsonaro, now the favorite to win Brazil’s presidency, would give President Trump a critical new ally in Latin America, particularly on security.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/05/world/americas/brazil-election-bolsonaro-trump.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05int-brazil-trump-khcz/05int-brazil-trump-khcz-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Tories are united behind Badenoch, but MPs want focus on economy over culture wars to win back voters",
+              "lead": "Party has common enemy in defectors, while Nigel Farage’s woes have given some insiders reason to hope During a quick-fire Q&A at the Conservative party conference this weekend",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/politics/2026/oct/05/tories-are-united-behind-badenoch-but-mps-want-focus-on-economy-over-culture-wars-to-win-back-voters",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/15a6df04e17cde11c026f016f987d49d3ad63513/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3c055c87732b254b01374823f6c6a941",
+              "consensus": 5
+            },
+            {
+              "title": "Yemeni government forces drive Houthis from Bab el-Mandeb Strait",
+              "lead": "The advance, if confirmed, would loosen the Houthis' grip on a vital Red Sea oil route.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/news/2026/10/06/world/yemeni-forces-houthis-bab-el-mandeb-strait/",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/06/566943.JPG",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Trump eases red diesel limits in attempt to quell fuel inflation",
+              "lead": "US president announces the move during a trip to the agricultural state of Nebraska",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/8a733f73-d506-49ae-9030-2bbf0987bc8d?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc8a17e09-10ac-414a-8a60-ffa0921918b4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
+              "lead": "The leading AI labs facing intensifying scrutiny over their safety and security practices.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Max Chandler-Mather pitches Mamdani-style $25bn plan to nationalise 200 Coles and Woolworths supermarkets",
+              "lead": "Former MP and Green Institute head says proposal for publicly owned supermarket chain will ease grocery prices Get our new political email",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/australia-news/2026/oct/06/greens-pitch-zohran-mamdani-style-251bn-plan-to-nationalise-200-coles-and-woolworths-supermarkets",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://i.guim.co.uk/img/media/8b029d52b2de4b1bcc4ce29e5756afccb735e489/488_0_5555_4444/master/5555.jpg?width=140&quality=85&auto=format&fit=max&s=f33e873fd16c7d4fd8a2433b45bb274e"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+              "lead": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "This startup is issuing AI-generated acne prescriptions",
+              "lead": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Mass quarantine issued in Russia after unexplained death of plague researcher",
+              "lead": "Roughly 200 people are under medical observation, several hospitals are under quarantine , and dozens are in isolation in Russia following the unexplained death of an infectious disease researcher at the Irkutsk",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2199370602-1152x648.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "England's greatest international? Kane is now a serious contender",
+              "lead": "With Harry Kane set to equal Peter Shilton's all-time England appearance record, where does he rank among England greats?",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynj882zw0o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d7b/live/25236e70-c0a2-11f1-b72b-c3e328aa18ed.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "What we learned from Wales' Nations League window",
+              "lead": "On the back of a demanding four-game international window, BBC Sport Wales assesses the key talking points from Wales' Nations League A campaign so far.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c6pwg5enxwz8o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa10/live/df63d940-c0c1-11f1-885f-4f9e8c6dce17.jpg",
+              "consensus": 2
+            },
+            {
+              "title": "Juventus & Atletico Madrid eye Madueke - Tuesday's gossip",
+              "lead": "Arsenal forward Noni Madueke has suitors in Spain and Italy, five Premier League clubs are interested in Barcelona defender Jules Kounde, England captain Harry Kane is close to signing a new deal at Bayern Munich",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cw203mjx7r46o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d3/live/7d914c60-c0f9-11f1-812d-715b1c9a79e7.png"
+            },
+            {
+              "title": "Humble Gilmour happy with new role as 50th cap beckons",
+              "lead": "Billy Gilmour is excited by the prospect of earning a 50th Scotland cap after a key role in Sebastien Pocognoli's first win as national head coach.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cmly05el6gz2o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca64/live/a6d4b810-c102-11f1-9ff2-3b6c88884537.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "‘Artificial’ First Reactions: Luca Guadagnino’s OpenAI Drama is ‘Provocative,’ ‘Downright Horrifying’ and His ‘Best Film in a Decade’",
+              "lead": "Luca Guadagnino’s “Artificial” premiered at the New York Film Festival Monday night, and early reviews have members of the film press championing the Sam Altman-centered movie as a “provocative",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/artificial-first-reactions-sam-altman-open-ai-1236899622/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/MCDARTI_EC022.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Neon Sets ‘Artificial’ Oscar Campaign With Andrew Garfield in Supporting Actor, Yura Borisov in Lead (EXCLUSIVE)",
+              "lead": "Sixteen years ago, Andrew Garfield played the Facebook co-founder who was pushed out of the company he helped create in “The Social Network” and came up short in the supporting actor race.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/awards/artificial-oscars-campaign-andrew-garfield-supporting-actor-1236899378/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/hero-image.fill_.size_1248x702.v1788881868-1000-1.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Easing constipation: A 20-minute walk can get your gut moving almost immediately",
+              "lead": "Researchers found that just 20 minutes of comfortable walking can rapidly stimulate the gut. Within one to two minutes after exercise, bowel sounds became stronger, more frequent, and lasted longer",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261001214117.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists discover a human brain gene that can jump through DNA",
+              "lead": "Scientists have discovered a human gene with a remarkable double life: it appears to play an important role in brain cells while still retaining the ability to jump around the genome.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261002080013.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            },
+            {
+              "title": "Vagus Nerve Stimulation Could Help New Skills Stick",
+              "lead": "Stimulating the vagus nerve after practice helped mice develop stronger long-term motor learning, revealing a potentially important window when the brain is still locking in a new skill.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261002080034.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Spain PM pins hopes on housing crisis to help win snap election",
+          "lead": "Calling of a snap election was not a knee-jerk reaction from Pedro",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Housing, Corruption and a Migrant Surge: Why Spain Is Holding an Early Election",
+          "lead": "Spain’s prime minister, Pedro Sánchez, dissolved Parliament on Monday",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/05/world/europe/spain-elections-housing-migrants-corruption.html"
+        },
+        {
+          "title": "Trump claims he’s ‘doing great’ as his approval rating sinks to record low – live",
+          "lead": "President downplays unfavorable polling as he travels to Nebraska to",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/us-news/live/2026/oct/05/donald-trump-nebraska-midterms-republicans-white-house-media-latest-news-updates"
+        },
+        {
+          "title": "Trump says Maga Inc will pay for ads instead of taxpayers after backlash",
+          "lead": "US president reverses course after defending television spots that",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/ee7796ef-f6ec-433c-866d-c50f91a25694?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Trump says MAGA Inc. PAC will pay for controversial TV ads that government funded",
+          "lead": "The New York Times reported \"Trump personally instructed his budget",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/05/trump-ads-election.html"
+        },
+        {
+          "title": "The U.S. said China was priming a trade superweapon. Then it vanished.",
+          "lead": "It could not be established why the LOGINK platform championed by",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/business/2026/10/06/china-trade-superweapon-vanish/"
+        },
+        {
+          "title": "Trump officials pursue record number of cases to strip US citizenship",
+          "lead": "Top officials have sought to expand the use of rarely invoked laws",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/6/trump-officials-pursue-record-number-of-cases-to-strip-us-citizenship?traffic_source=rss"
+        },
+        {
+          "title": "Trump says will pay for TV ads after pushback over taxpayer funding close to election",
+          "lead": "US President Donald Trump on Monday said that he would pay for",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3369846/trump-says-will-pay-tv-ads-after-pushback-over-taxpayer-funding-close-election?utm_source=rss_feed"
+        },
+        {
+          "title": "Yemen government forces announce offensive on Houthi-held territory",
+          "lead": "The internationally recognised Yemeni government announced on Sunday",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "France24",
+          "link": "https://www.france24.com/en/video/20261005-yemen-government-forces-announce-offensive-on-houthi-held-territory"
+        },
+        {
+          "title": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
+          "lead": "Sam Altman thinks that the benefits of AI will be so great that \"the",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff"
+        },
+        {
+          "title": "‘The Social Reckoning’ First Reactions: A ‘Solid Sequel,’ ‘Good, Just Not Great Film’ and a ‘Harsh Assessment of Zuckerberg’",
+          "lead": "Aaron Sorkin’s “The Social Reckoning” has been unveiled to members of",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/news/social-reckoning-first-reactions-facebook-zuckerberg-1236878038/"
+        },
+        {
+          "title": "Hackers steal 8 million citizens’ records from Danish government database",
+          "lead": "The Danish government said the breach of names, addresses",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/"
+        },
+        {
+          "title": "F1 in Bahrain... in Malaysia: The race needed a software update to start",
+          "lead": "Well, it’s safe to say no Bahrain Grand Prix has been affected by",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/cars/2026/10/f1-in-bahrain-in-malaysia-the-race-needed-a-software-update-to-start/"
+        },
+        {
+          "title": "Scientists reveal what seven days of fasting does to the human body",
+          "lead": "Scientists found that prolonged fasting triggers major changes",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261005012444.htm"
+        },
+        {
+          "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+          "lead": "With neither candidate getting more than 50% of the vote",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "TotalEnergies boss hails ‘opportunities’ created by global market turmoil",
+          "lead": "Patrick Pouyanné says he prefers ‘disruption to the peaceful world’",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/ae67bb6f-f227-4679-949f-2e79e2dc33e2?syn-25a6b1a6=1"
+        }
+      ],
+      "supplement": {
+        "title": "Blippi’s Meekah and Dove Release Music Video to Promote Children’s Body Confidence (EXCLUSIVE)",
+        "lead": "Meekah, best friend of children’s entertainment and education character Blippi, has teamed up with Dove on a new music video promoting body confidence.",
+        "body": [
+          "Meekah, best friend of children’s entertainment and education character Blippi, has teamed up with Dove on a new music video promoting body confidence.",
+          "Moonbug Entertainment and the Dove Self-Esteem Project (DSEP) have partnered with Meekah for “My Body Is Amazing,” a music video celebrating movement, self-expression and the amazing things our bodies can do.",
+          "Designed […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/digital/columns/blippi-meekah-dove-music-video-childrens-body-confidence-1236899630/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/JJ019583-3-1000.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×4",
+          "紐約時報×2",
+          "Guardian×2",
+          "Japan Times×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-06T02:07:28.064Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 787,
+        "lang": 443,
+        "fresh": 307,
+        "denoised": 307,
+        "deduped": 284
+      },
+      "en": {
+        "fetched": 787,
+        "lang": 344,
+        "fresh": 307,
+        "denoised": 305,
+        "deduped": 295
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "BBC×6",
+          "華爾街見聞×3",
+          "Solidot×3",
+          "端傳媒×3",
+          "豆瓣×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 4,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×4",
+          "紐約時報×2",
+          "Guardian×2",
+          "Japan Times×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

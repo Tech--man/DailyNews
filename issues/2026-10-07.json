@@ -1,0 +1,926 @@
+{
+  "issue": 23,
+  "date": "2026-10-07",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历八月廿七 · 秋分",
+    "en": "27th day of the 8th lunar month · Autumn Equinox"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "2026年诺贝尔物理学奖揭晓：1名科学家收获殊荣",
+        "lead": "中新网10月6日电(甘甜) 当地时间10月6日，瑞典皇家科学院决定将2026年诺贝尔物理学奖授予弗朗西斯·哈尔岑，以表彰他对冰立方中微子天文台作出的决定性贡献，以及对天体物理来源高能中微子的发现。",
+        "body": [
+          "中新网10月6日电(甘甜) 当地时间10月6日，瑞典皇家科学院决定将2026年诺贝尔物理学奖授予弗朗西斯·哈尔岑，以表彰他对冰立方中微子天文台作出的决定性贡献，以及对天体物理来源高能中微子的发现。"
+        ],
+        "source": "中新網國際",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-06/10708477.shtml",
+        "category": "world",
+        "categoryLabel": "国际",
+        "consensus": 3
+      },
+      "secondary": {
+        "title": "再借400亿美元，SpaceX要买英伟达芯片",
+        "lead": "继6月完成250亿美元投资级债券发行后，SpaceX又计划筹集400亿美元，为大规模采购英伟达芯片提供资金，进一步押注AI基础设施建设。 据英国《金融时报》近日报道援引知情人士， SpaceX计划通过约100亿美元银行贷款和300亿美元投资级债券筹集资金，以支付这笔巨额芯片订单。",
+        "source": "華爾街見聞",
+        "group": "華爾街見聞",
+        "link": "https://wallstreetcn.com/articles/3783093",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 3
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "1名科学家获得2026年诺贝尔物理学奖",
+              "lead": "新华社快讯：瑞典皇家科学院6日宣布，1名科学家获得2026年诺贝尔物理学奖。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-06/10708475.shtml",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 3
+            },
+            {
+              "title": "找工作？面试中那个你不必回答的问题",
+              "lead": "如果在求职面试中被问到目前工作的薪水多少，你该如何应对呢？",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cqglw400kdx4o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/97de/live/ce45a6b0-c158-11f1-ae7b-cfc528a6c828.jpg"
+            },
+            {
+              "title": "俄罗斯鼠疫实验室人员死亡 美方称「密切关注」",
+              "lead": "鼠疫杆菌，又称耶尔森氏鼠疫杆菌（Yersinia pestis）曾在 14 世纪导致欧洲一半人口死亡，当时被称为黑死病。最近而该地区的囓齿动物（如土拨鼠）中就发现了这种细菌。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cqx28nw0kn47o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bee8/live/9f1fa570-c103-11f1-a64c-550be9e3c66b.jpg"
+            },
+            {
+              "title": "中美AI军事化背景下 BBC获悉五角大楼正式停用 Anthropic 工具",
+              "lead": "今年2月，五角大楼将 Anthropic 列为「供应链风险」，此前该公司拒绝移除其工具中的安全防护机制。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cm8ezkd09057o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c06c/live/0ca3aea0-c0c5-11f1-bc2e-018d645d8d21.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "中国商务部回应法德要求欧盟强化贸易防御等保护主义工具",
+              "lead": "中新社北京10月6日电 就法德要求欧盟强化贸易防御等保护主义工具，中国商务部新闻发言人6日表示，保护主义提升不了竞争力，“脱钩断链”只会损人不利己。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-06/10708543.shtml",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "石油与AI芯片进口推动，美国8月贸易逆差扩至1056亿美元，创17个月新高",
+              "lead": "美国贸易逆差持续走扩，AI基建热潮与关税波动推动进口创纪录，拖累三季度GDP预期。 10月6日周二，美国商务部公布数据显示， 8月商品与服务贸易逆差环比扩大13.7%至1056亿美元，超出经济学家预期的1021亿美元，创2025年3月以来最高水平，彼时正值特朗普宣布所谓\"对等关税\"前夕的抢进口潮。 贸易逆差扩大源于进口增速超过出口增速。 美国8月份进口额达到创纪录的4208亿美元，较7月份增长4.3%。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3783089",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "SpaceX计划通过阿波罗主导的融资筹集400亿美元 以采购英伟达芯片",
+              "lead": "SpaceX 计划通过阿波罗主导的融资筹集400亿美元，以采购 英伟达 芯片。 （文章来源：财联社）",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://finance.eastmoney.com/news/1360,202610073888837982.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 3
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "消息称 SpaceX 计划募资 400 亿美元，用于采购英伟达 AI 芯片",
+              "lead": "IT之家 10 月 7 日消息，据《金融时报》报道，埃隆 · 马斯克（Elon Musk）旗下的 SpaceX 正计划募资 400 亿美元 （IT之家注：现汇率约合 2,685.79 亿元人民币） 。本轮融资由阿波罗全球管理（Apollo Global Management）牵头，资金将用于采购英伟达芯片。这家同时涉足人工智能与火箭业务的企业正在加大投入，押注该芯片厂商的先进技术。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/010/134.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            },
+            {
+              "title": "法国AI初创企业Mistral发布欧洲最强开源大模型",
+              "lead": "Mistral周二推出一款全新AI模型，该公司表示其跻身全球顶尖开源模型之列。这家法国企业介绍，Mistral Large 4（简称ML4，代号le Chonk）是拥有1万亿参数的大模型，在网络安全、代码编写、制造业、金融以及多模态相关任务上表现尤为突出。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1580932.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "Altman深度访谈：人类灭绝风险非零、开源模型将引发网络安全海啸，算力竞赛不会停",
+              "lead": "10月5日，OpenAI联合创始人兼CEO Sam Altman在接受《名利场》深度专访时，就人工智能的存在性风险、开源模型的网络安全威胁、监管边界以及AI基础设施竞赛等核心议题发表了迄今最为系统的表态。他承认AI导致人类文明终结的概率\"非零\"，同时警告开源大模型将引发\"网络安全海啸\"，并坚持认为算力投入与安全标准必须同步提升。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3783067",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "弗朗西斯·哈尔岑获得2026年诺贝尔物理学奖",
+              "lead": "中新社北京10月6日电 斯德哥尔摩消息：瑞典皇家科学院6日宣布，将2026年诺贝尔物理学奖授予弗朗西斯·哈尔岑(Francis Halzen)，以表彰他对“冰立方中微子天文台”作出的决定性贡献，以及在发现具有天体物理起源的高能中微子方面取得的成就。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-06/10708500.shtml",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 3
+            },
+            {
+              "title": "AI模型会成为年轻人身体形象的下一个重大威胁吗？",
+              "lead": "AI人工智慧模型在广告和社群媒体及广告领域的兴起，是否会损害年轻人的身体自信？",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cm17k0e2y5qxo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5c70/live/7101a300-bf69-11f1-8dde-c5daf8e396f5.jpg"
+            },
+            {
+              "title": "总统选举首轮结果出炉 巴西史诗级暴涨",
+              "lead": "【导读】轮到巴西暴涨了 大家好啊，这个假期，外围真的涨不停。今晚，轮到巴西史诗级暴涨了。 一起看看怎么回事。 10月5日晚间，巴西资产，无论是汇率还是股市，都全线暴涨。 首先，巴西股市开盘暴涨近9%。 MSCI巴西指数暴涨超13%！ 巴西汇率同样暴涨，涨近5%！ 消息面上，巴西正在进行总统大选，因为市场更青睐的候选人、参议员弗拉维奥·博索纳罗在首轮选举中出人意料地击败民调预期，得票领先现任总统路易斯·伊纳西奥·卢拉·达席尔瓦",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://finance.eastmoney.com/news/1351,202610053888685540.html",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "台北选战：蒋万安的2028前哨战，沈伯洋能否靠「洋流」突围？",
+              "lead": "原先不被看好的沈伯洋，自宣布参选后大力改变形象，近期声势高涨，给本享有执政优势的蒋万安带来了挑战。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/ck0j0wv57jw7o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c945/live/0f426370-c0c7-11f1-a5b0-6f550c662e91.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "出国打工的中国年轻人，在日本跌入「技能实习」困局",
+              "lead": "切割金属板时，刘星又受伤了。 负责指导的上司只演示了一遍就催促着他赶紧上手。刘星深吸一口气，面前厚重的金属板被挪动了一点。他学着上司的样子，拿起铁錾子卡在金属板的连接处，试图用力砍开。「哐当」一声大动静，金属板重重地砸在地上，他笨拙地想要搬起那块差不多有他一半重的铁板，但锋利的金属边瞬间划破了棉纱手套，他的手指被撕开一道血红的口子。 刘星顾不上这道伤口，上司说割下来的金属板要用角磨机处理好毛边才算完成作业。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261008-international-young-chinese-people-go-t-japan-to-work-under-titp/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GettyImages-1154829054.jpg"
+            },
+            {
+              "title": "2026年中国电影国庆档票房已破10亿元",
+              "lead": "中新社北京10月6日电 据猫眼专业版实时数据，截至10月6日17时6分，2026年中国电影国庆档(10月1日至7日)累计票房突破10亿元(人民币，下同)，累计场次325.2万场，观影人次约2749.4万，平均票价36.3元。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-06/10708498.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "“一起登场，共同尊重”2026赛季中国足球职业联赛文明行动月正式启动",
+              "lead": "近日，中国足球职业联赛联合会(以下简称“中足联”)宣布，2026赛季中国足球职业联赛“文明行动月”将于10月9日至11月8日在各赛区、各职业俱乐部全面展开。本届活动以“尊重”为年度主题，统一口号“一起登场，共同尊重”，覆盖联赛全体从业人员与广大球迷，旨在深化足球领域行风建设，倡导文明参赛、文明观赛、文明从业，构建健康向上的球迷文化和赛事文化，在行风建设攻坚期树立职业联赛良好形象。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-06/10708470.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "WTT中国大满贯赛：王曼昱晋级16强 中国选手陈熠三线全胜",
+              "lead": "中新社北京10月6日电 (记者 周昕)2026年世界乒乓球职业大联盟(WTT)中国大满贯赛6日在北京继续进行。中国名将王曼昱以3:1击败印度选手巴特拉，闯入女单16强。中国选手陈熠在女单、女双和混双中保持全胜，晋级下一轮。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-06/10708555.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "秋季山野出行提示：科学规划防险情，远离网红野游路线谨防失温",
+              "lead": "山野风险不容小觑，不论是否有户外徒步经验，都要提前科学规划，量力而行。一旦遇到突发状况该如何自救？来看专业人员的提示。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/10-06/10708550.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "1100 亿美元超级并购：派拉蒙天舞完成对华纳兄弟收购，两家好莱坞百年公司完成整合",
+          "lead": "IT之家 10 月 7 日消息，派拉蒙天舞公司 10 月 6 日宣布完成对华纳兄弟探索公司价值约 1,100 亿美元 （IT之家注",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/010/146.htm"
+        },
+        {
+          "title": "全国铁路今天预计发送旅客2415万人次",
+          "lead": "10月7日消息，今天是国庆中秋假期的最后一天，昨天起铁路返程客流有明显增长，今天全国铁路预计发送旅客2415万人次。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15163863.html"
+        },
+        {
+          "title": "美军拟枪决胡德堡基地枪击案凶手 二战后首例",
+          "lead": "纳达尔·马里克·哈桑的处决将是自1961年以来首次军事处决，也是自第二次世界大战结束以来首次以行刑队枪决方式执行死刑。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cr3wvq8l864do/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "通胀已“大致达标”，日本央行为何仍不敢连续加息？",
+          "lead": "日本央行正接近利率正常化进程中的一个关键节点。 周二，据路透社援引三位知情人士消息，央行可能在本月发出信号，表明潜在通胀已大致触及2%的目标。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783073"
+        },
+        {
+          "title": "专家认为华为提出的LogicFolding 3D堆叠芯片架构的散热难题仍难解决",
+          "lead": "华为近年来提出的LogicFolding（逻辑折叠）芯片架构再次引发半导体行业关注。华为方面此前公布的数据显示",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1580954.htm"
+        },
+        {
+          "title": "数说科技：「感谢上帝赐予比特币」——为什么美国基督徒拥抱加密货币？",
+          "lead": "编按：「 数说科技 」是端传媒的注册免费栏目，每周三更新。从一个数字出发，用1500字解析科技话题，追踪值得关注的 AI 趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261007-tech-in-numbers-why-american-christians-embrace-crypto/"
+        },
+        {
+          "title": "假期要闻汇总：非农数据意外“爆冷” 美联储10月加息概率骤降",
+          "lead": "国庆节假期影响市场的重要资讯有： 1、央行10月8日开展12000亿买断式逆回购。 2、财政部部长蓝佛安称要研究制定针对性强的增量政策",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1345,202610073888840232.html"
+        },
+        {
+          "title": "[阅读] 2026 年八月 读女性研究，小说，随笔 6 本",
+          "lead": "原文： https://conge.livingwithfcs.org/2026/10/06/reading_summary/",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1246710#reply2"
+        },
+        {
+          "title": "电影随笔｜《他人之颜》：你爱的是我，还是我的脸 (评论: 他人之颜)",
+          "lead": "狮子 评论: 他人之颜 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17845603/"
+        },
+        {
+          "title": "科学家识别出三种叫声最响亮的鸟",
+          "lead": "生物学家在巴西识别出三种叫声最响亮的鸟。至于这些鸟如何演化出最响亮的叫声则仍然是个迷。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85539"
+        },
+        {
+          "title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
+          "lead": "密码管理服务的数据，当然要掌握在自己手里。 查看全文",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "少數派",
+          "link": "https://sspai.com/post/115416"
+        },
+        {
+          "title": "预计发送旅客415万人次，长三角铁路今日迎来返程客流最高峰",
+          "lead": "据中国铁路上海局集团有限公司（简称上铁集团）消息，10月7日是国庆假期最后一天，全国铁路迎来返程客流最高峰",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15163858.html"
+        },
+        {
+          "title": "美国图书馆为何正迅速下架众多图书？",
+          "lead": "美国公共图书馆已成为一场激烈意识形态冲突的战场，这场冲突的焦点在于学生应该能够获得哪些书籍。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cwzrd73z6k6mo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "谷歌发布EmbeddingGemma 2：7.4亿参数多模态嵌入模型，主打端侧隐私搜索",
+          "lead": "谷歌于周一推出EmbeddingGemma 2，这是其面向设备端部署的多模态嵌入模型新一代产品，可在本地硬件上统一处理文本、图像、音频与视频",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783080"
+        },
+        {
+          "title": "同志游行月的警方搜索：台北同志酒吧事件，市长致歉、6人受惩处｜Whatsnew",
+          "lead": "10月3日下午4点半，台北市警察局万华分局持法院核发的搜索票，进入西门町开封街的男同志 BDSM 主题酒吧 Commander",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261006-taiwan-taipei-raid-gay-bar-sparks-protest/"
+        },
+        {
+          "title": "术再繁，无道不立；人再苦，有罪当罚。 (评论: 我不是大师)",
+          "lead": "乐难陈 评论: 我不是大师 评价:",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17845581/"
+        }
+      ],
+      "supplement": {
+        "title": "2026 年诺贝尔生理学或医学奖授予了三位研究光遗传学的科学家",
+        "lead": "2026 年诺贝尔生理学或医学奖授予了美国斯坦福-霍华德·休斯医学研究所的 Karl Deisseroth、德国柏林洪堡大学的 Peter Hegemann 和维尔茨堡大学的 Georg Nagel，以表彰他们在光门控离子通道和光遗传学方面的发现。大脑如何掌管情感、行为和身体功能，长期以来一直是个谜。20世纪，研究人员开始探究大脑的哪些区域影响哪些功能，但所用的方法意味着他们无法证明因果关系。",
+        "body": [
+          "2026 年诺贝尔生理学或医学奖授予了美国斯坦福-霍华德·休斯医学研究所的 Karl Deisseroth、德国柏林洪堡大学的 Peter Hegemann 和维尔茨堡大学的 Georg Nagel，以表彰他们在光门控离子通道和光遗传学方面的发现。大脑如何掌管情感、行为和身体功能，长期以来一直是个谜。20世纪，研究人员开始探究大脑的哪些区域影响哪些功能，但所用的方法意味着他们无法证明因果关系。",
+          "光遗传学——一种能揭示神经细胞如何在活体大脑中塑造记忆、情感和行为的方法——改变了这一状况。Peter Hegemann 和 Georg Nagel 发现了通道视紫红质——一种具有独特性质的藻类蛋白质，存在于细胞表面。当它被蓝光照射时，蛋白质上会打开一个通道。",
+          "带电离子随即流入细胞，产生电脉冲。他们发现，无论将这种蛋白质放入哪种细胞，那些细胞都会变得对光敏感。Karl Deisseroth 将通道视紫红质的基因导入大鼠的神经细胞中。通过用蓝光照射这些细胞，他能够触发神经信号。"
+        ],
+        "source": "Solidot",
+        "group": "Solidot",
+        "link": "https://www.solidot.org/story?sid=85537",
+        "category": "science",
+        "categoryLabel": "科学",
+        "consensus": 3
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 13,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "華爾街見聞×5",
+          "BBC×5",
+          "東方財富×3",
+          "端傳媒×3",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 3,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Bolsonaro Family Emerges Triumphant in Brazil’s Elections, Mounting a Surprising Resurrection",
+        "lead": "The Bolsonaro family emerged triumphant in Brazil’s elections, mounting a surprising political resurrection in Latin America’s largest nation.",
+        "body": [
+          "The Bolsonaro family emerged triumphant in Brazil’s elections, mounting a surprising political resurrection in Latin America’s largest nation."
+        ],
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/10/06/world/americas/brazil-election-flavio-jair-bolsonaro.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-brazil-bolsonaro-family-lhwj/06int-brazil-bolsonaro-family-lhwj-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "US man arrested as second suspect in Canada mass school shooting planned with ChatGPT",
+        "lead": "Justice department detained James Codey Bryant and allege he offered ‘technical advice’ to primary suspect A surprise suspected accomplice has been arrested in",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/world/2026/oct/06/tumbler-ridge-shooting-arrest-washington",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/ed73910f4d4d8bf979ea941700960c44ebe24beb/438_0_4380_3504/master/4380.jpg?width=140&quality=85&auto=format&fit=max&s=ade5a7d2451541d93e21d1cfe185b6b5",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "F.B.I. Charges American in Plot Behind Canada’s Tumbler Ridge School Shooting",
+              "lead": "The U.S. police say a 30-year-old offered the killer advice and cash for supplies at least six months before the rampage in British Columbia that left eight dead.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/06/world/canada/tumbler-ridge-shooting-plot-washington-arrest.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/02/11/multimedia/06int-canada-tumbler-ridge/11canada-shooting-livememorial-cwhz-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Democrats now favored in key midterm races that could give them control of US Senate, new projections find – US politics live",
+              "lead": "Nonpartisan Cook Political Report revises analyses in Kansas, New Hampshire and North Carolina, forecasting Democrats have stronger odds than previously estimated Sign up for Breaking News US email Two media giants",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/5fce80d9d71931bfa16b5f5bfbb4cf6b16b9e440/663_0_2452_1963/master/2452.jpg?width=140&quality=85&auto=format&fit=max&s=f8d10770a84cbed00afbcb9fd4b9b3ec",
+              "consensus": 5
+            },
+            {
+              "title": "Haiti postpones elections indefinitely as gang violence hampers preparations",
+              "lead": "Haiti has indefinitely postponed elections scheduled for December and February, the electoral council said Tuesday, citing technical and operational requirements as gang violence continues to disrupt preparations.",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/americas/20261007-haiti-postpones-elections-indefinitely-as-gang-violence-hampers-preparations",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://s.france24.com/media/display/0cfb6390-c1e5-11f1-9b8e-0f96b136895a/w:1024/p:16x9/2026-09-29T174335Z-1383141441-RC25BNAS7IYK-RTRMADP-3-HAITI-VIOLENCE-UN.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Trump says he will speak with Putin about pneumonic plague",
+              "lead": "Washington increases pressure on Moscow to share more about the incident in which one person has died",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/dcf35eaf-e1d3-4289-bc7a-e0c91725ad59?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe25faa71-2571-4ec4-9ed8-c42ea1f60814.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Five reasons India's stock market is sinking even when its economy is growing",
+              "lead": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3270/live/5e1025a0-c135-11f1-a88e-ffa9b333d51f.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "'Magnificent Seven' profit lag: How the rest of the stock market may outpace tech giants this earnings season",
+              "lead": "The upcoming earnings season could mean the rally broadens out again after the recent weakness in breadth.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/06/how-the-rest-of-the-stock-market-may-outpace-tech-giants-this-earnings-season.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Russia plague: How great is the global risk? Maybe low, but infectious disease experts want more data",
+              "lead": "Uncertainty surrounds the death of an employee at a Russian anti-plague institute. Here's what infectious disease experts say about how worried you should be.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/make-it/2026/10/06/russia-plague-global-risk.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
+              "lead": "Drones sank two cargo ships and damaged a third in the exclusive economic zones of NATO member countries for the first time, killing at least two sailors.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Drone-strikes-on-grain-cargo-ships-near-Odesa-1152x648.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+              "lead": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Mistral unveils new AI model it says rivals best open systems from China",
+              "lead": "Western developers are racing to compete with Chinese companies in open weight and open source AI.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Fans flood Buenos Aires ahead of Messi’s final international match",
+              "lead": "Thousands of Argentina fans poured into Buenos Aires’ Monumental stadium ahead of Lionel Messi’s final match.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "consensus": 5
+            },
+            {
+              "title": "Kane scores twice but who else was a 'real threat'? England player ratings",
+              "lead": "Senior football correspondent Sami Mokbel rates the England players after Tuesday's 3-0 win against the Czech Republic.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cx7vp3lqv985o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/961a/live/7b935fd0-c1c5-11f1-babe-4199b0e7ccea.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Calm in real life but demons on court - Medvedev runs out of chances",
+              "lead": "Daniil Medvedev once said you would need to knock on his hotel door at 6am for seven days in a row to make him angry - but his China Open disqualification was no surprise.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/tennis/articles/cxyvr7q207gpo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc2/live/a9d0d2e0-c177-11f1-a64c-550be9e3c66b.jpg"
+            },
+            {
+              "title": "Farbrace leaves Sussex to join Lancashire",
+              "lead": "Lancashire appoint Paul Farbrace as their new director of cricket weeks before he was due to begin the same role at Sussex.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/cricket/articles/cjdx3ylzg3yyo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ceb/live/4b954d10-c17b-11f1-9d3f-57ff54fad936.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Josh Goldstine to Oversee Marketing and Distribution at Warner Bros., Paramount and All Skydance Film Labels (EXCLUSIVE)",
+              "lead": "Seasoned Hollywood marketer Josh Goldstine will be tapped for a massive new role at Skydance — encompassing Warner Bros., Paramount Pictures and all subsequent film labels — sources told Variety.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/josh-goldstine-marketing-warner-bros-paramount-skydance-1236903805/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2025/10/JoshGoldstine.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Unions and Democrats Stump for Federal Film Incentive: ‘We Are So Close to Getting This Done’",
+              "lead": "A delegation of California Democrats campaigned with union leaders on Tuesday for a federal film incentive as they seek to build momentum to pass the measure by the end of the year. Sen.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/unions-democrats-federal-film-incentive-1236903623/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/Adam-Schiff-Film-TV-Revitalization-Act.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "'Ghost particles' from space telescope wins physics Nobel",
+              "lead": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+              "source": "BBC News",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+              "category": "science",
+              "categoryLabel": "Science",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73fd/live/3d7299c0-c16e-11f1-a003-8be783290413.jpg",
+              "consensus": 3
+            },
+            {
+              "title": "Scientists say this simple habit could strengthen your marriage",
+              "lead": "Couples who exercise together report better communication, healthier conflict resolution, and lower marital stress than those who work out alone.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261004001843.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "MIT scientists find a hidden cancer risk of the keto diet",
+              "lead": "A ketogenic diet increased small-intestinal tumors in cancer-prone mice while reducing tumors in the colon, revealing a strikingly different response within neighboring parts of the gut.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261002080037.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Watch: Riot police clash with school protesters and use tear gas in France",
+          "lead": "Hundreds of thousands of people have taken to the streets across",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Drones Hit Ships Off Bulgaria’s Black Sea Coast, Prime Minister Says",
+          "lead": "A rescue effort was underway, Prime Minister Rumen Radev said",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/06/world/europe/bulgaria-drones-black-sea.html"
+        },
+        {
+          "title": "David Ellison denies he has ‘politicized’ Skydance despite close Trump links",
+          "lead": "Ellison admits ‘good relationship’ with administration in remarks to",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/media/2026/oct/06/skydance-david-ellison-trump"
+        },
+        {
+          "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
+          "lead": "That marked a 13.7% jump from July and was ahead of the Dow Jones",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html"
+        },
+        {
+          "title": "France erupts overs schools: Why the violence surrounding surprise movement?",
+          "lead": "It’s a protest movement that a broke, lame-duck French government did",
+          "category": "society",
+          "categoryLabel": "Society",
+          "source": "France24",
+          "link": "https://www.france24.com/en/tv-shows/the-debate/20261006-france-erupts-overs-schools-why-the-violence-surrounding-surprise-movement"
+        },
+        {
+          "title": "S&P 500 hits record high as AI stocks shrug off bond market slump",
+          "lead": "Wall Street’s benchmark index closes at fresh peak but rally is",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1"
+        },
+        {
+          "title": "‘2026 is the new 1789’: French students take school anger to Paris streets",
+          "lead": "About 56,000 people poured onto the streets of Paris as part of a",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/07/world/france-student-protests/"
+        },
+        {
+          "title": "US resident arrested in connection to Canada school shooting",
+          "lead": "US authorities arrested ⁠a person in Washington state on Tuesday ⁠who",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3369966/us-resident-arrested-connection-canada-school-shooting?utm_source=rss_feed"
+        },
+        {
+          "title": "US arrests suspect in connection with Tumbler Ridge school shooting",
+          "lead": "The suspect, from the western state of Washington",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss"
+        },
+        {
+          "title": "Hark releases an AI personal assistant with a focus on privacy",
+          "lead": "The AI lab's personal assistant is an operating system from the",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/"
+        },
+        {
+          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+          "lead": "Attackers hijacked three top-level domains and used their control to",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/"
+        },
+        {
+          "title": "Co-Founder Nate Bolotin to Exit XYZ Films After Almost Two Decades With Studio (EXCLUSIVE)",
+          "lead": "Co-founder Nate Bolotin is leaving XYZ Films after almost two decades",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/news/co-founder-nate-bolotin-exit-xyz-films-1236903877/"
+        },
+        {
+          "title": "Colorectal cancer is rising in young people and often found too late",
+          "lead": "Colorectal cancer in young people is often diagnosed at an advanced",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261003234019.htm"
+        },
+        {
+          "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
+          "lead": "Apple is collaborating with LG on a new lineup of smart home devices",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc"
+        },
+        {
+          "title": "Tear gas in Paris and Marseille as school protests grow across France",
+          "lead": "Crowds of mainly teenagers called for more resources for schools and",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next",
+          "lead": "Former BitMEX CEO Arthur Hayes says the AI infrastructure boom is",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html"
+        }
+      ],
+      "supplement": {
+        "title": "Skeet Ulrich Says His ‘Scream’ Arc Couldn’t Be Completed After Melissa Barrera’s Firing: ‘There’s No Billy Loomis’ Without Her",
+        "lead": "Skeet Ulrich, who starred in 1996’s “Scream” as Billy Loomis and later reprised the role in both 2022’s “Scream” and 2023’s “Scream VI",
+        "body": [
+          "Skeet Ulrich, who starred in 1996’s “Scream” as Billy Loomis and later reprised the role in both 2022’s “Scream” and 2023’s “Scream VI,” has opened up about not being able to complete what he calls his “three-film arc” after his co-star, Melissa Barrera, was fired from the franchise.",
+          "Speaking with US Weekly, Ulrich explained that […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/news/skeet-ulrich-scream-melissa-barrera-1236903923/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/titanique-broadway-opening-night-scream-7-global-premiere-1000x667-1.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 13,
+        "categories": 8,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "CNBC×3",
+          "ScienceDaily×3",
+          "紐約時報×2",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-07T01:16:06.368Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 787,
+        "lang": 443,
+        "fresh": 308,
+        "denoised": 307,
+        "deduped": 277
+      },
+      "en": {
+        "fetched": 787,
+        "lang": 344,
+        "fresh": 326,
+        "denoised": 324,
+        "deduped": 318
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 13,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "華爾街見聞×5",
+          "BBC×5",
+          "東方財富×3",
+          "端傳媒×3",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 3,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 13,
+        "categories": 8,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "CNBC×3",
+          "ScienceDaily×3",
+          "紐約時報×2",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

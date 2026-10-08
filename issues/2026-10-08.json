@@ -1,0 +1,899 @@
+{
+  "issue": 24,
+  "date": "2026-10-08",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历八月廿八 · 寒露",
+    "en": "28th day of the 8th lunar month · Cold Dew"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "中国船舶集团有限公司第七一一研究所规划与产业发展部专务陈勇进接受审查调查",
+        "lead": "中新网10月8日电 据“福建纪检监察”微信公众号消息，中国船舶集团有限公司第七一一研究所规划与产业发展部专务陈勇进涉嫌严重违纪违法，目前正接受中央纪委国家监委驻中国船舶集团有限公司纪检监察组纪律审查和福建省福州市监察委员会监察调查。",
+        "body": [
+          "中新网10月8日电 据“福建纪检监察”微信公众号消息，中国船舶集团有限公司第七一一研究所规划与产业发展部专务陈勇进涉嫌严重违纪违法，目前正接受中央纪委国家监委驻中国船舶集团有限公司纪检监察组纪律审查和福建省福州市监察委员会监察调查。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gn/2026/10-08/10708872.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "从稀土到汽车，中欧面临一场贸易对决",
+        "lead": "欧盟对华贸易逆差每天高达10亿欧元。欧洲贸易谈判代表本周访问北京，下周，欧洲各国领导人将在布鲁塞尔讨论如何提升工业竞争力以应对中国竞争等议题。 Pascal Bastien/Associated Press 欧盟委员会主席冯德莱恩警告说，欧洲对华贸易逆差已达到一个“临界点”。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/business/20261008/china-europe-trade-issues/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "房贷贴息政策实施满一周 多地成功落地首笔业务",
+              "lead": "9月29日，财政部会同中国人民银行、金融监管总局印发《关于实施居民购房贷款贴息政策的通知》(以下简称《通知》)，明确自今年10月1日起在全国范围内实施居民购房贷款贴息政策，减轻新购买首套住房家庭的商业性个人住房贷款利息负担。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-08/10708873.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "加州女子被指控帮中国在美监视赖清德家人",
+              "lead": "这名34岁的女性在洛杉矶国际机场准备登上飞往中国的航班时被拘捕。她被指控充当未注册的外国政府代理人。联邦调查局称她监视的目标是赖清德的儿子及其他家庭成员。 Federal Bureau of Investigation 联邦调查局提供的一张照片显示，张婉莹周日在洛杉矶被捕。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261008/wanying-zhang-china-spy-arrest/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "美国女囚死刑执行失败：注射两剂药物仍存活，接下来将如何发展？",
+              "lead": "这名被定罪的杀人犯在两次致命注射后仍然生还，目前在医院病床上苏醒，并已开始说话。这是当地半年内第二宗死刑执行失败事件，引发许多疑问。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6x2z2dqv080o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ebcf/live/2bdb0260-c20e-11f1-babe-4199b0e7ccea.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "中国央行连续23个月增持黄金",
+              "lead": "中新社北京10月7日电 (陶思阅)中国央行7日披露，9月末黄金储备达7747万盎司，环比增加74万盎司。这是中国央行连续第23个月增持黄金。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-07/10708703.shtml",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "美联储会议纪要：全体19名决策者支持9月加息，“大多数”预计年内还加1次，但暗示10月不急",
+              "lead": "美联储9月会议纪要显示，在加息决策上，联储决策层展现出偏鹰派的一致立场，虽然他们支持加息的理由存在分歧。 根据周三公布的9月15日至16日联邦公开市场委员会（FOMC）会议纪要， 19名美联储高级官员均支持将联邦基金利率目标区间上调25个基点 至3.75%至4.00%。这是美联储自2023年7月以来首次加息。 纪要显示，“多数与会者认为，在今年年底前进一步上调联邦基金利率目标区间可能是合适的。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3783127",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "两部门：推进医保支付方式改革，完善特例单议等配套机制",
+              "lead": "",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15165407.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "“白宫 AI 沙皇”履新第一站定在硅谷，消息称会见英伟达黄仁勋、OpenAI 奥尔特曼等巨头 CEO",
+              "lead": "IT之家 10 月 8 日消息，据彭博社今天（8 日）早间报道，美国国家情报总监、新科“白宫 AI 沙皇”杰伊 · 克莱顿接下了另一项职务：领导特朗普口中所称的“超级智能工作组”。履新后的第一站是硅谷，他将与 AI 行业多名重量级高管见面。 据知情人士透露，克莱顿此行将会见 英伟达的黄仁勋、OpenAI 的奥尔特曼、Anthropic 的达里奥 · 阿莫代伊和 Meta 的马克 · 扎克伯格 等多名 CEO。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/010/373.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "传Anthropic拟与三星、Broadcom打造2纳米AI芯片 关键规格尚未获确认",
+              "lead": "Anthropic正推进定制AI加速器项目，计划由Broadcom负责芯片设计，再交由三星晶圆代工部门采用SF2 2纳米制程生产。传闻中的首批产量约为20万颗，规模相对有限；项目仍需配套网络、机柜、电源和冷却系统，Anthropic据称会先评估整套基础设施的可行性。Anthropic、三星和Broadcom均未公开确认这项代工安排或相关数字。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1581070.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "早报｜苹果一大波新品曝光，最快下周发布/全球纯汽油车份额首次跌破50%/2599 美元起，Surface Laptop Ultra发布",
+              "lead": "苹果一大波智能家居新品曝光，最快下周发布 OpenAI 向 Chat 用户推送 GPT-6，并加入可交互界面 曝 DeepSeek 即将完成至少 800 亿元融资 Anthropic 发布 Claude Haiku 5.5，API 价格最高降低 90% 月之暗面估值据报升至约 500 亿美元，筹备明年赴港上市 Nano Banana 2.1 上线，改进文字生成与多图编辑 2026 年诺贝尔奖陆续公布，目前已有 6 位得主 华为徐直军",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1683053?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "英国改革党承认资金管理存疏漏 否认涉嫌违法",
+              "lead": "中新社伦敦10月7日电 (记者 欧阳开宇)英国改革党当地时间7日发布内部调查报告，承认党内资金对接环节存在管理漏洞，但否认相关行为触犯选举法律。目前警方仍就相关指控开展调查。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-08/10708842.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "派拉蒙合并华纳兄弟：可能以四种方式影响你的生活",
+              "lead": "流媒体平台会涨价？CNN 和 CBS 独立性如何保证？以及总计156部电影的上映承诺。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cwvgdlgq3110o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed6f/live/020cc800-c1a6-11f1-bc2e-018d645d8d21.jpg"
+            },
+            {
+              "title": "日本千叶县东北部发生4.8级地震",
+              "lead": "中新网10月8日电 据日本气象厅消息，日本千叶县东北部8日凌晨发生4.8级地震。首都东京有震感。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-08/10708844.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "喝多醉才算醉？康奈尔轮奸案指控揭「同意法」漏洞争议",
+              "lead": "BBC 访问多名专家，探讨美国各州现行性侵法律，以及为何有人认为修法将有助保障涉嫌性侵案件的受害者。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cvwy7g2j0pk8o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/69f4/live/13b43450-c0fa-11f1-a64c-550be9e3c66b.jpg"
+            },
+            {
+              "title": "到底是鼠疫吗？俄罗斯实验室人员死因说法不断变化",
+              "lead": "俄罗斯一名实验室技术员在西伯利亚一家鼠疫研究中心死亡，引发了人们对实验室可能发生病毒泄漏的疑虑。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c8wy910lv7q6o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7893/live/20f677a0-c194-11f1-aa62-b37233e4aed8.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "西班牙住房危机抗议现场：87岁老太太被扫地出门之后",
+              "lead": "9月26日下午五点开始，愤怒的人群从西班牙马德里各个方向开始了抗议游行，最终七点汇集在太阳门广场。整个广场和周围的街道都摩肩接踵，几乎难以通行。人群中心举着一张巨大的横幅：「不能再有一个玛丽卡门」（Ni Una Maricarmen Más）。 玛丽卡门是一个87岁的残障老太太，她已经在自己的公寓里居住了71年，一直都按时缴纳房租。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261008-international-spain-housing-crisis-maricarmen-protests/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/RC26UNA01RL9.jpg"
+            },
+            {
+              "title": "从“看展”到“入戏” 河北特色博物馆国庆假期人气旺",
+              "lead": "中新社石家庄10月7日电(王夏菲)“十一”假期，位于河北省沧州市大运河畔的中国大运河非物质文化遗产展示馆内人流如织。展厅内，漕运码头的船舶、会馆戏台的水袖等大运河畔的市井长卷依次展开。游客一脚踏入，便成了这座“运河之城”里的角色。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-07/10708814.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "中网综合：郑钦文重返女单八强 张帅晋级女双八强",
+              "lead": "中新社北京10月7日电 (记者 国璇)2026中国网球公开赛7日在北京国家网球中心继续进行，持外卡参赛的中国选手郑钦文苦战三盘后战胜亚美尼亚选手查拉耶娃，重返赛会女单八强。中国选手张帅搭档捷克选手西尼亚科娃，晋级女双八强。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-08/10708837.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "中网四连胜！郑钦文晋级八强",
+              "lead": "北京时间10月7日，2026年中国网球公开赛女单第四轮，郑钦文鏖战三盘，总比分2-1战胜“黑马”查拉耶娃，成功晋级八强。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-07/10708818.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "美国中期选举是甚么？这是一份简易指南",
+          "lead": "美国选民将于11月3日前往投票，这场选举的结果可能对唐纳德·特朗普（川普）的总统任期产生重大影响。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cq5ynx00d4leo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "国庆假期四川A级景区接待游客4602.96万人次",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15165315.html"
+        },
+        {
+          "title": "押注“美债收益率急跌”，长期美债和公用事业美股ETF看涨期权交易量大涨",
+          "lead": "期权市场正在发出一个鲜明信号： 部分投资者正大举押注美国长期利率将出现急剧回落。 据道琼斯市场数据",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783141"
+        },
+        {
+          "title": "优必选机器人再进车企：携手一汽-大众推进人形机器人在物流场景应用落地",
+          "lead": "IT之家 10 月 8 日消息，优必选今日发文，宣布已与一汽-大众汽车有限公司达成战略合作",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/010/376.htm"
+        },
+        {
+          "title": "科学家发现太阳活动周期正在留下更深层的“指纹”",
+          "lead": "太阳表面看似平静的活动变化，可能远比过去认为的更加复杂。科学家通过对数十年太阳振荡数据进行分析发现，不同太阳活动周期之间的最低谷并非完全相同",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/science/1581066.htm"
+        },
+        {
+          "title": "【华尔街日报】疲于内卷的中国年轻人在《毛选》中寻得意外解答",
+          "lead": "编按：《华尔街日报》是全球最具影响力的财经媒体之一，每日产出大量深度报导，涵盖国际政治、商业财经与科技趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261008-wsj-china-burned-out-young-are-finding-something-unexpected-in-mao/"
+        },
+        {
+          "title": "美联储会议纪要：多数官员预计年底前再加息一次 但未透露具体时间",
+          "lead": "当地时间周三，美联储公布的9月份会议纪要显示，多数官员预计将在今年年底前再次加息，以遏制已连续五年多高于目标水平的通胀",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://stock.eastmoney.com/news/1768,202610083889023237.html"
+        },
+        {
+          "title": "Apollo 3.0：迈向 Agent First 的配置管理",
+          "lead": "大模型正在从“生成内容”走向“执行任务”。Agent 已经开始参与编码、测试、运维和软件交付流程。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/502867"
+        },
+        {
+          "title": "派早报：微软发布 Windows 相关新品、Google AI 新闻两则等",
+          "lead": "Anthropic 推出 Claude for Google Workspace、Reflection 发布首个开放权重模型 Beam 等。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "少數派",
+          "link": "https://sspai.com/post/115455"
+        },
+        {
+          "title": "DLSS 5 正式版体验：十年没进步的游戏画面，英伟达怎么让它以假乱真？",
+          "lead": "过去十几年，我们一直在靠更精细的资产、更复杂的光照和更强的 GPU，一点一点把游戏推向真实。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1682974?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "寡淡的青春 (评论: 槟榔血)",
+          "lead": "2xky8x2czb 评论: 槟榔血 评价: 还行",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17847016/"
+        },
+        {
+          "title": "在俄罗斯无人机轰炸中，乌克兰铁路冒著恐惧匍匐前进",
+          "lead": "乘搭火车出行的乌克兰人，愈来愈成为俄罗斯攻击的目标。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cqdjv34xrmd3o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "国庆假期广东接待游客6278.9万人次",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15165283.html"
+        },
+        {
+          "title": "美债收益率飙升的影响：美股PE明显收缩，Mag 7压倒小盘股",
+          "lead": "隔夜，美债10年期收益率本周触及24年新高，盘中一度突破5.36%，最终收于5.276%。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783140"
+        },
+        {
+          "title": "推行20年的毒品减害政策，为何成了台北市长选战的战场？｜Whatsnew",
+          "lead": "10月2日，民进党台北市长参选人沈伯洋提出校园反毒政见，国民党台北市议员杨植斗当天 翻出 他2014年发表的 文章 ，指他主张设立社区中心",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261007-whatsnew-taiwan-taipei-methadone-therapy-controversy/"
+        },
+        {
+          "title": "玉米地没有终点 (评论: 神探之痕迹‎)",
+          "lead": "邦德兔 评论: 神探之痕迹‎ 评价: 较差",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17846899/"
+        }
+      ],
+      "supplement": {
+        "title": "谁在付出代价：从康乃尔性侵案看校园性暴力的追责困境",
+        "lead": "2024年10月，美国常春藤名校康乃尔大学（Cornell University）发生一宗校园集体性侵案。一名当时20岁的女学生指称，她在酒精和药物影响下，于 Chi Phi 兄弟会康乃尔分会（Xi Chapter）的宿舍内，遭七名兄弟会成员轮流性侵数小时。事后她向校警报案，校方展开调查，对涉案学生作出包括开除和停学在内的处分；检方则以「证据不足」为由，没有提出刑事指控；她其后退学。",
+        "body": [
+          "2024年10月，美国常春藤名校康乃尔大学（Cornell University）发生一宗校园集体性侵案。一名当时20岁的女学生指称，她在酒精和药物影响下，于 Chi Phi 兄弟会康乃尔分会（Xi Chapter）的宿舍内，遭七名兄弟会成员轮流性侵数小时。",
+          "事后她向校警报案，校方展开调查，对涉案学生作出包括开除和停学在内的处分；检方则以「证据不足」为由，没有提出刑事指控；",
+          "她其后退学。今年9月，她以「Jane Doe」的化名 提起民事诉讼 ，控告七名涉案学生、康乃尔大学、兄弟会和她自己所属姊妹会的相关组织，以及事发前她到过的酒吧，要求针对此事造成的身心伤害给予赔偿。这宗沉寂近两年的案件，由此重回公众视野。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261008-international-cornell-7-and-campus-sexual-assault/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GettyImages-2298762343.jpg"
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 22,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×4",
+          "端傳媒×4",
+          "華爾街見聞×3",
+          "紐約時報×2",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "French police suspend use of stun grenades at school protests as minister rejects accusations of brutality",
+        "lead": "Minister says use of grenades has been stopped after a student lost a hand as protests across France continue How dilapidated are French schools and how bad is",
+        "body": [
+          "Minister says use of grenades has been stopped after a student lost a hand as protests across France continue How dilapidated are French schools and how bad is inequality in the education system?",
+          "France’s interior minister has suspended the use of stun grenades by police at high school demonstrations but rejected mounting accusations of police brutality during two weeks of protests marred by often violent clashes that have injured hundreds.",
+          "Laurent Nuñez told RTL radio on Wednesday that he had ordered a temporary halt on the use of the grenades “in the context of the high school students’ movement” after a 15-year-old boy lost a hand during a protest in Lens, northern France, on Monday. Continue reading..."
+        ],
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/8fcb5de23dc23d6b8836e20c348baa545fc89490/411_0_2868_2294/master/2868.jpg?width=140&quality=85&auto=format&fit=max&s=4232edde8f4ad5bd8a5106141237d539",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Europe’s Trade Tensions With China Are Coming to a Head",
+        "lead": "The European Union is weighing tougher trade measures as negotiators prepare to meet Chinese officials in Beijing",
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/10/07/business/china-europe-trade-issues.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07Biz-China-Europe-Trade-01-pjzt/07Biz-China-Europe-Trade-01-pjzt-mediumSquareAt3X-v2.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners",
+              "lead": "Inquest under way into why President Lula’s success in curbing Amazon deforestation has not led to success at polls More fire, more ash, more crime, more death.",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/93a8f2545cebb38eee1bb023ec41061632d8df9d/695_0_5133_4107/master/5133.jpg?width=140&quality=85&auto=format&fit=max&s=f06437548f23bea18952bf18dbb24710",
+              "consensus": 5
+            },
+            {
+              "title": "The School Near Paris That Shows Why French Students Are Protesting",
+              "lead": "Angered by poor classroom conditions, students at Paul Éluard High School in a suburb of the capital were among the first to blockade their campus during an ongoing round of unrest.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/07/multimedia/07int-france-school-01-mtzk/07int-france-school-01-mtzk-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "‘China already has spies’ at US AI labs, former Anthropic researcher warns",
+              "lead": "Former Anthropic and OpenAI researcher Jacob Coxon said he was 90 per cent certain that China already had spies inside both US artificial intelligence (AI) companies, without providing evidence.",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/china/diplomacy/article/3370108/china-already-has-spies-us-ai-labs-claims-ex-anthropic-researcher?utm_source=rss_feed",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/08/577933fa-d45b-4102-ac39-c54dededf228_24558520.jpg?itok=22FJAzjb&v=1791416349",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "What independence could mean for oil-rich Alberta's economy",
+              "lead": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/157e/live/547f90e0-b7a1-11f1-bc1f-3f186ca4140c.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "US government bonds steady after strong 10-year Treasury auction",
+              "lead": "French, Italian and UK government bonds under pressure in volatile trading",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F00818454-f1e4-4e64-8546-b900242cc4dd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+              "lead": "The Survey of Consumer Expectations indicated that the median outlook for inflation over the next 12 months rose to 3.9%.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Trump doesn't think Russia plague incident is bioweapon, plans Putin call Wednesday",
+              "lead": "Nearly 200 people were placed under medical observation earlier this week in Russia's Irkutsk region in eastern Siberia over suspected exposure to plague.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/07/trump-russia-plague-bioweapon-putin.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 4
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "AI chip boom pushes Samsung profits to record $80bn",
+              "lead": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2882/live/c97d4d10-c2b4-11f1-a0fd-81bd2aaa775c.jpg",
+              "consensus": 3
+            },
+            {
+              "title": "Samsung profit surges ninefold to $80bn on AI chip demand",
+              "lead": "World’s largest memory-chip maker posts record earnings for the three months to September",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/8943785b-0919-4a49-8ab5-48e4a35a6e00?syn-25a6b1a6=1",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb012501d-816c-47d7-80d7-2852496b18a3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 3
+            },
+            {
+              "title": "Can Artificial Intelligence Learn the Art of Surgery?",
+              "lead": "Canada wants to leverage A.I. to improve its health care system. At a Toronto hospital, surgeons are training a machine to distinguish a safe incision from a catastrophic one.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/07/world/canada/surgery-artificial-intelligence-canada.html",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://static01.nyt.com/images/2026/09/16/multimedia/16int-canada-ai-surgery-promo/16int-canada-ai-surgery-04-hpjl-mediumSquareAt3X.jpg",
+              "consensus": 3
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Senior figures worried about Man City being in next season's Champions League",
+              "lead": "Senior figures within the English game are concerned that Manchester City could play in the Champions League next season even if they are relegated for breaching financial regulations.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c9p8gxgm71zzo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4178/live/d0fead80-c25b-11f1-8e03-f92ed21a25ff.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Winger Matondo joins Hibernian for rest of season",
+              "lead": "Former Rangers winger Rabbi Matondo joins Hibernian on a deal until the end of the season, with the option of a further year.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cmy4xpgeydn3o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c23f/live/67dc3da0-c282-11f1-98ea-35e6bf307fc9.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Rice close to agreeing new Arsenal deal",
+              "lead": "Declan Rice is close to agreeing a new long-term Arsenal contract, sources have told BBC Sport.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f9d/live/b1c9adf0-c276-11f1-b278-615cdfb74f16.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Charlamagne tha God on Mental Health, Social Media and Prioritizing Real-Life Connection: ‘You Got to Constantly Weed Out Your Garden’",
+              "lead": "Charlamagne tha God has built a prolific career as a radio host, television presenter and mental health advocate. He has co-hosted the nationally syndicated radio show “The Breakfast Club” since 2010",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/biz/news/charlamagne-tha-god-mental-health-real-life-connection-1236904652/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/KBZ_0259.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Questlove Reflects on the Power of Vulnerability and Being a Trailblazer: ‘I Gotta Be the Change I Want to Be’",
+              "lead": "More than 30 years into his career, Questlove is still open to change. The Roots frontman and multi-hyphenate has performed in Jimmy Fallon’s in-house band for over a decade, was a producer on the “Hamilton” cast album",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/biz/news/questlove-power-of-vulnerability-being-a-trailblazer-1236904881/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/KBZ_0520.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
+              "lead": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists changed how zoo lions eat. Their wild side came out",
+              "lead": "Giving zoo lions whole carcasses on a feast-and-fast schedule appears to bring out more natural behavior. The lions spent nearly three times longer feeding, engaged in more tearing and manipulating of food",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261005071535.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Earth’s center is moving, and NASA just measured it",
+              "lead": "Earth’s center of mass is constantly on the move, shifting by a few millimeters as enormous amounts of water, ice, and even air migrate around the planet with the seasons.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261005071520.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Margaret Hamilton, trailblazer whose software powered Apollo 11 moon landing, dies at 90",
+          "lead": "MIT computer scientist led development of software for moon mission",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software"
+        },
+        {
+          "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+          "lead": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump Administration Delays Threaten Funding for HIV Research",
+          "lead": "The networks also develop treatments and preventions for other",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/07/health/hiv-research-delay-cuts-hhs-nih.html"
+        },
+        {
+          "title": "Trump considers ‘terminating’ campaign advisers after Balkans trip",
+          "lead": "President says Chris LaCivita and James Blair guiding pro-Russian",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/ea58254a-947e-4e87-86d2-95ffbd8a1c9d?syn-25a6b1a6=1"
+        },
+        {
+          "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+          "lead": "For a while, those hoping to avoid the difficulty and expense of",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/"
+        },
+        {
+          "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+          "lead": "The developer of Hermes Agent raised a $90 million Series B.",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
+        },
+        {
+          "title": "France schools protests: more than 6,000 arrested since start of demonstrations",
+          "lead": "After more than two weeks of high school protests across France",
+          "category": "society",
+          "categoryLabel": "Society",
+          "source": "France24",
+          "link": "https://www.france24.com/en/france-schools-protests-more-than-6-100-arrested-since-start-of-demonstrations"
+        },
+        {
+          "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
+          "lead": "The Federal Reserve on Wednesday released minutes from its Sept.",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html"
+        },
+        {
+          "title": "Evicted 87-year-old woman Maricarmen, heart of Spain’s housing protests, has died",
+          "lead": "Maricarmen ⁠Abascal, the 87-year-old woman whose ⁠dramatic eviction",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/europe/article/3370103/evicted-87-year-old-woman-maricarmen-heart-spains-housing-protests-has-died?utm_source=rss_feed"
+        },
+        {
+          "title": "US Republicans, independents express low trust in election integrity: Poll",
+          "lead": "A Gallup survey highlights a deep – and historic",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/7/us-republicans-independents-express-low-trust-in-election-integrity-poll?traffic_source=rss"
+        },
+        {
+          "title": "Israelis mark three years since Oct. 7 as Palestinians mourn Gaza’s destruction",
+          "lead": "The attacks of Oct. 7, 2023, were the deadliest day in Israel's",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/08/world/october-seven-three-years/"
+        },
+        {
+          "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+          "lead": "OpenAI is launching a new Intelligent UI feature in ChatGPT that",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
+        },
+        {
+          "title": "Payal Kapadia, Anurag Kashyap Joined by Kavita Gupta’s Cineroost as Producer on Prateek Vats’ ‘Chronicles of a Confession’ (EXCLUSIVE)",
+          "lead": "Kavita Gupta’s U.S.-based Cineroost has boarded Prateek Vats’ second",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/markets-festivals/payal-kapadia-anurag-kashyap-kavita-gupta-prateek-vats-chronicles-of-a-confession-1236905094/"
+        },
+        {
+          "title": "Webb finds a surprising atmosphere on a scorching lava world",
+          "lead": "The James Webb Space Telescope has found strong evidence that the",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261005071526.htm"
+        },
+        {
+          "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
+          "lead": "Passengers have described their anger after their itineraries changed",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "China races to build AI data centres across energy-rich hinterland",
+          "lead": "In the first report of a three-part series",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1"
+        }
+      ],
+      "supplement": {
+        "title": "Disney Cruise Ship Believe to Debut ‘Encanto’ Musical, ‘Frozen’ Family Feast and More",
+        "lead": "Disney has unveiled its latest cruise ship, Believe. The ship will embark on its maiden voyage on Dec. 18, 2027 from its homeport of Port Everglades in Fort Lauderdale, Fla.",
+        "body": [
+          "Disney has unveiled its latest cruise ship, Believe.",
+          "The ship will embark on its maiden voyage on Dec.",
+          "18, 2027 from its homeport of Port Everglades in Fort Lauderdale, Fla. Among the brand-new experiences is the first stage adaptation of “Disney Encanto,” which will premiere on board and is being developed exclusively for the Disney […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/biz/news/disney-ship-believe-encanto-musical-frozen-1236905011/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/Disney-Encanto.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 20,
+        "maxGroupShare": 14,
+        "categories": 8,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×4",
+          "紐約時報×3",
+          "Guardian×2",
+          "SCMP×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-08T01:37:34.915Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 785,
+        "lang": 445,
+        "fresh": 316,
+        "denoised": 316,
+        "deduped": 302
+      },
+      "en": {
+        "fetched": 785,
+        "lang": 340,
+        "fresh": 325,
+        "denoised": 325,
+        "deduped": 320
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 22,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×4",
+          "端傳媒×4",
+          "華爾街見聞×3",
+          "紐約時報×2",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 20,
+        "maxGroupShare": 14,
+        "categories": 8,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×4",
+          "紐約時報×3",
+          "Guardian×2",
+          "SCMP×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

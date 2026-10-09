@@ -1,0 +1,66 @@
+{
+  "generatedAt": "2026-10-09T01:50:22.245Z",
+  "sources": {
+    "configured": 36,
+    "ok": 36,
+    "zhSources": 20,
+    "enSources": 16,
+    "failed": []
+  },
+  "funnels": {
+    "zh": {
+      "fetched": 794,
+      "lang": 450,
+      "fresh": 362,
+      "denoised": 361,
+      "deduped": 346
+    },
+    "en": {
+      "fetched": 794,
+      "lang": 344,
+      "fresh": 330,
+      "denoised": 328,
+      "deduped": 320
+    }
+  },
+  "layout": {
+    "zh": {
+      "visible": 37,
+      "sections": 7,
+      "briefs": 16,
+      "groups": 17,
+      "maxGroupShare": 22,
+      "categories": 8,
+      "topGroups": [
+        "中新社×8",
+        "紐約時報×4",
+        "端傳媒×3",
+        "BBC×2",
+        "華爾街見聞×2",
+        "IT之家×2"
+      ],
+      "headlineTier": "consensus+lead",
+      "headlineConsensus": 2,
+      "groupCap": 8
+    },
+    "en": {
+      "visible": 38,
+      "sections": 6,
+      "briefs": 16,
+      "groups": 18,
+      "maxGroupShare": 11,
+      "categories": 7,
+      "topGroups": [
+        "BBC×4",
+        "Variety×4",
+        "ScienceDaily×4",
+        "Ars Technica×3",
+        "Guardian×2",
+        "FT×2"
+      ],
+      "headlineTier": "consensus+lead",
+      "headlineConsensus": 5,
+      "groupCap": 7
+    }
+  }
+}

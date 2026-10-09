@@ -1,0 +1,915 @@
+{
+  "issue": 25,
+  "date": "2026-10-09",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历八月廿九 · 寒露",
+    "en": "29th day of the 8th lunar month · Cold Dew"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "报告称黑客利用中美人工智能工具攻击韩国银行",
+        "lead": "网络安全公司CrowdStrike表示，黑客使用中国开发的ARTEX和美国的Claude Code等人工智能工具对韩国金融机构发起攻击，并指出攻击者可能讲中文且出于经济动机。 Raphael Satter/Reuters 网络安全公司CrowdStrike周三在一份报告中表示，该公司发现这些攻击中使用了人工智能的证据。",
+        "body": [
+          "网络安全公司CrowdStrike表示，黑客使用中国开发的ARTEX和美国的Claude Code等人工智能工具对韩国金融机构发起攻击，并指出攻击者可能讲中文且出于经济动机。",
+          "Raphael Satter/Reuters 网络安全公司CrowdStrike周三在一份报告中表示，该公司发现这些攻击中使用了人工智能的证据。"
+        ],
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/asia-pacific/20261009/south-korea-bank-hack-china-us-ai/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "10月9日人民币对美元中间价报6.7330 上调37个基点",
+        "lead": "中新网10月9日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年10月9日银行间外汇市场人民币汇率中间价为1美元对人民币6.7330元，上调37个基点。",
+        "source": "中新網財經",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-09/10709469.shtml",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 2
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "中国希望从国外招募人工智能科学家，这项努力并未奏效",
+              "lead": "研究显示，尽管过去几年中国积极招募人工智能科学家，但前往中国的外国研究者并不多，而在美国工作的中国科学家人数不降反升。不过中国成功留住了大批本土人才。 Jade Gao/Agence France-Presse — Getty Images 像DeepSeek和月之暗面这样的中国人工智能公司已在国际上闯出了名气。但中国在招募外国研究人员方面仍面临困难。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/technology/20261009/china-ai-research-recruitment/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "中央政法委发布2026年第三季度见义勇为勇士榜 79人上榜",
+              "lead": "中新网北京10月9日电 (记者 郭超凯)中央政法委9日在京发布2026年第三季度见义勇为勇士榜。根据见义勇为典型事迹突出程度、网络关注度、各地依法确认和申报意见，进行综合评审评议，共有79位见义勇为勇士获通报表扬和奖励慰问，其中有13位因见义勇为不幸牺牲。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/10-09/10709462.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "加州一对华裔夫妇被控虐待至少14名代孕子女",
+              "lead": "经营代理孕母服务的两夫妻在加州豪宅中被捕，此前有21名儿童被从他们的监护下带走。两人目前拒绝认罪。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cr4g1w328qxqo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4102/live/be6f94a0-c228-11f1-b7d8-6f930589c871.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "中国央行：中国从不搞竞争性货币贬值",
+              "lead": "中新社北京10月8日电 (邸子瀛 王恩博)中国央行8日发布《中国人民银行关于人民币汇率的政策立场》(下称“立场”)明确表态，中国贸易发展根源于产业国际竞争力的提升，中国没有必要，也无意通过汇率贬值获取贸易竞争优势，从不搞竞争性货币贬值。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-08/10709327.shtml",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "法债是第一个牺牲品，接着是美债？全球感受“日本加息”的效果了吗？",
+              "lead": "法债抛售愈演愈烈，10年期法国国债收益率一度逼近5%，为2002年以来最高，借贷成本已高于希腊和意大利。与此同时，美债收益率攀升至5.28%的数十年高位，即便通胀数据走软也未能阻断抛售。 两场风暴，背后或许都有日本的影子。彭博专栏作家Gearoid Reidy在10月9日的文章中分析称： 两年前，当日本踏上政策正常化之路时，人们问的是日本是否准备好迎接“有利率的世界”。也许我们本该问的是：世界是否准备好迎接“有利率的日本”？",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3783232",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "人民币兑美元中间价报6.7330",
+              "lead": "",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15170036.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "新思科技拟寻求与中国 AI 实验室合作，在华加速芯片设计",
+              "lead": "IT之家 10 月 9 日消息，据日经亚洲报道，芯片设计软件龙头企业新思科技（Synopsys）表示，尽管美国政府收紧了对人工智能与半导体的出口管制，但公司计划通过与中国的大语言模型（LLM）构建者合作，利用其工具的 AI 版本， 协助中国本土企业加速芯片研发进程 。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/010/777.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "苹果开始主动推动iPhone用户升级iOS 27",
+              "lead": "苹果正在进一步推动仍停留在iOS 26系统的iPhone用户升级至最新版本的iOS 27。据悉，从10月8日起，继续运行iOS 26的用户在“设置”-“通用”-“软件更新”界面中，将首先看到iOS 27.0.1更新包。此前处于主要位置的iOS 26.7.1则被移至页面底部的“也可用更新”栏目，以较不显眼的方式显示。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1581282.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "Manus 成功融资逾 5 亿美元",
+              "lead": "经历收购风波的中国 AI 企业 Manus 完成超过 5 亿美元融资，创始人肖弘也已解除边控，让这家一度卷入中美科技博弈、前途未卜的公司迎来“重启”，也彰显了中国资本市场对 AI 的热情。 Manus 的母公司蝴蝶效应，星期四（10月8日）在公众号宣布融资消息。这是中国 AI 应用领域迄今规模最大的单轮融资之一，由中国私募股权基金博裕资本和老牌美元基金 IDG 领投，老股东腾讯、红杉中国、真格基金跟投。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85554",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "特朗普称不会在11月美国中期选举前攻击伊朗",
+              "lead": "中新网10月9日电 据英国《卫报》报道，美国总统特朗普当地时间8日在社交媒体上发帖称，华盛顿正在“与伊朗伊斯兰共和国进行富有成效的讨论”，美国不会在11月国会中期选举前对伊朗发动攻击。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-09/10709429.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "老挝的班根军用机场 中国能用来做甚么？",
+              "lead": "专家认为，未来的班根军事设施可能承担更多功能，而不仅仅是一个普通的训练中心。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cmwy48r8ex41o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf83/live/c6e69f60-c332-11f1-babe-4199b0e7ccea.jpg"
+            },
+            {
+              "title": "人民币疲软与出口退税：中国出口繁荣背后的两大政策",
+              "lead": "在国内经济增长乏力的背景下，中国借助出口退税与货币疲软维持了出口引擎的强劲运转，但同时也加剧了与贸易伙伴的紧张关系。对北京来说，这两项政策都很难轻易撤回。 Qilai Shen for The New York Times 去年，广州一处服装制造区的工人们。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261008/china-exports-currency/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "俄罗斯暴发了鼠疫吗？这里是我们了解到的信息",
+              "lead": "一名在俄罗斯偏远实验室工作的女性因肺炎去世。该实验室已被封锁，而俄罗斯当局对此守口如瓶，这助长了猜测和谣言。我们收集了已知信息，并询问了专家的意见。 Tatyana Makeyeva/Agence France-Presse — Getty Images 一名安保人员站在俄罗斯谢列霍夫镇一家传染病医院的门口向外张望，该镇的伊尔库茨克抗鼠疫研究所一名员工在此去世。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261008/russia-plague-fears-what-to-know/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "康乃尔性侵案：一场本不该停止的调查",
+              "lead": "震惊美国乃至全球的康乃尔七人性侵案曝光后，有位男士显然觉得自己非常委屈。 在2024年年末，原先主责此案的地区检察官Matthew Van Houten收到警方转交的六页「精简版」被害人陈述，之后决定无需启动进一步侦查，当然也就不可能起诉。将近两年后，他当时的这个决定被社会大众重新检视。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261009-international-cornell-7-prosecution-failure/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/RC2BXNAINU8Z.jpg"
+            },
+            {
+              "title": "辽上京考古：实证宋元时期农耕文明与草原文明交融互鉴",
+              "lead": "中新网内蒙古巴林左旗10月8日电 (记者 孙自法)这里是中国古代契丹辽王朝营建最早、沿用时间最长的都城；这里有中华民族多元一体格局形成、民族交往交流交融的珍贵物质遗存；这里是草原丝绸之路的关键节点……",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-08/10709354.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "中网综合：巴尔通科娃、安德烈耶娃晋级女单四强",
+              "lead": "中新社北京10月8日电 (记者 国璇)8日在北京进行的2026中国网球公开赛女子单打四分之一决赛中，赛会26号种子巴尔通科娃力克捷克同胞、7号种子穆霍娃，闯入职业生涯首个女子网球选手协会(WTA)1000赛单打四强。赛会4号种子安德烈耶娃淘汰19号种子亚历山德罗娃，首次晋级中网女单半决赛。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-09/10709423.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "WTT中国大满贯赛：王曼昱女单险胜 周启豪力压张本智和晋级",
+              "lead": "中新社北京10月8日电 (记者 周昕)2026年世界乒乓球职业大联盟(WTT)中国大满贯赛8日在北京继续进行。单打1/8决赛中，中国女单名将王曼昱以3:2险胜队友石洵瑶晋级；中国男单选手周启豪以3:0横扫日本名将张本智和，挺进八强。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-09/10709422.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "广西贵港闪爆事故2名失联人员确认已无生命体征",
+              "lead": "中新网10月9日电 据“贵港宣传”微信公众号9日消息，广西贵港市港南区应急管理局通报称，经多方全力搜救，在港南区新塘镇湖表村郁江河段工程船舶闪爆事故中失联的2名人员，已分别于2026年10月8日凌晨4时20分、上午9时08分被找到，经法医鉴定，确认已无生命体征。目前，事故原因调查及善后工作正在有序推进。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/10-09/10709439.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "「那挥之不去的恐惧」：「宿醉焦虑」真的存在吗？",
+          "lead": "「宿醉焦虑」（hang-xiety），大约十年前在社交俚语中被创造出来的名字，用来形容可能伴随宿醉而来的焦虑感。目前它的存在被研究证实。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c6d09ed707jxo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "科学家发现1.6亿年前的侏罗纪头足类新物种",
+          "lead": "国际研究团队近日宣布，他们通过美国怀俄明州出土的两块极为罕见化石，确认了一种此前未知的远古头足类动物新物种。",
+          "category": "science",
+          "categoryLabel": "科学",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/science/1581286.htm"
+        },
+        {
+          "title": "宇特光电上市首日开盘大涨超489%",
+          "lead": "宇特光电上市首日开盘涨489.82%，现报81.1元，该股发行价为13.75元。资料显示，该公司的主营业务是光连接产品的研发设计",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15170116.html"
+        },
+        {
+          "title": "中国人之间为何彼此怨恨、互相攻击？",
+          "lead": "经济疲软令许多人深感幻灭，这些情绪正以令人不安的方式显现。政府拥有掌控经济和塑造公共生活的权力，但修复国民之间的善意却不容易。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/opinion/20261008/china-anger-economic-frustration/?utm_source=RSS"
+        },
+        {
+          "title": "咖啡配卷饼？星巴克寻求收购Chipotle，若成功将成“餐饮业最大并购”",
+          "lead": "星巴克正在探索收购墨西哥卷饼连锁品牌Chipotle Mexican Grill的可能性，此举若成真",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783227"
+        },
+        {
+          "title": "苹果调整 iPhone 更新排序，推动 iOS 26 用户升级 iOS 27",
+          "lead": "IT之家 10 月 9 日消息，科技媒体 MacRumors 今天（10 月 9 日）发布博文",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/010/775.htm"
+        },
+        {
+          "title": "央行阐明人民币汇率政策立场：中国从不搞竞争性货币贬值",
+          "lead": "人民币汇率作为金融市场的一个重要价格，长期以来一直备受各界关注，近期讨论有所增多。现将中国人民 银行 关于人民币汇率的政策立场阐明如下。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1345,202610083889734044.html"
+        },
+        {
+          "title": "美国男子因利用 AI 生成音乐和机器人账号欺诈播放被判 18 个月",
+          "lead": "54 岁的美国北卡罗来纳州男子 Michael Smith 因 AI 辅助欺诈罪被判入狱 18 个月。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85551"
+        },
+        {
+          "title": "早报｜苹果定档10月13日发布新品/三星手机业务或减产30%/保时捷计划削减9000个岗位",
+          "lead": "苹果官宣 10 月 13 日发布新品、首款触屏 MacBook Pro 月底亮相 曝三星手机业务四季度最高减产 30%",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1683244?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "[DeepSeek] [新闻转载]中国一名 26 岁男子涉嫌在人工智能协助下入侵韩国银行",
+          "lead": "相关新闻 中国一名 26 岁男子涉嫌在人工智能协助下入侵韩国银行 33.jpg 真假需自行分辨，感觉不论结果如何日后用到强力 ai 要变难了",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1247247#reply0"
+        },
+        {
+          "title": "西班牙住房危机抗议现场：87岁老太太被扫地出门之后",
+          "lead": "9月26日下午五点开始，愤怒的人群从西班牙马德里各个方向开始了抗议游行，最终七点汇集在太阳门广场。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261008-international-spain-housing-crisis-maricarmen-protests/"
+        },
+        {
+          "title": "德国搜索引擎 Ecosia 甩了 Mistral：性能落后一整年，换中国开源模型省一半钱",
+          "lead": "一个德国环保搜索引擎，当着整个欧洲的面说：你们的 AI 旗舰不行了，我用中国的。Ecosia，总部在柏林的搜索引擎和浏览器运营商",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/502897/germany-ecosia-search-engine-mistral-china-open-source-ai"
+        },
+        {
+          "title": "第十届平遥国际电影展｜《善男信女》主创访谈及观众问答 (评论: 善男信女)",
+          "lead": "𝓙𝓸𝓴𝓮𝓻 𝓐𝓲𝓻𝓭.🌈 评论: 善男信女 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17848442/"
+        },
+        {
+          "title": "俄罗斯鼠疫会引发一场全球疫情吗？",
+          "lead": "与新冠病毒不同，肺鼠疫要等到症状出现后才能传播，通常在24小时内。症状严重且明显，因此后续个案可在传播发生前被迅速辨识、隔离并治疗。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/ckwyq35pnxjno/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "A股开盘：三大指数集体低开，CPO、铜箔/覆铜板、先进封装等概念走弱",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15170098.html"
+        },
+        {
+          "title": "中国移民夫妇在加州被控虐待十余名代孕子女",
+          "lead": "检察官表示，这对夫妇的孩子几乎全部来自代孕。他们和众多孩子一起住在洛杉矶郊区一栋豪宅中，检察官指控他们指使保姆体罚孩子。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/usa/20261008/california-child-abuse-surrogate/?utm_source=RSS"
+        }
+      ],
+      "supplement": {
+        "title": "从一所郊区高中到25万人上街：法国高中生为何掀起全国抗争？｜Whatsnew",
+        "lead": "自9月中旬起，法国巴黎许多高中学生爆发抗议、封锁校园，声援罢工的教师。不到两周，抗议便从巴黎郊区扩散到许多城市，高中学生会10月6日 展开 「第三幕」行动，约有25万人上街，工会、教师与家长也加入行列。这回抗争正值2027年总统大选倒数7个月的敏感时刻，法国投票年龄为18岁，因此部分参与抗议的高中生届时将首次投票。",
+        "body": [
+          "自9月中旬起，法国巴黎许多高中学生爆发抗议、封锁校园，声援罢工的教师。不到两周，抗议便从巴黎郊区扩散到许多城市，高中学生会10月6日 展开 「第三幕」行动，约有25万人上街，工会、教师与家长也加入行列。这回抗争正值2027年总统大选倒数7个月的敏感时刻，法国投票年龄为18岁，因此部分参与抗议的高中生届时将首次投票。这场从巴黎蔓延至蒙彼利埃（Montpellier）、南特（Nantes）和马赛（Marseille）等城市的示威运动，始于9月17日巴黎郊区克雷泰伊（Créteil）圣修伯里高中（Saint-Exupéry High School）。",
+          "全球最大法语新闻电视频道TV5Monde 指出 ，该校学生最初抗议是为了声援因为缺人手、缺资源而罢工的教师，且深感同样身处巴黎，校园之间却存在不平等的教育资源，加上社群媒体催化不满情绪，因此遍地开花。法国内政部统计，截至10月1日全国约3700所高中里逾千所发生抗议或封锁；至少逾5,000人被捕， 85%是未成年人 。部分抗议者伤势严重，包括眼部受伤、牙齿断裂以及头部遭受重击。距离上次如此大规模要求增加教育经费的全国性高中生抗议运动，已是1990年代。",
+          "政府当局声称，焚烧公共建筑、洗劫商店等动荡出现，是受到极左翼政党「不屈法国」（LFI）煽动，不屈法国则驳斥指控。2026年10月5日，巴黎图尔戈中学，抗议学生聚集并举著标语牌，进行封锁行动。摄：Lou Benoist/ AFP via Getty Images 资源短缺、严重缺师 ，贫困郊区学生沦次等教育 「我们翘课，是为了给你们上一课！」抗议布条高挂在罗莎‧帕克斯高中（Rosa Parks High School）围栏上，该校位于巴黎近郊塞纳-圣但尼省（Seine-Saint-Denis），学生马克卢菲（Issam Makhloufi）向《纽约时报》 表示 ，上课品质恶劣、教室通风相当差，连要打开窗户都很困难。盖蒂布（Aya Guetib）和瓦哈卜（Mian Wahab）告诉纽时记者，学校厕所状况也极差，不仅没有门，水龙头也坏了。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261008-whatsnew-france-high-school-student-protest/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GettyImages-2297495098.jpg"
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 17,
+        "maxGroupShare": 22,
+        "categories": 8,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "端傳媒×3",
+          "BBC×2",
+          "華爾街見聞×2",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Counting under way in Holborn and St Pancras byelection – UK politics live",
+        "lead": "Results are expected from 2.30am BST in the north London poll to choose a replacement for former PM Keir Starmer Party officials are gathering as the result is",
+        "body": [
+          "Results are expected from 2.30am BST in the north London poll to choose a replacement for former PM Keir Starmer Party officials are gathering as the result is expected imminently.",
+          "From the count here in Camden council’s swanky headquarters, signs suggest a Labour-win is imminent.",
+          "Continue reading..."
+        ],
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/04d79e82d45aa49cf63564c9fde989de5a545840/272_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=9ffc3550cca680cdf8ac8a6fd6824b1f",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Trump says US ‘will not be attacking Iran’ before midterm elections",
+        "lead": "President says Washington and Tehran are having ‘productive discussions’",
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/e0cc2789-0e71-401d-8096-d58303970a37?syn-25a6b1a6=1",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6c77f2db-93e3-47d6-b6b4-67aae69a79ec.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "French ministers scramble to appease students after 10 days of protests",
+              "lead": "Education minister promises 3,000 substitute teachers by Tuesday with schools still blockaded across France High school students have again blockaded schools and marched through cities across France",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/oct/08/france-student-protests-schools-vow-to-continue",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/ff43f2b53268038f745fd8d58caf6c06b0fa1775/317_62_6811_5449/master/6811.jpg?width=140&quality=85&auto=format&fit=max&s=9b061f0ede91aba67690852c916f4922",
+              "consensus": 5
+            },
+            {
+              "title": "French Student Protests Continue as Government Seeks Way Out of Crisis",
+              "lead": "Mass protests over decrepit schools and absent teachers are in their third week, with more planned. Officials have failed so far to quell a movement drawing many adult supporters.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/08/world/europe/france-student-protests-paris.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08int-france-protest-leadall-vphg/08int-france-protest-leadall-vphg-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Two Latvian men arrested at UK base housing US and NATO intelligence hubs",
+              "lead": "British ​counter-terrorism police are investigating after two Latvian men were arrested Thursday near a Royal Air Force ​base in southeast England housing US and NATO intelligence operations, police said in a statement.",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/europe/20261008-two-latvian-men-arrested-at-uk-base-housing-us-and-nato-intelligence-hubs",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://s.france24.com/media/display/6623278a-c336-11f1-bdb0-4b195755b8ed/w:1024/p:16x9/2026-10-08T162911Z-1517542276-RC24ZNAZJCYB-RTRMADP-3-BRITAIN-SECURITY-MOLESWORTH.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
+              "lead": "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bc3/live/94309dd0-b36c-11f1-b1d1-571ed4d7ff2c.png",
+              "consensus": 5
+            },
+            {
+              "title": "US to publicly execute former soldier by firing squad",
+              "lead": "American military will live-stream the execution of an extremist who killed 13 people at Fort Hood in Texas in 2009",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/0c390d03-427f-40a8-b5cb-d12c8d925d9d?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F854b8f59-ba2c-4665-a9a6-13dd90f4fe39.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "U.S. East Asian envoy says investors are overpricing Taiwan risk",
+              "lead": "Investors are overestimating the risk of conflict across the Taiwan Strait, a U.S. diplomat says, playing up deterrence to keep Beijing from taking the island.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
+              "lead": "In July 2010, US Senator Blanche Lincoln (D-Ark.) predicted the rise of prediction markets and the problems they could cause. If not properly regulated, Lincoln warned during Senate proceedings on the Dodd",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/blanche-kalshi-sports-1152x648-1791305860.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Anthropic changes usage policy to ban model abuse and election interference",
+              "lead": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Anthropic launches free AI security scans for open-source projects",
+              "lead": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner . It says open-source projects that opt-in will get \"thorough",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+              "lead": "Space has plenty of room for more megaconstellations, but only if all operators are willing to share information about where their satellites are and where they're going",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starshipflight14_deploy-1152x648-1791410362.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Major League Baseball proposes shortening its regular season as it pushes for a salary cap",
+              "lead": "Major League Baseball proposed a return to a shorter 154-game regular season schedule as it attempts to convince players to approve a salary cap.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/08/major-league-baseball-proposes-shorter-season-amid-salary-cap-push.html",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "consensus": 5
+            },
+            {
+              "title": "Infantino given re-election boost as Montagliani seeks final Concacaf term",
+              "lead": "Gianni Infantino's chances of being re-elected as Fifa president appear to have been given a major boost as Victor Montagliani wants to remain as Concacaf chief.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cmn4ex2y53l8o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b580/live/603bae40-c350-11f1-a323-895aa67440d0.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Afcon final to play out in court - when will Morocco or Senegal be crowned champions?",
+              "lead": "The Court of Arbitration for Sport is set to rule on the decision to strip Senegal of their Afcon 2025 title. But fans should not expect an immediate verdict.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/ckjw5jj2l26lo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/473b/live/8627f400-bd98-11f1-babe-4199b0e7ccea.png"
+            },
+            {
+              "title": "'It's changed my life' - Eckert on Spygate scandal",
+              "lead": "Southampton head coach Tonda Eckert says the Spygate scandal is an experience that has changed his life.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cvrly3el4e63o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a8c/live/57d56c80-c32f-11f1-9981-cf94ea240e40.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Michael Ovitz Ordered to Complete Deposition in Julia Ormond Case After Storming Out Over Jeffrey Epstein Questions",
+              "lead": "A judge on Thursday ordered CAA co-founder Michael Ovitz to complete his deposition in the Julia Ormond sexual assault lawsuit, months after storming out when he was asked about Jeffrey Epstein.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/michael-ovitz-ormond-deposition-epstein-1236906246/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/06/GettyImages-2235640319.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Hugh Hefner’s Widow Crystal Harris Asks Jessica Biel to ‘Please Reconsider’ Playing His Wife: ‘I Experienced Sexual, Emotional…Physical Abuse’",
+              "lead": "Crystal Harris, who was married to Playboy founder Hugh Hefner until his death in 2017, is asking Jessica Biel to reconsider playing a fictional version of Hefner’s wife in the upcoming film “Playmates.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/hugh-hefner-widow-jessica-biel-reconsider-playing-wife-1236906237/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/gloria-allred-press-conference-with-crystal-hefner-apple-ori-1000x667-1.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Einstein Probe reveals a hidden phase of neutron star collisions",
+              "lead": "Einstein Probe revealed nearly 10 minutes of soft X-ray activity following a short gamma-ray burst, exposing a phase of neutron star mergers that previous missions may have missed.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261006234511.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Dads are dying after their kids are born, and almost no one is tracking it",
+              "lead": "A study of more than 130,000 babies born in Georgia found that hundreds of fathers died within the first five years of their child’s life, and about 60% of those deaths were potentially preventable.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261005071537.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Not all trans fats are bad, major review finds",
+              "lead": "A large analysis of 22 studies found that the trans fats naturally present in dairy foods such as milk, butter, yogurt, and cheese do not appear to raise the risk of heart disease or type 2 diabetes.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261006234505.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Thousands march in Madrid after death of evicted pensioner Maricarmen",
+          "lead": "Rally to remember woman, 87, whose rent battle with investment firm",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/oct/08/thousands-to-march-in-madrid-after-death-of-evicted-pensioner-maricarmen"
+        },
+        {
+          "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+          "lead": "The US Defence Secretary says the execution will be public",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Myanmar’s Strongman President Is on a Global Quest for Legitimacy. Next Stop, Malaysia.",
+          "lead": "After trading his military uniform for civilian clothes",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/08/world/asia/myanmar-president-malaysia.html"
+        },
+        {
+          "title": "Microsoft banned from sponsoring foreign workers for US residency",
+          "lead": "Announcement impacting several tech groups marks White House’s latest",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/5cfecbba-69ed-42d0-98fd-3ae019144692?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Madrid mourns evicted retiree, ‘icon’ of Spain housing protests",
+          "lead": "Maricarmen Abascal, who used a wheelchair, died in hospital two weeks",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/09/world/society/madrid-protesters-mourn-evicted-retiree/"
+        },
+        {
+          "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+          "lead": "The artificial intelligence trade took a hit on Thursday after",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/08/fridays-big-stock-stories-whats-likely-to-move-the-market.html"
+        },
+        {
+          "title": "Trump envoys, European officials to discuss ‘new ideas’ for Ukraine peace in Miami",
+          "lead": "US President Donald Trump’s envoys will meet Ukrainian negotiators",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/europe/20261008-trump-envoys-ukraine-peace-talks-miami"
+        },
+        {
+          "title": "ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside",
+          "lead": "Detainees are seen in a yard at the Folkston ICE Processing Center on",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video"
+        },
+        {
+          "title": "Ukraine’s Zelensky accuses US of inaction as Russian strikes kill nearly 80 in 2 days",
+          "lead": "Ukrainian President Volodymyr Zelensky accused the US of being",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/europe/article/3370253/ukraines-zelensky-accuses-us-inaction-russian-strikes-kill-nearly-80-2-days?utm_source=rss_feed"
+        },
+        {
+          "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
+          "lead": "Richard Bronson, a former Stratton Oakmont partner who served time in",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/"
+        },
+        {
+          "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+          "lead": "If there was a year the world began waking up to climate change",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/"
+        },
+        {
+          "title": "Marvel’s ‘VisionQuest’ Surprise Premieres at NYCC and Earns Glowing First Reactions: ‘A Worthy Successor’ to ‘WandaVision’",
+          "lead": "Marvel debuted the first episode of “VisionQuest” with a surprise",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/tv/news/marvel-visionquest-surprise-premieres-nycc-first-reactions-1236906093/"
+        },
+        {
+          "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
+          "lead": "Scientists accidentally discovered a microscopic organism with a",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm"
+        },
+        {
+          "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+          "lead": "Ukraine accused Russia of targeting two crowded vehicles in the front",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Repeated US Treasury interventions risk an erosion of credibility",
+          "lead": "A key policy tool to stabilise stress in markets could turn into a",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/eec1e15d-78b9-4706-a518-2a9db4f37128?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Rising yields and oil are taking a toll on stocks, but Wall Street finds ways to mute the alarm",
+          "lead": "The stock market hit an all-time high Tuesday",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/08/rising-yields-and-oil-are-taking-a-toll-on-stocks-but-wall-street-finds-ways-to-mute-the-alarm.html"
+        }
+      ],
+      "supplement": {
+        "title": "Ice-T on ‘Law & Order: SVU’s’ Longevity and Cultural Impact: ‘I’m on a Good Treadmill, and I Want to Stay on It’",
+        "lead": "“Law & Order: Special Victims Unit” has been running since 1999, and Ice-T has been there since almost the beginning. The rapper turned a four-episode stint in the show’s second season into a permanent role as Detective",
+        "body": [
+          "“Law & Order: Special Victims Unit” has been running since 1999, and Ice-T has been there since almost the beginning.",
+          "The rapper turned a four-episode stint in the show’s second season into a permanent role as Detective Odafin “Fin” Tutuola.",
+          "Nearly 30 years later, as the show gears up for the premiere of its 28th […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/biz/news/ice-t-law-order-svu-longevity-cultural-impact-1236905719/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/KBZ_2670.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "ScienceDaily×4",
+          "Ars Technica×3",
+          "Guardian×2",
+          "FT×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-09T01:50:22.245Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 794,
+        "lang": 450,
+        "fresh": 362,
+        "denoised": 361,
+        "deduped": 346
+      },
+      "en": {
+        "fetched": 794,
+        "lang": 344,
+        "fresh": 330,
+        "denoised": 328,
+        "deduped": 320
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 37,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 17,
+        "maxGroupShare": 22,
+        "categories": 8,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "端傳媒×3",
+          "BBC×2",
+          "華爾街見聞×2",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "ScienceDaily×4",
+          "Ars Technica×3",
+          "Guardian×2",
+          "FT×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

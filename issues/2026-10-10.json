@@ -1,0 +1,936 @@
+{
+  "issue": 26,
+  "date": "2026-10-10",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月初一 · 寒露",
+    "en": "1st day of the 9th lunar month · Cold Dew"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "中欧贸易投资磋商机制第二次例会形成多项成果共识",
+        "lead": "中新社北京10月9日电 (记者 尹倩芸)记者9日从中国商务部获悉，10月8日至9日，中国商务部部长王文涛与欧盟委员会贸易和经济安全委员马罗什·谢夫乔维奇在北京举行中欧贸易投资磋商机制(下称机制)第二次例会。双方进行了务实、富有成效的讨论，并形成成果共识清单。",
+        "body": [
+          "中新社北京10月9日电 (记者 尹倩芸)记者9日从中国商务部获悉，10月8日至9日，中国商务部部长王文涛与欧盟委员会贸易和经济安全委员马罗什·谢夫乔维奇在北京举行中欧贸易投资磋商机制(下称机制)第二次例会。",
+          "双方进行了务实、富有成效的讨论，并形成成果共识清单。"
+        ],
+        "source": "中新網財經",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-09/10709913.shtml",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "中国希望从国外招募人工智能科学家，这项努力并未奏效",
+        "lead": "研究显示，尽管过去几年中国积极招募人工智能科学家，但前往中国的外国研究者并不多，而在美国工作的中国科学家人数不降反升。不过中国成功留住了大批本土人才。 Jade Gao/Agence France-Presse — Getty Images 像DeepSeek和月之暗面这样的中国人工智能公司已在国际上闯出了名气。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/technology/20261009/china-ai-research-recruitment/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "中国驻巴拿马大使馆提醒在巴中国公民防范地震灾害",
+              "lead": "中新网10月10日电 据中国驻巴拿马大使馆微信公众号消息，中国驻巴拿马使馆提醒在巴中国公民密切关注当地地震预警和灾害相关信息，防范余震及地震导致的次生灾害；保持冷静，做好安全防护，保持通讯设备畅通。请相关地区中国公民立即远离海边，转移至安全区域避险。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/hr/2026/10-10/10710001.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "特朗普与普京达成协议允俄国出售柴油，泽连斯基批评「送大礼」",
+              "lead": "乌克兰总统表示，容许俄罗斯出售石油产品，只会延长这场本应结束的战争。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cwg7xz103032o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a5d0/live/a1bc1010-c415-11f1-a175-8928617a734f.jpg"
+            },
+            {
+              "title": "中共中央、国务院印发《关于发展新质生产力的意见》",
+              "lead": "中共中央、国务院印发《关于发展新质生产力的意见》（以下简称《意见》）。 《意见》坚持以习近平新时代中国特色社会主义思想为指导，深入贯彻党的二十大和二十届历次全会精神，认真落实四中全会部署，完整准确全面贯彻新发展理念，坚持创新主导、改革为要、因地制宜、先立后破，坚持高技术、高效能、高质量，统筹处理好政府和市场、质态和业态、改革和发展、自主和开放的关系，统筹发展和安全，以科技创新为引领，以全要素生产率大幅提升为核心标志，推动技术革命性突破",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://finance.eastmoney.com/news/1345,202610093891348451.html",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "中国在老挝启用新空军基地，进一步向东南亚投射军力",
+              "lead": "专家表示，位于班根的这座基地可能帮助中国空军将行动范围扩展至整个地区。越南等周边国家可能会密切关注该基地是否会延长跑道，以便容纳轰炸机或侦察机。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/asia-pacific/20261009/china-military-base-laos/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "超5万家机构一年出具报告5.71亿份 检验检测机构为经济发展添动能",
+              "lead": "超5万家机构，一年出具报告5.71亿份",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-10/10709971.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "万亿估值背后的“数字口径游戏”：OpenAI与Anthropic的营收竟然无法直接比较",
+              "lead": "当 AI行业两大巨头的核心财务指标无法进行苹果对苹果的比较， 投资者正面临一场信息迷雾。 OpenAI预计年化营收将在年底达到或超过700亿美元，Anthropic则于今年7月宣布年化营收已触及650亿美元。然而据彭博10月10日报道，这两个数字根本无法直接比较—— 两家公司对同一指标采用了截然不同的口径。 Anthropic将通过亚马逊等云合作伙伴产生的销售总额全部计入营收，而OpenAI仅计入其从微软等合作伙伴分得的净收入份额。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3783309",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "全球市场：美股三大指数集体收涨 纳斯达克中国金龙指数涨超2%",
+              "lead": "美股市场： 美股三大指数10月09日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨423.31点，收于51654.95点，涨幅为0.83%，本周累涨0.93%； 标准普尔 500种股票指数上涨46.18点，收于7811.54点，涨幅为0.59% ，本周累涨1.15% ； 纳斯达克 综合 指数上涨172.83点，收于27366.17点，涨幅为0.64% ，本周累涨0.64 % 。",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://stock.eastmoney.com/news/11784,202610103891632088.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "上市价 4699 元 → 国补后 3143 元：石头扫拖机器人 P20 Max 上下水版新低",
+              "lead": "【京东活动可能随时变更，需以实付款为准】 石头 P20 Max 自清洁扫拖机器人今年 2 月上市，水箱版 4299 元，上下水版 4699 元。 京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后，到手价 3143.13 元： 领 9 折家电家居券： 点此查看 。 下单时选择“以旧换新 → 个护健康 → 电动牙刷 （无需回收）”补贴 300 元。 大部分小伙伴还可选择“ 组合购 ”，实付 低至 2992.1 元 。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/011/193.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "尼康显微摄影比赛冠军因使用AI被取消资格 研究人员承认借助神经网络处理图像",
+              "lead": "尼康近日取消了原本获得其 Small World in Motion 显微摄影竞赛第一名的作品的获奖资格，原因是该作品不符合比赛关于生成式人工智能使用的规定。随着作品真实性受到越来越多质疑，尼康对参赛视频展开审查，最终决定撤销其冠军头衔，并调整了比赛排名。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/movie/1581438.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "超强厄尔尼诺已经形成",
+              "lead": "国家气候中心表示，一次东部型超强厄尔尼诺事件已于今年 9 月正式形成。预计未来 3 个月，赤道中东太平洋海表温度将继续升高，在秋末冬初达到峰值，此次厄尔尼诺事件将成为有系统性监测以来最强厄尔尼诺事件。今年5月以来，赤道中东太平洋进入厄尔尼诺状态，关键监测区海温持续快速升高。这一区域海温指数的三个月滑动平均值已连续五个月超过 0.5℃，其中 7-9 月的平均值达 2.54℃，超过 2.5℃，达到超强事件标准。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85567",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "欧盟对美国宣布制裁国际刑事法院深表遗憾 将全力确保国际刑事法院履职",
+              "lead": "中新社布鲁塞尔10月9日电 (记者 德永健)欧盟9日对美国宣布制裁国际刑事法院深表遗憾，表示随时准备采取一切必要措施，确保国际刑事法院履行职责。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-10/10709970.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "AI无处不在：中国面临过度依赖人工智能的挑战",
+              "lead": "中国政府积极推动民众接受人工智能，但随着人们将这项技术应用于娱乐、人际关系甚至农业生产建议，当局也开始担忧可能破坏社会秩序的因素，寻求加强监管、寻求平衡。 Kevin Frayer/Getty Images 中国政府正在对人工智能应用和聊天机器人的使用实施监管，原因是担心该技术可能会干扰人际关系并破坏社会秩序。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/china/20261009/china-ai-overuse/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "法国学生示威：愤怒背后隐藏著什么？",
+              "lead": "法国中学生示威来自对制度的不满，但也源自于法国在街头与制定政策的传统。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/crz98g94n9k5o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d06a/live/72534a40-c2e0-11f1-babe-4199b0e7ccea.jpg"
+            },
+            {
+              "title": "美政府暂停微软等科技公司绿卡项目资格",
+              "lead": "特朗普政府指控微软等公司和哈佛等大学存在签证欺诈行为。副总统万斯称，微软等公司一直在滥用劳工部的永久劳工认证项目(PERM)，该项目允许H-1B签证持有者获得绿卡。 Demetrius Freeman for The New York Times “我们要向微软传达的信息是：你们是一家伟大的美国公司，但你们必须雇用优秀的美国就业者，”副总统万斯周四在华盛顿表示。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261009/microsoft-visas-green-cards/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "《三体》里的“不要回答”会成真吗？刘慈欣这样看",
+              "lead": "《三体》发表20年，本报记者对话科幻作家刘慈欣",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-10/10709989.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "「停止抱怨，做个真男人！」失去语言的男人们",
+              "lead": "Bro的起手式：当对方想要谈心事，就回「想这么多干什么？」",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261010-roving-reporter-men-trapped-in-silence/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/DSCF1878-copy-2.jpg"
+            },
+            {
+              "title": "《生化危机：爆发夜》：如果你把它当成一局游戏录播，好像一切又解释的通了。 (评论: 生化危机：爆发夜)",
+              "lead": "bad bad girl 评论: 生化危机：爆发夜 评价: 推荐",
+              "source": "豆瓣",
+              "group": "豆瓣",
+              "link": "https://movie.douban.com/review/17849968/",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "2026—2027赛季陕西省大学生足球联赛开赛",
+              "lead": "中新网西安10月9日电 (记者 党田野 张一辰)2026—2027赛季陕西省大学生足球联赛启动仪式8日在陕西师范大学长安校区举行。本届赛事参赛规模、女子赛事参与度等多项数据刷新历届纪录，陕西省76所高校、108支代表队、2816名大学生运动员将踏上绿茵赛场，开启为期7个月的校园足球竞技角逐。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-09/10709702.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "WTT中国大满贯赛：王曼昱女双、女单双线晋级",
+              "lead": "中新社北京10月9日电 (记者 周昕)2026年世界乒乓球职业大联盟(WTT)中国大满贯赛9日在北京继续进行。中国名将王曼昱一日双赛，在女单比赛中以4:0横扫韩国选手申裕斌，晋级四强；女双半决赛，王曼昱搭档队友蒯曼以3:1战胜中国组合陈熠/李益惠。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-09/10709956.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "超强厄尔尼诺已经形成 如何防备和应对？",
+              "lead": "新闻1+1丨超强厄尔尼诺已经形成 如何防备和应对？",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/10-10/10709980.shtml",
+              "category": "society",
+              "categoryLabel": "民生",
+              "consensus": 2
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "报告称黑客利用中美人工智能工具攻击韩国银行",
+          "lead": "网络安全公司CrowdStrike表示，黑客使用中国开发的ARTEX和美国的Claude Code等人工智能工具对韩国金融机构发起攻击",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/asia-pacific/20261009/south-korea-bank-hack-china-us-ai/?utm_source=RSS"
+        },
+        {
+          "title": "扎克伯格有形象问题，为何Meta的业务却蒸蒸日上？",
+          "lead": "一部新电影将扎克伯格的描绘成一个反派角色。但这家科技公司的收益及产品似乎不受负面形象的影响。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cvj6jz6e89n2o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "消息称 OpenAI、Anthropic 高管私下推演 AI 灾难情景，以应对公众反弹与政治抵制",
+          "lead": "IT之家 10 月 10 日消息，据 Axios 于当地时间 10 月 9 日报道，Anthropic",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/011/183.htm"
+        },
+        {
+          "title": "英伟达悄然重新定义自由现金流，千亿回购计划暗藏水分？",
+          "lead": "英伟达一个措辞上的细微变化，正在重塑投资者对这家芯片巨头财务健康状况的理解。 今年9月28日",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783308"
+        },
+        {
+          "title": "受内存、存储芯片短缺推高价格 游戏硬件销量跌至13年新低",
+          "lead": "全球内存与存储芯片短缺，正给游戏行业带来沉重打击。微软、任天堂与索尼均上调了自家游戏主机售价，以此抵消元器件成本上涨，以及此前关税带来的冲击。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/game/1581434.htm"
+        },
+        {
+          "title": "定义了软件工程的计算机科学家 Margaret Hamilton 去世，享年 90 岁",
+          "lead": "阿波罗登月计划期间担任 MIT 仪器实验室软件工程部主管的计算机科学家 Margaret Hamilton 于 9 月 30 日去世",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85557"
+        },
+        {
+          "title": "早报｜供应链回应iPhone 18 Pro砍单传闻/小米、华为手机同日调价/山姆拟限制亲友卡换绑",
+          "lead": "曝苹果削减 iPhone 18 Pro 订单，供应链称总量变化不大 苹果调整并购团队架构",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1683465?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "这一周，不漏读：台北市长选战升温",
+          "lead": "这一周，台北市长选战从造势场合延烧到警政与毒品政策的攻防；国际方面，法国高中生抗争扩大、印尼野火也已延烧近三个月。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20201008-weekly/"
+        },
+        {
+          "title": "计算机科学家 Margaret Hamilton 去世，“软件工程”术语创造者",
+          "lead": "Margaret Hamilton——那个站在一摞齐腰高的阿波罗代码打印纸旁边、让无数人第一次意识到『写代码』可以是什么的软件工程师—",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/502922/margaret-hamilton-computing-pioneer-dies"
+        },
+        {
+          "title": "中欧贸易投资磋商机制第二次例会联合声明",
+          "lead": "2026年10月8-9日，中国商务部部长王文涛与欧盟委员会贸易和经济安全委员马罗什·谢夫乔维奇在北京举行中欧贸易投资磋商机制（以下简称机制）",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1345,202610093891382035.html"
+        },
+        {
+          "title": "《复仇者联盟4：终局之战》重映：电影的终局 (评论: 复仇者联盟4：终局之战)",
+          "lead": "N1ck在线 评论: 复仇者联盟4：终局之战 评价: 还行",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17849717/"
+        },
+        {
+          "title": "战争造成燃油短缺，俄罗斯人开始拥抱中国电动汽车",
+          "lead": "由于与乌克兰的战争导致燃油短缺，越来越多俄罗斯人开始购买电动汽车，政府也推出补贴措施。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/world/20261009/russia-ukraine-war-ev-sales/?utm_source=RSS"
+        },
+        {
+          "title": "美国要网上直播军法枪决胡德堡基地枪击案凶手",
+          "lead": "美国国防部长赫格塞斯表示，这场处决将公开进行，但一名法律专家指出，这项「前所未有」的决定处于「法律基础不明确的领域」。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cqr7yvg2n4kvo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "华尔街大行财报下周揭晓：股票交易收入料逼近190亿美元，“人人是赢家”或成过去式",
+          "lead": "华尔街大型银行三季度股票交易业务有望延续强势，但资本市场活动降温正加剧各行之间的业绩分化。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783296"
+        },
+        {
+          "title": "科学家发现“垃圾食品效应” 城市化环境正在改变珊瑚礁鱼类数百个基因",
+          "lead": "生活在城市化海域中的蓝魔雀鲷正经历显著的基因活动变化。研究人员发现，这种常见且色彩鲜艳的珊瑚礁鱼类体内有数百个基因因环境变化而改变表达状态",
+          "category": "science",
+          "categoryLabel": "科学",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/science/1581406.htm"
+        },
+        {
+          "title": "印尼野火延烧近三月：原住民控告普拉博沃政府失职｜Whatsnew",
+          "lead": "在印尼七月到十月的旱季，野火并不少见。但今年的野火已经延烧超过两个月， 路透社报导 ，其规模可能是11年来最严重的一次。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261002-whatsnew-indonesia-kalimantan-wildfires-indigenous-sue-government/"
+        }
+      ],
+      "supplement": {
+        "title": "迟来的性罪行法律改革，幸存者们想争取甚么？｜端闻 Podcast",
+        "lead": "https://open.acast.com/public/streams/66b07190af99592b5329f43a/episodes/6ac85751eea51f2aa3f2900b.mp3 https://shows.acast.com/initium-reports/20261009-hongkong-sexual-offences-law-reform-long-awaited 【本期「端闻」以广东话制作】",
+        "body": [
+          "https://open.acast.com/public/streams/66b07190af99592b5329f43a/episodes/6ac85751eea51f2aa3f2900b.mp3 https://shows.acast.com/initium-reports/20261009-hongkong-sexual-offences-law-reform-long-awaited 【本期「端闻」以广东话制作】 （报导内容涉及性暴力及自杀情节，或引起不适，请斟酌收听。) 今年七月，香港保安局就性罪行法律改革，推出公众咨询。短短一个月，政府收到超过六千份意见，超过九成赞成修例。",
+          "自上世纪70年代，香港一直沿用英国旧例，幸存者与倡导团体多年来呼吁修法，但都不了了之。如今政府宣布修法，一群性暴力幸存者选择直面创伤，积极发声，她们想要看到法律作出怎样的改变？本期「端闻」，端传媒记者李慧筠为你解析香港性罪行改革的重点与争议。",
+          "期待你跟我们分享想法，邮箱地址：podcast@theinitium.com 【制作团队】 出品：端传媒音频 监制：陈婉容 主持：陈婉容 编辑：Freya 制作人：Wing Kuang 剪辑、声音设计：王伯维 主题音乐：Axel Kacoutié 「我们都是X」：香港性罪行法律滞后70年终改革，幸存者仍想争取的 政府提议改什么？幸存者群体如何想？关注团体觉得有什么不足？如果你遇上类似的性暴力，并有求助需要，可致电风雨兰性暴力求助热线／WhatsApp 网上支援：23755322。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261009-initium-audio-hongkong-sexual-offences-law-reform-long-awaited/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/_CT_5328.jpg"
+      },
+      "stats": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 21,
+        "categories": 8,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "端傳媒×4",
+          "東方財富×3",
+          "華爾街見聞×3",
+          "cnBeta×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "‘I want to thank President Putin’, Trump says after agreeing to lift sanctions on Russian diesel – US politics live",
+        "lead": "Prominent Republicans joined Democrats to condemn president for lifting sanctions on Russian diesel and administration’s plan to livestream execution of Fort",
+        "body": [
+          "Prominent Republicans joined Democrats to condemn president for lifting sanctions on Russian diesel and administration’s plan to livestream execution of Fort Hood attacker Zelenskyy furious as Trump announces deal to buy Russian diesel Sign up for the US Breaking News email In a statement to the Guardian, Robin M Maher , the executive director of the Death Penalty Information Center, said that her group is “not aware of any regulation or precedent for a military execution to be live streamed on the internet or otherwise made widely available to the public”.",
+          "She added that “public executions are typically held in authoritarian countries to instil fear in the population, and to show the power and control of the government.” Continue reading..."
+        ],
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/9610b0c75f0b852329fa1e2d582d691ffa77c026/391_0_3747_3000/master/3747.jpg?width=140&quality=85&auto=format&fit=max&s=f19fd015ad4980d85f036cbf0f4482a2",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+        "lead": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "‘Life-threatening storm surge’ headed to US Gulf coast as residents brace for Isaias",
+              "lead": "Alabama, Florida and Mississippi declare emergencies, with preparations under way for ‘long-duration power outages’ Hurricane Isaias neared landfall Friday evening",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-gulf-coast",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/2f1d65b36b8c18b56df8ade42e521ba9ee506e2e/18_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=619e97da5576a9faa433c23210eefae8",
+              "consensus": 5
+            },
+            {
+              "title": "7.7-Magnitude Panama Earthquake Sets Off Series of Aftershocks",
+              "lead": "The quake, which had a preliminary magnitude of 7.7, was centered in the country’s southern region.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/09/world/americas/panama-earthquake-tsunami.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/09/world/09wea-quake-tracker-panama-nyt5dyjb-v2-index/09wea-quake-tracker-panama-nyt5dyjb-v2-index-mediumSquareAt3X-v29.jpeg",
+              "consensus": 5
+            },
+            {
+              "title": "Trump announces major diesel deal with Russia ahead of US midterm elections next month",
+              "lead": "US President Donald Trump has opened the American market to Russian diesel, reversing years of sanctions pressure on Moscow just three weeks after signing a law to punish buyers of its energy",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/world/united-states-canada/article/3370409/trump-says-us-get-diesel-russia-stunning-bid-ease-prices?utm_source=rss_feed",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/10/5088b490-0538-4e4c-a127-2a589c0db6d5_f0c9811a.jpg?itok=zoC9LIqq&v=1791586510",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "JD Vance says he will not watch Pentagon’s livestreamed execution",
+              "lead": "Split reveals an emerging schism in the Republican Party over a plan to broadcast the killing of the Fort Hood shooter",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/c3d9f370-153e-4846-aded-fbb7d200b365?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbd049095-1ac2-4723-bd38-1481b3f66434.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Anthropic bans users from being 'cruel' to its AI systems",
+              "lead": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e673/live/aabc5740-c3db-11f1-95ba-dba767ffba7e.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Trump says Russia to supply diesel to U.S. and global markets",
+              "lead": "Prices for diesel are near a record and have put Trump's fellow Republicans at risk ahead of the Nov. 3 congressional elections.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/news/2026/10/10/world/politics/trump-russia-diesel-us-global-markets/",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/10/567825.JPG",
+              "consensus": 5
+            },
+            {
+              "title": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
+              "lead": "Trump tried to fire Cook, a nominee of former President Joe Biden, but the Supreme Court blocked his first attempt.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Anthropic AI model sent fake murder tip to US police, hit government sites",
+              "lead": "An artificial intelligence model developed by Anthropic submitted a fabricated tip about an unsolved murder to Philadelphia police, authorities said on Friday",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/world/united-states-canada/article/3370414/anthropic-ai-model-sent-fake-murder-tip-us-police-hit-government-sites?utm_source=rss_feed",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/10/f6511443-11bd-4650-8c19-48782bae1ee9_258846a1.jpg?itok=uykYofrP&v=1791593490",
+              "consensus": 5
+            },
+            {
+              "title": "AI coding agents generate more code, but not more software",
+              "lead": "Anyone who has even tangentially associated with computer programming knows that modern AI coding assistants and agents can be incredibly efficient at generating huge amounts of functional code .",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2264559974-1152x648.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+              "lead": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Verstappen on sprint pole after another settings issue",
+              "lead": "Red Bull's Max Verstappen beats Mercedes driver George Russell to sprint pole at the Singapore Grand Prix.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/formula1/articles/ck62y7jz1qqro?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98e4/live/d4af98b0-c3e9-11f1-badc-154546719036.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Super Bowl-winning player and coach Ditka dies aged 86",
+              "lead": "NFL icon Mike Ditka, who coached the Chicago Bears to the Super Bowl XX title in 1986, dies aged 86.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/american-football/articles/cqly055pnn8go?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c700/live/38e2e430-c3fa-11f1-97a9-2d4b5e26e282.jpg"
+            },
+            {
+              "title": "I've got my own questions on Man City case - Carrick",
+              "lead": "Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questions about the matter.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c67/live/e425d740-c3b8-11f1-a64c-550be9e3c66b.jpg"
+            },
+            {
+              "title": "Highlights: Albania 0-1 Wales",
+              "lead": "Watch the best of the action as Wales beat Albania in Shkoder",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/crlyk7w4zp5xo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c1d/live/3378f4e0-c40d-11f1-9a39-31b474234113.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "‘Triangle of Sadness’ Producer Backs Park Syeyoung’s Memory-Bending Love Motel Drama ‘Satellite of Love’ at Busan Asian Project Market",
+              "lead": "A woman who has spent a decade shut inside a room at a rural love motel, waiting for the man who left her, discovers that the motel has been staging her love life all along in “Satellite of Love",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/markets-festivals/triangle-of-sadness-producer-korean-busan-asian-project-market-drama-1236907236/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/Satellite-of-Love-concept-art.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Callum Turner's new film sparkles at Dinard Film Festival",
+              "lead": "British and Irish cinema have been in the spotlight at the Breton resort of Dinard for more than three decades, with films like \"The Full Monty\" and \"Billy Elliot\" getting their starts at the town's annual film festival.",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/tv-shows/arts24/20261009-callum-turner-s-new-film-sparkles-at-dinard-film-festival",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://s.france24.com/media/display/c62bc15c-c3e3-11f1-8f70-29a2e29ae696/w:1024/p:16x9/ARB-NEWS-09-10-2026-10-00-ING02-CLEAN-N1-frame-138700.jpeg"
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Japan to launch research study on rapid-response space transport",
+              "lead": "The move comes as more countries, including China, Russia and the U.S. continue to bolster their military capabilities in space.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/news/2026/10/09/japan/politics/koizumi-space-defense/",
+              "category": "science",
+              "categoryLabel": "Science",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/09/567814.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists tested 5 natural compounds on cancer cells. One stood out",
+              "lead": "Five natural compounds, including curcumin and berberine, were tested for their effects on cancer cells and healthy muscle cells. All disrupted cancer cell energy production and pushed many of the cells into a",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261006234531.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Bacteria turn a virus’ own weapon against it",
+              "lead": "Researchers have uncovered a new way bacteria detect viral attacks: a virus-produced enzyme cuts a bacterial sensor protein, triggering a self-destructing immune response.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261007042100.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
+          "lead": "The quake caused buildings and roads to collapse but the country",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake"
+        },
+        {
+          "title": "US immigration officials defend ICE agents who shot man in same car as child",
+          "lead": "Oscar Belgal, the 28-year-old man, survived the shooting and is now",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump Administration Hits International Criminal Court With Severe Sanctions",
+          "lead": "U.S. officials announced the new, sweeping punishments just hours",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html"
+        },
+        {
+          "title": "Trump agrees deal with Putin for Russia to release diesel",
+          "lead": "Pact between Washington and Moscow comes just weeks before critical",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
+          "lead": "President Donald Trump has few options to reduce diesel prices given",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html"
+        },
+        {
+          "title": "Two Renoir paintings recovered after France museum heist, mayor says",
+          "lead": "The recovered Renoir paintings, valued at millions",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says?traffic_source=rss"
+        },
+        {
+          "title": "India’s capital locked down as youth protest targets election chief",
+          "lead": "Central Delhi was sealed on Saturday, with thousands of police and",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/asia/south-asia/article/3370415/central-delhi-locked-down-internet-cut-youth-protest-demands-election-chief-quit?utm_source=rss_feed"
+        },
+        {
+          "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+          "lead": "Anthropic said it \"turned off live internet access\" for \"all our",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+        },
+        {
+          "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+          "lead": "Ukrainian drone strikes have knocked out two of five data centers",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
+        },
+        {
+          "title": "U.S. sanctions ICC after former judge wins Nobel Peace Prize",
+          "lead": "Prime Minister Sanae Takaichi expressed her deep concern over the move",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/10/world/icc-us-sanctions/"
+        },
+        {
+          "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+          "lead": "An Anthropic AI model provided false information about an unsolved",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
+        },
+        {
+          "title": "LaKeith Stanfield Previews ‘Molepeople’ Movie From Paramount Primal, Blumhouse Atomic Monster at New York Comic-Con",
+          "lead": "Oscar nominee LaKeith Stanfield previewed his next movie, “Molepeople",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/news/lakeith-stanfield-ben-mendelsohn-molepeople-movie-release-date-nycc-1236907130/"
+        },
+        {
+          "title": "Scientists find hidden materials that could improve batteries and solar fuels",
+          "lead": "Scientists have uncovered a hidden world of “in-between” materials",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm"
+        },
+        {
+          "title": "Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf",
+          "lead": "First major Atlantic storm of the season threatens Florida, Alabama",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Tech stocks' resilience has puzzled investors. The options market could hold some clues",
+          "lead": "In the options pits, traders are the most prepared for a tech",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/09/tech-stocks-resilience-has-puzzled-investors-the-options-market-could-hold-some-clues.html"
+        },
+        {
+          "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+          "lead": "Amazon says it will stop using NDAs when negotiating data center",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"
+        }
+      ],
+      "supplement": {
+        "title": "AI Grief-Bot Dramedy ‘Talk to Me When You Are Dead,’ Produced by Anthony Chen, Probes the Limits of Digital Afterlives at Busan Asian Project Market",
+        "lead": "A widowed programmer who builds a digital copy of his late wife ends up turning grief into a business in “Talk to Me When You Are Dead,” the debut feature from Singapore’s Alvin Lee, produced by Anthony Chen and Gina Tan.",
+        "body": [
+          "A widowed programmer who builds a digital copy of his late wife ends up turning grief into a business in “Talk to Me When You Are Dead,” the debut feature from Singapore’s Alvin Lee, produced by Anthony Chen and Gina Tan.",
+          "The project is part of the Asian Project Market, which runs within the Busan […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/markets-festivals/anthony-chen-backs-ai-grief-dramedy-busan-asian-project-market-1236907213/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/Talk-to-me-When-Youre-Dead-team.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 16,
+        "categories": 7,
+        "topGroups": [
+          "BBC×6",
+          "SCMP×3",
+          "Japan Times×3",
+          "TechCrunch×3",
+          "Variety×3",
+          "ScienceDaily×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-10T01:34:32.776Z",
+    "sources": {
+      "configured": 36,
+      "ok": 35,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "界面新聞",
+          "reason": "fetch failed"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 775,
+        "lang": 429,
+        "fresh": 320,
+        "denoised": 320,
+        "deduped": 310
+      },
+      "en": {
+        "fetched": 775,
+        "lang": 346,
+        "fresh": 331,
+        "denoised": 329,
+        "deduped": 320
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 21,
+        "categories": 8,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "端傳媒×4",
+          "東方財富×3",
+          "華爾街見聞×3",
+          "cnBeta×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 16,
+        "categories": 7,
+        "topGroups": [
+          "BBC×6",
+          "SCMP×3",
+          "Japan Times×3",
+          "TechCrunch×3",
+          "Variety×3",
+          "ScienceDaily×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

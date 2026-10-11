@@ -1,0 +1,894 @@
+{
+  "issue": 27,
+  "date": "2026-10-11",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月初二 · 寒露",
+    "en": "2nd day of the 9th lunar month · Cold Dew"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "尚无中国公民伤亡报告 中国驻沙特大使馆公布应急电话",
+        "lead": "10月11日凌晨，沙特民航总局发布公告确认，10日下午利雅得哈立德国王国际机场遭袭事件已造成12人死309人伤，死伤者包括多国公民(目前尚无中国公民伤亡报告)。沙官方报告达曼机场等地也于10日夜遭袭。利雅得哈立德国王国际机场机场仍暂停运营，全国多地机场出现大面积异常。",
+        "body": [
+          "10月11日凌晨，沙特民航总局发布公告确认，10日下午利雅得哈立德国王国际机场遭袭事件已造成12人死309人伤，死伤者包括多国公民(目前尚无中国公民伤亡报告)。",
+          "沙官方报告达曼机场等地也于10日夜遭袭。",
+          "利雅得哈立德国王国际机场机场仍暂停运营，全国多地机场出现大面积异常。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-11/10710866.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "什么是「微笑抑郁」？如何察觉征兆？",
+        "lead": "如果你表面上看起来很快乐，内心却饱受煎熬，你可能患有非典型抑郁症。然而，隐藏真实感受可能对心理健康造成伤害。",
+        "source": "BBC中文",
+        "group": "BBC",
+        "link": "https://www.bbc.com/zhongwen/articles/c53981jp28e0o/trad?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "categoryLabel": "国际",
+        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6a34/live/2e4df1f0-c331-11f1-9981-cf94ea240e40.jpg"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "“小熊”加强为超强台风级 未来对我国海域无影响",
+              "lead": "“小熊”加强为超强台风级 “诺洛”变性为温带气旋",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/10-11/10710872.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "美沙冬让台北吵翻天 美沙酮在香港逾半世纪有什么功效？",
+              "lead": "美沙冬戒毒治疗成为台北地方选举议题，讨论热烈，香港早于半世纪前已开展门诊计划，BBC中文梳理其发展历史，剖析社会迷思。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6n8dx52dgj5o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/593d/live/b97b50e0-c4b4-11f1-9a39-31b474234113.jpg"
+            },
+            {
+              "title": "这位丈夫15年来潜水760次，就为了「靠近」海啸失踪的妻子",
+              "lead": "2011年日本海啸期间，高松康雄的妻子祐子被巨浪卷走，遗体至今仍未寻获。两年后，他开始学习潜水，此后一直坚持每月两次潜入大海，以这种方式怀念妻子，延续对她的爱，并感受与她之间的联系。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c60rlq5d24wwo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f9ca/live/e4acb640-b0fb-11f1-a451-6b1ff10ed362.jpg"
+            },
+            {
+              "title": "赖清德双十讲话：台湾强化防卫不是放弃对话",
+              "lead": "台湾举行2026年双十国庆大会，总统赖清德讲话引用基督教《圣经》提出要建设「山巅之城」，让台湾成为「维护印太和平与稳定的关键力量」。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c58jz8w7kmjyo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8366/live/eb76b650-c466-11f1-a64c-550be9e3c66b.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "天津发布文商旅体展融合发展规划 五大产业联动创造消费大市场",
+              "lead": "中新网天津10月10日电 (周亚强 孙翼飞)《天津市文商旅体展融合发展“十五五”规划》(下称《规划》)10日发布，提出全方位深化文化、商业、旅游、体育、会展五大产业联动，以扩大优质供给创造消费大市场。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-10/10710771.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "赛力斯与宁德时代签署长期战略合作协议",
+              "lead": "",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15176447.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "花旗：法国财政风险或令欧央行12月后暂停加息，欧元料跌破1.10",
+              "lead": "花旗在最新报告中提出了一种不同于市场主流预期的判断：法国公共财政风险可能制约欧洲央行进一步收紧货币政策。 如果财政压力持续加剧，欧央行可能在12月加息后暂停行动；若金融压力提前蔓延至欧元区其他国家，暂停加息的时间还可能更早 。欧元兑美元也可能因此跌破1.10。 花旗利率策略师指出，欧央行利率预期与法国、德国国债收益率之差之间的关系已经逆转，反映出市场对进一步收紧货币政策的态度正在发生变化。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3783323",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "消息称英伟达洽谈收购 / 追加投资 Reflection AI，加码开源模型",
+              "lead": "IT之家 10 月 11 日消息，据金融时报消息，知情人士透露，英伟达正就收购美国初创公司 Reflection AI 或向其追加投资展开深入谈判。 Reflection AI 专注于开发开放权重模型，于当地时间 10 月 5 日发布旗下首款开放权重 AI 模型 Beam。 知情人士补充称，目前的谈判尚处初期阶段，潜在交易可能采取多种形式 —— 包括所谓“人才兼并”模式。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/011/541.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "英伟达正就收购Reflection AI或增加投资进行磋商",
+              "lead": "英伟达正与美国开放权重模型开发商Reflection AI进行初步谈判，讨论收购这家初创公司或进一步增加投资。目前仍有许多投资方式正在考虑之中。潜在的交易结构包括“收购式招聘”，即英伟达聘用Reflection AI员工并获得其技术许可，还有与该公司达成协议向其提供更多芯片，或者增加英伟达对Reflection AI的股权投资。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1581576.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "17.98 万元起，银河战舰 700 上市，三电机千匹马力，装进家用方盒子",
+              "lead": "10 月 10 日，吉利银河战舰 700 正式上市。 你可能会说，这两年来，主打方盒子造型的 SUV 越来越多，早已不是什么新鲜事。 但对吉利来说，战舰 700 是一次在硬派越野上的重注。 银河战舰 700 首发了 GTA 原生新能源越野架构，将一体式大梁嵌入承载式车身，三电机四驱车型最高达到 1129 匹马力。 加上后桥机械差速锁与低速四驱等配置，如果要在吉利的产品序列里找一台最硬派的 SUV，银河战舰 700 就是目前的答案。",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1683809?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "2026澳大利亚人工智能生态链峰会在悉尼举行",
+              "lead": "中新网悉尼10月10日电 (记者 薄雯雯)2026澳大利亚人工智能生态链峰会日前在悉尼科技大学举行，吸引近400名高校科研人员、企业代表及投资界人士参加。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-10/10710637.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "新冠疫情时期武汉市长周先旺受贿罪判囚14年",
+              "lead": "周先旺于2020年新冠疫情爆发时，曾暗示北京须对披露疫情不及时负责；法院称其受贿行为涵盖武汉市长任内。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/crkg7xppy4zwo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/68af/live/55b6b9d0-c4b1-11f1-a64c-550be9e3c66b.jpg"
+            },
+            {
+              "title": "驻澳大使就澳大利亚知名汉学家马克林教授逝世表示深切哀悼",
+              "lead": "中新网悉尼10月10日电 (记者 薄雯雯)10月8日，澳大利亚知名汉学家马克林教授在布里斯班逝世。据中国驻澳大利亚大使馆10日消息，驻澳大使刘劲松向其家属致信表达深切哀悼和诚挚慰问。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-10/10710592.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "以「山巅之城」论台湾：赖清德双十演说想传达什么讯息？",
+              "lead": "台湾总统赖清德在「双十」国庆大会引用《圣经》「山巅之城」概念，被外界认为是向华府释出维持稳定台美关系的讯息。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6lyk794d8p7o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/85fa/live/07f48be0-c49e-11f1-8fc0-0b58d7e26e4c.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "夜场日记：一场游戏一场梦",
+              "lead": "2004年，在线小游戏网站「4399」上线。那时我在读小学，放学后或周末，我偶尔会获准用父母的电脑，在这个网站上玩一会。和许多女孩子一样，装扮小游戏是我最常玩的类别之一。 这类游戏往往遵循着相似的剧情：你收到心仪「男神」的约会邀请，现在要为自己搭配妆发和服饰。搭配好后点击「出发」，就会得到男神给你的评分。 装扮小游戏没有什么竞技性，气氛也不紧张，我常常把一个游戏反复玩很多遍，直到将衣柜里所有的衣服试个遍。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261011-mainland-a-nightlife-worker-diary-chapter-two/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GettyImages-1241661967-1.jpg"
+            },
+            {
+              "title": "《山河如愿》首演 民族音乐与戏剧融合再现长征精神",
+              "lead": "中新网北京10月10日电 10月9日，大型原创民族交响戏剧音乐会《山河如愿》在北京音乐厅首演。该剧作曲、编剧、总导演姜莹介绍，这部作品最大的突破，在于打造音乐与戏剧深度融合的舞台范式，实现了红色题材在民族音乐领域的创造性转化与创新性发展。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-10/10710743.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "WTT中国大满贯赛：中国组合王曼昱/蒯曼女双夺冠",
+              "lead": "中新社北京10月10日电 (记者 周昕)2026年世界乒乓球职业大联盟(WTT)中国大满贯赛女双决赛10日在北京进行，中国组合王曼昱/蒯曼以3:1战胜日本组合张本美和/早田希娜，成功卫冕冠军。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-10/10710797.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "郑钦文晋级女单决赛 刷新个人中网最佳战绩",
+              "lead": "北京时间10月10日，2026中网女单半决赛，郑钦文战胜梅尔滕斯，晋级决赛，刷新个人中网最佳战绩。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-10/10710754.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "历史首次！太仓口岸出口汽车首破100万辆",
+          "lead": "据南京海关，今年前9个月，长江流域最大的汽车出口枢纽太仓口岸出口汽车108万辆，历史首次突破百万辆，同比增长超八成。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15176405.html"
+        },
+        {
+          "title": "微软CEO呼吁针对先进人工智能建立“紧急制动”机制",
+          "lead": "微软首席执行官Satya Nadella表示，企业应将强大的人工智能模型视为潜在的内部威胁，要假定这些模型可能遭入侵",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1581578.htm"
+        },
+        {
+          "title": "历史首次，长江流域最大汽车出口枢纽“太仓口岸”出口汽车首破 100 万辆",
+          "lead": "IT之家 10 月 11 日消息，据央视新闻今日报道， 今年前 9 个月，长江流域最大的汽车出口枢纽太仓口岸出口汽车 108 万辆",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/011/550.htm"
+        },
+        {
+          "title": "“芯片大佬”Pat Gelsinger：从存储、光互联、电气到网络架构，当下是硬件创新的黄金时代",
+          "lead": "在AI重塑全球算力版图的当下，前英特尔CEO Pat Gelsinger一针见血地指出：AI让芯片设计变得简单，但制造",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783326"
+        },
+        {
+          "title": "Cloudflare 收购 Deno，Deno 停止开发",
+          "lead": "Cloudflare 收购了开源 JS 运行时项目 Deno，Deno 宣布该项目将停止开发，但会继续维护一年时间",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85570"
+        },
+        {
+          "title": "[分享创造] [开源自荐] Artiface：在浏览器里查看本地和服务器上的 AI Agent 输出内容",
+          "lead": "我经常使用多个 Agents ，处理多个项目。Claude Artifacts 总感觉不方便、限制多；",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1247758#reply0"
+        },
+        {
+          "title": "华为 Mate 90 Pro Max 深度体验：Mate 系列新高峰",
+          "lead": "刚刚过去的国庆假期开头，华为发布了今年的 Mate 90 系列直板旗舰，全系共 5 种机型 53 个 SKU",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1683673?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "「停止抱怨，做个真男人！」失去语言的男人们",
+          "lead": "Bro的起手式：当对方想要谈心事，就回「想这么多干什么？」",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261010-roving-reporter-men-trapped-in-silence/"
+        },
+        {
+          "title": "civil servant应该讲政治 (评论: 官僚们的夏天)",
+          "lead": "春の雪 评论: 官僚们的夏天 评价: 还行",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17850799/"
+        },
+        {
+          "title": "全球市场：美股三大指数集体收涨 纳斯达克中国金龙指数涨超2%",
+          "lead": "美股市场： 美股三大指数10月09日收盘全线上涨。截至收盘，道琼斯工业平均指数比前一交易日上涨423.31点，收于51654.95点",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://stock.eastmoney.com/news/11784,202610103891632088.html"
+        },
+        {
+          "title": "沙特民航总局：利雅得机场遭袭暂停运营，多人受伤",
+          "lead": "当地时间10月10日，沙特阿拉伯民航总局发布声明称，当天下午，首都利雅得哈立德国王国际机场再次遭到袭击，造成多人受伤，目前伤亡情况仍在统计中。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15176338.html"
+        },
+        {
+          "title": "前三季基金业绩揭榜: 半导体吃肉、原油喝汤、医药复兴",
+          "lead": "2026年前三季度，A股市场在半导体国产替代与AI算力浪潮的双重驱动下走出结构性行情， 由此",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783324"
+        },
+        {
+          "title": "人们总是羞耻的讨论爱 (评论: 分手的决心)",
+          "lead": "废岛 评论: 分手的决心 评价:",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17850707/"
+        },
+        {
+          "title": "当被压抑的愤怒，终将化为毁灭一切的力量 (评论: 魔女嘉莉)",
+          "lead": "🌿华欸🌿 评论: 魔女嘉莉 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17850595/"
+        },
+        {
+          "title": "【Taco个人译制】学校在盯着（2015） (评论: 学校在盯着)",
+          "lead": "TacoT 评论: 学校在盯着 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17850578/"
+        }
+      ],
+      "supplement": {
+        "title": "这一周，不漏读：台北市长选战升温",
+        "lead": "这一周，台北市长选战从造势场合延烧到警政与毒品政策的攻防；国际方面，法国高中生抗争扩大、印尼野火也已延烧近三个月。无需担心没时间跟上新闻——每逢东亚时间周一、周五，定时开启端周报，我们带你快速掌握近期的新闻关键时刻。 每份周报当中，端传媒图片编辑为我们精选数张全球新闻摄影作品，捕捉未及纳入报导的事件瞬间。",
+        "body": [
+          "这一周，台北市长选战从造势场合延烧到警政与毒品政策的攻防；国际方面，法国高中生抗争扩大、印尼野火也已延烧近三个月。无需担心没时间跟上新闻——每逢东亚时间周一、周五，定时开启端周报，我们带你快速掌握近期的新闻关键时刻。每份周报当中，端传媒图片编辑为我们精选数张全球新闻摄影作品，捕捉未及纳入报导的事件瞬间。",
+          "今天的题图来自美联社社摄影记者Kin Cheung：2026年10月6日，英国伦敦泰特英国美术馆举办的「90年代：艺术与时尚展」媒体预览会上，一位参观者正在照镜子，这是塞里斯·温·埃文斯（Cerith Wyn Evans）的装置作品《反转反转反常》。本周速递要点｜Whatsnew Summary ☁国际焦点 印尼野火延烧近三月：原住民控告普拉博沃政府失职 印尼今年旱季野火已延烧逾两个月，其规模可能是11年来最严重的一次。截至10月9日，仍有至少11处火场未扑灭，面积约8万5千公顷；卫星平台Nusantara Atlas统计，1月至8月全国累计烧毁近90万公顷。林业部长预计火势将持续到11月雨季来临。",
+          "冲击遍及人民、生态与经济，上万人因呼吸道感染就医，也造成学校停课、航班延误。圣婴现象之外，印尼泥炭地长年遭排水开垦为棕榈油与造纸林，才使其极易起火。印尼环境团体Walhi调查发现，加里曼丹74%的火点位于企业特许经营范围内。9月中旬，「西加里曼丹之息」公民团体联盟在坤甸地方法院对总统普拉博沃等官员提起集体诉讼，要求加强监管特许业者。更多内容请点击标题入内阅读。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20201008-weekly/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/AP26279369710210.jpg"
+      },
+      "stats": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 15,
+        "groups": 13,
+        "maxGroupShare": 22,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×6",
+          "豆瓣×4",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Nvidia in talks to acquire US ‘open’ model start-up Reflection AI",
+        "lead": "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek",
+        "body": [
+          "Donald Trump’s administration hopes the company will rival cheap Chinese alternatives such as DeepSeek"
+        ],
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
+        "category": "tech",
+        "categoryLabel": "Technology",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe6d2b571-97a6-436c-8e37-d088b6f42e65.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Rebuking Ukraine Over Oil Strikes, Trump Says It Should ‘Get a New President’",
+        "lead": "Hours after President Trump said the United States would buy Russian diesel, the Kremlin said there would be no immediate resumption of discussions to end the",
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/10/10/world/europe/ukraine-russia-trump-diesel-talks.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/10/10/multimedia/10int-ukraine-talks-lvkq/10int-ukraine-talks-lvkq-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
+              "lead": "The strike on Saturday was the deadliest attack in a Gulf Arab country since the U.S.-Israeli war with Iran began in February, and forced the airport to temporarily suspend operations.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/10/multimedia/10int-saudi-airport-wgjl/10int-saudi-airport-wgjl-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
+              "lead": "Donald Trump evaluating whether US should join Saudi strikes against the Iran-backed Yemeni rebels Yemen’s Houthis have launched a missile attack on Riyadh’s international airport in Saudi Arabia",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/fe53f23f7789989347c58c5f95c551cdd9cedc33/0_634_989_791/master/989.jpg?width=140&quality=85&auto=format&fit=max&s=cdd3fc0813d849c5f90d7940cd073309",
+              "consensus": 5
+            },
+            {
+              "title": "Abbas postpones Palestinian elections, sets presidential poll for September 2027",
+              "lead": "Palestinian President Mahmoud Abbas on Saturday postponed legislative elections due next month until September 11, ​2027, and called ‌a presidential poll for the same date",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/video/20261010-abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://s.france24.com/media/display/90bb82c0-b2a2-11f1-ac22-a1d0582895b1/w:1024/p:16x9/2026-09-17T020105Z-1030100538-RC2QRHA3TWBR-RTRMADP-3-ISRAEL-PALESTINIANS-USA-UN.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing",
+              "lead": "Trump suggests Volodymyr Zelenskyy should be replaced after Ukraine’s leader criticised diesel deal with Moscow",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F690fa825-dcc6-4e89-8510-fadf7238b893.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+              "lead": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c49/live/850032c0-c470-11f1-94f2-dbc7ff6db92b.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Trump says Ukraine should get a new president as he blames Zelenskyy for U.S. diesel prices",
+              "lead": "Ukrainian and European officials on Saturday reacted to Trump's Russian diesel deal with dismay, saying it will help pay for Putin's war efforts.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/10/trump-says-ukraine-should-get-a-new-president.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Trump says Russia to supply diesel to U.S. and global markets",
+              "lead": "Prices for diesel are near a record and have put Trump's fellow Republicans at risk ahead of the Nov. 3 congressional elections.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/news/2026/10/10/world/politics/trump-russia-diesel-us-global-markets/",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/10/567825.JPG",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "China unveils AI-powered robot designed to help farmers breed better strains of wheat",
+              "lead": "China has unveiled a smart robot prototype designed to assist with wheat breeding in the latest step in its ongoing drive to advance agricultural technology and bolster food security.",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/china/science/article/3370437/china-unveils-ai-powered-robot-designed-help-farmers-breed-better-strains-wheat?utm_source=rss_feed",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/10/c38094df-45a6-4113-88c6-85c0a01efba6_44d57125.jpg?itok=A3Wr3ZK3&v=1791623371",
+              "consensus": 5
+            },
+            {
+              "title": "Here are the top AI agents that can live in your text messages",
+              "lead": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Anthropic is cutting off its internal evaluations from the internet",
+              "lead": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Retired China Olympic champion diver sparks debate after reality show reveals toxic parenting",
+              "lead": "A former Chinese Olympic diving champion’s quest for independence has struck a chord online, after her mother’s controlling behaviour drew widespread criticism following their appearance on a reality TV show.",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/people-culture/china-personalities/article/3370440/retired-china-olympic-champion-diver-sparks-debate-after-reality-show-reveals-toxic-parenting?utm_source=rss_feed",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/10/8577e689-912e-42de-8f53-94d7bccf9c5e_cf3c5bed.jpg?itok=pJ2YCkGa&v=1791625349",
+              "consensus": 5
+            },
+            {
+              "title": "'It hurts a lot' - Carrick 'understands' Man Utd boos after draw",
+              "lead": "Manchester United head coach Michael Carrick says boos from the club's fans 'hurts a lot' but that he and his team 'must cope with it' after they conceded a late equaliser to draw 1-1 with Tottenham in the Premier League.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/cqlye9evnm7lo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fae8/live/000cdc70-c4df-11f1-a64c-550be9e3c66b.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Ipswich produce late fightback to stun winless Fulham",
+              "lead": "Two goals in three minutes sees Ipswich produce a late fightback to snatch a 2-1 victory against Fulham at Portman Road, with the away side still searching for their first Premier League win of the season.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/cw7v42y027gqo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dde0/live/a3d0ab10-c4cc-11f1-9a39-31b474234113.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "School Bullying Case Upends a Peaceable Father’s Life in Busan Asian Project Market Drama ‘The Family Table’",
+              "lead": "A mild-mannered father who has always kept the peace takes on the system after his young daughter is bullied at school in “The Family Table,” a Korean drama from director Lee Hanju.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/markets-festivals/school-bullying-drama-family-table-busan-asian-project-market-1236907836/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/The-Family-Table-concept-art.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Journalist Massacre Drama ‘Once Upon a Time in the Philippines’ Turns a Bystander Into an Accomplice at Busan Asian Project Market",
+              "lead": "A young woman pulled into the run-up to a political massacre slides from unwilling witness to accomplice in “Once Upon a Time in the Philippines",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/markets-festivals/journalist-massacre-drama-once-upon-a-time-in-the-philippines-busan-asian-project-market-1236907843/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/Once-Upon-a-Time-in-the-Philippines.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "MIT astronomers catch a star in a feast that could last billions of years",
+              "lead": "Astronomers have discovered a bizarre star system about 300 light-years from Earth where a small star is slowly devouring a nearby brown dwarf, an object too massive to be a planet but too small to be a true star.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261008005240.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists discover 5 hidden brain patterns behind depression",
+              "lead": "Depression may not be one biological condition, but several distinct patterns of brain activity hiding under the same diagnosis. Researchers studying 263 people with depression identified five brain profiles",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261008005251.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Loneliness may steal nearly 6 years of good health",
+              "lead": "A large study suggests loneliness and social isolation can cost people years of healthy life, especially when it comes to mental health. Men experiencing both lost about 5.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261006234514.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+          "lead": "Ukraine's leader had said the deal with Russia to release diesel into",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher",
+          "lead": "Experts said they believed that with modern testing technology",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html"
+        },
+        {
+          "title": "Nine people, including children, dead after mass shooting in Pennsylvania",
+          "lead": "Authorities say suspect among dead in house after standoff with",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/us-news/2026/oct/10/nine-people-mass-shooting-pennsylvania"
+        },
+        {
+          "title": "Missile strike on Riyadh airport kills 12 and injures hundreds",
+          "lead": "Deadly assault in Saudi Arabia comes days after multiple attacks by",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Yemeni government’s military says its forces advancing against Houthis",
+          "lead": "Saudi-backed forces say 1,150 Houthis killed in operations against",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss"
+        },
+        {
+          "title": "How a museum masterpiece’s life-size replica sparked rare US-China collaboration",
+          "lead": "For anyone who has visited the Chinese galleries at the Metropolitan",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/china/politics/article/3370434/how-museum-masterpieces-life-size-replica-sparked-rare-us-china-collaboration?utm_source=rss_feed"
+        },
+        {
+          "title": "🔴 Palestinian president Abbas postpones legislative elections, sets presidential poll for September 2027",
+          "lead": "",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/middle-east/20261010-palestinian-president-abbas-postpones-legislative-elections-to-september-2027"
+        },
+        {
+          "title": "U.S. DOJ Will Probe TV Networks Over President Trump’s Pool Coverage",
+          "lead": "The U.S. Department of Justice has told five of the nation’s biggest",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/tv/news/justice-department-investigation-tv-networks-trump-pool-1236907815/"
+        },
+        {
+          "title": "Attack on Riyadh airport killed 12 people and wounded more than 300, Saudi authorities say",
+          "lead": "The airport has been targeted multiple times in the week since a",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/10/the-airport-in-the-saudi-capital-has-been-attacked-again-officials.html"
+        },
+        {
+          "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+          "lead": "Is Apple hoping to get into the AI-generated podcast business?",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"
+        },
+        {
+          "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+          "lead": "In a lengthy post on X , Microsoft's CEO laid out his views on the",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
+        },
+        {
+          "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+          "lead": "Ukrainian drone strikes have knocked out two of five data centers",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
+        },
+        {
+          "title": "Scientists create a lightsaber-like laser antenna that transmits radio waves",
+          "lead": "Scientists have demonstrated a remarkable new antenna that resembles",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261008005239.htm"
+        },
+        {
+          "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
+          "lead": "The US president's said President Volodymyr Zelensky \"wants to make",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Police arrest leader of India’s ‘Cockroach’ movement as protesters take to streets",
+          "lead": "Abhijeet Dipke was escorted off a flight in New Delhi as authorities",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25a6b1a6=1"
+        },
+        {
+          "title": "‘The World of Love’ Producer Kim Sehun Backs Actor-Director Ryu Hyunkyung’s Dark Comedy ‘Dog Fight’ at Busan Asian Project Market",
+          "lead": "A woman who loses custody of the dog she and her ex-boyfriend brought",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/markets-festivals/world-of-love-producer-dog-fight-busan-asian-project-market-1236907823/"
+        }
+      ],
+      "supplement": {
+        "title": "‘The Pitt’ And ‘All Her Fault’ Among the Winners of Inaugural Easterseals Disability Arts & Culture Awards",
+        "lead": "The inaugural Easterseals Disability Arts & Culture Awards (The Darcys) crowned its first winners on Saturday, celebrating outstanding achievement in authentic disability representation across film, television and media.",
+        "body": [
+          "The inaugural Easterseals Disability Arts & Culture Awards (The Darcys) crowned its first winners on Saturday, celebrating outstanding achievement in authentic disability representation across film, television and media.",
+          "Among the winners were “The Pitt” for Best Scripted Series and Best Achievement in Casting Ensemble; “Horsegirls” for Best Feature; and Daniel Monks for Best Performance in […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/awards/awards/the-pitt-all-her-fault-darcys-winners-1236907770/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2025/09/TCDPITT_H7026.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "Variety×5",
+          "ScienceDaily×4",
+          "BBC×3",
+          "SCMP×3",
+          "FT×2",
+          "紐約時報×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-11T00:44:17.068Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 800,
+        "lang": 455,
+        "fresh": 341,
+        "denoised": 339,
+        "deduped": 314
+      },
+      "en": {
+        "fetched": 800,
+        "lang": 345,
+        "fresh": 303,
+        "denoised": 301,
+        "deduped": 297
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 15,
+        "groups": 13,
+        "maxGroupShare": 22,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×6",
+          "豆瓣×4",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "Variety×5",
+          "ScienceDaily×4",
+          "BBC×3",
+          "SCMP×3",
+          "FT×2",
+          "紐約時報×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

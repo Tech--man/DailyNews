@@ -1,0 +1,905 @@
+{
+  "issue": 28,
+  "date": "2026-10-12",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月初三 · 寒露",
+    "en": "3rd day of the 9th lunar month · Cold Dew"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "特朗普宣布俄乌进入“能源停火”，泽连斯基回应",
+        "lead": "中新网10月12日电 综合报道，美国总统特朗普11日在社交媒体发文称，即刻起，俄乌冲突进入“能源停火”状态。特朗普称，俄乌双方对此均已同意。他警告“切勿破坏”这一停火承诺。",
+        "body": [
+          "中新网10月12日电 综合报道，美国总统特朗普11日在社交媒体发文称，即刻起，俄乌冲突进入“能源停火”状态。",
+          "特朗普称，俄乌双方对此均已同意。",
+          "他警告“切勿破坏”这一停火承诺。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-12/10711169.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "中欧就混动汽车贸易达成谅解，避免经贸摩擦升级",
+        "lead": "混动汽车一直是中欧贸易关系中最具争议的问题之一。欧盟官员表示，中国可能在未来四年内将出口欧盟的混动汽车数量削减一半，双方未提及征收关税的问题。 Kyodo, via Reuters Connect 欧盟委员会贸易和经济安全委员马罗什·谢夫乔维奇在北京出席记者会。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/business/20261012/china-european-union-trade/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "特朗普宣布：新任白宫新闻秘书13日举行首次新闻发布会",
+              "lead": "中新网10月12日电 综合报道，美国总统特朗普当地时间11日在社交媒体平台“真实社交”上表示，他很高兴地宣布，凯蒂·扎卡里亚将于12日正式出任白宫新闻秘书，并于13日上午9时30分在白宫新闻简报室举行首次新闻发布会。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-12/10711180.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "美国停止公开处决已近一个世纪，如今为何重启？",
+              "lead": "五角大厦表示，胡德堡枪击案枪手纳达尔·马里克·哈桑（Nidal Malik Hasan）的处决将进行直播，但专家认为，官员可能误判了美国民意。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6lyk8d5d7ygo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ca0b/live/df708420-c48a-11f1-a915-a1cdb09cbaf6.jpg"
+            },
+            {
+              "title": "中共中央、国务院印发《关于发展新质生产力的意见》",
+              "lead": "为加快发展新质生产力，10月9日，中共中央、国务院印发《关于发展新质生产力的意见》（以下简称《意见》）。 《意见》围绕5方面创新，提出19项重点举措。一是大力推进科技创新。二是推动科技创新和产业创新深度融合。三是着力推进发展方式创新。四是扎实推进体制机制创新。五是深化人才工作机制创新。 推动技术革命性突破 2023年9月，习近平总书记在黑龙江考察调研时首次提出新质生产力。此后，新质生产力被正式写入中央文件。",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://xianhuo.eastmoney.com/news/1638,202610113892114517.html",
+              "category": "top",
+              "categoryLabel": "要闻"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "四川成都至西藏拉萨图定班列在蓉首发",
+              "lead": "中新网成都10月11日电 (记者 刘忠俊 王鹏)10月11日下午，满载进藏物资的X8704/3次列车驶出成都北编组站，四川成都至西藏拉萨图定班列正式开行，进藏物资运输再添一条物流通道。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-11/10711094.shtml",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "特朗普强推“俄乌能源停火”，泽连斯基起初称“不知情”但随后表态“支持”",
+              "lead": "特朗普单方面宣布俄乌\"能源停火\"，莫斯科迄今未予确认，基辅则从\"不知情\"迅速转向\"支持\"，这场由华盛顿主导的停火外交折射出美国中期选举前夕的能源政治压力。 据新华社报道，美国总统特朗普11日在社交媒体发文称，\"即刻起，俄乌冲突进入'能源停火'状态，双方均已同意。\"然而，乌克兰总统泽连斯基当天起初对此毫不知情，据央视新闻报道，泽连斯基表示，这一宣布对他而言是个\"意外\"，他此前并未获悉相关安排。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3783390",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "四川成都至西藏拉萨图定货运班列首发，全程约68小时",
+              "lead": "昨天（10月11日），四川成都至西藏拉萨的图定货运班列正式开行。这趟首发班列共编组25车，货物总重量超过500吨，货物品类涵盖木材、粮食、化工品、金属制品等十余类。班列途经宝成、兰渝、青藏等多条铁路干线，全程运行时长约68小时。纳入四季度列车运行图后，四川、西藏两地间有了固定车次和开行时间，进藏物资运输更稳定。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15177846.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "Steam同时在线人数首破4350万 但高峰时实际游戏玩家约1446万",
+              "lead": "Steam于10月11日刷新同时在线人数纪录。SteamDB数据显示，当天14时（UTC），Steam在线用户峰值达到43505724人，较此前纪录再上一个台阶。Valve自己的Steam统计页面也确认同日出现约43501449人的峰值；两套实时统计相差约4275人，但都显示平台峰值约为4350万。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/game/1581680.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "NASA 公开阿尔忒弥斯 2 号逾 800GB 月球科学数据，苹果 iPhone 拍摄的影像仍在整理中",
+              "lead": "IT之家 10 月 12 日消息，NASA 当地时间 10 月 7 日宣布，已将阿尔忒弥斯 2 号载人绕月任务收集的逾 800GB 月球科学资料上传至行星数据系统（PDS），向全球科研人员和公众开放。 据 NASA 官方公告，这批资料包含超过 1.1 万张全分辨率月球照片和视频、约 8.5 小时的宇航员科学观察录音，以及宇航员在图像上留下的手写标注，其中部分影像此前尚未公开。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/011/738.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI",
+              "lead": "我们跟库克聊了聊 iPhone Duo 曝苹果与 ADT 合作，为家居中枢提供安装服务 蔚来广东换电站达到 500 座，六城同步新增第五代站 SpaceXAI 改为 SpaceXSI，官方账号换上「超级智能」名称 继 QClaw 之后，腾讯元器宣布 11 月 9 日停服 苹果 COO 探访郑州工厂，披露 iPhone Duo 屏幕与芯片制造工艺 中汽协倡议摒弃「重形式、轻安全」的非理性创新 纳德拉：给 AI 配上「紧急刹车」",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1683302?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "波黑前部长会议主席：中国以长远眼光谋划未来",
+              "lead": "中新社北京10月11日电 (吴昕妮)波黑前部长会议主席兹拉特科·拉古姆季亚(Zlatko Lagumdzija)11日在北京表示，当前，外界普遍关注中国的发展奇迹。但最让他印象深刻的是，在快速变化的世界中，中国所展现出的长期主义思维。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-11/10711155.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "缅甸年轻人的恐惧：走在街头，随时被「抓壮丁」卖给军方",
+              "lead": "陷入困境的军政府正与各民族武装组织及平民抵抗力量展开一场消耗战。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c63el43dw8pko/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6204/live/aaaf6ea0-c21d-11f1-b7d8-6f930589c871.jpg"
+            },
+            {
+              "title": "卢拉呼吁选民积极参与总统选举，强调重视青年群体",
+              "lead": "巴西现任总统、劳工党候选人卢拉10月11日呼吁选民积极参与总统选举投票。他强调重视青年群体诉求，并承诺若成功连任将推动“技术革命”。卢拉当天在圣保罗举行的竞选集会上表示，总统选举首轮投票中，有大量符合投票资格的选民未参加投票。他呼吁其支持者动员身边选民，争取更多人参与第二轮投票。据巴西高等选举法院统计，此次选举首轮投票弃权率高达21.08%。卢拉还在讲话中承认，其竞选阵营与青年群体之间存在一定脱节，强调应倾听年轻人的声音、重视其诉求。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15177791.html",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "台北选战掀美沙冬争议 香港逾半世纪戒毒经验有何启示？",
+              "lead": "美沙冬戒毒治疗成为台北地方选举议题，讨论热烈，香港早于半世纪前已开展门诊计划，BBC中文梳理其发展历史，剖析社会迷思。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6n8dx52dgj5o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/593d/live/b97b50e0-c4b4-11f1-9a39-31b474234113.jpg"
+            },
+            {
+              "title": "种族歧视风波爆发时，与Lisa共处一室是什么感受？",
+              "lead": "纪录片导演苏·金谈到，她如何以前所未有的近距离接触K-pop偶像Lisa，见证其最坦率真实的一面。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cw30empz9qyvo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1ce5/live/85c0dd40-c308-11f1-8f04-85217d686658.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "「影子AI工作者」的秘密：AI提升效率，人类掩盖痕迹",
+              "lead": "在北京一家公司的工位上，漫画家小简对着电脑，熟练地按下切换窗口的快捷键。屏幕中过去一周和Gemini探讨的选题方向和文字脚本瞬间消失，取而代之的是某画图软件里自己的漫画草稿。 和AI的聊天记录刚刚关闭，另一个部门的同事走到身旁，询问小简有没有空开一个临时的选题策划会。小简焦虑地挠了挠头，「实在没时间，这周的漫画还没画完呢。」同事表示理解，安慰了两句后转身离开。 同事不知道的是，那份通常周五才会交付的画稿，小简早在周二就已经借助AI完成。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261012-mainland-story-of-shadow-ai-worker/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GettyImages-2182861104-2.jpg"
+            },
+            {
+              "title": "清华大学美术学院敦煌艺术研究及设计成果中国香港特展启幕",
+              "lead": "中新网北京10月11日电 “敦耀光华——清华大学美术学院敦煌艺术研究及设计成果中国香港特展”日前在香港理工大学正式启幕。该展览以敦煌艺术为纽带，系统呈现了一条由庞薰琹、常沙娜等前辈大家开启，当代师生接续，历经数十年设计转译探索而形成的学术链条。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-11/10711055.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "陕西三人篮球联赛总决赛激战正酣 青少年选手竞逐赛场",
+              "lead": "中新网西安10月11日电 (记者 党田野 张一辰)陕西省第三届三人篮球联赛总决赛11日在西安展开第二个比赛日较量，当日赛事聚焦青少年组别，赛场成为青少年选手的竞技舞台。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-11/10711095.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "中超第27轮：蓉城遭绝杀暂缓夺冠 海牛提前降级",
+              "lead": "中新社北京10月11日电 (刘梦青)2026赛季中超联赛第27轮比赛11日全部战罢。积分榜榜首成都蓉城此役0:1遭天津津门虎补时绝杀，位列次席的大连英博4:0完胜青岛西海岸。在联赛仅剩3轮的情况下，两队分差保持在9分，联赛争冠悬念继续。青岛海牛本轮0:3不敌北京国安，成为本赛季首支降级球队。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-11/10711154.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "产业新、薪资优、政策暖 湖南携6100余岗位赴沪揽才",
+              "lead": "中新网上海10月11日电 (记者 许婧)“智汇潇湘才聚湖南”2026年上海站专场招聘推介大会11日在上海交通大学闵行校区举办。湖南携138家用人单位赴沪揽才，现场推出6139个岗位，以优质岗位、优厚薪酬与全周期人才服务，向在沪高校青年递出赴湘就业创业的邀约。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/10-11/10711099.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "伊朗称美国已接受伊方所提部分条件，伊朗外长称“愿为政治解决也门冲突提供一切帮助”",
+          "lead": "伊朗称美国已接受伊方所提部分条件 新华社德黑兰10月11日消息，伊朗最高国家安全委员会秘书穆赫辛·雷扎伊11日表示",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783388"
+        },
+        {
+          "title": "晶泰科技：开源化学反应产率定量AI模型",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15177842.html"
+        },
+        {
+          "title": "泽连斯基谴责美俄柴油交易，特朗普称「乌克兰该换总统了」",
+          "lead": "乌克兰领导人曾表示，与俄罗斯达成向美国输送柴油的协议将有助于莫斯科为战争筹集资金。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/ck0j0g16e8j8o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "严惩“黑飞”幕后推手：网警侦破非法破解无人机案，深圳一男子牟利 2 万余元获刑八个月",
+          "lead": "IT之家 10 月 12 日消息，据广东深圳网警通报，公安机关网安部门近期侦破一起非法破解无人机飞行控制系统案",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/011/733.htm"
+        },
+        {
+          "title": "NASA公开阿尔忒弥斯2号逾800GB月球科学资料 含1.1万余张影像和8.5小时录音",
+          "lead": "NASA已将阿尔忒弥斯2号任务收集的逾800GB月球科学数据上传至行星数据系统，供科学界和公众进一步研究。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/science/1581660.htm"
+        },
+        {
+          "title": "英国水果蔬菜营养价值下降最高五成",
+          "lead": "Deep Science Ventures 研究人员的一项研究发现，英国水果和蔬菜的营养价值自 1960 年代以来减少最高五成。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85580"
+        },
+        {
+          "title": "[分享创造] [开源]: 让 GitHub notifications 保持清爽",
+          "lead": "我的 Github notifications 几乎每天都会有近 100 条通知，每天处理起来都很麻烦。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1247936#reply0"
+        },
+        {
+          "title": "万亿市值巨头回应美国337调查：对目前的生产、经营及业绩不造成实质性影响",
+          "lead": "又一家A股上市公司回应美国337调查。 10月11日晚间， 工业富联 发布公告称，美国国际贸易委员会（简称“ITC”）就美国 Vicor",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1354,202610113892105187.html"
+        },
+        {
+          "title": "派早报：工信部等就进一步加强汽车产品创新设计管理征求意见",
+          "lead": "工信部等就进一步加强汽车产品创新设计管理征求意见 三季度全球 PC 出货量骤降 法国判决 Cloudflare 无须通过 DNS 屏蔽盗版",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "少數派",
+          "link": "https://sspai.com/post/115845"
+        },
+        {
+          "title": "《鬼怪屋》：日本邪典电影的持久魅力 (评论: 鬼怪屋)",
+          "lead": "大梨 评论: 鬼怪屋 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17852628/"
+        },
+        {
+          "title": "Jefferies警告“2008时刻”：AI或致美国“资本大毁灭”，份额流向中国开源模型",
+          "lead": "AI行业的债务风险正在引发华尔街资深策略师的密集警告。杰富瑞（Jefferies）全球股票策略主管",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783393"
+        },
+        {
+          "title": "华泰证券A股策略：继续沿盈利与景气寻找性价比方向",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15177787.html"
+        },
+        {
+          "title": "BBC报道印尼校长涉嫌性侵学生后 该校长被警方拘捕",
+          "lead": "前学生自行展开调查，多年来持续搜集证据，以及其他表示曾遭校长侵害者的证词。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cm0rlz8jvje5o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "解构“神女牺牲”形象：从崇高祭品到意识形态工具 (评论: 企鹅公路)",
+          "lead": "大米 评论: 企鹅公路 评价: 还行",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17852656/"
+        },
+        {
+          "title": "什么是「微笑抑郁」？如何察觉征兆？",
+          "lead": "如果你表面上看起来很快乐，内心却饱受煎熬，你可能患有非典型抑郁症。然而，隐藏真实感受可能对心理健康造成伤害。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c53981jp28e0o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "有多少人还记得《古惑仔》系列电影里的陈浩南？ (评论: 古惑仔3之只手遮天)",
+          "lead": "灰灰木 评论: 古惑仔3之只手遮天 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17852003/"
+        }
+      ],
+      "supplement": {
+        "title": "夜场日记：一场游戏一场梦",
+        "lead": "2004年，在线小游戏网站「4399」上线。那时我在读小学，放学后或周末，我偶尔会获准用父母的电脑，在这个网站上玩一会。和许多女孩子一样，装扮小游戏是我最常玩的类别之一。 这类游戏往往遵循着相似的剧情：你收到心仪「男神」的约会邀请，现在要为自己搭配妆发和服饰。搭配好后点击「出发」，就会得到男神给你的评分。 装扮小游戏没有什么竞技性，气氛也不紧张，我常常把一个游戏反复玩很多遍，直到将衣柜里所有的衣服试个遍。",
+        "body": [
+          "2004年，在线小游戏网站「4399」上线。那时我在读小学，放学后或周末，我偶尔会获准用父母的电脑，在这个网站上玩一会。和许多女孩子一样，装扮小游戏是我最常玩的类别之一。",
+          "这类游戏往往遵循着相似的剧情：你收到心仪「男神」的约会邀请，现在要为自己搭配妆发和服饰。搭配好后点击「出发」，就会得到男神给你的评分。装扮小游戏没有什么竞技性，气氛也不紧张，我常常把一个游戏反复玩很多遍，直到将衣柜里所有的衣服试个遍。",
+          "不为男神的评分，只为获得从现实衣柜里得不到的体验感。那时候我还不知道，在20年后，我会在长达四个月的时间里，每天遵循着这样的步骤，开启我一整天的通关之旅。只不过，第一个为我们打分的人往往不是男神，而是作为领导的「大姐」。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261011-mainland-a-nightlife-worker-diary-chapter-two/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GettyImages-1241661967-1.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "BBC×4",
+          "華爾街見聞×3",
+          "BBC中文×3",
+          "豆瓣×3",
+          "東方財富×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’",
+        "lead": "Ukrainian president earlier rejected US call for Kyiv to stop bombing oil refineries, saying Moscow must first end attacks on energy infrastructure Donald",
+        "body": [
+          "Ukrainian president earlier rejected US call for Kyiv to stop bombing oil refineries, saying Moscow must first end attacks on energy infrastructure Donald Trump has announced an energy ceasefire between Ukraine and Russia, apparently without consulting Volodymyr Zelenskyy, who said the deal to stop long-range attacks was “news to me”. In a social media post, the US president claimed the two sides had reached an agreement.",
+          "“Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine. Both parties have agreed.",
+          "Do not break it!” he wrote on Truth Social. Continue reading..."
+        ],
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/31624713e69c27b900599e53c338c0a9581c96c6/0_0_2650_2120/master/2650.jpg?width=140&quality=85&auto=format&fit=max&s=13d2924e17bc1992a66c5fe1affdbce8",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+        "lead": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16d8/live/4817e400-c58a-11f1-bc2e-018d645d8d21.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Imran Khan’s party decries ‘coup’ after Pakistan suspends provincial government",
+              "lead": "Suspension of provincial government escalates standoff with Khan’s PTI party a week after his supporters began marching to demand his release Pakistan has declared a state of emergency in a province ⁠led by Imran",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/oct/12/imran-khans-party-decries-coup-after-pakistan-suspends-provincial-government",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/e44f8748a29ac902c09b9c4c1e719ff94e7fac64/0_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=f313db81f4d83360ecf236b0b52b8223",
+              "consensus": 5
+            },
+            {
+              "title": "Saudi and Yemeni Airports Hit in New Round of Strikes",
+              "lead": "At least one person was killed in the Saudi capital, Riyadh, kingdom authorities said. The Houthis said Saudi aircraft hit the Yemeni capital’s airport.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-yemen-airports-houthis.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/11/world/middleeast/Saudi_Arabia_Energy_Forum_1995_/Saudi_Arabia_Energy_Forum_1995_-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Zelenskyy welcomes US-announced energy ceasefire",
+              "lead": "President Zelenskyy has responded to Donald Trump’s announcement that Russia and Ukraine agreed to an energy ceasefire",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Trump faces growing backlash over plans to import diesel from Russia",
+              "lead": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c44f/live/e68c78a0-c5c9-11f1-9042-5f0794d5e895.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Trump faces Republican opposition to his diesel deal with Russia’s Putin",
+              "lead": "Lawmakers from both parties say the agreement would finance Putin’s war machine in Ukraine and violate US law",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa703ee27-d3ee-4490-be62-86216e2bb4ab.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Trump declares 'energy ceasefire' between Russia and Ukraine; Zelenskyy is waiting for details",
+              "lead": "Ukrainian President Volodymyr Zelenskyy said he is waiting on details from Washington.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/11/trump-energy-ceasefire-russia-ukraine-zelenskyy.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
+              "lead": "The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
+              "lead": "This Battlefield 200 startup has developed blood-purification tech to save children",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Review: 4-hour Musk documentary feels like two different films",
+              "lead": "Elon Musk is a very familiar figure to Ars readers, given his massive influence (for better and worse) on the technology sector over the last 20 years.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/musk3-1152x648-1791058712.jpg"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Man City's statement win has feeling of irrelevance with season in limbo",
+              "lead": "Manchester City record what they will view as a statement win at Liverpool - but is it a statement that carries any weight during a Premier League season in limbo, asks Phil McNulty?",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8204/live/a6de9a60-c5a8-11f1-9f28-03371a5c8220.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "'Big star' - How Doku delivered for Man City in win against Liverpool",
+              "lead": "Speaking on Match of the Day, Wayne Rooney and Toby Alderweireld analyse how Jeremy Doku changed the game in Manchester City's favour, after coming on as a substitute in his side's 3-0 win against Liverpool at Anfield.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/c8g47knxqvgdo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af25/live/b56c8a40-c5c3-11f1-a64c-550be9e3c66b.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "History made as Zheng becomes first Chinese woman to win China Open",
+              "lead": "Zheng Qinwen makes history in Beijing as she beats Mirra Andreeva in straight sets to win the China Open, becoming the first Chinese woman to win the tournament.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/tennis/videos/cje36023xr42o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b8/live/e7da37b0-c5b0-11f1-9a39-31b474234113.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Andrew Garfield Reacts to Oscar Buzz as ‘Artificial’ Gets Resounding London Reception: ‘So Flattered That Anyone Is Going to See This Film in the First Place’",
+              "lead": "“Artificial” isn’t hitting theaters until December, but Andrew Garfield is already sparking Oscar buzz for his performance as OpenAI CEO Sam Altman.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/festivals/andrew-garfield-reacts-artificial-oscar-buzz-london-premiere-1236907596/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/andrew-garfield.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Sylvia Chang Backs Malaysian Grief Drama ‘One Fine Day,’ About a Family Undone by Their Daughter’s Murder, at Busan Asian Project Market",
+              "lead": "A family torn apart by the unsolved murder of their young daughter tries to keep living day to day in “One Fine Day,” a Malaysian drama from director Tan Seng Kiat with Asian film icon Sylvia Chang aboard as executive",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/markets-festivals/sylvia-chang-one-fine-day-busan-asian-project-market-1236908599/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/One-Fine-Day-team.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "The eye has a hidden cleanup system scientists never knew existed",
+              "lead": "Scientists have discovered a hidden cleanup system at the back of the eye that drains fluid and waste through a previously unknown pathway.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261008005254.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists build a nuclear clock that could make atomic clocks obsolete",
+              "lead": "Scientists in Vienna have achieved a major breakthrough in timekeeping by creating the world’s first self-stabilizing nuclear clock, a technology that could eventually surpass even the most precise atomic clocks.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Loneliness may steal nearly 6 years of good health",
+              "lead": "A large study suggests loneliness and social isolation can cost people years of healthy life, especially when it comes to mental health. Men experiencing both lost about 5.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261006234514.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Greens prepare for fight with Labor over social media algorithm reform, with ‘pervert glasses’ in its sights",
+          "lead": "Minor party plans to drive a bargain in exchange for support for",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/12/greens-sarah-hanson-young-big-tech-digital-duty-of-care-labor"
+        },
+        {
+          "title": "Watch: What's behind Trump's energy ceasefire claim?",
+          "lead": "The US president made the announcement in a social media post",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Pope Leo Will Have Surgery to Remove Growth on Lung",
+          "lead": "A recent medical examination found a small nodule, he announced",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/11/world/europe/pope-leo-lung-surgery.html"
+        },
+        {
+          "title": "US hits commercial tanker in Gulf of Oman as tensions flare",
+          "lead": "Ship tried to break through American naval blockade of Iranian ports",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Saudi health minister visits survivors of deadly Riyadh airport attack",
+          "lead": "Saudi Arabia’s health minister Fahad Aljalajel has paid a visit to",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss"
+        },
+        {
+          "title": "Trump's energy ceasefire announcement was 'news for me' (Zelensky)",
+          "lead": "Ukrainian President Volodymyr Zelensky told the Axios digital news",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/video/20261011-trump-s-energy-ceasefire-announcement-was-news-for-me-zelensky"
+        },
+        {
+          "title": "Reza Rahadian Turns His Grandmother’s Decades in Exile Into Busan Asian Project Market Drama ‘Casparina’",
+          "lead": "A journalist stripped of her Indonesian citizenship in 1965 comes",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/markets-festivals/reza-rahadians-exile-drama-casparina-busan-asian-project-market-1236908582/"
+        },
+        {
+          "title": "Trump, Rubio consider firing US envoy to Greece after mounting reports of improper conduct",
+          "lead": "US President Donald Trump and Secretary of State Marco Rubio are",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3370518/trump-rubio-consider-firing-us-envoy-greece-after-mounting-reports-improper-conduct?utm_source=rss_feed"
+        },
+        {
+          "title": "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
+          "lead": "U.S. military involvement in the fight against the Houthis would",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html"
+        },
+        {
+          "title": "Vurt wants you to look at vertical videos as a genre of their own",
+          "lead": "From Disney Plus to HBO Max , almost every major established",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey"
+        },
+        {
+          "title": "Scientists created a tiny device that can control your nerves to treat chronic pain",
+          "lead": "Scientists have developed a tiny, injectable device that can control",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261008005253.htm"
+        },
+        {
+          "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+          "lead": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
+        },
+        {
+          "title": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
+          "lead": "We got our first look at Prime Video's new sci-fi series Blade Runner",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/"
+        },
+        {
+          "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+          "lead": "The Saudi capital has been hit by multiple attacks from the",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "US threatens to block arms for Ukraine over attacks on Russian refineries",
+          "lead": "Officials lobby European capitals and Kyiv following Trump’s diesel",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/68fd8c4f-6f34-4f6e-a52c-76f635164031?syn-25a6b1a6=1"
+        },
+        {
+          "title": "‘The Sea Speaks His Name’ Review: Absorbing Indonesian Political Thriller Is an Ode to Disappeared Activists",
+          "lead": "In an age where some call themselves activists merely through social",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/reviews/the-sea-speaks-his-name-review-1236908499/"
+        }
+      ],
+      "supplement": {
+        "title": "Polygamy, Ghosts and Grief Collide in ‘Marlina’ Director Mouly Surya’s Busan Asian Project Market Drama ‘The Wife Who Can See Dead People (Or Jinn)’",
+        "lead": "A young bride who sees ghosts joins a polygamous Muslim household and forms a bond with one of her husband’s other wives in “The Wife Who Can See Dead People (Or Jinn)",
+        "body": [
+          "A young bride who sees ghosts joins a polygamous Muslim household and forms a bond with one of her husband’s other wives in “The Wife Who Can See Dead People (Or Jinn),” the new project from Indonesian director Mouly Surya (“Marlina the Murderer in Four Acts”).",
+          "The project is part of the Asian Project Market, […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/markets-festivals/mouly-surya-polygamy-ghost-drama-busan-asian-project-market-1236908594/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/The-Wife-Who-Can-See-Dead-People-Or-Jinn.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×5",
+          "ScienceDaily×4",
+          "Guardian×2",
+          "Al Jazeera×2",
+          "The Verge×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-12T01:05:28.562Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 801,
+        "lang": 455,
+        "fresh": 328,
+        "denoised": 327,
+        "deduped": 310
+      },
+      "en": {
+        "fetched": 801,
+        "lang": 346,
+        "fresh": 289,
+        "denoised": 286,
+        "deduped": 278
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "BBC×4",
+          "華爾街見聞×3",
+          "BBC中文×3",
+          "豆瓣×3",
+          "東方財富×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×5",
+          "ScienceDaily×4",
+          "Guardian×2",
+          "Al Jazeera×2",
+          "The Verge×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

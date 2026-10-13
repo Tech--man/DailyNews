@@ -1,0 +1,890 @@
+{
+  "issue": 29,
+  "date": "2026-10-13",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月初四 · 寒露",
+    "en": "4th day of the 9th lunar month · Cold Dew"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "为人民币汇率发声 央行首次系统阐明政策立场",
+        "lead": "10月8日，《中国人民银行关于人民币汇率的政策立场》(以下简称《立场》)发布，强调中国实施以市场供求为基础、参考一篮子货币进行调节、有管理的浮动汇率制度，坚持让市场在汇率形成中发挥决定性作用。这是央行首次系统阐明人民币汇率的政策立场。",
+        "body": [
+          "10月8日，《中国人民银行关于人民币汇率的政策立场》(以下简称《立场》)发布，强调中国实施以市场供求为基础、参考一篮子货币进行调节、有管理的浮动汇率制度，坚持让市场在汇率形成中发挥决定性作用。",
+          "这是央行首次系统阐明人民币汇率的政策立场。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-13/10713581.shtml",
+        "category": "top",
+        "categoryLabel": "要闻"
+      },
+      "secondary": {
+        "title": "欧洲为何对中国电动汽车爱恨交加",
+        "lead": "在欧洲各国，消费者越来越希望购买价格低廉的中国电动汽车。但政策制定者正试图阻止这股潮流，以缓解欧洲汽车制造商的困境，保护产业免受不公平竞争的影响。 Owen Richards for The New York Times 位于英国利兹的一家比亚迪展厅。在欧洲售出的汽车中，大约每10辆就有一辆是中国汽车。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/business/20261013/europe-china-evs-hybrids/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "第十六届中国航展将于12月7日至13日举办 展览规模再创新高",
+              "lead": "10月13日，第十六届中国国际航空航天博览会新闻发布会在北京举行，集中介绍本届航展筹备进展和参展亮点。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gn/2026/10-13/10713562.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "“草木皆兵”：一个更富裕强大的中国在害怕什么？",
+              "lead": "过去40年，中国经历了卓越的经济转型。但它也比以往任何时候更缺乏安全感。它的安全体系如今规模更大、侵入性更强，有能力对几乎所有人实施全天候监控。 今年1月，时报记者安德鲁·希金斯乘车经过天安门广场。1989年6月，他曾亲历军队对抗议腐败、不平等和通货膨胀的民众展开武力镇压的现场。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/china/20261012/china-essay-higgins-surveillance/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "美国停止公开处决已近一个世纪，如今为何重启？",
+              "lead": "五角大厦表示，胡德堡枪击案枪手纳达尔·马里克·哈桑（Nidal Malik Hasan）的处决将进行直播，但专家认为，官员可能误判了美国民意。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6lyk8d5d7ygo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ca0b/live/df708420-c48a-11f1-a915-a1cdb09cbaf6.jpg"
+            },
+            {
+              "title": "2026金融街论坛年会将于10月19日在京开幕 年会期间将集中发布系列金融改革发展政策",
+              "lead": "10月12日，2026 金融街 论坛年会新闻发布会在京举行。记者从发布会上了解到，2026 金融街 论坛年会将于10月19日—10月22日举行，采取“主论坛+平行论坛+专题大会+配套活动”的框架结构，主论坛活动由人民 银行 、金融监管总局、证监会、新华社、外汇管理局承办，将围绕 人工智能 技术演进下的经济治理、金融创新与央行决策，建设一流投资机构服务资本市场高质量发展，构建高质量金融服务实体经济新生态",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://finance.eastmoney.com/news/1345,202610123892665082.html",
+              "category": "top",
+              "categoryLabel": "要闻"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "学者谈人工智能普惠发展：全球南方不能只做原材料供应者",
+              "lead": "中新网北京10月13日电 (韩禹 娜孜叶尔克)当前人工智能成为全球科技竞争与产业变革重要领域。如何让发展中国家共享技术进步的机遇，11日在中国人民大学主办的明德战略对话(2026)主论坛受到热议。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-13/10713525.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "AH股齐跌：A股双创指数均跌3%，算力硬件下挫，恒科指跌2%，权重科网股集体走低",
+              "lead": "华尔街见闻文章 写道，韩国假日后补跌、三星与SK海力士史上最大规模回购（约400亿美元）提前终止，叠加长鑫科技宣布4F²架构突破,在单元架构上或领先韩国巨头两年等三重冲击叠加，隔夜 美股存储芯片重挫 ，叠加周二亚太市场跟随下挫，韩国KOSPI指数跌5%，芯片巨头三星电子、SK海力士亦大跌，A股和港股的芯片、算力硬件股集体陷入调整。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3783494",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "千问将推出Personal Agent“千问Go！”",
+              "lead": "",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15182878.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "硬科技超跌筹码出清，资金正悄然回流：科创芯片设计ETF国联安(588780)获资金净流入，半导体ETF国联安(512480)连续4天累计净流入超13亿元",
+              "lead": "科创芯片设计ETF国联安(588780)近5日净流入6193.79万元，半导体ETF国联安(512480)连续4日净流入13.17亿元，双双获资金回流。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15183075.html",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "华为首次公布麒麟 9050 Pro 芯片详细架构图：在中国半导体业界支持下成功量产，未来属于开放合作",
+              "lead": "IT之家 10 月 13 日现场消息，华为今日（10 月 13 日）在上海练秋湖举办 2026 麒麟媒体沟通会，华为半导体业务无线终端芯片产品管理部部长徐松余发表演讲。 徐松余谈到了麒麟 9050 系列的一些性能规格， 并首次公布麒麟 9050 Pro 芯片详细架构图 （发布会上为简要版本）。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/012/196.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "全球智能手机出货量暴跌20% 创14年来第三季度新低",
+              "lead": "市场研究机构 Counterpoint Research 最新数据显示，2026年第三季度全球智能手机出货量同比下滑20%，降至自2012年以来同期最低水平。这一数字不仅创下近14年来第三季度最差表现，也反映出智能手机行业正面临近年来最严峻的市场压力。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1581822.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "英国召见伊朗驻英大使并制裁两名伊朗籍人士",
+              "lead": "中新社伦敦10月12日电 (记者 欧阳开宇)英国政府12日宣布，对两名伊朗籍人士实施制裁，并召见伊朗驻英国大使，称将采取措施应对伊朗方面对英国国家安全构成的威胁。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-13/10712363.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "美国研发新型太阳能电池板，或挑战中国垄断地位",
+              "lead": "美国太阳能板生产商表示，他们即将迎来一项可能颠覆整个行业的技术突破。这项被称为叠层太阳能的新技术能将更多太阳辐射转化为电能，可能威胁到中国在该行业的垄断地位。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261013/tandem-solar-panels-us-china/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "广州开发电玩游戏「唤醒」威尔士民间传说潜力",
+              "lead": "开发商广州深蓝互动表示，威尔斯神话与该游戏的主题产生了强烈共鸣。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cm20wlw680w9o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5ecd/live/eb27c000-c537-11f1-ac4a-69347c2a2c21.jpg"
+            },
+            {
+              "title": "一家中国小银行如何帮助俄罗斯规避制裁进入华尔街",
+              "lead": "浙江稠州商业银行通过代理行业务为俄罗斯的幌子公司提供金融服务，帮助莫斯科规避西方制裁。这家银行还为被西方认定为洗钱或制裁规避高风险的多国银行提供代理行服务。 Costfoto/NurPhoto, via Getty Images 中国的地区性银行浙江稠州商业银行在吉尔吉斯斯坦、蒙古、哈萨克斯坦和乌兹别克斯坦拥有大量业务，这些国家与俄罗斯有密切的经济联系。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261012/correspondent-banking-russia-sanctions-evasion/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "中国工厂，海外游客新目的地",
+              "lead": "不少高科技企业把实验室变成体验馆、把生产线打造成观光线——",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-13/10713517.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "专访作家珍妮·艾彭碧：东德崩解后的失语，如何书写消失的国度",
+              "lead": "笔者按：出生于东德的小说家珍妮·艾彭碧（Jenny Erpenbeck）是近年欧洲最受人注目的作家之一。她的小说《Kairos》（台译《此时此刻》，简体版译《凯罗斯》）摘下了2024年的国际布克奖（International Booker Prize），成为该奖项历史上首部折桂的德语小说。这份殊荣由她与曾重译卡夫卡的资深译者兼诗人 Michael Hofmann 共同分享。今年9月，艾彭碧展开了她的亚洲之行，并将最后一站定在香港。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261013-culture-jenny-erpenbeck-kairos-profile/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/TUNG0173-2.jpg"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "CBA新赛季常规赛恢复46轮 执行升降级制度",
+              "lead": "中新网北京10月13日电(记者 国璇) 2026-2027赛季中国男子篮球职业联赛(以下简称“CBA联赛”)新闻发布会12日在北京举行，新赛季联赛常规赛将恢复为46轮，首轮比赛将于10月16日开启，且将执行升降级制度。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-13/10713538.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "广西壮族自治区第一届“千里杯”青少年校园足球联赛开幕",
+              "lead": "中新网南宁10月12日电 (黄令妍)10月11日，广西壮族自治区第一届“千里杯”青少年校园足球联赛在广西民族大学思源湖校区开幕，并举行揭幕战。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-12/10712273.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "涉及CR450系列化产品、12306升级 未来五年铁路出行将有这些新变化",
+              "lead": "CR450动车组系列化产品，要来了！",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/10-13/10713547.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "伊朗与乌克兰 哪场战争对柴油价格影响最大？",
+          "lead": "两场冲突都导致柴油出口减少，但数据显示，中东地区减少的供应量更多。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c9p8gv3dnjmgo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "财报季乐观预期与中东风险交织，美股指涨跌互现，存储芯片股重挫，油价走高，黄金下跌",
+          "lead": "市场正权衡企业财报季的乐观预期与中东局势升级的风险。周一美股涨跌不一，在极度清淡的成交量下小幅震荡，芯片股跌势主导市场走向",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783408"
+        },
+        {
+          "title": "微软推出 Maia 300 自研 AI 芯片，明年拟部署超百万颗以降低算力成本",
+          "lead": "IT之家 10 月 13 日消息， 微软于当地时间周一发布了新一代自研 AI 芯片 ，并计划在明年部署超百万颗该芯片",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/012/191.htm"
+        },
+        {
+          "title": "创业板算力ETF鹏华(158057)交投活跃，国产算力链各环节持续兑现，AI基建长期主线未改",
+          "lead": "光通信板块逆市活跃，消息面上，联讯仪器公告，预计2026年前三季度归属于上市公司股东的净利润为19.00亿元-21.00亿元",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15183065.html"
+        },
+        {
+          "title": "鼠疫疑云超一周，俄罗斯仍未作出官方解释",
+          "lead": "距离俄罗斯一名鼠疫研究人员因不明原因的肺炎去世已超过一周，该国当局仍未公开确认导致她死亡的病原体。这引发了人们对俄罗斯政府是否有所隐瞒的怀疑。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/world/20261012/russia-plague/?utm_source=RSS"
+        },
+        {
+          "title": "微软发布第三代自研AI芯片Maia 300 每兆瓦算力效率提升40%",
+          "lead": "微软正式公布第三代自研人工智能芯片Maia 300，计划从2027年开始将其部署到生产环境",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1581808.htm"
+        },
+        {
+          "title": "早报｜对话库克：Apple Watch要做「个人守护者」/华为折叠屏出货量突破2000万台/DeepSeek拟入局具身智能",
+          "lead": "库克谈 Apple Watch 未来：帮助用户掌握健康信息 马斯克回应「中国版马斯克」：想邀请他同台跳舞 博通 CEO",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1683909?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "美国畜牧业采用石化行业相同的策略淡化气候暖化",
+          "lead": "早在 1970 年代，面对石化产品在全球暖化中的作用，美国石化行业制定了一系列策略，旨在推迟气候行动以维护自身经济利益。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85588"
+        },
+        {
+          "title": "[生活] 收藏夹考古：重温两年前的楼市讨论",
+          "lead": "原帖: https://www.v2ex.com/t/1076673 ,不建议回复了.都太久了 可以看到两年前 v",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1248288#reply4"
+        },
+        {
+          "title": "补看周末：胡塞武装连袭沙特机场至少13死",
+          "lead": "今天是星期一，10月12日，欢迎来端周报。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261012-weekly/"
+        },
+        {
+          "title": "2015 Nicole Brenez (评论: 让-吕克·戈达尔对瑞士电影学院荣誉的致谢)",
+          "lead": "吴洛斌 评论: 让-吕克·戈达尔对瑞士电影学院荣誉的致谢 评价:",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17853945/"
+        },
+        {
+          "title": "胡塞武装空袭对华重要窗口利雅德机场 中东冲突又一危险时刻",
+          "lead": "胡塞武装加强了对沙特阿拉伯领土的攻击，尽管实体损害能够迅速修复，但其稳定声誉正遭受重创。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cqy0rd16x33lo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "首发｜升级个人AI助理，千问将推出Personal Agent「千问Go！」",
+          "lead": "硬AI独家获悉， 千问Personal Agent「千问Go！」即将发布 。 在用户分享的体验视频中，它进入机票预订平台查找延误航班",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783466"
+        },
+        {
+          "title": "何立峰会见美中关系全国委员会负责人",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15183000.html"
+        },
+        {
+          "title": "中欧就混动汽车贸易达成谅解，避免经贸摩擦升级",
+          "lead": "混动汽车一直是中欧贸易关系中最具争议的问题之一。欧盟官员表示，中国可能在未来四年内将出口欧盟的混动汽车数量削减一半，双方未提及征收关税的问题。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/business/20261012/china-european-union-trade/?utm_source=RSS"
+        },
+        {
+          "title": "北京首次主动限出口：中欧插混车谅解换喘息，欧盟仍在磨刀｜Whatsnew",
+          "lead": "中欧在北京结束第二轮贸易投资磋商，就插电式混合动力汽车（插混车，PHEV）对欧出口达成谅解，暂时避免恶性关税战。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261012-whatsnew-china-europe-trade-balance/"
+        }
+      ],
+      "supplement": {
+        "title": "【华尔街日报】为何中国不愿被划归为发达国家",
+        "lead": "编按：《华尔街日报》是全球最具影响力的财经媒体之一，每日产出大量深度报导，涵盖国际政治、商业财经与科技趋势。在「WSJ守护精选」栏目中，端传媒编辑每周二、四从中挑选涉及中国、科技、中美关系等华文读者最关心议题的报导。此栏目为守护会员专属。 按照世界银行(World Bank)的划分标准，中国正处于迈入高收入国家行列的边缘。但中国政府并不希望与全球富裕国家归为一类。",
+        "body": [
+          "编按：《华尔街日报》是全球最具影响力的财经媒体之一，每日产出大量深度报导，涵盖国际政治、商业财经与科技趋势。在「WSJ守护精选」栏目中，端传媒编辑每周二、四从中挑选涉及中国、科技、中美关系等华文读者最关心议题的报导。",
+          "此栏目为守护会员专属。按照世界银行(World Bank)的划分标准，中国正处于迈入高收入国家行列的边缘。但中国政府并不希望与全球富裕国家归为一类。",
+          "在美中两国争夺全球影响力的背景下， 中国政府一直将自身塑造成拉丁美洲、非洲和亚洲等地「全球南方」国家的领头羊 。中国也从目前在国际组织中的「发展中国家」地位中受益，包括不必向一些应对气候变化的全球基金出资。据一份官方通稿，中国领导人习近平在2024年联合国一场活动的影片致辞中表示，中国始终是「全球南方」的一员，永远属于发展中国家。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261013-wsj-why-china-doesnt-want-to-join-the-ranks-of-the-worlds-developed-countries/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/RC2YAEADYZLO.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "端傳媒×4",
+          "華爾街見聞×3",
+          "BBC×2",
+          "界面×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+        "lead": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+        "body": [
+          "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says."
+        ],
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbda/live/375348b0-c659-11f1-8600-efb62b613ab5.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "NATO Details Plan to Shield Ukraine’s European Allies From Russia",
+        "lead": "With the Russians intensifying sabotage, arson and cyberattacks against European nations supporting Ukraine, NATO divulged a blueprint, in case of war",
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12int-nato-russia-bqpw/12int-nato-russia-bqpw-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "In Canada’s Arctic, a New Generation of Inuit Creatives Are Using Identity to Fuel Their Art",
+              "lead": "In Iqaluit, the only city in Canada’s Arctic, a new generation of Inuit writers and artists is turning questions of language, land and identity into books, films and even tattoos.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/11/world/canada/inuit-inuk-indigenous-people-identity-iqaluit.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/08/24/multimedia/00int-canada-iqaluit-promo/00int-canada-iqaluit-ktbq-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "IMF warns global economy ‘could soon test the limits of resilience’",
+              "lead": "World Economic Outlook says states’ oil stocks are low and budgets are overstretched, as it upgrades UK GDP growth forecast for 2026 Developing nations face triple shock",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/ebc2fbfb05a20eb6eda10742da9aad5434fc5293/400_0_4209_3368/master/4209.jpg?width=140&quality=85&auto=format&fit=max&s=bf11b7352c42f0d10d91375b1280c7f7",
+              "consensus": 4
+            },
+            {
+              "title": "Most Americans oppose betting on elections and government events, poll finds",
+              "lead": "Some policymakers worry prediction markets could undermine faith in the integrity of U.S. democracy.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/news/2026/10/13/world/politics/americans-oppose-betting-elections/",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/13/568029.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Fridges in French supermarkets hit by cyber attack",
+              "lead": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
+              "source": "BBC News",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfaf/live/a3ced500-c63a-11f1-b99d-0127a94fa1d0.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Houthi assault on Saudi airports strikes at MBS’s economic vision",
+              "lead": "Deadly bombardment of Riyadh’s international airport threatens crown prince’s plans to turn kingdom into finance and events hub",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/bc7302fa-f8e4-43da-aad5-0abbfefca4f8?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe94dae8d-08a9-4384-ac97-4dbe45e88ae3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack",
+              "lead": "Major French supermarket chains on Monday said they were hit by a cyberattack that caused their refrigerators to shoot up in temperature in hundreds of stores",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/french-supermarkets-suffer-refrigerator-shutdown-after-unprecedented-cyberattack",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://s.france24.com/media/display/91c2240a-c682-11f1-b3c0-3774aeac812a/w:1024/p:16x9/EN-20261012-231249-231450-CS.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+              "lead": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Russia was not ready for the data center war it started with Ukraine",
+              "lead": "When Russia began attacking Ukrainian data centers and telecommunication infrastructure, it apparently failed to prepare for possible retaliation.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Kremlin-with-barbed-wire-1152x648.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
+              "lead": "So much for doing less political spending. | Image: Cath Virginia / The Verge, Getty Images Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Women's billion-dollar boom leaves players behind, says Fifpro",
+              "lead": "Women's football is on course to become a billion-dollar industry, but many professional players are still earning low wages, working on insecure contracts and experiencing rising psychological stress",
+              "source": "BBC News",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/779a/live/b7058b10-c616-11f1-bc2e-018d645d8d21.jpg"
+            },
+            {
+              "title": "Brewers edge Dodgers 2-1 in National League Championship Series opener",
+              "lead": "One year after they were unceremoniously swept by the Dodgers in the NLCS, the Brewers thrilled fans in Milwaukee.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/sports/2026/10/12/baseball/brewers-dodgers-nlcs/",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/12/568010.JPG"
+            },
+            {
+              "title": "Burnham had formal meeting with Man City chair while mayor",
+              "lead": "Prime Minister Andy Burnham had a formal meeting with Manchester City chairman Khaldoon Al Mubarak while mayor of Greater Manchester, according to the Greater Manchester Combined Authority.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7513/live/9668f200-c57d-11f1-80f2-5bd1e5df7ada.jpg",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "The Muppets Turn 50 This Year but They Nearly Didn’t Get Made at All: ‘It Was a Real Study in Perseverance’",
+              "lead": "Since their series debut in 1976, Kermit the Frog, Miss Piggy and the rest of the Muppets have attained an iconic status in pop culture",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/global/disney-muppets-anniversay-jim-henson-1236909540/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/01/179233_0281_0260_r_fbbbc70b.jpeg",
+              "consensus": 5
+            },
+            {
+              "title": "Bryan Cranston Mourns ‘Breaking Bad’ Son RJ Mitte: ‘I’ll Miss You, Son’",
+              "lead": "Bryan Cranston shared a tribute to RJ Mitte, who played his son Walter White Jr. in “Breaking Bad,” following the news of his death at age 34. “I’m in deep despair as I write this tonight.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/news/bryan-cranston-mourns-breaking-bad-son-rj-mitte-1236909463/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-452012513.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "NASA captures a stunning transformation in Australia's red outback",
+              "lead": "Australia's normally dry, rust-colored outback has erupted into a spectacular carpet of wildflowers after unusually heavy rains, potentially producing its most impressive bloom in nearly 20 years.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261008102710.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 2
+            },
+            {
+              "title": "Scientists find hidden driver of aging and a simple amino acid that fights memory loss in mice",
+              "lead": "Scientists discovered that declining levels of a protein called Menin may help drive aging, and restoring it in older mice reversed several age-related changes in just 30 days.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261009025708.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+          "lead": "It comes after the armed group hit Riyadh's international airport and",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump Gives Putin a Hand in Russia’s Economic War With Ukraine",
+          "lead": "President Trump is moving to buy Russian diesel while also pressuring",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html"
+        },
+        {
+          "title": "One dead and more injured after incident on Six Flags rollercoaster in US",
+          "lead": "Six Flags Over Georgia ‘deeply saddened’ by tragedy",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/us-news/2026/oct/13/six-flags-georgia-death-rollercoaster"
+        },
+        {
+          "title": "Musk injects $275mn into Republicans’ fight to retain Congress",
+          "lead": "Trillionaire Tesla chief has become party’s biggest donor ahead of",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/3e2a900f-e5a9-4aed-b773-ed6175460f7c?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Six Flags shares plunge after-hours following report of deadly roller coaster incident",
+          "lead": "Six Flags shares plunged more than 10% in after-hours trading Monday",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html"
+        },
+        {
+          "title": "Hackers heat French supermarket fridges, sparking fires and spoiling food",
+          "lead": "The temperatures of refrigerators and freezers at hundreds of grocery",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/business/2026/10/13/french-supermarket-cyberattack/"
+        },
+        {
+          "title": "Nato’s top commander says alliance does not want war but is ‘ready to fight tonight’",
+          "lead": "Nato’s top military commander said the alliance is “ready to fight",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/russia-central-asia/article/3370653/natos-top-commander-says-alliance-does-not-want-war-ready-fight-tonight?utm_source=rss_feed"
+        },
+        {
+          "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
+          "lead": "Simon caps a Pacific season of record-breaking intensity",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss"
+        },
+        {
+          "title": "Selma Blair Charged with Second-Degree Assault Following Plane Incident, Released on $20,000 Bail",
+          "lead": "Selma Blair has been charged with second-degree assault after being",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/news/selma-blair-second-degree-assault-plane-released-on-bail-1236909649/"
+        },
+        {
+          "title": "Microsoft president says UK is best placed to drive AI regulation",
+          "lead": "Microsoft president Brad Smith calls for urgent AI regulation",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
+        },
+        {
+          "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+          "lead": "Epic Games is shifting to an \"AI first\" development strategy for its",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/"
+        },
+        {
+          "title": "The Social Reckoning is flopping at the box office",
+          "lead": "As important as some of the messages in The Social Reckoning are",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy"
+        },
+        {
+          "title": "Scientists discover a hidden factor that can make or break chemical reactions",
+          "lead": "Researchers discovered a hidden factor that can determine whether",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261008005244.htm"
+        },
+        {
+          "title": "Pupil arrested after two teachers shot at French school",
+          "lead": "A 14-year-old was detained after the middle-school principal and",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Top economies heading for biggest budget deficits since Covid, IMF warns",
+          "lead": "At its annual meeting, the fund calls for ‘urgent’ action to rebuild",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/c877685b-0f4a-4aa8-b52b-33f4babd1acb?syn-25a6b1a6=1"
+        },
+        {
+          "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+          "lead": "Singapore is a bastion of safety amid global turmoil",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html"
+        }
+      ],
+      "supplement": {
+        "title": "‘Breaking Bad’ Star RJ Mitte’s Cause of Death Confirmed as Suicide",
+        "lead": "RJ Mitte died by suicide, his rep has confirmed. Mitte died Monday at 34. He was best known for his role in the Vince Gilligan-created drama “Breaking Bad,” in which he played Walter White Jr.",
+        "body": [
+          "RJ Mitte died by suicide, his rep has confirmed.",
+          "Mitte died Monday at 34.",
+          "He was best known for his role in the Vince Gilligan-created drama “Breaking Bad,” in which he played Walter White Jr., the son of Walter White (Bryan Cranston) and Holly White (Anna Gunn). Like his “Breaking Bad” character Walt Jr., Mitte […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/tv/news/rj-mitte-cause-of-death-suicide-1236909541/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/RJ-Mitte.png",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 35,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "Japan Times×3",
+          "ScienceDaily×3",
+          "紐約時報×2",
+          "TechCrunch×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-13T02:54:43.393Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 798,
+        "lang": 455,
+        "fresh": 355,
+        "denoised": 355,
+        "deduped": 344
+      },
+      "en": {
+        "fetched": 798,
+        "lang": 343,
+        "fresh": 314,
+        "denoised": 311,
+        "deduped": 303
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "端傳媒×4",
+          "華爾街見聞×3",
+          "BBC×2",
+          "界面×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 35,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "Japan Times×3",
+          "ScienceDaily×3",
+          "紐約時報×2",
+          "TechCrunch×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

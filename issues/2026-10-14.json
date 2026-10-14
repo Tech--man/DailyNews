@@ -1,0 +1,920 @@
+{
+  "issue": 30,
+  "date": "2026-10-14",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月初五 · 寒露",
+    "en": "5th day of the 9th lunar month · Cold Dew"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "报告称英格兰足球联赛体系面临严峻财务风险",
+        "lead": "中新社伦敦10月13日电 (记者 欧阳开宇)英国独立足球监管机构13日发布最新行业报告警示，英格兰足球联赛体系整体面临严峻财务风险，行业财务结构脆弱，绝大多数俱乐部长期亏损运营、生存高度依赖股东持续注资。",
+        "body": [
+          "中新社伦敦10月13日电 (记者 欧阳开宇)英国独立足球监管机构13日发布最新行业报告警示，英格兰足球联赛体系整体面临严峻财务风险，行业财务结构脆弱，绝大多数俱乐部长期亏损运营、生存高度依赖股东持续注资。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714119.shtml",
+        "category": "top",
+        "categoryLabel": "要闻"
+      },
+      "secondary": {
+        "title": "「黑珍珠」玛丽亚：表演中国川剧的塞拉利昂女子",
+        "lead": "玛丽亚梦想成为一名歌手和表演者。多年后，她前往中国参加一场选美比赛，并在火车上获一名陌生人意外伸出援手后，最终在那里建立了自己的生活。",
+        "source": "BBC中文",
+        "group": "BBC",
+        "link": "https://www.bbc.com/zhongwen/articles/cmg47k6z44w7o/trad?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "categoryLabel": "国际",
+        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9d2/live/68ff7e10-c64a-11f1-bc2e-018d645d8d21.jpg"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "苹果公司发布搭载人工智能语音助手的家居新品",
+              "lead": "中新社纽约10月13日电 (记者 王帆)美国苹果公司13日在纽约举办“欢迎回家”主题产品体验会，发布搭载人工智能语音助手的HomeView家居中枢等新品，进一步拓展智能家居产品布局。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-14/10714120.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "人类身高的起伏变化：哪些历史事件影响最大？",
+              "lead": "如今我们的身高比100年前高了大约10厘米，但这并非一帆风顺。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cwly388njx3go/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9fd/live/eee46610-c3c7-11f1-bc2e-018d645d8d21.png"
+            },
+            {
+              "title": "欧洲为何对中国电动汽车爱恨交加",
+              "lead": "在欧洲各国，消费者越来越希望购买价格低廉的中国电动汽车。但政策制定者正试图阻止这股潮流，以缓解欧洲汽车制造商的困境，保护产业免受不公平竞争的影响。 Owen Richards for The New York Times 位于英国利兹的一家比亚迪展厅。在欧洲售出的汽车中，大约每10辆就有一辆是中国汽车。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261013/europe-china-evs-hybrids/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "法国超市的冰箱受到网路攻击 东西热坏了",
+              "lead": "一夜之间，数百家商店成为黑客攻击的目标，导致价值数百万欧元的生鲜和冷冻食品变质。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cwly013m3dg7o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cfaf/live/a3ced500-c63a-11f1-b99d-0127a94fa1d0.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "韩国KOSPI指数收跌超5% 两大半导体股延续跌势",
+              "lead": "中新社首尔10月14日电 (记者 金旭)韩国综合股价指数(KOSPI)13日收盘跌幅逾5%，创下自2026年8月19日以来单日最大跌幅。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-13/10714095.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "财报季开局银行股分化，美股指收跌，存储股续跌打压科技股，苹果盘中市值突破5万亿",
+              "lead": "美股周二在多重压力下收盘分化，科技股持续落后于大盘，AI板块信贷成本上升的隐忧正从债券市场蔓延至权益市场。与此同时，中东局势升温推动油价反弹，叠加美联储官员立场分歧，令市场在明日CPI数据公布前夜保持高度警惕。 纽约联储主席John Williams表示，他仍认为今年再加息一次是合适的，但目前没有理由相信2027年之前需要进一步收紧政策。受美联储三把手讲话推动，长端美债收益率回落，同时年内12月加息概率升至本轮周期高点约90%。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3783492",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "2025年欧盟进口纯电动汽车逾四成来自中国",
+              "lead": "中新社布鲁塞尔10月13日电 (记者 德永健)欧盟统计局13日公布的数据显示，2025年欧盟纯电动汽车进口总值150亿欧元，逾四成进口纯电动汽车来自中国。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-13/10714093.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "FBI逮捕OpenAI工程师 涉嫌在高管会议室安装隐藏录音设备 试图窃听机密谈话",
+              "lead": "美国联邦调查局（FBI）近日逮捕了一名曾在OpenAI工作的工程师。美国联邦检察官指控，这名员工涉嫌在OpenAI位于旧金山的办公室内秘密安装录音设备，试图窃听公司高管会议室中的谈话。调查人员认为，相关会议可能涉及公司的高度机密技术、商业战略和人工智能研发计划。OpenAI发现可疑设备后，利用自身的人工智能模型协助分析设备及追查来源，并向FBI报告了事件。目前，该员工已被解雇，并因涉嫌非法截取他人谈话而受到刑事指控。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1582042.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "黄仁勋又出手了，英伟达拟再砸 20 亿美元加码欧洲 AI",
+              "lead": "IT之家 10 月 14 日消息，据彭博社报道，英伟达 CEO 黄仁勋在欧洲访问期间宣布，公司计划 追加 20 亿美元 （IT之家注：现汇率约合 134.1 亿元人民币） 投资 。此次欧洲之行还包括与法国总统埃马纽埃尔 · 马克龙会晤。 当地时间 13 日，黄仁勋透露，英伟达过去一年在欧洲投资 80 亿美元 （现汇率约合 536.4 亿元人民币） ，此次将在此基础上继续增加投资。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/012/651.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "气候暖化速度过去十五年加倍",
+              "lead": "《巴黎协定》对全球气温上升幅度设定了一个比工业化前水平高 1.5°C 的阈值。现有气候模型预测这一阈值会在 2030 年代突破。但根据《npj Climate and Atmospheric Science》期刊上发表的一项研究，突破时间可能比预期的更快。对截至 2025 年的气温记录的分析显示，2011-2025 年间的全球变暖速率达到了每 10 年上升 0.40°C",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85602",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "美中央司令部：霍尔木兹海峡由美军及地区伙伴掌控",
+              "lead": "当地时间10月13日，美军中央司令部在社交平台上发文回应伊朗伊斯兰革命卫队有关霍尔木兹海峡的表态。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714101.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "中共中央纪委：薄熙来前搭档黄奇帆接受调查",
+              "lead": "黄奇帆担任重庆市长期间，上级薄熙来与同僚王立军系列丑闻爆发。离任后，他仍以经济学家身分周游演说。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c63r584g9xwpo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0c99/live/5d77d1d0-c70a-11f1-bc2e-018d645d8d21.jpg"
+            },
+            {
+              "title": "为何大学校园强奸案反复重演？",
+              "lead": "康奈尔大学性侵案不仅凸显了美国有毒的兄弟会文化，也是全人类最具普遍性的事件之一。它揭示了一种全球模式：男性免责、沉默和制度失灵如何助长了性暴力。 Lauren Petracca for The New York Times 康奈尔大学Chi Phi兄弟会所。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261013/cornell-assault-frat-israel/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "“草木皆兵”：一个更富裕强大的中国在害怕什么？",
+              "lead": "过去40年，中国经历了卓越的经济转型。但它也比以往任何时候更缺乏安全感。它的安全体系如今规模更大、侵入性更强，有能力对几乎所有人实施全天候监控。 今年1月，时报记者安德鲁·希金斯乘车经过天安门广场。1989年6月，他曾亲历军队对抗议腐败、不平等和通货膨胀的民众展开武力镇压的现场。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/china/20261012/china-essay-higgins-surveillance/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "俄乌陷入经济战，特朗普助普京一臂之力",
+              "lead": "为了在中期选举前压低柴油价格，特朗普正着手购买俄罗斯柴油。他还向乌克兰施压，要求基辅停止对俄炼油厂的袭击。在至关重要的经济较量中，特朗普站到了俄罗斯一边。 Reuters 上个月，莫斯科一家炼油厂发生火灾，浓烟升腾。据当局称，此次火灾是由乌克兰无人机袭击引发的。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261013/russia-diesel-trump/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "恭王府博物馆推出“溥心畬艺术交游”系列研究展首展 呈现“南张北溥”画坛缩影",
+              "lead": "中新网北京10月13日电 (记者 应妮)正在恭王府博物馆展出的“溥心畬张大千会面百年特展”，被誉为今年下半年北京最值得看的近现代书画展之一。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-13/10713867.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "北理工教师裴轶事件：被冒犯的新世代，和清零式举报网络",
+              "lead": "她用一个旧世界的比喻，闯入了已经被二次元话语反包围的现实空间。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261014-mainland-pei-yi-sacked/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/4-2.jpg"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "2026年全国中南区射击锦标赛（步手枪项目）在广州收官",
+              "lead": "中新网广州10月13日电 (记者 张璐)记者13日从广东省黄村体育训练中心获悉，2026年全国中南区射击锦标赛(步手枪项目)(简称“赛事”)13日在广东省黄村体育训练中心收官。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-13/10714067.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "陕西省三人篮球联赛总决赛西安收官",
+              "lead": "中新网西安10月13日电 (记者 党田野 张一辰)陕西省第三届三人篮球联赛总决赛12日晚在西安落下帷幕，这场为期三日的大众篮球盛会圆满收官。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-13/10713665.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "美联储三把手威廉姆斯：今年或再加息一次，目前认为2027年没有必要加息",
+          "lead": "美联储“三把手”、纽约联储主席威廉姆斯最新表态指出，尽管AI基建狂潮和能源冲击在短期内构成了新的通胀变量，但美国经济并未全面过热",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783560"
+        },
+        {
+          "title": "中期选举前夕油价降不下，特朗普难题加剧",
+          "lead": "随著选举日的临近，总统将目光转向海外，寻求协助解决国内紧迫的问题。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cxzd63n7e631o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "全球首富的崛起之路：马斯克纪录片讲了些什么",
+          "lead": "纪录片由奥斯卡获奖导演吉布尼执导，片长近四个小时，内容从马斯克在南非充满暴力的童年到今年SpaceX首次公开募股。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/culture/20261013/what-to-know-about-the-new-elon-musk-documentary/?utm_source=RSS"
+        },
+        {
+          "title": "英伟达拟在欧洲追加20亿美元投资 黄仁勋呼吁加快AI布局",
+          "lead": "英伟达首席执行官黄仁勋周二在巴黎的一场活动上表示，公司计划在未来一周宣布在欧洲投资20亿美元。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1582032.htm"
+        },
+        {
+          "title": "一名 OpenAI 工程师被捕：涉嫌秘密录制高管会议，最高面临 5 年监禁",
+          "lead": "IT之家 10 月 14 日消息，美国司法部昨日（10 月 13 日）发布公告， 称 OpenAI",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/012/653.htm"
+        },
+        {
+          "title": "数说科技：承诺不与民抢水，台积电却悄悄拿掉 60% 再生水目标",
+          "lead": "编按：「 数说科技 」是端传媒的注册免费栏目，每周三更新。从一个数字出发，用1500字解析科技话题，追踪值得关注的 AI 趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261014-tech-in-numbers-tsmc-missing-recycled-water-target/"
+        },
+        {
+          "title": "早报｜苹果发布十多款「果家」新品/Gemini 4来了，写代码更省心/3999元，阶跃智能体手机发布",
+          "lead": "苹果发布 HomeView 家庭中枢，同步更新 Apple TV 与 HomePod mini 国行 Apple Watch",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1684137?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "WHO 称俄罗斯实验室工作人员的死因仍然未知",
+          "lead": "WHO 发布报告称，俄罗斯西伯利亚伊尔库茨克州一所鼠疫防治研究中心的实验室工作人员本月因肺炎死亡，病因仍未查明，当地未报告鼠疫病例。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85596"
+        },
+        {
+          "title": "[分享发现] 做了个开源的纯本地的 AI 图表工具， CSV 不上传，浏览器里跑 Gemma",
+          "lead": "昨晚做了个小工具 Plotkeep 去参加 Hacktoberfest Open-Source AI Challenge",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1248561#reply0"
+        },
+        {
+          "title": "一部让人半梦半醒的电影 (评论: 上海女儿)",
+          "lead": "Rebecca 评论: 上海女儿 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17854332/"
+        },
+        {
+          "title": "微软新增逾1300亿美元数据中心租约，计划将算力扩大逾两倍",
+          "lead": "微软计划将数据中心容量扩大逾两倍，此举有望帮助该公司缓解算力短缺问题。 根据微软周三提交的监管文件",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783573"
+        },
+        {
+          "title": "华为尊界V800事件：一场煞车测试如何演变成中国舆论风暴",
+          "lead": "近期，中国知名车媒懂车帝发布对尊界V800的实测影片，显示多辆测试车在紧急制动过程中出现制动踏板支架断裂，事件迅速引发舆论关注。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c862yzkgzwero/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "美国研发新型太阳能电池板，或挑战中国垄断地位",
+          "lead": "美国太阳能板生产商表示，他们即将迎来一项可能颠覆整个行业的技术突破。这项被称为叠层太阳能的新技术能将更多太阳辐射转化为电能",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/business/20261013/tandem-solar-panels-us-china/?utm_source=RSS"
+        },
+        {
+          "title": "专访作家珍妮·艾彭碧：东德崩解后的失语，如何书写消失的国度",
+          "lead": "笔者按：出生于东德的小说家珍妮·艾彭碧（Jenny Erpenbeck）是近年欧洲最受人注目的作家之一。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261013-culture-jenny-erpenbeck-kairos-profile/"
+        },
+        {
+          "title": "新番有点让人失望 (评论: 凡人修仙传 年番4)",
+          "lead": "午夜守门人 评论: 凡人修仙传 年番4 评价: 较差",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17854671/"
+        },
+        {
+          "title": "不予兜底！高盛、摩根大通拒绝承销11%高息AI芯片贷，AI融资风险谁来接？",
+          "lead": "华尔街对AI融资的态度正在出现微妙变化：银行仍愿意参与交易、赚取费用，但开始更谨慎地承担风险。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783551"
+        }
+      ],
+      "supplement": {
+        "title": "暧昧的蔡康永，与粗暴解读下的政治现实",
+        "lead": "在康熙来了还没在中国大陆传开之前，蔡康永是一个相对小众的符号。人们对他的认知是，他来自于一个相当有名望的家庭，在成长阶段时不时展露出对自己出身和阶层的叛逆，他写过剧本，做过杂志，是一位非常出色的节目主持，《那些男孩教我的事》成为小众经典。 后来随著网络突破地域疆界，《康熙来了》成为两岸的次文化图腾，他顺势北上参与了多个深具影响力的节目，尤其以「奇葩说」入屋，写出数本畅销书，蔡康永成了深谙说话与为人处事的人生导师。",
+        "body": [
+          "在康熙来了还没在中国大陆传开之前，蔡康永是一个相对小众的符号。人们对他的认知是，他来自于一个相当有名望的家庭，在成长阶段时不时展露出对自己出身和阶层的叛逆，他写过剧本，做过杂志，是一位非常出色的节目主持，《那些男孩教我的事》成为小众经典。后来随著网络突破地域疆界，《康熙来了》成为两岸的次文化图腾，他顺势北上参与了多个深具影响力的节目，尤其以「奇葩说」入屋，写出数本畅销书，蔡康永成了深谙说话与为人处事的人生导师。",
+          "在2026年10月以前，无论在哪个阶段认识蔡康永，恐怕都知道他是一个几乎从不表露政治立场与态度的人，关于时事，他几乎都是以关切年轻世代和小众群体的态度，珍惜台湾多元价值，但发表也不带任何尖锐杀伤的言论，即便是2014年台湾反服贸占领立法院直到退场，他发表的多数言论都很婉转，比如「谁动用了黑箱，谁就戴上了魔戒」，在运动退场之后，他发表「识时务者为俊杰」的贴文：「你能够比众人先感知到累积的程度，认知到自己的座标，而且又有行动力的话，你就可能在对的时间、做出对的事，然后成为那群大众或小众的代表，领取好的结果。或者，你起码可以早一点逃开，避免领取那坏的结果。这就是～识时务者为俊杰」（摘录自蔡脸书）。",
+          "蔡康永为何出现在沈伯洋造势现场？中国网友抵制、品牌切割始末 10月4日下午，台北市长民进党候选人沈伯洋的竞选总部成立，现场声势浩大。然而，两岸三地都拥有高知名度的知名主持人蔡康永，也被直播画面捕捉到坐在前排，迅速引发热议；微博网民痛批蔡康永「与顽固台独份子沈伯洋站在一起」，不该再到中国赚钱。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261013-taiwan-interpreting-kevin-tsai/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GettyImages-878925414-copy.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 13,
+        "maxGroupShare": 21,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×4",
+          "紐約時報×4",
+          "華爾街見聞×4",
+          "端傳媒×4",
+          "cnBeta×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row",
+        "lead": "Asked about apparent U.S. threats to cut off intelligence sharing with Kyiv, which can warn of Russian aerial attacks",
+        "body": [
+          "Asked about apparent U.S.",
+          "threats to cut off intelligence sharing with Kyiv, which can warn of Russian aerial attacks, President Trump said information continued to flow."
+        ],
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13int-ukraine-intelligence-01-jfzh/13int-ukraine-intelligence-01-jfzh-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Far-right and Iran add to mix of terror threats UK faces – not to mention AI",
+        "lead": "Annual update from MI5 chief highlighted a complex cocktail that could have real-life consequences for Britain MI5’s annual threat update covers so much ground",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/uk-news/2026/oct/13/far-right-iran-terror-threat-uk-mi5-annual-update",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/93b81d8c3d65301bfbedc46071034ae6fa65aa2b/247_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=15d88a02485ccadd4165178fb1476400",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia",
+              "lead": "The attack came after the Yemeni militia warned it would attack the headquarters of Aramco. The Saudi-led coalition said it was targeting Houthi capabilities.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13int-saudi-yemensub-photo-plbk/13int-saudi-yemensub-photo-plbk-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Australian politics live: Hanson dismisses ‘shamed and stoned’ remark; PM and king of Jordan shake hands on defence and security",
+              "lead": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Australia missing out on $45bn of revenue from resources: Greens As Labor prepares to introduce its bill for a gas reserve",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/89abba2191f407c67386c069bd00bb78e6d3900a/0_0_5583_4469/master/5583.jpg?width=140&quality=85&auto=format&fit=max&s=3fdbb1ce9f61ad105b176affa5bf6bba",
+              "consensus": 5
+            },
+            {
+              "title": "Trump threatens CEOs as tactic against allies, Canada’s ex-finance minister says",
+              "lead": "In a new memoir, Chrystia Freeland writes that that the Trump administration \"is swaggeringly, rudely aggressive, even behind closed doors.\"",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/news/2026/10/14/world/politics/donald-trump-threatens-ceos-foreign/",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/14/568233.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Saudi Aramco HQ attacked in suspected Houthi strike",
+              "lead": "Iran-backed militants retaliate after Riyadh-led coalition targets sites in Yemen’s capital",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5a0dedb9-1fac-4a31-b359-e2d2bd81e76f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Fridges in French supermarkets hit by cyber attack",
+              "lead": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfaf/live/a3ced500-c63a-11f1-b99d-0127a94fa1d0.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
+              "lead": "Anthropic will release updated financials to a group of investors gathering at its headquarters this week, according to people familiar with the matter.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Bank earnings takeaways: Here's how JPMorgan, Goldman, Wells Fargo and Citi performed in Q3",
+              "lead": "JPMorgan, Wells Fargo, Goldman Sachs and Citigroup reported third-quarter earnings on Tuesday, with mixed results.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html",
+              "category": "business",
+              "categoryLabel": "Business"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+              "lead": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "The feds are looking into reports of Tesla’s robotaxis speeding through school zones",
+              "lead": "The National Highway Traffic Safety Administration says it's evaluating allegations that Tesla's 1,000 or so robotaxis using its automated driving system are exceeding \"posted speed limits in active school zones.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Trump commercial railing against his enemies kept airing after court blocked it",
+              "lead": "Trump commercials paid for by the US government continued airing on TV the day after a judge blocked the ads because they likely violate a US law against government-funded publicity or propaganda.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/trump-final-battle-ad-1152x648-1790710215.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Man City vs PSG: Champions League – teams, predictions, line ups",
+              "lead": "Man City host PSG in their first UCL match since being found guilty of serious Premier League financial breaches.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams?traffic_source=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "consensus": 5
+            },
+            {
+              "title": "McArdle 'really encouraged' despite Portugal loss",
+              "lead": "Northern Ireland manager Michael McArdle says their play-off defeat by Portugal is \"the start of a new identity\" despite their heavy 7-1 aggregate loss.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cmglwxd0d25xo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0501/live/80b5add0-c74f-11f1-b4d5-87f9c6c95a29.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "South Korea soccer players’ boasts spark rethink of military service exemptions",
+              "lead": "Athletes have previously spoken cautiously about the exemptions, long a sensitive subject in a country where most young men are required to serve.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/news/2026/10/13/asia-pacific/society/south-korea-military-exemption-rethink/",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/13/568103.jpg"
+            },
+            {
+              "title": "Republic of Ireland to 'lock in' for World Cup dream",
+              "lead": "Republic of Ireland captain Katie McCabe is already focused on the final World Cup play-off with Poland after a big win over Kazakhstan.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c8x235vx1d49o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1f1/live/fcd38030-c74b-11f1-b4d5-87f9c6c95a29.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "‘Tommy & Tuppence’ Stars Josh Dylan and Antonia Thomas on That ‘Intense’ Finale, Why the Detective Duo ‘Keep Missing Each Other’ Romantically and a Potential Season 2",
+              "lead": "SPOILER ALERT: This story contains spoilers for Episode 6 of “Tommy & Tuppence,” now streaming on BritBox. The finale of “Tommy & Tuppence” finds the Agatha Christie detective duo, played by Josh Dylan and Antonia Thomas",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/global/tommy-tuppence-finale-josh-dylan-antonia-thomas-romance-season-2-1236909902/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/antonia-thomas-tuppe_6ace084c1c725.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Drake Bell Blasts SAG-AFTRA After Losing Health Insurance: ‘Do Not Become an Actor. Do Not Join SAG’",
+              "lead": "“Drake & Josh” actor Drake Bell is putting SAG-AFTRA on blast after he revealed he does not qualify for health insurance. On his Instagram Story on Tuesday",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/news/drake-bell-sag-aftra-lose-health-insurance-1236910684/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2025/03/drake-bell.png",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists uncover a hidden map of the brain with 539 distinct regions",
+              "lead": "Scientists have uncovered a hidden layer of organization in the brain by creating the first detailed 3D map of its lipids, the fatty molecules essential for brain structure and communication.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
+              "lead": "NASA’s James Webb Space Telescope has revealed an ancient galaxy cluster with an unexpectedly dense concentration of dark matter, challenging theories about how the universe developed.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "The secret to handling stress better may start at breakfast",
+              "lead": "Your daily routine could have a bigger impact on your ability to handle stress than you realize. A Binghamton University study of approximately 400 college students found that eating breakfast regularly, exercising",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261012185023.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Kimberly Guilfoyle denies allegations of misconduct as she resigns as US ambassador to Greece – live",
+          "lead": "Guilfoyle has been under immense scrutiny after the Wall Street",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates"
+        },
+        {
+          "title": "Cyberattack Hits Hundreds of Supermarket Refrigeration Systems in France",
+          "lead": "The attack targeted a Danish software system in more than 400",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/13/world/europe/france-cyberattack-supermarkets-refrigeration.html"
+        },
+        {
+          "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+          "lead": "Pope Leo had successful surgery to remove a lower lobe of his right",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "US arrests Saudi employee of OpenAI for allegedly bugging its offices",
+          "lead": "AI lab discovered a recording device concealed behind a television in",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/2c3b583a-3ddc-4920-a350-9698c119435c?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Arsenal beat Lille 3-0 as perfect Champions League start continues",
+          "lead": "Jurrien Timber, Eberechi Eze and Bukayo Saka score as Arsenal",
+          "category": "sport",
+          "categoryLabel": "Sport",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/10/13/arsenal-beat-lille-3-0-as-perfect-champions-league-start-continues?traffic_source=rss"
+        },
+        {
+          "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+          "lead": "The S&P 500 inched lower as traders mulled over the latest quarterly",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/13/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html"
+        },
+        {
+          "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+          "lead": "Max Hodak, the former president and co-founder of Neuralink",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
+        },
+        {
+          "title": "Supermarket fridge hacking attacks due to lack of basic cybersecurity measures, expert says",
+          "lead": "French investigators on Tuesday ​were hunting the hackers who seized",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/tv-shows/a-propos/20261013-supermarket-fridge-hacking-attacks-due-to-lack-of-basic-cybersecurity-measures-expert-says"
+        },
+        {
+          "title": "Pope Leo diagnosed with cancer as doctors remove part of lung, Vatican says",
+          "lead": "The pope was admitted to Rome's Gemelli hospital for surgery to",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/14/world/pope-leo-lung-cancer/"
+        },
+        {
+          "title": "Apple’s HomeView ad is confusing to everyone except parents",
+          "lead": "Nothing like a little family togetherness in the morning.",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction"
+        },
+        {
+          "title": "Taiwanese finance minister plans to join Apec meeting in Hong Kong",
+          "lead": "Taiwanese Finance Minister Chuang Tsui-yun plans to attend the Apec",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3370776/taiwanese-finance-minister-plans-join-apec-meeting-hong-kong?utm_source=rss_feed"
+        },
+        {
+          "title": "The Paris Auto Show is full of interesting cars Americans can’t have",
+          "lead": "Perhaps the days when auto shows debuted new models aren’t entirely",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/"
+        },
+        {
+          "title": "Chuck Lorre Tells All: His 10 Years in Scientology, Clashes With Stars Like Roseanne and Brett Butler, and How ‘The Big Bang Theory’ Cast Shocked Him",
+          "lead": "Chuck Lorre has been entangled with some of the most notoriously",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/tv/news/chuck-lorre-scientology-roseanne-brett-butler-big-bang-1236910668/"
+        },
+        {
+          "title": "DNA recording system reveals how a single cell becomes a body",
+          "lead": "Scientists have traced the development of a mouse embryo from its",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261011211556.htm"
+        },
+        {
+          "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+          "lead": "Four years after the attacks, Serhii K will appear in court accused",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "White House asks US envoy to Greece Kimberly Guilfoyle to resign",
+          "lead": "Donald Trump had said he was considering firing the ambassador after",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/87a1a5a1-4942-47dd-856a-d9a694f7d2fd?syn-25a6b1a6=1"
+        }
+      ],
+      "supplement": {
+        "title": "‘Clean Hands’ Review: Zach Braff Is a Cop on a Crusade to Save His Addict Daughter in an Uneasy Fact-Based Crime Drama",
+        "lead": "When a filmmaker tells a story based on real events, especially ones that are inspiring or heroic, there’s always a risk of hagiography.",
+        "body": [
+          "When a filmmaker tells a story based on real events, especially ones that are inspiring or heroic, there’s always a risk of hagiography.",
+          "“Clean Hands” is a movie where the storytellers either take a lot of license with an actual person’s life to add drama, or don’t seem aware just how unflattering their subject’s behavior […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/reviews/clean-hands-review-1236910791/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/Clean-Hands.webp",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "Variety×4",
+          "ScienceDaily×4",
+          "Japan Times×3",
+          "BBC×3",
+          "紐約時報×2",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-14T00:58:17.730Z",
+    "sources": {
+      "configured": 36,
+      "ok": 34,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "界面新聞",
+          "reason": "fetch failed"
+        },
+        {
+          "name": "東方財富",
+          "reason": "fetch failed"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 747,
+        "lang": 405,
+        "fresh": 315,
+        "denoised": 314,
+        "deduped": 292
+      },
+      "en": {
+        "fetched": 747,
+        "lang": 342,
+        "fresh": 329,
+        "denoised": 327,
+        "deduped": 318
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 13,
+        "maxGroupShare": 21,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×4",
+          "紐約時報×4",
+          "華爾街見聞×4",
+          "端傳媒×4",
+          "cnBeta×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "Variety×4",
+          "ScienceDaily×4",
+          "Japan Times×3",
+          "BBC×3",
+          "紐約時報×2",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

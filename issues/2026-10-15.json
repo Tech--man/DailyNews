@@ -1,0 +1,928 @@
+{
+  "issue": 31,
+  "date": "2026-10-15",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月初六 · 寒露",
+    "en": "6th day of the 9th lunar month · Cold Dew"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "央行将开展7000亿元买断式逆回购操作",
+        "lead": "中国人民银行昨天(14日)发布公告，为保持银行体系流动性充裕，中国人民银行将于今天(15日)以固定数量、利率招标、多重价位中标方式开展7000亿元买断式逆回购操作，期限为6个月(182天)。",
+        "body": [
+          "中国人民银行昨天(14日)发布公告，为保持银行体系流动性充裕，中国人民银行将于今天(15日)以固定数量、利率招标、多重价位中标方式开展7000亿元买断式逆回购操作，期限为6个月(182天)。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-15/10714753.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "黄仁勋：对开发不安全AI软件的客户断供芯片，AI基础设施短缺将持续数年",
+        "lead": "英伟达首席执行官黄仁勋表示，若有客户开发不安全的AI软件，他将停止向其供应芯片，但同时强调，目前市场对AI安全风险的担忧程度超出实际情况，AI泡沫论同样言过其实。 黄仁勋是在伦敦接受彭博专访时作出上述表态的。他正在欧洲巡访，为公司即将在柏林举办的活动造势。",
+        "source": "華爾街見聞",
+        "group": "華爾街見聞",
+        "link": "https://wallstreetcn.com/articles/3783650",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 3
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "英国首相伯纳姆会见泽连斯基 公布多项对乌支援措施",
+              "lead": "中新社伦敦10月14日电 (记者 欧阳开宇)当地时间10月14日，英国首相伯纳姆在唐宁街10号与乌克兰总统泽连斯基举行会晤，双方重点磋商如何持续加大对乌防御支援力度，保障相关支援工作推进。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-15/10714763.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "比地球更适宜居住的星球？确实存在",
+              "lead": "科学家认为，在太阳系之外，还存在生命更加丰富且可持续的行星，它们被称为“超级宜居世界”。科学家还指出，这些星球应被考虑用于未来对外星生命迹象的后续观测。 Merijn Hos and Jurriaan Hos",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/science/20261014/inhabitable-planets-solar-system/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 2
+            },
+            {
+              "title": "台湾选举解读：「北蓝南绿」的政治版图是否「铁板一块」？",
+              "lead": "「北蓝南绿」是描述台湾政治版图的常见概念，但近年选举结果显示，这样的区域分野并非一成不变，中间选民的流向在这次地方选举可能左右大局。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c3n07pkpk5ggo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/815f/live/b7df6e90-be3a-11f1-883b-cfbfbf424e7e.jpg"
+            },
+            {
+              "title": "FBI捣毁涉朝鲜IT诈骗网络：盗用身份获取美国工作岗位",
+              "lead": "联邦调查局捣毁了一个由美国人组成的广泛网络，这些人被指控帮助朝鲜政府获取远程信息技术工作岗位，从而帮助朝鲜规避制裁，并为该国的核武器和弹道导弹计划提供资金。 Anthony Wallace/Agence France-Presse — Getty Images 美国官员称，近年来，朝鲜通过远程IT工作者项目规避了国际制裁，赚取了数十亿美元的现金。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261014/north-korea-it-workers-fbi/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "外银：看好中国A股人工智能板块",
+              "lead": "中新社上海10月14日电 (记者 姜煜)摩根大通中国股票策略师张晓宁14日发表研究观点称，中国最新出台的政策对A股人工智能(AI)板块释放了明确的利好信号。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-14/10714704.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "ASML强劲财报也救不了！美芯片股跌势加剧，行业指数市值蒸发万亿美元",
+              "lead": "周二盘中刚刚缓和的芯片股抛售潮周三再度加剧，美光科技、SK海力士等存储芯片股重新走弱，行业指标费城半导体指数（SOX）到收盘跌超4%，连续第六个交易日收跌。 媒体指出，随着利率上升、估值偏高和AI基础设施建设成本高企等担忧不断累积，SOX成分股的总市值一周来蒸发超过1万亿美元。美东时间14日周三盘中，SOX跌幅超过3%时，该指数过去六个交易日的累计跌幅已达到10%，超过一半的SOX成分股六日内跌幅至少达10%。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3783642",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持",
+              "lead": "今日央行宣布将于10月15日开展7000亿元买断式逆回购操作。由于10月有5000亿元6个月期买断式逆回购到期，这意味着10月6个月期买断式逆回购为加量续作，加量规模2000亿元，此前两个月均为等量续作。 业内人士表示，四季度将加发5500亿元地方政府债券的背景下，未来一段时间政府债券融资规模会显著上升，叠加8000亿元新型政策性金融工具持续投放，都需要央行在流动性方面给予支持。",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://bond.eastmoney.com/news/1332,202610143895735585.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "英伟达CEO黄仁勋：会对开发不安全AI软件的客户断供芯片",
+              "lead": "英伟达首席执行官黄仁勋表示，假如客户正在开发不安全的人工智能（AI）软件，他会停止向其供应芯片，不过他认为目前没有必要如此担忧这项技术。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1582160.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            },
+            {
+              "title": "英伟达黄仁勋：若客户开发不安全 AI 软件，极端措施可断供芯片",
+              "lead": "IT之家 10 月 15 日消息，在伦敦接受彭博社 Emily Chang 采访时，英伟达首席执行官黄仁勋表示，假若其客户被认定正在开发不安全或不负责任的人工智能（AI）软件， 英伟达将断然停止向其供应芯片。 他坦言， 切断供应目前仍是一个“假设性问题” ，且英伟达在采取断供等极端反制措施之前，必然会先与相关客户进行深入地沟通与对话。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/013/164.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            },
+            {
+              "title": "早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作",
+              "lead": "曝苹果 AI 国行版 12 月上线，新版 Siri 或缺席 苹果双 11 优惠公布：iPhone 17 立减 1000 元，iPhone 18 Pro 优惠 300 元 苹果公布 HomeView 维修费：保修外服务预估 279 美元 ASML 第三季度营收 116.62 亿欧元，计划扩产应对 AI 需求 9 月消费电子价格普涨，存储设备同比上涨 46.7% 企业微信与 WorkBuddy 打通",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1684374?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "哥伦比亚在耶路撒冷设立驻以色列大使馆",
+              "lead": "哥伦比亚驻以色列大使馆14日在耶路撒冷举行新馆开馆仪式。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-14/10714626.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "从特朗普“准儿媳”到被解职的美国驻希腊大使",
+              "lead": "金伯莉·吉尔福伊尔经历了从风光无限到黯然失势的转变。她曾与总统的长子小唐纳德·特朗普订婚，后获特朗普提名出任驻希腊大使，但在媒体曝光其不当行为后遭解职。 Doug Mills/The New York Times 3月，金伯莉·吉尔福伊尔与特朗普总统在白宫的一场活动上。宣布辞职时，吉尔福伊尔谴责了她所称的虚假指控。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261014/guilfoyle-fall/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "人类身高的起伏变化：哪些历史事件影响最大？",
+              "lead": "如今我们的身高比100年前高了大约10厘米，但这并非一帆风顺。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cwly388njx3go/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9fd/live/eee46610-c3c7-11f1-bc2e-018d645d8d21.png"
+            },
+            {
+              "title": "人工智能推波助澜，网络攻击席卷日本",
+              "lead": "关键基础设施成为网络攻击浪潮的目标，大量消费者数据遭到泄露，官员称日本处于“网络空间紧急状态”。日本网络安全本就薄弱，人工智能的发展让发动攻击变得更为容易。 Haiyun Jiang/The New York Times 日本遭遇了一波网络攻击，企业和政府均受影响。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/asia-pacific/20261014/japan-cyberattack-artificial-intelligence/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "「黑珍珠」玛丽亚：表演中国川剧的塞拉利昂女子",
+              "lead": "玛丽亚梦想成为一名歌手和表演者。多年后，她前往中国参加一场选美比赛，并在火车上获一名陌生人意外伸出援手后，最终在那里建立了自己的生活。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cmg47k6z44w7o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9d2/live/68ff7e10-c64a-11f1-bc2e-018d645d8d21.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "国家能不能强迫女性「自由」？意大利校园遮面禁令的悖论",
+              "lead": "「我们将引入法律，禁止在学校出现 Burqa 和 Niqab。」意大利总理梅洛尼严肃地说道。Burqa 和 Niqab 都是穆斯林女性穿戴的遮面服饰。「在意大利，我们没有任何一个传统让一位年轻的女性隐藏自己，」随后她提高音量：「男女平等是无可商量的！不论在我们的街道里、还是学校里。」 台下的人逐一站起来，把手举过头顶鼓掌。 「看来你们是同意的？」梅洛尼改为微笑。 「同意！同意！同意！」台下出现一致的呼喊声，久久无法安静。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261015-international-italy-face-veil-ban-and-womens-freedom/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GettyImages-1227852168.jpg"
+            },
+            {
+              "title": "《雷雨》内容外再讲繁漪 万方新作《繁漪女士》发布",
+              "lead": "中新网北京10月14日电 (记者 高凯)“人生在爱而不得中爆发或虚度——《繁漪女士》新书发布会”日前在北京举办，作家万方携新书《繁漪女士》与主持人张越，北京师范大学教授田卉群，知名演员、导演孔维展开对谈，共同解读繁漪的爱、反抗与不妥协。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-14/10714674.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "平台聚合力 奥林匹斯共建实验区助力县域足球打开发展空间",
+              "lead": "中新网北京10月14日电 (张素 胡晓芬)“把国家级赛事IP下沉到县域，是奥林匹斯共建实验区非常核心的价值。”北京奥林匹克文化促进会相关负责人13日在一场活动上说。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-14/10714469.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "浙江省第十八届运动会将在衢州开幕 参赛规模创历史新高",
+              "lead": "中新网杭州10月14日电(肖健 胡莘菻)10月14日，2026年浙江省第十八届运动会新闻通气会在杭州举行。记者从会上获悉，浙江省运会将于10月18日在衢州市体育中心开幕，并于10月30日闭幕。作为浙江省规格最高、规模最大、影响最广的综合性体育盛会，本届赛事秉持“简约、安全、精彩”的办赛理念，浙江全省11个设区市组团参赛。赛事共设39个大项、929个小项，预报名参赛人数突破1.8万人，整体参赛规模创历届之最。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-14/10714693.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "社保服务进万家 湖南多措保障新就业劳动者权益",
+              "lead": "中新网益阳10月14日电 (唐小晴 曾鹤群)2026年湖南省“社保服务进万家”活动14日在湖南安化县启动。据悉，活动在该省14个市州同步开展，聚焦灵活就业人员、农民工、新就业形态人员、高校毕业生等重点群体，推进精准扩面和高质量参保，推动社保服务向基层延伸。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-14/10714719.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "美CPI全面升温响“通胀螺旋”警报，10月加息概率一度五成，“新美联储通讯社”：盯紧沃什本周讲话",
+          "lead": "美国9月CPI全面超预期，涨价压力从能源向核心商品和服务扩散，令市场短线加码押注美联储10月加息。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783651"
+        },
+        {
+          "title": "OpenAI基础设施与算力负责人辞职 留任顾问",
+          "lead": "OpenAI基础设施负责人萨钦·卡蒂周三宣布，他将离开在这家人工智能公司约一年的职务。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1582152.htm"
+        },
+        {
+          "title": "薄熙来前搭档受查：重庆政坛「不倒翁」黄奇帆是谁？",
+          "lead": "中共中纪委宣布，已退出政坛多年的前重庆市长黄奇帆涉嫌「严重违纪违法」，正接受调查。此消息正值中共五中全会前夕，引发外界关注。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/watch/c83vq5lwy6wlo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "入职约 1 年：OpenAI 基础设施与 AI 算力负责人卡蒂离职，曾主导“星际之门”计划",
+          "lead": "IT之家 10 月 15 日消息， OpenAI 基础设施与算力负责人萨钦 · 卡蒂（Sachin Katti）昨日（10 月 14",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/013/158.htm"
+        },
+        {
+          "title": "研究估计到 2050 年每年新增痴呆症人数将会翻倍",
+          "lead": "一项新研究估计，2023 年有 1140 万人患上痴呆症，到 2050 年预计这一数字将增加一倍以上，新增痴呆症人数将达到 2470 万。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85615"
+        },
+        {
+          "title": "【华尔街日报】习近平的超级大国雄心推动中国陷入危险的债务膨胀循环",
+          "lead": "编按：《华尔街日报》是全球最具影响力的财经媒体之一，每日产出大量深度报导，涵盖国际政治、商业财经与科技趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261015-wsj-xi-jinping-superpower-ambitions-and-china-debt-spiral/"
+        },
+        {
+          "title": "拒绝4000万美元保密协议，她讲述马斯克的“真相”",
+          "lead": "在纪录片《马斯克》中，前保守派网红、马斯克一个孩子的母亲圣克莱尔讲述了她与马斯克的关系。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/culture/20261014/ashley-st-clair-interview-elon-musk/?utm_source=RSS"
+        },
+        {
+          "title": "美国9月CPI通胀再度升温 强化美联储加息预期 现货黄金一度跌破4100美元关口",
+          "lead": "美国9月CPI通胀全线升温，物价压力未见明显缓解，汽油价格大幅上涨成主要推手，这给美国总统特朗普及其所属的共和党带来了新的压力。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://stock.eastmoney.com/news/1768,202610143895769615.html"
+        },
+        {
+          "title": "Nothing Headphone (1) Pro 体验：全面晋级，当旗舰头戴也开始玩多单元",
+          "lead": "10 月 13 日，Nothing 新一代旗舰级头戴式无线降噪耳机 Nothing Headphone (1) Pro 正式发布",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1683906?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "[硬件] 用过的 DDR4 还能接着用： Marvell 新出的 CXL 扩展芯片，一台服务器能多挂 9TB 内存",
+          "lead": "内存价格这一年涨得厉害，手里有一堆从老服务器上拆下来的 DDR4 RDIMM 的，可以留意一下这个东西。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1248878#reply0"
+        },
+        {
+          "title": "没有宏大叙事和预设立场，很好 (评论: 欢迎来龙餐馆)",
+          "lead": "呆头猫猫 评论: 欢迎来龙餐馆 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17855796/"
+        },
+        {
+          "title": "美CPI重燃加息押注，纳指跌近2%，芯片指数六连跌，CoreWeave暴跌15%，美元创18个月新高",
+          "lead": "通胀顽固、AI信贷裂缝扩大、油价上涨三重压力同时袭来，美股周三遭遇重挫，科技与半导体股领跌，美元升至18个月高位",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783586"
+        },
+        {
+          "title": "俄罗斯以间谍罪嫌抓捕日本驻库页岛记者",
+          "lead": "莫斯科国安部门指控该名《北海道新闻》记者为东京当局搜集俄国防卫能力情报。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cx054n50gm37o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "选战必争之地新北市：民进党苏巧慧民调大赢，推估得票为何只差4点？｜Whatsnew",
+          "lead": "距离台湾2026年九合一地方选举不到50天，台湾民调专家戴立安10月13日发布最新的新北市市长选举民调",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261015-whatsnew-taiwan-local-elections-new-taipei-city-mayor/"
+        },
+        {
+          "title": "水产养殖业的肮脏秘密：你吃的海鲜背后不为人知的阴暗面",
+          "lead": "调查发现，规模庞大的水产养殖业加剧了海洋过度捕捞，鱼粉饲料的生产经常涉及强迫劳动，而加工厂内的腐臭废物和有害化学物质正危及从业者和当地人的健",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/world/20261014/farm-raised-fish-aquaculture-overfishing/?utm_source=RSS"
+        },
+        {
+          "title": "半导体靶材龙头江丰电子筹划H股上市 去年境外收入超三成",
+          "lead": "10月14日盘后， 江丰电子 （SZ300666，股价190.21元，市值525亿元）公告称",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1354,202610143895853546.html"
+        }
+      ],
+      "supplement": {
+        "title": "Colossal 推出 AI 平台 GenoMorph，助力加快复活灭绝物种研究",
+        "lead": "IT之家 10 月 15 日消息，据 TechCrunch 报道，Colossal Biosciences 于当地时间周三发布了一款全新人工智能平台，助力加快复活灭绝物种的相关研究。 据IT之家了解，这款名为 GenoMorph 的平台结合先进三维形态学、比较基因组学与发育生物学技术，在基因数据有限的复活项目中， 筛选出可用于基因编辑的目标基因 。该公司正借助这个平台推进渡渡鸟复活计划，而渡渡鸟可用的基因组资料十分匮乏。",
+        "body": [
+          "IT之家 10 月 15 日消息，据 TechCrunch 报道，Colossal Biosciences 于当地时间周三发布了一款全新人工智能平台，助力加快复活灭绝物种的相关研究。据IT之家了解，这款名为 GenoMorph 的平台结合先进三维形态学、比较基因组学与发育生物学技术，在基因数据有限的复活项目中， 筛选出可用于基因编辑的目标基因 。该公司正借助这个平台推进渡渡鸟复活计划，而渡渡鸟可用的基因组资料十分匮乏。举例来说，公司在猛犸象复活项目中获取了 100 份基因组样本，但渡渡鸟项目仅有一份基因组可用。",
+          "公司表示，猛犸象生存的寒冷环境更利于保存 DNA，而渡渡鸟栖息在热带地区，因此留存下来的猛犸象 DNA 更为丰富。Colossal Biosciences 首席执行官、联合创始人本 · 拉姆（Ben Lamm）在接受采访时表示：“通常科学家可以比对大量基因组，以此找出决定特定性状的基因差异。但对于灭绝物种的古 DNA，我们没有这样的条件，这类物种的 DNA 存量极少，只能得到少量完整基因组。” 拉姆介绍，为搭建 GenoMorph 平台，团队收集了大量来自鸡、鹌鹑、鸭和鸽子的发育数据，并整合了 70 多种鸟类的遗传信息以及颅骨三维测量数据。该平台历时一年多开发完成，同时依托公司多年在灭绝物种复活领域积累的研究成果。",
+          "“这套 AI 能够学习鸟类在喙与面部结构发育过程中，哪些 DNA 片段处于激活状态，并利用这些信息预测，是哪些基因调控机制造就了渡渡鸟标志性的外形。”他把这个平台比作“渡渡鸟基因组藏宝图”：团队不再需要排查海量潜在基因差异，GenoMorph 可以直接筛选出真正关键的基因变异位点。他接着说：“目前我们已经找到大约 2300 个有望用于渡渡鸟颅面部形态改造的 DNA 编辑靶点，接下来可以在实验室开展验证。”拉姆表示，GenoMorph 将帮助公司攻克复活动物研究里最大的瓶颈之一：找出究竟是哪些基因变化，造就了灭绝物种独有的特征。不过科学家还需要验证，这些编辑操作能否培育出目标外形特征。"
+        ],
+        "source": "IT之家",
+        "group": "IT之家",
+        "link": "https://www.ithome.com/1/013/161.htm",
+        "category": "science",
+        "categoryLabel": "科学"
+      },
+      "stats": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 21,
+        "categories": 8,
+        "topGroups": [
+          "中新社×8",
+          "華爾街見聞×4",
+          "紐約時報×4",
+          "BBC×3",
+          "東方財富×3",
+          "IT之家×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Will Trump’s economy sink Republicans in the US midterm elections? Our reporters answer your questions",
+        "lead": "The high cost of living has Americans angrier than ever. Guardian reporters answer your questions about the economy before voters head to the polls Sign up or",
+        "body": [
+          "The high cost of living has Americans angrier than ever. Guardian reporters answer your questions about the economy before voters head to the polls Sign up or sign in to ask your question Welcome to our latest US midterms live Q&A.",
+          "With just over two weeks to election day on 3 November, the US economy is top of voters’ minds. Food and gas prices remain high, the job market is unstable, consumers are angrier than ever , and a new Fed chair, Kevin Warsh , took over this year.",
+          "The makeup of the Democratic party, plus key races to watch Who are the groups financially backing the candidates in the midterms? Will the Iran war cost Trump in the US midterm elections? Your questions answered Continue reading..."
+        ],
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/cbe7c9fb6ba442658aeaa7c92974e9addedd0b91/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=901ad4cf18f230f8fb0c585a5fa56ddc",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
+        "lead": "A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.",
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-ukraine-vulnerability-03-qbck/14int-ukraine-vulnerability-03-qbck-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Australian politics live: Labor and Coalition reject bill to stop incarcerated women being shackled in childbirth; Wells tables social media reform",
+              "lead": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Private health insurance changes ‘recalibrating precious taxpayer dollars’, says Wells The health minister, Mark Butler",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/cd242f750ed19e0190499d8d922c385b5e2f5935/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=6ad78417fc0a2420ffadefb5249d5291",
+              "consensus": 5
+            },
+            {
+              "title": "Sally Rooney Withdraws Her Books From UK Over Her Support of Palestine Action",
+              "lead": "Ms. Rooney and her publisher said that she could no longer receive royalties from British sales because she pledged to donate book revenues to Palestine Action, which is banned in Britain.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/14/world/europe/rooney-britain-palestine-book-sales.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-uk-sally-rooney01-photo-blgh/14int-uk-sally-rooney01-photo-blgh-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Mexican court closes case against official over 2023 detention centre fire",
+              "lead": "Victims' groups, however, have denounced the ruling as 'selective' justice that exonerates the former migration chief.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/2026/10/15/mexican-court-closes-case-against-official-over-2023-detention-centre-fire?traffic_source=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "How backlash against data centres could shape the US midterm elections",
+              "lead": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef9/live/8b1f1580-c813-11f1-b60d-ef789a67d4e2.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Ukraine blindsided by Starlink restrictions and intelligence gaps",
+              "lead": "Moscow ignores Donald Trump’s ‘energy ceasefire’ while Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/37085602-726a-44dc-a859-51caab38eb75?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd1efc0c5-5a75-40dc-a184-6999444bddae.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
+              "lead": "Shares of CoreWeave sank 15%, while yields in its bonds blew out further.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "US stocks drop to their worst day since July as inflation worsens",
+              "lead": "US stocks dropped to their worst day since July on Wednesday, following the latest signal that inflation is getting worse. The S&P 500 sank 1.1 per cent for a fifth loss in the six days since setting its all-time high.",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/world/united-states-canada/article/3370922/us-stocks-drop-their-worst-day-july-inflation-worsens?utm_source=rss_feed",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/15/c37ced3f-6be1-421b-90d2-225a5480f2c5_ef62e2be.jpg?itok=qc9Amkqj&v=1792011796"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+              "lead": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Critics Vindicate ‘Artificial’ After Messy Amazon MGM Breakup (and the Studios vs. Talent Wars Around AI Are Just Beginning)",
+              "lead": "Looks like “Artificial” is the real thing. Luca Guadagnino’s genre-blending movie about the evils of artificial intelligence (and one of its fathers, Sam Altman) had a triumphant U.K.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/amazon-studios-ai-artificial-acclaim-dropped-1236912439/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
+              "lead": "Most planetary scientists will tell you the heyday of Venus exploration was more than a generation ago. That is about to change. Two NASA missions are on track to launch to Venus in the early 2030s.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/davinci-heat-test-3-1152x648-1792007515.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Perfect PSG - can anybody stop the defending champions?",
+              "lead": "Former Manchester City defender Nedum Onouha, former Liverpool defender Stephen Warnock and journalist Rory Smith discuss how good Paris St-Germain were in their impressive 4-2 win at Manchester City in the Champions",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/ck0j07zegp7xo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/789c/live/7f9373e0-c81e-11f1-9a39-31b474234113.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Real Madrid come from 3-1 down to beat Roma on Champions League travels",
+              "lead": "Real Madrid ease pressure on manager Jose Mourinho with a 4-3 win at his former club Roma in a Champions League classic.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "consensus": 4
+            },
+            {
+              "title": "PSG beat Manchester City in Champions League after financial rules verdict",
+              "lead": "Defending champions Paris Saint-Germain held off a second-half comeback to beat Manchester City 4-2 away in the Champions League on Wednesday.",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/sport/20261014-psg-beat-manchester-city-champions-league",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://s.france24.com/media/display/3b5e936e-c817-11f1-ab9c-d1d2c32ebb87/w:1024/p:16x9/2026-10-14T192325Z-1970960909-UP1EMAE1HROMZ-RTRMADP-3-SOCCER-CHAMPIONS-MCI-PSG.jpg",
+              "consensus": 4
+            },
+            {
+              "title": "Kobe sees off Jeonbuk to claim second Asian Champions League win",
+              "lead": "The win moved Kobe level with compatriots Kashima Antlers and Gamba Osaka as well as China's Beijing Guoan on six points.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/sports/2026/10/14/soccer/kobe-jeonbuk-asian-champions-league/",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/14/568551.jpg",
+              "consensus": 4
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "YouTube to Label AI-Generated Songs Across Its Platforms: Listeners ‘Want Transparency’",
+              "lead": "YouTube will label AI-generated songs across its main website and YouTube Music, the latest service to publicly mark tracks as not produced by humans.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/music/news/youtube-to-label-ai-generated-songs-music-1236912408/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2023/08/Youtube-Music-Logo.png",
+              "consensus": 5
+            },
+            {
+              "title": "‘Full House’ Star Jodie Sweetin Says Dave Coulier is ‘Doing Great’ Following ‘Tough Battle’ with Cancer",
+              "lead": "Jodie Sweetin is giving fans a health update on her “Full House” co-star Dave Coulier, eight months after the actor announced he was in remission from tongue cancer.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/news/jodie-sweetin-dave-coulier-cancer-battle-full-house-1236912656/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/cool-comedy-hot-cuisine-benefitting-the-scleroderma-research-1000x667-1.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Cornell scientists identify rare human genetic disorder in two unusually long-legged cats",
+              "lead": "Two unusually long-legged cats have helped scientists uncover the first genetically confirmed cases of Marfan syndrome in domestic felines.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261013015801.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists may have overlooked a hidden Alzheimer's culprit for decades",
+              "lead": "For decades, scientists have focused on amyloid beta as a major culprit behind Alzheimer’s disease, spending billions of dollars developing treatments that have often delivered disappointing results.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261013015838.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Illegal tobacco increasingly hard to spot, with some fakes featuring Australian health warnings",
+          "lead": "Government warned that counterfeit tobacco produced by criminal",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/15/black-market-tobacco-fakes-australian-health-warning"
+        },
+        {
+          "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+          "lead": "Ukraine says Starlink access has improved but it is still facing",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Freshfields partners explore carve-out of AI unit worth ‘billions’, leaked emails reveal",
+          "lead": "Exchange discussed putting legal tech unit into separate entity",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/64f058ff-c8c2-4e63-bf7f-57c08ce685cb?syn-25a6b1a6=1"
+        },
+        {
+          "title": "China’s Exports Soar, Putting Its Trade Surplus on Track for a Record",
+          "lead": "China’s exports grew last month at the fastest pace in almost any",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html"
+        },
+        {
+          "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+          "lead": "The label will appear on the player page and include songs entirely",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/"
+        },
+        {
+          "title": "AI-armed hackers tear through corporate Japan’s neglected defences",
+          "lead": "Japanese companies have faced a growing wave of cyberattacks in",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/week-asia/economics/article/3370875/ai-armed-hackers-tear-through-corporate-japans-neglected-defences?utm_source=rss_feed"
+        },
+        {
+          "title": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
+          "lead": "As a key corner of the artificial intelligence trade takes a beating",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html"
+        },
+        {
+          "title": "French anti-terror investigators probe True Crime Community link to school shooting",
+          "lead": "The French anti-terrorism prosecutor has taken ​over the",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/tv-shows/a-propos/20261014-french-anti-terror-investigators-probe-true-crime-community-link-to-school-shooting"
+        },
+        {
+          "title": "PSG beat Man City 4-2 in Champions League thriller",
+          "lead": "PSG score three first-half goals, but an Erling Haaland brace nearly",
+          "category": "sport",
+          "categoryLabel": "Sport",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/10/14/psg-beat-man-city-4-2-in-champions-league-thriller?traffic_source=rss"
+        },
+        {
+          "title": "Software development and rules stability: Prototype racing in 2030",
+          "lead": "IMSA provided accommodation so Ars could attend the Petit Le Mans.",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/"
+        },
+        {
+          "title": "Now that Character.AI is going bankrupt, what happens to all of its users’ data?",
+          "lead": "New York Attorney General Letitia James revealed a years-long",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy"
+        },
+        {
+          "title": "Scandal-hit agriculture minister Yana announces resignation",
+          "lead": "His sudden exit deals a blow to Prime Minister Sanae Takaichi's",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/14/japan/politics/takaichi-cabinet-yana-parliament-resigns/"
+        },
+        {
+          "title": "‘Beach Fictions’ Review: Utterly Beguiling, Time-Tweaking Korean Romance Shows What a Day a Difference Makes",
+          "lead": "Fatalism, self-determination and imagination all gently wrestle for",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/reviews/beach-fictions-review-1236912043/"
+        },
+        {
+          "title": "The secret to easier exercise as an adult may start in childhood",
+          "lead": "Exercise during childhood could have a surprising lifelong benefit",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261013015811.htm"
+        },
+        {
+          "title": "Student protesters attack government buildings in Albania",
+          "lead": "Buildings were set alight on the second day of demonstrations from",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "OpenAI employee accused of bugging office booked one-way ticket to Saudi Arabia",
+          "lead": "Newly unsealed court filings say Abdulrahman Alfozan",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/4d22d333-e51c-4302-991e-444a17fac420?syn-25a6b1a6=1"
+        }
+      ],
+      "supplement": {
+        "title": "Scientists may have finally solved the mystery of the Moon’s two faces",
+        "lead": "Scientists may have solved a long-standing mystery about why the Moon’s two sides are so different, using samples collected from its farside for the first time.",
+        "body": [
+          "Scientists may have solved a long-standing mystery about why the Moon’s two sides are so different, using samples collected from its farside for the first time.",
+          "Their findings suggest that uneven heating from Earth's gravitational pull drove enormous flows of ancient magma, creating the dramatically different lunar landscapes we see today."
+        ],
+        "source": "ScienceDaily",
+        "group": "ScienceDaily",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261012185019.htm",
+        "category": "science",
+        "categoryLabel": "Science",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "Variety×4",
+          "ScienceDaily×4",
+          "Al Jazeera×3",
+          "Guardian×2",
+          "紐約時報×2",
+          "BBC×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-15T00:20:15.744Z",
+    "sources": {
+      "configured": 36,
+      "ok": 35,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "界面新聞",
+          "reason": "fetch failed"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 775,
+        "lang": 430,
+        "fresh": 334,
+        "denoised": 333,
+        "deduped": 313
+      },
+      "en": {
+        "fetched": 775,
+        "lang": 345,
+        "fresh": 331,
+        "denoised": 330,
+        "deduped": 322
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 21,
+        "categories": 8,
+        "topGroups": [
+          "中新社×8",
+          "華爾街見聞×4",
+          "紐約時報×4",
+          "BBC×3",
+          "東方財富×3",
+          "IT之家×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "Variety×4",
+          "ScienceDaily×4",
+          "Al Jazeera×3",
+          "Guardian×2",
+          "紐約時報×2",
+          "BBC×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

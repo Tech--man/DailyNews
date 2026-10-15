@@ -1,0 +1,71 @@
+{
+  "generatedAt": "2026-10-15T00:20:15.744Z",
+  "sources": {
+    "configured": 36,
+    "ok": 35,
+    "zhSources": 20,
+    "enSources": 16,
+    "failed": [
+      {
+        "name": "界面新聞",
+        "reason": "fetch failed"
+      }
+    ]
+  },
+  "funnels": {
+    "zh": {
+      "fetched": 775,
+      "lang": 430,
+      "fresh": 334,
+      "denoised": 333,
+      "deduped": 313
+    },
+    "en": {
+      "fetched": 775,
+      "lang": 345,
+      "fresh": 331,
+      "denoised": 330,
+      "deduped": 322
+    }
+  },
+  "layout": {
+    "zh": {
+      "visible": 39,
+      "sections": 7,
+      "briefs": 16,
+      "groups": 14,
+      "maxGroupShare": 21,
+      "categories": 8,
+      "topGroups": [
+        "中新社×8",
+        "華爾街見聞×4",
+        "紐約時報×4",
+        "BBC×3",
+        "東方財富×3",
+        "IT之家×3"
+      ],
+      "headlineTier": "consensus+lead",
+      "headlineConsensus": 2,
+      "groupCap": 8
+    },
+    "en": {
+      "visible": 37,
+      "sections": 6,
+      "briefs": 16,
+      "groups": 19,
+      "maxGroupShare": 11,
+      "categories": 7,
+      "topGroups": [
+        "Variety×4",
+        "ScienceDaily×4",
+        "Al Jazeera×3",
+        "Guardian×2",
+        "紐約時報×2",
+        "BBC×2"
+      ],
+      "headlineTier": "consensus+lead",
+      "headlineConsensus": 5,
+      "groupCap": 7
+    }
+  }
+}

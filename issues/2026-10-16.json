@@ -1,0 +1,924 @@
+{
+  "issue": 32,
+  "date": "2026-10-16",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月初七 · 寒露",
+    "en": "7th day of the 9th lunar month · Cold Dew"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "工信部等三部门联合调查有关车辆刹车踏板支架断裂问题",
+        "lead": "中新网10月15日电 据“工信微报”微信公众号消息，针对网络反映的“尊界V800汽车刹车踏板支架断裂问题”，工业和信息化部、中央网信办、市场监管总局高度重视，在前期调查工作基础上，成立联合调查组开展核查，并依法依规处理。有关情况将及时公布。",
+        "body": [
+          "中新网10月15日电 据“工信微报”微信公众号消息，针对网络反映的“尊界V800汽车刹车踏板支架断裂问题”，工业和信息化部、中央网信办、市场监管总局高度重视，在前期调查工作基础上，成立联合调查组开展核查，并依法依规处理。",
+          "有关情况将及时公布。"
+        ],
+        "source": "中新網財經",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-15/10715330.shtml",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 4
+      },
+      "secondary": {
+        "title": "界面早报 | 三部门联合调查有关车辆刹车踏板支架断裂问题；潘功胜出席二十国集团财长和央行行长会议",
+        "lead": "江波龙：预计前三季度盈利140亿元-149亿元，同比增长1864.55%-1990.84%；美股三大指数集体收涨，存储板块低开走高接近平收；俄罗斯对莫斯科州疑似猴痘疫情展开流行病学调查。",
+        "source": "界面新聞",
+        "group": "界面",
+        "link": "https://www.jiemian.com/article/15195922.html",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 4
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "也门官员：胡塞武装袭击亚丁总统府 致5死16伤",
+              "lead": "中新网10月16日电 综合外媒报道，也门政府官员表示，胡塞武装15日向位于也门南部临时首都亚丁的总统府发射了导弹，造成5人死亡、16人受伤。伤亡人员包括安保人员和政府工作人员。一名也门官员表示，袭击发生后，也门总理及内阁成员均安然无恙。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-16/10715382.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "新任白宫新闻秘书在中国做过律师吗？我们进行了事实核查",
+              "lead": "新任白宫新闻秘书关于自己履历的陈述引发争议。时报核查发现，扎卡里亚拥有法学学位，但并无迹象显示她通过了律师执业资格考试。她是否曾在中国从事法务工作也存在疑问。 Kenny Holston/The New York Times 新任新闻秘书凯蒂·扎卡里亚周二在白宫外。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261015/trump-press-secretary-katie-zacharia-lawyer/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "减肥针「微剂量」用药渐成风潮：注射少量真的安全吗？",
+              "lead": "一些人正以小剂量方式使用「胰妥赞」、「周纤达」等GLP-1类药物。使用者表示，这种方法既能帮助减重，又能减少副作用和节省开支。不过，专家指出，目前几乎没研究证据支持这种做法，而且可能存在危险。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/ckp8gd38100ro/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7529/live/ea3be880-c7ec-11f1-bc2e-018d645d8d21.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "荷兰企业赴浙江觅新机 共拓机器人产业新蓝海",
+              "lead": "【欧洲专线】荷兰企业赴浙江觅新机 共拓机器人产业新蓝海",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-15/10715333.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "谷歌量子计算取得突破：错误率降低40倍，攻克关键资源瓶颈",
+              "lead": "谷歌量子AI团队在量子计算领域取得关键进展，有望大幅削减构建实用量子系统所需的硬件成本。 相关研究周四发表于《科学》杂志。 谷歌在其Willow处理器上验证了一种名为\"魔态培育\"（magic state cultivation）的技术，将量子错误率降低约40倍，T态逻辑保真度达到99.99%。这是迄今为止该领域的最高纪录。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3783728",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 3
+            },
+            {
+              "title": "也门政府称总统府遭胡塞武装袭击致5死16伤",
+              "lead": "据也门政府卫生部长卡西姆当地时间10月15日晚间发布的消息，胡塞武装当天下午针对也门临时首都亚丁马阿希克宫的袭击，造成5人死亡、16人受伤。伤亡人员包括现场安保人员和政府工作人员。（央视新闻）",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15196235.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "谷歌在量子计算取得突破，“魔态培育”技术使 Willow 芯片错误率降低约 40 倍",
+              "lead": "IT之家 10 月 16 日消息，当地时间 10 月 15 日，谷歌宣布其量子人工智能团队已通过实验证实、攻克了量子计算的一个核心瓶颈：在 Willow 量子芯片上成功验证了一项名为“魔态培育（Magic State Cultivation）”技术的实用可行性，与未采用该技术相比， 将量子计算错误率降低了约 40 倍 。相关研究成果已发表于《科学》期刊。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/013/698.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            },
+            {
+              "title": "谷歌宣布突破量子计算核心资源瓶颈 Willow计算误差降低40倍",
+              "lead": "谷歌宣布，谷歌量子人工智能团队成功打通量子计算的一项关键瓶颈：已在Willow处理器上实证“魔态培育”方案可行，相比不采用该技术，误差降低约40倍。这项突破性成果今日发表于《科学》期刊，是推动量子计算走向规模化实用化的关键一步。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1582404.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            },
+            {
+              "title": "早报｜库克确认苹果AI国行本月推出/《GTA6》全新宣传片发布/特努斯：AI不会让iPhone消失",
+              "lead": "库克确认国行 Apple 智能本月推出测试版 DeepSeek 崩了 5 小时后恢复 iPhone Duo 维修价格公布，内屏损坏预估 7998 元 蚂蚁阿福与支付宝 AI 支付入选《时代》年度最佳发明 《GTA VI》发布发售宣传片，全片由 PS5 录制 Rivian 计划接入第三方 AI 智能体，刹车与转向不交给 Agent 字节跳动洽谈采购联发科数据中心定制芯片 沃尔沃扩大与英伟达合作",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1684579?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "韩国股市遭遇“黑色星期四” 两大指数收跌超7%",
+              "lead": "中新社首尔10月15日电 (记者 金旭)当地时间15日，韩国股市遭遇“黑色星期四”。韩国综合股价指数(KOSPI)和高斯达克指数(KOSDAQ)大幅下跌，一度触发市场熔断机制，收盘跌幅均超7%。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-15/10715332.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "阴谋、疑团和争议：朴正熙暗杀事件电影加剧韩国文化战争",
+              "lead": "《暗杀者（们）》讲述了追寻朴正熙暗杀事件真相的故事。这起枪击最终导致朴正熙夫人身亡，引发了诸多阴谋论。围绕电影的争议折射出韩国社会对其动荡的现代史的不同解读。 Ullstein Bild, via Getty Images 韩国军事独裁者朴正熙与妻子陆英修，摄于1964年。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/asia-pacific/20261015/korea-assassins-movie/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "特朗普叫停网上直播处决胡德堡枪击案枪手",
+              "lead": "特朗普表示，有些人「宁愿不观看」对尼达尔·哈桑的处决。这将是60多年来首次执行军事死刑枪决。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cmde8dpz7ykjo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f672/live/b16bd830-c8a5-11f1-a573-f1e461934384.jpg"
+            },
+            {
+              "title": "老龄化的欧洲，愤怒的年轻人",
+              "lead": "法国年轻人正在走上街头，他们与世界各地的Z世代抗议者有共同的愤怒，却不具备相同的政治力量。富裕国家未来还会有更多这样的斗争，但老年人或将继续主导政治议程。 Christophe Archambault/Agence France-Presse — Getty Images 周二在法国波尔多发生的一场学生抗议活动。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261015/youth-aging-europe-pension-ukraine-starshield/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "令人窒息的有毒雾霾蔓延东南亚，谁之过？",
+              "lead": "对被指控在印尼焚烧土地的企业，以及未能阻止这些行为的当局，人们的愤怒情绪正不断升高。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cjkge2k03kgpo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b33f/live/4604a520-c7df-11f1-a64c-550be9e3c66b.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "电影《喂喂喂，足球队》在上海无障碍放映",
+              "lead": "中新网上海10月15日电 (记者 王笈)2026国际盲人节暨第14届上海市无障碍电影日主题活动15日在沪举行，近400名残障观众一起观看了首日全国公映的电影《喂喂喂，足球队》。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-15/10715341.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "从大罢免到毒品：针对沈伯洋的攻击奏效了吗？",
+              "lead": "蒋万安成了英文俗语中所谓的「victim of his own success」。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261016-taiwan-has-attack-on-puma-shen-worked/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/IMGL1347-copy.jpg"
+            },
+            {
+              "title": "非常理解且喜爱男女主，《恋爱博士》刻画的是【人】而非【人设】 (评论: 恋爱博士)",
+              "lead": "non 评论: 恋爱博士 评价: 力荐",
+              "source": "豆瓣",
+              "group": "豆瓣",
+              "link": "https://movie.douban.com/review/17855939/",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "2026年山西省公路自行车锦标赛在晋中榆社开赛",
+              "lead": "10月15日，2026年山西省公路自行车锦标赛在晋中市榆社县开赛。图为运动员正在比赛中。王卉雅 摄 中新网晋中10月15日电 (高雨晴 程煜媛)10月15日，2026年山西省公路自行车锦标赛在晋中市榆社县开赛。来自全省各体校、俱乐部的120名注册运动员集结于此，将在为期三天的公路自行车项目中展开专业较量。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-15/10715289.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "2027年四大洲花样滑冰锦标赛将改在阿拉木图举行",
+              "lead": "中新网阿斯塔纳10月15日电 哈通社15日援引哈萨克斯坦旅游和体育部消息称，原定于2027年2月9日至14日在该国首都阿斯塔纳举行的国际滑联四大洲花样滑冰锦标赛，将改在阿拉木图举行。这是哈萨克斯坦首次承办该项赛事。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-15/10715246.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "探访2026机器人勇士挑战赛秋季赛实训场：机器人“闯关” 刚需场景",
+              "lead": "中新网北京10月15日电 (杜燕 孙艳平)人形机器人拉门、关阀，四足轮式机器人翻断桥、拨开关……10月15日，在北京南海子公园亲水广场东侧的训练场上，参加2026机器人勇士挑战赛秋季赛的多支赛队正进行实地训练。作为北京经济技术开发区(简称“北京经开区”，也称“北京亦庄”)打造的独立赛事IP，本届赛事吸引了来自全国企业、学校的29支赛队，助推机器人从“跑跳展示”转向“实战作业”。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/10-15/10715345.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "华为余承东就“三部门联合调查刹车踏板支架断裂问题”表态：正义可能会迟到，但永远不会缺席！",
+          "lead": "IT之家 10 月 16 日消息，据多位博主分享的截图，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东转发了尊界汽车声明",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/013/686.htm"
+        },
+        {
+          "title": "美联储官员放鹰：Daly称供应冲击不应再\"静观其变\"，Hammack称通胀预期固化或需更激进加息",
+          "lead": "周三美国超预期的CPI数据发布之后，周四两位美联储官员发出鹰派信号，表示对通胀的担忧正在加深。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783737"
+        },
+        {
+          "title": "中国人工智能加入“失控”大军：腾讯AI被指越界操作",
+          "lead": "研究人员发现，在腾讯运行的一项测试中，其AI智能体试图绕过网站的保护措施进行操作。据信这是中国人工智能首次被发现失控。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/technology/20261015/chinese-ai-agents-rogue/?utm_source=RSS"
+        },
+        {
+          "title": "新鸭绿江大桥闲置12年终开通：中朝关系回暖？",
+          "lead": "连接中国与朝鲜的鸭绿江大桥，在闲置12年之后终于正式开通。近年朝鲜与俄罗斯关系愈走愈近，专家分析中方需要透过开通大桥巩固对朝关系",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/watch/cm0e0q5dp3lyo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "因凡蒂诺在国际足联理事会会议道歉，仍面临下台压力",
+          "lead": "当地时间10月15日，国际足联理事会会议在苏黎世举行，这是国际足联主席因凡蒂诺推动的世界杯商业计划曝光后的首次理事会会议。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15196324.html"
+        },
+        {
+          "title": "特朗普发布白宫翻新前后对比照被发现使用AI修改 柱子细节引发质疑",
+          "lead": "美国总统唐纳德·特朗普近日在社交平台Truth Social上发布多张白宫翻新后的照片，展示白宫南侧外立面",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1582426.htm"
+        },
+        {
+          "title": "工信部等三部门联合调查有关车辆刹车踏板支架断裂问题 尊界汽车：全力配合",
+          "lead": "10月15日晚，针对网络反映的“尊界V800 汽车 刹车踏板支架断裂问题”，工业和信息化部、中央网信办、市场监管总局高度重视",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1354,202610153897264440.html"
+        },
+        {
+          "title": "Mission S 正式发布，保时捷向世人展示了一台超级跑车应该有的模样",
+          "lead": "10 月 16 日真是一个好日子。 保时捷选择了在今天发布全新燃油超跑 Mission S 概念车",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1684559?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "美国银行雇佣千名合同工修复 AI 工具发现的软件漏洞",
+          "lead": "美国银行（Bank of America）CEO Brian Moynihan 透露该公司雇佣了千名合同工帮助修复 Anthropic",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85625"
+        },
+        {
+          "title": "共建共享，智联丝路——开源中国与吉尔吉斯斯坦-土耳其玛纳斯大学签署《中国—中亚人工智能共建共享合作备忘录》",
+          "lead": "西安，2026年10月15日 —— 今日，\"2026中国—中亚青年科学家人工智能对话活动\"在西安举行。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/503042"
+        },
+        {
+          "title": "【华尔街日报】习近平的超级大国雄心推动中国陷入危险的债务膨胀循环",
+          "lead": "编按：《华尔街日报》是全球最具影响力的财经媒体之一，每日产出大量深度报导，涵盖国际政治、商业财经与科技趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261015-wsj-xi-jinping-superpower-ambitions-and-china-debt-spiral/"
+        },
+        {
+          "title": "喜剧之王好好看！就爱看！还想看！ (评论: 喜剧之王)",
+          "lead": "达啦崩吧 评论: 喜剧之王 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17856849/"
+        },
+        {
+          "title": "黄仁勋力挺CoreWeave，纳指惊险收涨，道指反弹超1%，芯片指数七连跌，欧美债市涨",
+          "lead": "英伟达首席执行官黄仁勋公开为CoreWeave背书，科技股随之收复盘初的深跌，标普500指数结束了连续三天的下跌。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783663"
+        },
+        {
+          "title": "那些从特朗普内阁中“消失”的女性",
+          "lead": "在特朗普第二任期内，多名女性内阁成员离职，一些人自愿请辞，另一些则是被特朗普解雇。与此同时，他任命的一些男性高官尽管也曾陷入巨大争议",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/usa/20261015/trump-administration-kimberly-guilfoyle-women/?utm_source=RSS"
+        },
+        {
+          "title": "中朝新鸭绿江大桥通车：北京、平壤与莫斯科的新格局",
+          "lead": "连接中国丹东与朝鲜新义州的新鸭绿江大桥建成12年后正式通车。大桥此前遭长期闲置，被观察人士视为中朝关系起伏的一个象征。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cqn065gxdk4lo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "德国总理反对将欧盟冻结的俄资产移交美方控制",
+          "lead": "德国总理默茨10月15日在比利时首都布鲁塞尔表示，反对将欧洲联盟境内冻结的俄罗斯主权资产移交美国控制，并强调这一问题属于欧洲内部事务。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15196317.html"
+        }
+      ],
+      "supplement": {
+        "title": "国家能不能强迫女性「自由」？意大利校园遮面禁令的悖论",
+        "lead": "「我们将引入法律，禁止在学校出现 Burqa 和 Niqab。」意大利总理梅洛尼严肃地说道。Burqa 和 Niqab 都是穆斯林女性穿戴的遮面服饰。「在意大利，我们没有任何一个传统让一位年轻的女性隐藏自己，」随后她提高音量：「男女平等是无可商量的！不论在我们的街道里、还是学校里。」 台下的人逐一站起来，把手举过头顶鼓掌。 「看来你们是同意的？」梅洛尼改为微笑。 「同意！同意！同意！」台下出现一致的呼喊声，久久无法安静。",
+        "body": [
+          "「我们将引入法律，禁止在学校出现 Burqa 和 Niqab。」意大利总理梅洛尼严肃地说道。Burqa 和 Niqab 都是穆斯林女性穿戴的遮面服饰。「在意大利，我们没有任何一个传统让一位年轻的女性隐藏自己，」随后她提高音量：「男女平等是无可商量的！不论在我们的街道里、还是学校里。",
+          "」 台下的人逐一站起来，把手举过头顶鼓掌。「看来你们是同意的？」梅洛尼改为微笑。「同意！同意！",
+          "同意！」台下出现一致的呼喊声，久久无法安静。这是9月20日梅洛尼出席意大利兄弟党（Fratelli d'Italia）青年组织「国际青年」（Gioventù Nazionale）举办的政治活动上的一幕。意大利兄弟党是梅洛尼领导的右翼保守政党，也是意大利现执政党；其政治传统带有意大利后法西斯右翼的历史脉络。9月24日，该项包含校园遮面禁令在内的法令正式获得意大利内阁批准。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261015-international-italy-face-veil-ban-and-womens-freedom/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GettyImages-1227852168.jpg"
+      },
+      "stats": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×3",
+          "BBC×3",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "界面×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 4,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+        "lead": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+        "body": [
+          "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace."
+        ],
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16df/live/2fc36f20-c8bc-11f1-bc2e-018d645d8d21.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Treasuries rally as investors seek shelter from AI turbulence",
+        "lead": "Global chip stocks caught up in volatile trading amid fears over sustainability of AI boom",
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6a5856a3-e032-4006-930b-dc103cb4ef0d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Are student protests being manipulated ahead of France's presidential election?",
+              "lead": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
+              "source": "BBC News",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00d9/live/2e460170-c8bd-11f1-a64c-550be9e3c66b.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Houthi Missiles Strike Government Headquarters in Yemen",
+              "lead": "Five people were killed when the Houthi militia struck the Maashiq Palace in Aden, a Yemeni minister said.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            },
+            {
+              "title": "Houthi missiles strike Saudi-led forces HQ at presidential palace in Aden",
+              "lead": "Witnesses report at least six explosions near palace used by Yemen's internationally recognized government At least six explosions struck on Thursday near the palace used by Yemen ’s internationally recognized",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/234bda518d7c94db638f08b702b7928133eada55/0_219_1164_931/master/1164.jpg?width=140&quality=85&auto=format&fit=max&s=94dbb8cb7a4088e5d17ae2bd9cc40a50",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Netflix replaces chief content officer in effort to arrest declining share price",
+              "lead": "Peter Rice will replace Bela Bajaria as streamer grapples with slowing viewer engagement and pressure from investors",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/9187726d-0f4c-4f05-b421-b5fc656522b9?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F27665630-873a-48f0-9e37-8387f2577452.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Thousands of NI workers to get pay bump as Real Living Wage rises",
+              "lead": "About 6,000 workers in NI are paid the Real Living Wage - which is voluntarily paid to reflect the cost of living.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/videos/cq398xnyx4gyo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1b8/live/3f6d9360-c7e5-11f1-bc2e-018d645d8d21.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+              "lead": "Signs of distressed deepened in CoreWeave on Thursday.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+              "lead": "Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook markets Business news – live updates Larry Elliott: the global economy is muddling through.",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=140&quality=85&auto=format&fit=max&s=0c106f80a98eb99a06130d501a36d1b9"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter",
+              "lead": "TSMC had a record quarter, but it can't make chips for everyone as Nvidia, Apple, Broadcom and AMD fight for capacity.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/15/nvidia-apple-broadcom-in-fierce-battle-to-make-chips-at-tsmc.html",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+              "lead": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Black Sea drone attacks enter NATO country's territorial waters for first time",
+              "lead": "Russian drones are suspected of sinking a cargo ship and leaving chemical tankers ablaze near the Black Sea coasts of Bulgaria and Romania, respectively.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Black-Sea-sailors-rescued-by-Bulgaria-1152x648.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Australia clinch thrilling World Cup opener against New Zealand",
+              "lead": "Australia beat New Zealand 24-22 in a dramatic Rugby League World Cup opener in Sydney, with debutant Jack Bostock scoring a hat-trick to see the hosts snatch victory late on.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-league/videos/cmn4eqpvw1ppo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e8a/live/bac7ea70-c8ac-11f1-9a39-31b474234113.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "O'Neill defiant in defeat but Celtic's 'flat-track bullies' fail another big test",
+              "lead": "Celtic have now lost two Europa League group games, as well as two derbies - but Martin O'Neill is adamant he can see positive signs.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cwm243rxn1pxo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ebf/live/9cc98cc0-c8e0-11f1-aed7-153a8dff3c2e.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Walsh vomit & Ponga pain - the physical toll of World Cup opener",
+              "lead": "Australia's Reece Walsh exerted himself to the point of throwing up, while New Zealand's Kalyn Ponga tried to play on with a suspected broken arm in a dramatic Men's Rugby League World Cup opener.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c574pn7j0yp3o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c73/live/7bfc5710-c8a5-11f1-a573-f1e461934384.png",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Skydance’s Market Value Is Currently Less Than Half What Warner Bros. Discovery and Paramount Combined Were Worth",
+              "lead": "David Ellison’s freshly formed Skydance Corp. is off to a rocky start on Wall Street. He won Warner Bros. Discovery after a yearlong battle.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/skydance-market-cap-less-than-half-warner-bros-discovery-paramount-1236913334/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2025/09/David-Ellison.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Netflix Shocker: Bela Bajaria Leaving After 10 Years Amid Layoffs, Peter Rice to Replace as Chief Content Officer",
+              "lead": "In a major executive shake-up, Bela Bajaria is out at Netflix after 10 years at the streamer, most recently serving as its chief content officer.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/netflix-bela-bajaria-leaving-layoffs-1236913504/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/disney-s-sneakerella-premiere-1000x667-1.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists discover a surprising danger in smaller cancer cells",
+              "lead": "Scientists have discovered that unusually small cancer cells carrying extra chromosomes can be far more aggressive than larger ones, growing faster, spreading more readily, and resisting common treatments.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261013015835.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Rare study reveals a striking divide inside an Alzheimer’s patient’s brain",
+              "lead": "A rare examination of an Alzheimer’s patient’s brain revealed that regions cleared of amyloid plaques had remarkably little of the harmful tau buildup associated with memory loss",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261013015814.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Arctic sea ice hits another troubling low in 2026",
+              "lead": "Arctic sea ice is shrinking in both winter and summer, with satellite records revealing that the region's remaining ice is becoming thinner, younger, and more vulnerable to melting.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261015073212.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "At the scene of a school roof collapse in Pakistan",
+          "lead": "At least 33 pupils and a teacher were killed according to hospital",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Farage accused of ‘protecting’ Reform candidate over racist slurs against David Lammy",
+          "lead": "Exclusive: ITV investigation shows leader stood by mayoral candidate",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/politics/2026/oct/15/farage-accused-protecting-reform-candidate-racist-slurs-david-lammy-itv-film"
+        },
+        {
+          "title": "Trump’s Deal With Russia Inflames Ukraine War He Vowed to End",
+          "lead": "The Ukrainian president’s defiant decision to continue attacking",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html"
+        },
+        {
+          "title": "Trump weighs easing restrictions on Russian and Iranian ‘shadow fleet’",
+          "lead": "A White House desperate to lower fuel costs ahead of US midterm",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/6dfa9879-589a-4af3-9374-b546a945a219?syn-25a6b1a6=1"
+        },
+        {
+          "title": "What's behind the sell-off in AI neocloud stocks like CoreWeave and Nebius",
+          "lead": "Neoclouds share the same business model and many of the same customers.",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/15/whats-behind-the-sell-off-in-ai-neocloud-stocks-like-coreweave-and-nebius-.html"
+        },
+        {
+          "title": "At least 4, including 3 children, killed in US elementary school shooting",
+          "lead": "Authorities have indicated that the shooter was killed by gunfire",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss"
+        },
+        {
+          "title": "4 dead, including children, in Oregon school shooting, US reports say",
+          "lead": "A shooting at a junior school in the US state of Oregon on Thursday",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3371069/oregon-school-shooting-leaves-2-hospital-shooter-dead?utm_source=rss_feed"
+        },
+        {
+          "title": "At least five feared dead in Oregon elementary school shooting",
+          "lead": "Authorities believe at least five people died in a shooting at Silver",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/americas/20261015-two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dead"
+        },
+        {
+          "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+          "lead": "Intero Biosystems beat out 199 other Startup Battlefield companies to",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/"
+        },
+        {
+          "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+          "lead": "Following a string of incidents where AI models hacked websites and",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
+        },
+        {
+          "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
+          "lead": "Even under general anesthesia, the human brain can analyze language",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm"
+        },
+        {
+          "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+          "lead": "Bluesky's Attie AI tool, which initially launched earlier this year",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps"
+        },
+        {
+          "title": "‘Fourth Wing’ TV Series Casts Esther McGregor and Emilio Sakraya as Violet Sorrengail and Xaden Riorson",
+          "lead": "“Fourth Wing,” Amazon Prime Video’s TV adaptation of Rebecca Yarros’",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/tv/news/fourth-wing-tv-series-xaden-riorson-emilio-sakraya-1236905893/"
+        },
+        {
+          "title": "Trump cancels Hegseth’s plan to livestream execution after backlash",
+          "lead": "US president overrules decision to broadcast execution of former",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/064f7a19-c495-4ba0-a5e5-a6c4bb764ddb?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action",
+          "lead": "Singapore continues to grapple with severe haze that is disrupting",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/16/singapore-haze-wong-warning-indonesia.html"
+        },
+        {
+          "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+          "lead": "The founders detailed how their startup is developing AI that can",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
+        }
+      ],
+      "supplement": {
+        "title": "Taylor Sheridan’s ‘Frisco King’ Starring Samuel L. Jackson Sets Release Date (TV News Roundup)",
+        "lead": "Samuel L. Jackson is the new returning king in town in Taylor Sheridan’s “Frisco King,” where he reprises his role of Russell Lee Washington Jr..",
+        "body": [
+          "Samuel L.",
+          "Jackson is the new returning king in town in Taylor Sheridan’s “Frisco King,” where he reprises his role of Russell Lee Washington Jr..",
+          "The New Orleans gangster establishes a new kingdom in Frisco, Texas, where he discovers a hustler running his business amid the suburban town. Per the series logline, “Recruiting an ambitious […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-oct-12-1236909160/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/FriscoKing_101_EM_0420_00139_RT.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 16,
+        "categories": 7,
+        "topGroups": [
+          "BBC×6",
+          "Variety×4",
+          "ScienceDaily×4",
+          "TechCrunch×3",
+          "FT×2",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-16T00:09:21.116Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 799,
+        "lang": 454,
+        "fresh": 360,
+        "denoised": 359,
+        "deduped": 339
+      },
+      "en": {
+        "fetched": 799,
+        "lang": 345,
+        "fresh": 329,
+        "denoised": 328,
+        "deduped": 321
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×3",
+          "BBC×3",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "界面×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 4,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 16,
+        "categories": 7,
+        "topGroups": [
+          "BBC×6",
+          "Variety×4",
+          "ScienceDaily×4",
+          "TechCrunch×3",
+          "FT×2",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

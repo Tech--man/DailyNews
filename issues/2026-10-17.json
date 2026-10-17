@@ -1,0 +1,900 @@
+{
+  "issue": 33,
+  "date": "2026-10-17",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月初八 · 寒露",
+    "en": "8th day of the 9th lunar month · Cold Dew"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "中国商务部回应欧盟峰会提出对华“双轨”思路",
+        "lead": "中新社北京10月16日电 (记者 尹倩芸)针对欧盟峰会提出对华“双轨”思路，中国商务部新闻发言人16日表示，欧方不能幻想以施压换取好处，更不要低估中方维护自身利益的决心和能力。",
+        "body": [
+          "中新社北京10月16日电 (记者 尹倩芸)针对欧盟峰会提出对华“双轨”思路，中国商务部新闻发言人16日表示，欧方不能幻想以施压换取好处，更不要低估中方维护自身利益的决心和能力。"
+        ],
+        "source": "中新網財經",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-16/10716004.shtml",
+        "category": "world",
+        "categoryLabel": "国际",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "揭秘俄罗斯鼠疫研究所：系统庞大隐秘，安全防护存疑",
+        "lead": "一名在俄罗斯鼠疫研究实验室工作的28岁研究员因不明感染死亡。这些实验室散布在前苏联加盟共和国各地，鲜有外国人参观，而且一直笼罩在神秘的面纱之下。 Irkutsk Antiplague Research Institute, via Agence France-Presse",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/science/20261016/russia-plague-laboratory-mystery/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "赞比亚霍乱疫情致25人死亡 官方紧急启动疫苗接种",
+              "lead": "新华社哈拉雷10月16日电(记者叶挺)卢萨卡消息：赞比亚政府16日在首都卢萨卡紧急启动口服霍乱疫苗接种工作，以应对近期该国多地暴发的霍乱疫情。据赞比亚卫生部最新通报，本轮疫情已造成25人死亡，确诊病例达966例。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716050.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "新任白宫新闻秘书在中国做过律师吗？我们进行了事实核查",
+              "lead": "新任白宫新闻秘书关于自己履历的陈述引发争议。时报核查发现，扎卡里亚拥有法学学位，但并无迹象显示她通过了律师执业资格考试。她是否曾在中国从事法务工作也存在疑问。 Kenny Holston/The New York Times 新任新闻秘书凯蒂·扎卡里亚周二在白宫外。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261015/trump-press-secretary-katie-zacharia-lawyer/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "「我今年12岁，该尝试蛋白粉吗？」",
+              "lead": "BBC询问专家，儿童和青少年服用蛋白质补充剂是否安全。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cqkgl3re7mnpo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8554/live/d1f10220-c26e-11f1-bc2e-018d645d8d21.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "价格改革推动普惠养老服务提质扩面",
+              "lead": "养老迎来新变化，关系大家钱包。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-16/10716039.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "中央气象台发布暴雨蓝色预警",
+              "lead": "",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15202124.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "美芯片股八连跌！2万亿美元市值蒸发，创2008年来最长跌势",
+              "lead": "一场围绕人工智能投资回报前景的市场质疑将 芯片股推入八连跌困境 ， 创下2008年金融危机以来最长连跌纪录 。 本周纳指累跌超4%、创2025年4月关税动荡以来最差单周表现。费城半导体指数本周累跌11.4%，过去八个交易日累计下跌逾13%、蒸发市值约2万亿美元。 AI基础设施建设成本高企、而企业盈利回报前景模糊，正令投资者重新审视这一赛道的逻辑根基。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3783819",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "苹果79美元 iPhone Duo保护壳采用粘胶固定设计引发关注",
+              "lead": "随着苹果首款可折叠手机 iPhone Duo 开启预购，其官方配件细节也陆续曝光。根据已经在零售店接触到产品的用户反馈，苹果售价79美元的 iPhone Duo 官方保护壳并非通过卡扣或磁吸方式固定，而是依靠粘胶贴附在设备机身上。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1582572.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "非磁吸 / 卡扣：苹果 79 美元 iPhone Duo 手机壳靠胶条固定",
+              "lead": "IT之家 10 月 17 日消息，科技媒体 MacRumors 昨日（10 月 16 日）发布博文，报道称适用于苹果首款折叠 iPhone Duo 的官方手机壳（售价为 79 美元 （IT之家注：现汇率约合 529.5 元人民币） ）并未采用常规的卡扣或磁吸方式固定， 从曝光的上手图片来看采用胶条方案 ，引发不少科技用户讨论。 这款保护壳由左右两部分组成，内侧边缘配有黏性胶条。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/014/199.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "Meta 发布其开放权重模型 Muse Spark Open",
+              "lead": "Meta 发布了 Muse Spark Open，称它是目前美国最强大的开放权重模型。Muse Spark Open 为多模态模型，总共有 8160 亿参数，激活参数 420 亿，支持 100 万 Token 上下文。该模型利用了苹果最新版本的开源数组框架 MLX，对苹果 Apple Silicon 的统一内存架构进行了优化，能运行在搭载 M5 Ultra 芯片的 Mac Studio 上。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85634",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "马来西亚推出六款本土研发芯片及相关成果",
+              "lead": "中新社吉隆坡10月16日电 (记者 刘育英)马来西亚16日发布六款本土研发的半导体芯片及相关技术创新成果，预计合计销售潜力约3亿林吉特(约合4.9亿元人民币)，旨在推动本国半导体产业在封装、测试等传统优势基础上，加强本土芯片设计与研发能力，进一步向产业价值链上游拓展。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-16/10715965.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "石油出口放缓之际 霍尔木兹海峡轮船遇袭案件创新高",
+              "lead": "BBC事实查核（BBC Verify）对英国海事机构数据的分析显示，过去一星期内有12艘船只遭到袭击。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cqx2vky9ky0no/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/139a/live/0f24b0c0-c8b3-11f1-bc2e-018d645d8d21.png"
+            },
+            {
+              "title": "以民主换柴油，特朗普的交易令所有人蒙羞",
+              "lead": "没有任何美国核心价值是特朗普不会出卖的，他珍视的是金钱而非民主。当他利用美国总统职位牟利的时候，那就是我们集体的耻辱。 Photo illustration by Kim Hoeckele for The New York Times",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/opinion/20261016/trump-russia-oil-putin/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "商务部新闻发言人就欧盟峰会提出对华“双轨”思路答记者问",
+              "lead": "问： 据媒体报道，欧盟认为其在混动 汽车 磋商中对华施压取得成效，拟在更多行业采取限制。近日召开的欧盟峰会提出对华“双轨”思路，将在继续开展密集磋商的同时，加大对华限制力度，甚至包括动用“反胁迫”工具。请问中方对此有何评论？ 答： 中方注意到有关报道。中欧按照双方确定的遵守世贸组织规则、基于事实和非歧视的三项原则，就混动 汽车 达成的谅解是对等互利的，既有力维护了中国企业的实际利益，也回应了欧方关切，避免了中欧贸易摩擦局面升级。",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://finance.eastmoney.com/news/1345,202610163898560752.html",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "从50后到00后，理疗店里的故事",
+              "lead": "「你对我的工作有点贬低，应该跟我道歉。」她告诉丈夫自己不想躺平，以前觉得自己除了带孩子一事无成，是工作给了她人生价值。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261017-job-inside-out-stories-from-a-chinese-massage-spa/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GettyImages-2286177786-3.jpg"
+            },
+            {
+              "title": "AI历史短剧观察：严肃叙事如何跨越算法“流量墙”？",
+              "lead": "中新网杭州10月16日电(蓝伊旎)日前，走历史正剧叙事路线的AI漫剧《龟兹三十载，一甲护唐疆》被搬上手机屏幕，上线72小时总播放量仅4.52万次，与平台上动辄千万级播放的爽剧形成强烈反差。这组数据折射出当前AI短剧行业的现实困境：低成本爽剧收割流量、商业回报可观，而坚守厚重叙事的AI历史正剧，却很难留住观众。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-16/10715983.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "电影手册评与导演专访 (评论: 希望)",
+              "lead": "树上躺着默而索 评论: 希望 评价:",
+              "source": "豆瓣",
+              "group": "豆瓣",
+              "link": "https://movie.douban.com/review/17857524/",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "青海“青BA”群众篮球联赛总决赛打响",
+              "lead": "中新网西宁10月17日电 (记者 孙睿)16日晚，2026年青海省“青BA”群众篮球联赛总决赛在西宁打响。8支代表队、130余名群众球员，将在为期5天的比赛里进行20场角逐，争夺总冠军。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-17/10716024.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "2026 Velosolutions UCI泵道世锦赛总决赛在京开赛",
+              "lead": "中新网北京10月16日电 (记者 吕少威)2026 Velosolutions UCI泵道世界锦标赛总决赛16日在北京市门头沟区小轮车全民运动基地开赛，这是该项赛事自2019年启动以来首次落地亚洲。历经全球24站资格赛的层层角逐，来自29个国家和地区的95名顶尖骑手齐聚京西福地门头沟，共同向泵道竞技的最高荣誉发起冲击，争夺象征UCI自行车世锦赛冠军身份的彩虹衫。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-16/10715925.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "甘肃文物数字化创新创意设计大赛：直面行业共性难题",
+              "lead": "中新网兰州10月16日电 (记者 冯志军)第二届“甘博杯”文物数字化创新创意设计大赛启动仪式暨2026年馆校企协同文博数智化高质量发展座谈16日在甘肃省博物馆举行，吸引省内外文博单位、高校院所及文化科技企业代表100余人出席活动。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/10-16/10715999.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "苹果称iPhone Duo需求\"非同寻常\"，预购开放数分钟即告罄，发货延至明年1月",
+          "lead": "苹果首款折叠屏iPhone预购爆单，分析师上调销售预期，股价小幅走高。 苹果公司周五表示",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783823"
+        },
+        {
+          "title": "默茨：欧盟应保持财政克制，反对大幅扩增预算规模",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15202154.html"
+        },
+        {
+          "title": "美沙冬是毒还是药？从香港经验看台湾选战戒毒争议",
+          "lead": "台北市长选举引发对「美沙冬」（香港称「美沙酮」）与毒品减害政策的论战，然而在海峡对岸的香港，这项计划已运作超过半世纪。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/watch/cmwyq699de35o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "一场AI智能体的聚会：它们聊些什么？",
+          "lead": "上个月，一群科技界人士齐聚纽约，他们中一些人的AI智能体也参加了一场在线的平行晚宴。随着AI智能体的普及",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/technology/20261016/ai-agents-communication-tech-dinner-party/?utm_source=RSS"
+        },
+        {
+          "title": "双11 iPhone Duo平台大战：预售秒罄 首批现货最高溢价超7000元",
+          "lead": "苹果首款折叠屏手机 iPhone Duo 今日20:00 正式开售，首批货源迅速售罄，多家电商平台的官方旗舰店入口一度出现卡顿。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1582566.htm"
+        },
+        {
+          "title": "交货期排到明年，苹果称 iPhone Duo 市场需求异常旺盛",
+          "lead": "IT之家 10 月 17 日消息，北京时间今天（17 日）凌晨，据英国《金融时报》报道，苹果表示",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/014/196.htm"
+        },
+        {
+          "title": "人真能活到 200 岁吗？",
+          "lead": "2000 年生物学家史蒂文·奥斯塔德提出了一个颇具争议的说法：“世界上第一个将活到 150 岁的人现在很可能已经出生了。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85632"
+        },
+        {
+          "title": "【不端著 Podcast EP02】6岁女童之死，揭开中国基因治疗的哪些问题？专访Y博周叶斌",
+          "lead": "今年7月，「科学」与「撤稿观察」揭露，上海一名患有轻微自闭症的6岁女童小美，死于一起基因治疗临床试验。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261016-initium-audio-china-medical-trials-issues/"
+        },
+        {
+          "title": "预售 16.98 万元起，MONA L05 攻入小鹏主品牌腹地",
+          "lead": "聊到小鹏，总有人打趣，MONA 才是它的「本体」。 过去两年里，MONA 系列累计交付突破 35 万台，月均稳在 1.4 万台以上",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1684729?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "消息称软银拟收购美国安保巨头 让机器人上岗？股价跌超9%",
+          "lead": "北京时间周六凌晨，有媒体援引知情人士报道称， 软银集团正在考虑收购美国最大安保服务公司联合环球（Allied Universal） 。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1354,202610173898802879.html"
+        },
+        {
+          "title": "🔥🔥GOTC 2026 全球开源技术峰会，这次玩点不一样的！",
+          "lead": "去年，GOTC 2025 在北京落幕：3,000+ 人次现场参会，600 万+ 线上观看，4 亿+ 媒体曝光。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/503061"
+        },
+        {
+          "title": "《魅影神捕》：每一帧都不是废戏，每一滴泪都有来处 (评论: 魅影神捕)",
+          "lead": "星光渡日常 评论: 魅影神捕 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17858546/"
+        },
+        {
+          "title": "8月海外资金重返美债市场，英国持仓首破万亿，中日继续减持、中国持债08年来新低",
+          "lead": "美国官方数据显示，今年8月，海外资金重返美国国债市场，但主要海外持有国家地区的配置方向仍然分化，前三大“债主”中，日本和中国大陆继续减持",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783815"
+        },
+        {
+          "title": "中央气象台发布强对流天气蓝色预警",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15202128.html"
+        },
+        {
+          "title": "哈里与梅根返英后首次亮相，为何如此像一场正式王室活动？",
+          "lead": "萨塞克斯公爵伉俪已经好几年没有在英国本土举办过类似诺丁汉当天那样的活动了。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/ck5yn7plnlllo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "真的有人能活到200岁吗？",
+          "lead": "一些专家乐观地认为，科学最终会找到实现更长寿命的方法。但许多关于长寿的说法是不切实际的，许多长寿研究关注的是健康寿命",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/health/20261016/humans-lifespan-limits-potential/?utm_source=RSS"
+        }
+      ],
+      "supplement": {
+        "title": "【不端著 Podcast EP02】6岁女童之死，揭开中国基因治疗的哪些问题？专访Y博周叶斌",
+        "lead": "今年7月，“科学”与“撤稿观察”揭露，上海一名患有轻微自闭症的6岁女童小美，死于一起基因治疗临床试验。随后一个月内，国际权威医药媒体又陆续披露了另外两起中国基因治疗受试者死亡事件。 这些事件背后，都指向一种名为“IIT”的试验模式，即研究者发起的临床试验。随著中国IIT试验加速发展，相关研究的伦理审查、风险管控与监管机制，也引发关注。 小美事件中，家长为何自费86万美元支持这项研究？",
+        "body": [
+          "今年7月，“科学”与“撤稿观察”揭露，上海一名患有轻微自闭症的6岁女童小美，死于一起基因治疗临床试验。随后一个月内，国际权威医药媒体又陆续披露了另外两起中国基因治疗受试者死亡事件。这些事件背后，都指向一种名为“IIT”的试验模式，即研究者发起的临床试验。随著中国IIT试验加速发展，相关研究的伦理审查、风险管控与监管机制，也引发关注。",
+          "小美事件中，家长为何自费86万美元支持这项研究？当基因治疗带来罕见疾病的治疗希望，却也伴随难以预估的风险，患者家庭又该如何在希望与风险之间作出选择？本期节目，我们邀请Y博作客“不端著”，一起解析三起基因治疗死亡事件，探讨中国IIT临床试验的运作模式，以及其背后的风险与监管问题。🎙️ 本集来宾 Y博（周叶斌）｜遗传学博士，长期从事免疫学及生物医药研发工作。",
+          "疫情期间，他持续在网路上解读病毒、疫苗及免疫学等相关知识，成为不少中文读者熟悉的科普作者。📅 “不端著”Podcast播出资讯：每两周的周五更新一集。期待你跟我们分享想法，邮箱地址：podcast@theinitium.com 【制作团队】 出品：端传媒音频 监制：陈婉容 主持：谢达文 制作人：Freya 剪辑：王伯维 主题音乐：Butterstone〈Calmion〉 接连曝光受试者死亡，中国基因编辑等前沿治疗怎么了？中国蓬勃发展的基因治疗、细胞治疗产业有何优势？早期临床试验有何安全隐患和监管盲区？"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261016-initium-audio-china-medical-trials-issues-zh-hans/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/-------------1x1-.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×3",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "BBC×2",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+        "lead": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+        "body": [
+          "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it."
+        ],
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddb/live/6a9aa9b0-c97a-11f1-a64c-550be9e3c66b.png",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Shooter in fatal Bend, Oregon, school shooting was former student there",
+        "lead": "One teacher and three children killed after Griffin J John II, 16, barged into elementary school and began shooting Oregon elementary school shooting",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/us-news/2026/oct/16/oregon-school-shooting-latest",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/721fe7ed286398d43646f7f2e6c88af2bca1e3e7/169_0_5083_4065/master/5083.jpg?width=140&quality=85&auto=format&fit=max&s=8514881a2eed87c62cf69e7987f89064",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
+              "lead": "A roof collapse that killed 32 children and a teacher in northwest Pakistan has prompted safety inspections of schools across the region.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16pakistan-school-01-fjmc/16pakistan-school-01-fjmc-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Brush fires set homes ablaze in southern California as it braces for more hot weather",
+              "lead": "Hot, windy weather stokes fires in southern California with mandatory evacuation orders in place for many A fast-moving fire has spread into neighborhoods in southern California as the region braces for more hot",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/us-news/2026/oct/16/southern-california-brush-fires-force-evacuations",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/e265e0346262b5d183f70d6ebff0c0e9dd3afcb6/348_0_3304_2642/master/3304.jpg?width=140&quality=85&auto=format&fit=max&s=bc0e9e060e20a2c6c0f3ca3b2572a618",
+              "consensus": 5
+            },
+            {
+              "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+              "lead": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+              "source": "BBC News",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16df/live/2fc36f20-c8bc-11f1-bc2e-018d645d8d21.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Citi becomes latest US bank to restrict AI agents from accessing accounts",
+              "lead": "US lenders fear chatbots could shift billions of dollars in deposits to higher-yielding accounts",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdfaa9e47-07ac-4c36-90f1-72e12d49a6fe.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+              "lead": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
+              "lead": "Beijing warns against ‘discriminatory’ step after France drops opposition to British role in Made in Europe package No 10 has left the door open to imposing tariffs on Chinese-made electric vehicles as part of the Made",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://i.guim.co.uk/img/media/d50e0bb4a5fc6d77b7f869e6a131ef2969dbc048/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=14d31939a47c4da3f3e2315e5ad5091a"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "India becomes the latest country to report rogue AI agent activity",
+              "lead": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+              "lead": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+              "lead": "Some Ray-Ban Meta smart glasses were recording people’s conversations without the wearer knowing. The recordings occurred without users saying the prompt phrase (“Hey, Meta”), in a bug that Meta says has been fixed.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/unnamed-1-875x648.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Was game of the season contender a statement from Coleraine?",
+              "lead": "Ruaidhri Higgins expresses his delight at the manner of his Coleraine side's comeback victory away to Larne.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c862y574gyx3o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa2b/live/5ff517f0-c9a9-11f1-860a-094a55b4b556.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "South African rugby player Hyron ​Andrews dies in France ahead of Champions Cup debut",
+              "lead": "Hyron ​Andrews, a 31-year-old rugby player for the Lions team, was found dead at a hotel in France on Friday, the day before the South African club ​are due to play La Rochelle in the Champions Cup.",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/sport/20261016-south-african-rugby-player-found-dead-in-french-hotel-ahead-of-champions-cup-debut",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://s.france24.com/media/display/58103e3a-c976-11f1-9068-d1d2c32ebb87/w:1024/p:16x9/000-D3HQ3CQ.jpg"
+            },
+            {
+              "title": "Do Manchester City have any grounds to win their appeal?",
+              "lead": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawyer has told BBC Sport.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/cb7000d0-b9aa-11f1-8a1a-0176f978c211.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "‘Red Rising’ Movie in the Works at Paramount With ‘Hunger Games’ Director Francis Lawrence",
+              "lead": "Hail Reaper! The rights to the popular “Red Rising” book series have been picked up at Paramount with “Hunger Games” director Francis Lawrence attached to a movie based on the first novel.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/red-rising-movie-paramount-hunger-games-director-books-1236914459/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/red-rising-1000-2.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Busan International Film Festival builds momentum as an ‘A-list’ festival",
+              "lead": "Iranian filmmaker Majid Majidi and Malaysian actor Michelle Yeoh were among the honorees in Busan, a showcase of Asian talent.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/culture/2026/10/16/film/31st-busan-international-film-festival-a-list/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/569003.jpeg"
+            },
+            {
+              "title": "‘I Play Rocky’ Surprise Screens at London Film Festival",
+              "lead": "London Film Festival’s surprise film on Friday night was “I Play Rocky,” Peter Farrelly’s biographical drama about the beginnings of Sylvester Stallone’s beloved boxing franchise.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/festivals/i-play-rocky-surprise-movie-london-film-festival-1236914385/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/09/I-Play-Rocky_HERO.jpg"
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "USC scientists discover how to create a never-ending supply of cancer-fighting cells",
+              "lead": "USC scientists have discovered a way to create a potentially renewable supply of genetically engineered immune cells that can attack cancer and strengthen the body's natural defenses.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261015003803.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Yale scientists discover how stress changes the brain to make memories stronger",
+              "lead": "Yale scientists have uncovered how the stress hormone cortisol helps the brain turn emotional experiences into stronger, longer-lasting memories.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261014015517.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+          "lead": "The 16-year-old suspect previously attended the primary school and",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Israeli settlers attack Palestinians carrying out olive harvest in West Bank",
+          "lead": "Washington Post journalist among those injured during violence in",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/432c9cff-b86f-4712-8e64-56cf3895d687?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
+          "lead": "In the latest surge of violence, settlers targeted Palestinians",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html"
+        },
+        {
+          "title": "Mortgage repayments are now cheaper than rent in some Australian suburbs. Is yours among them?",
+          "lead": "As house prices plateau, the gap between the cost of buying and",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/17/buying-a-home-cheaper-than-renting-in-some-australian-suburbs"
+        },
+        {
+          "title": "Paraguay’s tech minister defies Beijing sanctions, says Taiwan ties ‘not up for negotiation’",
+          "lead": "Paraguay’s technology minister said on Thursday that sanctions",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/china/article/3371214/paraguays-tech-minister-defies-beijing-sanctions-says-taiwan-ties-not-negotiation?utm_source=rss_feed"
+        },
+        {
+          "title": "Ukraine president targets Trump, Putin at EU summit",
+          "lead": "President Zelenskyy warned Russia’s ambitions extend beyond eastern",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss"
+        },
+        {
+          "title": "Sally Rooney's books no longer sold in UK over support for banned pro-Palestinian group",
+          "lead": "Irish novelist Sally ⁠Rooney's books will ​no longer be sold in",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/video/20261016-sally-rooney-s-books-no-longer-sold-in-uk-over-support-for-banned-pro-palestinian-group"
+        },
+        {
+          "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
+          "lead": "Ukrainian officials complained this week that SpaceX had limited",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html"
+        },
+        {
+          "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+          "lead": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/"
+        },
+        {
+          "title": "Scientists discover a plastic-eating “Pac-Man” enzyme with a surprising secret",
+          "lead": "Scientists have discovered a remarkable “Pac-Man enzyme” that helps",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261014015509.htm"
+        },
+        {
+          "title": "Elizabeth Holmes’ Partner Billy Evans Admits ‘She Looks Insane’ in ‘You Can See Everything’ Trailer but Defends Making the Doc: ‘Make Up Your Own Mind’",
+          "lead": "Elizabeth Holmes’ partner Billy Evans appeared on the “All-In”",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/news/billy-evans-defends-you-can-see-everything-elizabeth-holmes-insane-1236914043/"
+        },
+        {
+          "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
+          "lead": "After a Chrome clone was spotted on the Play Store earlier this week",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android"
+        },
+        {
+          "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+          "lead": "If you got a DM from an unverified Jon Bon Jovi account after",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/"
+        },
+        {
+          "title": "Pope pictured for first time since surgery and cancer diagnosis",
+          "lead": "The pontiff was diagnosed with lung cancer after having surgery at",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Republicans turn on Trump’s tariffs in battle for ‘political survival’",
+          "lead": "US president’s trade war has become an albatross for his party in",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/e2acd655-0a6a-4de6-9404-c838f6e7b8cb?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
+          "lead": "U.S. crude oil prices rose sharply Friday as Iran escalated attacks",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html"
+        }
+      ],
+      "supplement": {
+        "title": "The Impossible ‘Whalefall’: Director Brian Duffield Wanted a Challenge, So He Discovered a Way to Crush Austin Abrams in a Whale Stomach That Left Onlookers ‘Baffled’",
+        "lead": "Turns out that it’s tough to shoot in a whale’s stomach. “Whalefall” director Brian Duffield is gleefully outlining some of the biggest hurdles while shooting his new movie.",
+        "body": [
+          "Turns out that it’s tough to shoot in a whale’s stomach.",
+          "“Whalefall” director Brian Duffield is gleefully outlining some of the biggest hurdles while shooting his new movie.",
+          "The premise for the film, in theaters now via 20th Century Studios, is simple: A young diver named Jay (Austin Abrams) is accidentally swallowed by a whale, […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/features/whalefall-austin-abrams-crushed-whale-stomach-on-set-1236912491/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/Brian-Duffield1669-FORWEB.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "Guardian×3",
+          "ScienceDaily×3",
+          "TechCrunch×2",
+          "The Verge×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-17T00:12:42.687Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 800,
+        "lang": 455,
+        "fresh": 362,
+        "denoised": 359,
+        "deduped": 336
+      },
+      "en": {
+        "fetched": 800,
+        "lang": 345,
+        "fresh": 321,
+        "denoised": 320,
+        "deduped": 314
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×3",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "BBC×2",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "Guardian×3",
+          "ScienceDaily×3",
+          "TechCrunch×2",
+          "The Verge×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

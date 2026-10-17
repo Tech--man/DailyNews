@@ -1,0 +1,840 @@
+{
+  "issue": 34,
+  "date": "2026-10-18",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月初九 · 寒露",
+    "en": "9th day of the 9th lunar month · Cold Dew"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "世界超级摩托车锦标赛西班牙站：“张雪机车”首回合获第10名",
+        "lead": "中新社西班牙赫雷兹10月17日电 当地时间17日，2026世界超级摩托车锦标赛(WSBK)西班牙赫雷兹站WorldSSP组别首回合正赛中，中国摩托车制造商“张雪机车”的法国车手瓦伦丁·德比斯获第10名，他的队友、意大利车手费德里科·卡里卡苏洛位列第14名。雅马哈车手阿雷纳斯夺得冠军。",
+        "body": [
+          "中新社西班牙赫雷兹10月17日电 当地时间17日，2026世界超级摩托车锦标赛(WSBK)西班牙赫雷兹站WorldSSP组别首回合正赛中，中国摩托车制造商“张雪机车”的法国车手瓦伦丁·德比斯获第10名，他的队友、意大利车手费德里科·卡里卡苏洛位列第14名。",
+          "雅马哈车手阿雷纳斯夺得冠军。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/ty/2026/10-17/10716478.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "「我担心得不敢去中国了」：韩国脱北者接连收到警方赴华警告",
+        "lead": "为何已在韩国定居的脱北者，如今对前往中国感到忧虑？BBC深入了解韩国警方发出旅游警告的背景，以及脱北者实际遭中国当局拒绝入境的个案。",
+        "source": "BBC中文",
+        "group": "BBC",
+        "link": "https://www.bbc.com/zhongwen/articles/cmd6dgj9jwp8o/trad?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "categoryLabel": "国际",
+        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ceeb/live/358939a0-c923-11f1-9a39-31b474234113.jpg"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "纽约曼哈顿地铁站发生枪击事件致一人死亡",
+              "lead": "新华社纽约10月17日电(记者施春)据当地警方消息，美国纽约曼哈顿一地铁站17日发生枪击事件，造成一名男子死亡。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-18/10716481.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "上任仅五天便下台，特朗普的白宫新闻秘书出了甚么问题？",
+              "lead": "BBC驻北美记者分析，距离关键的国会中期选举只剩几个星期，白宫正面临愈来愈多的挑战。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/ck5yng42z0dlo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/355e/live/bd7af110-c99f-11f1-ad54-aba20166b422.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "从原料输出到加工增值 海南自贸港政策赋能屯昌橡胶产业升级",
+              "lead": "中新网海南屯昌10月17日电 (王翔龄 李韩智 傅后凡)一批105吨、货值约130万元的越南浓缩乳胶，17日运抵位于屯昌县的海南翊沣农业科技有限公司乳胶丝项目厂区启动精深加工。该批原料依托加工增值30%内销免关税政策进口，待加工增值达标并实现内销后，标志着屯昌实现从“原料输出腹地”向“加工增值高地”的转变，这也是海南自贸港核心政策在县域实体经济场景的精准应用。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-17/10716432.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "“蔷琵”加强为超强台风，未来或将继续加强",
+              "lead": "",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15203293.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "马斯克反思白宫往事 称美债问题只能靠AI和机器人解决",
+              "lead": "最新报道显示，世界首富埃隆·马斯克在做客传记作家沃尔特·艾萨克森（《马斯克传》作者）新播客节目时，罕见地细致反思了自己进入特朗普政府、领导政府效率部（DOGE）的经历。 马斯克承认， 削减政府开支的尝试并未能从政府内部解决美国的财政赤字问题 。他甚至将 解决美国国债问题的希望寄托于 人工智能 （AI）和 机器人 技术 。",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://finance.eastmoney.com/news/1354,202610183899090728.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "天文学家找到首颗“绿色恒星” 一颗吞噬行星残骸的白矮星",
+              "lead": "一项新研究显示，编号为WD J1330+6435的白矮星若能近距离分辨其星体表面，可能会呈现黄绿色。这颗恒星位于天龙座，距地球约300光年。研究人员将其称为目前已知首颗呈现绿色的恒星，但这一颜色是根据恒星光谱和人眼视觉模型推算出来的，并非天文学家直接拍到或肉眼看见的绿色星体。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/science/1582690.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "韩国半导体工程师指控特斯拉：施压三星压低 AI 芯片报价、索要敏感信息并挖角其人才",
+              "lead": "IT之家 10 月 18 日消息，据 Tweaktown 报道，一名韩国半导体工程师指控，特斯拉在与三星签订芯片代工协议时，试图争取极为优厚的条款：既要获取敏感的制造工艺信息、审计权限，同时还要求压低报价。这位在 X 平台账号 @TTHUEONE 发文的工程师还称，特斯拉的 Terafab 项目从三星位于得州泰勒的工厂挖走了大量员工。 这些指控出现前，埃隆 · 马斯克（Elon Musk）刚度过事务繁忙的一周。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/014/422.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "天文学家发现第一颗绿色恒星",
+              "lead": "天文学家可能发现了第一颗绿色恒星——名为 WD J1330+6435 的白矮星，位于地球 326 光年外。部分死亡恒星——即白矮星——在吞噬围绕其运行的行星后，可能会呈现出绿色。WD J1330+6435 一直在吸积其行星伴星上的岩石物质。这一过程使其大气中富含钙、锂和钠元素。模型表明这些元素的存在使得 WD J1330+6435 呈现绿色。WD J1330+6435 是已知首颗真正呈现绿色的恒星。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85637",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "把涉疆谎言写成“论文”，就成事实了？｜真相",
+              "lead": "在舆论博弈场上，虚假叙事最怕事实，最爱“包装”。一些西方所谓的学术研究，不靠真实证据支撑，反而靠自创晦涩理论、堆砌专业术语，试图给自己镀金，把刻意编造的谣言，包装成看似客观严谨的“学术成果”。然而，这种伪学术套路，明眼人一看就能戳穿，毫无说服力。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716229.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "韩国学者：朱子家礼海外本土化为多元文明互鉴提供古老智慧",
+              "lead": "中新网南平10月17日电 (张丽君 陈悦 吴冠标)在朱子学与多元文明对话大会暨第五届考亭论坛举办期间，韩国中央大学名誉教授卢仁淑围绕《朱子家礼》的海外传播与本土化实践发表了研究观点。她以朝鲜著名学者星湖李瀷的《家礼疾书》为研究样本指出，朱子礼制在朝鲜的落地并非简单的照搬移植，而是结合时代、民生与社会条件的创造性调适，其“因时变通、普惠庶民”的礼学实践，为古今文明对话、中外文化互鉴提供重要东方智慧。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716460.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "中美绿色海事服务合作研讨会在福州举行 共推航运低碳转型",
+              "lead": "中新社福州10月17日电 (郑江洛)中美绿色海事服务合作研讨会17日在福州举行。与会者围绕绿色海事服务、产业协作、人才培养等议题展开交流，期待加强合作，推动全球航运绿色转型。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-17/10716455.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "香港的超级珊瑚：践踏和白化中不断「复原」的牠们，万一有天不再回来？",
+              "lead": "编按： 去年十一黄金周，游客在香港西贡践踏珊瑚的新闻引发热议。除了走调的生态旅游，还得面对极端天气的压力，在边缘中生存下来的香港珊瑚，却是特别坚韧。 但复原力再强，若被持续施压，亦可能死亡，并不再回来。要如何在不可逆转的结局之前尽力保存？文章访问了关注珊瑚生态的潜水教练和学者，从前线纪录研究、珊瑚历史谈到复育工作的复杂性。这趟水底旅程，先从看见珊瑚开始。 作者介绍： 陈大鼻，洋名 Debby，土生土长香港人。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261018-hongkong-coral-restoration-crisis-hope/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/TKH20261001W121-W_1-3.jpg"
+            },
+            {
+              "title": "舞剧《妈祖》首轮演出发布会在福州举行",
+              "lead": "中新网福州10月17日电 (叶秋云)舞剧《妈祖》首轮演出发布会17日在福建大剧院举行。该剧以当代舞蹈语汇重述妈祖林默的济世故事，将于10月18日至19日在福建大剧院进行启幕特别演出；10月31日至11月1日在莆仙大剧院开启全球首演。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-17/10716450.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "2026LPGA锦标赛第二轮：韩国球员崔慧珍保持领先",
+              "lead": "中新网上海10月17日电 (记者 缪璐)10月16日，2026别克LPGA锦标赛展开第二轮角逐，起风后的佘山国际高尔夫俱乐部难度大增。韩国球员崔慧珍(Hye-Jin Choi)本轮交出74杆，以总成绩-6杆继续领跑，中国球员殷若宁与卫冕冠军、泰国球员吉诺·提提库(Jeeno Thitikul)以总成绩-2杆位于并列第7位。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-17/10716272.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "马斯克称AI和机器人是解决美国国债问题唯一途径",
+          "lead": "马斯克在与传记作者沃尔特·艾萨克森的一次最新播客访谈中表示，曾由他领导的“DOGE”（政府效率部）的工作最终不了了之；",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1582678.htm"
+        },
+        {
+          "title": "墨西哥恰帕斯州近海发生5.2级地震",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15203237.html"
+        },
+        {
+          "title": "荣耀新一代 Earbuds 耳夹式耳机开售：单耳重 5.6 克、综合续航 40 小时，到手价 449 元",
+          "lead": "IT之家 10 月 18 日消息，荣耀新一代 Earbuds 耳夹式耳机将于今日 08:24 开售， 到手价 449 元 。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/014/426.htm"
+        },
+        {
+          "title": "IMF警告日本可能需要更快加息，全球债市再添压力？",
+          "lead": "国际货币基金组织罕见地为日本货币政策正常化背书，并警告若通胀超预期，日本央行可能需要加快加息步伐。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783840"
+        },
+        {
+          "title": "游戏逆向工程网站宣布关闭因为 AI 让反编译游戏变得非常容易",
+          "lead": "协作游戏逆向工程网站 decomp.dev 宣布将关闭，管理员称 AI 让游戏反编译变得快且易于操作，基于人工的社区协作模式实际上已经瓦解",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85638"
+        },
+        {
+          "title": "从“能用”到“好用”：国常会部署“人工智能+”行动从技术热走向产业实",
+          "lead": "在北京亦庄，一台艾灸 机器人 正沿着老人的背部缓缓移动，外骨骼 机器人 帮偏瘫老人练习走路，按摩 机器人 为老人舒缓身体",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1355,202610183899096252.html"
+        },
+        {
+          "title": "早报｜iPhone Duo开启预购，发货排到明年/特斯拉超跑发布会现场飞了/华为阔直板出货量超71万台",
+          "lead": "iPhone Duo 开启预购，国行部分版本发货排至明年 1 月 特斯拉发布会飞的 Roadster RTX 5090 或绝版",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1684782?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "从50后到00后，理疗店里的故事",
+          "lead": "「你对我的工作有点贬低，应该跟我道歉。」她告诉丈夫自己不想躺平，以前觉得自己除了带孩子一事无成，是工作给了她人生价值。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261017-job-inside-out-stories-from-a-chinese-massage-spa/"
+        },
+        {
+          "title": "[推广] AI Zombie Trend Generator",
+          "lead": "最近在做一个 AI 视频生成项目： Zombie AI Trend 。 想尝试的方向比较垂直：围绕 Zombie Trend 这种短视频创意",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1249691#reply0"
+        },
+        {
+          "title": "有点荒诞的社会性隐喻 (评论: 新集体)",
+          "lead": "呆头猫猫 评论: 新集体 评价: 还行",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17860025/"
+        },
+        {
+          "title": "缅甸发生4.3级地震，震源深度9千米",
+          "lead": "中国地震台网正式测定：10月18日05时08分在缅甸（北纬22.06度，东经99.12度）发生4.3级地震，震源深度9千米。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15203209.html"
+        },
+        {
+          "title": "AI融资成本攀升：Anthropic拟向黑石提供超10%收益率",
+          "lead": "Anthropic正以远高于市场基准的融资成本推进其史上最大规模芯片融资，折射出AI基础设施军备竞赛背后日益高企的资本代价。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783838"
+        },
+        {
+          "title": "Heroes (评论: 怪奇物语 第五季)",
+          "lead": "惊世的螺蛳粉 评论: 怪奇物语 第五季 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17859653/"
+        },
+        {
+          "title": "真的被吓哭了，怎么会有如此肤浅的高分电影，又哭又笑真的像爆发夜 (评论: 给阿嬷的情书)",
+          "lead": "Geallyikigai 评论: 给阿嬷的情书 评价: 很差",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17859185/"
+        },
+        {
+          "title": "爱是全盘曝光，是原罪最滚烫的挣脱 (评论: 爱的曝光)",
+          "lead": "Protostell_ 评论: 爱的曝光 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17859510/"
+        }
+      ],
+      "supplement": {
+        "title": "这一周，不漏读：CNN易主之后",
+        "lead": "这一周，CNN随媒体巨头合并而易主，新东家艾里森家族与美国总统特朗普的政治关系引发疑虑；在台湾，跟监、泼粪与袭击案件接连起诉，却难以适用《反渗透法》，遭质疑刑责过轻。无需担心没时间跟上新闻——每逢东亚时间周一、周五，定时开启端周报，我们带你快速掌握近期的新闻关键时刻。 每份周报当中，端传媒图片编辑为我们精选数张全球新闻摄影作品，捕捉未及纳入报导的事件瞬间。",
+        "body": [
+          "这一周，CNN随媒体巨头合并而易主，新东家艾里森家族与美国总统特朗普的政治关系引发疑虑；在台湾，跟监、泼粪与袭击案件接连起诉，却难以适用《反渗透法》，遭质疑刑责过轻。",
+          "无需担心没时间跟上新闻——每逢东亚时间周一、周五，定时开启端周报，我们带你快速掌握近期的新闻关键时刻。每份周报当中，端传媒图片编辑为我们精选数张全球新闻摄影作品，捕捉未及纳入报导的事件瞬间。今天的题图来自美联社摄影记者Yuki Iwamura：2026年10月14日，美国纽约中央公园入口处，一辆雪糕车小贩从他的餐车里向外张望，马车正等待著乘客。",
+          "本周速递要点｜Whatsnew Summary ☁ 国际焦点 派拉蒙吞下华纳兄弟：CNN易主天舞集团，编辑独立能维持吗？派拉蒙天舞10月6日宣布完成收购华纳兄弟探索公司，合并后集团更名「天舞」（Skydance Corporation），由董事长大卫·艾里森（David Ellison）领导。交易含债务约1110亿美元，业务涵盖电影、电视，及CNN、CBS等新闻新闻机构。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261016-weekly/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/AP26287675236080.jpg"
+      },
+      "stats": {
+        "visible": 32,
+        "sections": 6,
+        "briefs": 15,
+        "groups": 13,
+        "maxGroupShare": 25,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "豆瓣×4",
+          "端傳媒×3",
+          "BBC×2",
+          "東方財富×2",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
+        "lead": "Extremists assaulted residents and broke a European diplomatic vehicle’s window, witnesses said, as settler violence surges in the territory during the olive",
+        "body": [
+          "Extremists assaulted residents and broke a European diplomatic vehicle’s window, witnesses said, as settler violence surges in the territory during the olive harvest."
+        ],
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-westbank-attacks-gzwq/17int-westbank-attacks-gzwq-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Anti-government protesters battle with police in Albania",
+        "lead": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Reform candidate filmed saying asylum seekers should be put in ‘concentration camps’",
+              "lead": "Would-be MP recorded telling undercover reporter in ITV investigation that Muslims could not be British A would-be Reform UK MP told an undercover reporter that Muslims could not be British and asylum seekers should be",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/politics/2026/oct/17/reform-candidate-filmed-saying-asylum-seekers-should-be-put-in-concentration-camps",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/1d991d732bb27d9133acb72455c5f4d4e767e6fa/89_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=4e51ccbc844207afc6ef486fe0f271e5",
+              "consensus": 5
+            },
+            {
+              "title": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery",
+              "lead": "Leo XIV had been treated for lung cancer at Gemelli Hospital in Rome.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-discharged-cfgk/17int-pope-discharged-cfgk-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Trump’s Russia sanctions waiver called mistake by GOP allies",
+              "lead": "At least eight Republican senators and several House lawmakers have spoken out against Trump's diesel deal with Russia or the sanctions waiver.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/news/2026/10/18/world/politics/trump-russia-sanctions-republicans-mistake/",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/18/569064.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
+              "lead": "President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F56d38f6c-78dd-425d-947a-5999facd20d9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
+              "lead": "South Korea's finance minister said semiconductor growth can last at least through 2027 as supply remains tight despite a global chip sell-off.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Low-cost clinic helps pet owners with vet bills",
+              "lead": "RSPCA Medway West launches its clinic for the pets of people with low incomes.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c6kgl39rnnvzo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84fa/live/1e9e0a60-ca34-11f1-9ab2-b325ce61f9d2.jpg"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Meta removes language that raised scraping and AI training concerns",
+              "lead": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "How Taiwan’s new AI satellite system aims to speed up early warning against PLA moves",
+              "lead": "Taiwan will acquire an AI-powered satellite imagery system capable of rapidly identifying People’s Liberation Army ships, aircraft and missile launchers",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/china/military/article/3371252/how-taiwans-new-ai-satellite-system-aims-speed-early-warning-against-pla-moves?utm_source=rss_feed",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/d620da04-f8fc-4f1e-9c12-24a615b8c435_90084c7e.jpg?itok=6Yd--xUM&v=1792228865",
+              "consensus": 5
+            },
+            {
+              "title": "Meta removes language that may have allowed it to scrape news sites",
+              "lead": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
+              "lead": "Neverwinter Nights was made by the studio that produced seminal RPGs Baldur's Gate , Star Wars: Knights of the Old Republic , Mass Effect , and Dragon Age . It sold well and was critically acclaimed at launch.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/NWN-header-1152x648.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Bath loss rounds off tough day for Prem clubs in Champions Cup",
+              "lead": "Montpellier score 22 second-half points without reply to beat Bath on the opening weekend of the Champions Cup.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c370pxwklgwjo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b80/live/b5e66c70-ca69-11f1-bc2e-018d645d8d21.jpg"
+            },
+            {
+              "title": "Reedijk has 'sick feeling in stomach' - are his Hibs team in relegation fight?",
+              "lead": "Two games in, no points gathered and a chorus of boos greeting him at full-time at Easter Road. The honeymoon is well and truly over for Marink Reedijk.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cm4g1e15g76jo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3004/live/efaef830-ca4d-11f1-bc2e-018d645d8d21.png"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Here’s Where to Watch Sebastian Fundora vs. Ermal Hadribeaj Title Boxing Match Live Online for Free",
+              "lead": "This weekend, boxing promoters Premier Boxing Champions travels to Las Vegas for prime title bout between two world-class fighters. American southpaw Sebastian Fundora defends his WBC super welterweight championship",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/shopping/news/how-to-watch-fundora-vs-hadribeaj-boxing-live-online-free-1236909640/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/Boxing-Sebastian-Fundora-vs.-Ermal-Hadribeaj-Getty-VR-Featured.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "‘Klara and the Sun’ Review: There’s No Life — Intelligent, Artificial or Otherwise — in Taika Waititi’s Calamitous Android Fantasy",
+              "lead": "Adapting a solemnly complex, questioning novel as a cockeyed child’s-eye comedy worked once before for Taika Waititi — which is to say that “Jojo Rabbit,” his crass",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/klara-and-the-sun-review-1236914992/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/06/Klara-and-the-Sun.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
+              "lead": "NASA’s Nancy Grace Roman Space Telescope has exceeded expectations after engineers made incredibly tiny adjustments to sharpen its view of the universe.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "NASA’s Webb reveals the wild weather of a mysterious world 20 light-years away",
+              "lead": "NASA’s James Webb Space Telescope has revealed that a turbulent world 20 light-years away has a surprisingly orderly weather system, with three recurring atmospheric states driven by temperature changes and shifting",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261015073215.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "The uranium cubes that exposed Nazi Germany’s nuclear failure",
+              "lead": "Scientists investigating Nazi Germany's secret nuclear program have uncovered evidence that its final experimental reactor was nowhere near as close to working as previously claimed.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261015073218.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+          "lead": "The US president temporarily ends many restrictions on Moscow",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Israeli settlers attack European diplomats in West Bank",
+          "lead": "French mayor and archbishop also attacked during violent attempt to",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank"
+        },
+        {
+          "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
+          "lead": "Riots broke out in several French cities alongside peaceful marches",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html"
+        },
+        {
+          "title": "Houthis encircle new target in conflict with Saudi-backed forces",
+          "lead": "Iran-backed rebels surround Taiz, one of Yemen’s largest cities",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/73329157-1277-42f5-802e-fc339415b5ce?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
+          "lead": "Timberland managers buying for pension funds and other institutional",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html"
+        },
+        {
+          "title": "Is the US Embassy in Jerusalem for Israel or America?",
+          "lead": "What led to the deaths of the nine Americans killed in the occupied",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss"
+        },
+        {
+          "title": "Israeli settlers attack European diplomats, beat up French mayor in West Bank",
+          "lead": "Israeli settlers on Saturday attacked a convoy of European diplomats",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3371275/israeli-settlers-attack-european-diplomats-beat-french-mayor-west-bank?utm_source=rss_feed"
+        },
+        {
+          "title": "Mass protests in France spiral into worst riots in years",
+          "lead": "Demonstrations against rising living costs and declining public",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/18/world/mass-protests-france-riots/"
+        },
+        {
+          "title": "KJ Apa on Becoming Jimmy Stewart, Speculation That He Is the Singer Mr. Fantasy and Opening Up About His Addictions and Recovery: ‘This Is A Huge Part of Who I Am’",
+          "lead": "When KJ Apa was being considered to star as Jimmy Stewart in the new",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/columns/kj-apa-jimmy-stewart-mr-fantasy-addictions-recovery-1236912309/"
+        },
+        {
+          "title": "This bird flies thousands of miles, but its wings have a catch",
+          "lead": "Scientists have uncovered an unexpected trade-off in the wings of the",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261016070624.htm"
+        },
+        {
+          "title": "Science says your boss should talk less in meetings",
+          "lead": "Close to 1 billion meetings take place each day around the world.",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/"
+        },
+        {
+          "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+          "lead": "A four-hour documentary about Elon Musk continues to meet resistance",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/"
+        },
+        {
+          "title": "TikTok bans Musk documentary account",
+          "lead": "Tesla and SpaceX CEO Elon Musk gestures as he speaks during the",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary"
+        },
+        {
+          "title": "European diplomats attacked by Israeli settlers in West Bank",
+          "lead": "The Israeli military condemns the violence but the prime minister's",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
+          "lead": "Trump signed the Graham Bill, which targeted Russia over its invasion",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html"
+        },
+        {
+          "title": "How ‘Whalefall’ Production Designer Ramsey Avery Built the Creature’s Stomach Using Mattress Foam and Silicone Bits",
+          "lead": "SPOILER ALERT: This story contains minor spoilers for “Whalefall",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/artisans/features/whalefall-production-design-whale-stomach-bile-1236910368/"
+        }
+      ],
+      "supplement": {
+        "title": "‘Dancing With the Stars’ Pulls Val Chmerkovskiy After ‘Inappropriate’ Carrie Ann Inaba Slap Joke: ‘The Well-Being’ of Our Staff Is ‘Non-Negotiable’",
+        "lead": "“Dancing With the Stars” is benching Val Chmerkovskiy after his recent joke about judge Carrie Ann Inaba. “The well-being of everyone who works on ‘Dancing with the Stars’ is non-negotiable.",
+        "body": [
+          "“Dancing With the Stars” is benching Val Chmerkovskiy after his recent joke about judge Carrie Ann Inaba.",
+          "“The well-being of everyone who works on ‘Dancing with the Stars’ is non-negotiable.",
+          "Val’s social media post was inappropriate and does not reflect the values or standards expected of anyone connected with the show,” BBC Studios said in […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/tv/news/dancing-with-the-stars-pulls-val-chmerkovskiy-carrie-ann-inaba-slap-joke-1236915031/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/183834_CW104412-e1792265097336.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "Variety×5",
+          "BBC×4",
+          "ScienceDaily×4",
+          "紐約時報×2",
+          "Japan Times×2",
+          "TechCrunch×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-17T23:51:45.725Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 800,
+        "lang": 455,
+        "fresh": 329,
+        "denoised": 328,
+        "deduped": 314
+      },
+      "en": {
+        "fetched": 800,
+        "lang": 345,
+        "fresh": 295,
+        "denoised": 294,
+        "deduped": 285
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 32,
+        "sections": 6,
+        "briefs": 15,
+        "groups": 13,
+        "maxGroupShare": 25,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "豆瓣×4",
+          "端傳媒×3",
+          "BBC×2",
+          "東方財富×2",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "Variety×5",
+          "BBC×4",
+          "ScienceDaily×4",
+          "紐約時報×2",
+          "Japan Times×2",
+          "TechCrunch×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

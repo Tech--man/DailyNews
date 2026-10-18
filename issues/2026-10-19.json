@@ -1,0 +1,912 @@
+{
+  "issue": 35,
+  "date": "2026-10-19",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月初十 · 寒露",
+    "en": "10th day of the 9th lunar month · Cold Dew"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "学生个人信息成为黑灰产交易筹码 记者实测注册校园交友软件后骚扰电话频繁",
+        "lead": "近期，四川、山西等地公安机关接连破获非法倒卖学生个人信息大案：校园“内鬼”违规导出数据，运维人员监守自盗，中介层层加价转卖，非法倒卖学生个人信息的黑灰产链条浮出水面。",
+        "body": [
+          "近期，四川、山西等地公安机关接连破获非法倒卖学生个人信息大案：校园“内鬼”违规导出数据，运维人员监守自盗，中介层层加价转卖，非法倒卖学生个人信息的黑灰产链条浮出水面。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-19/10716924.shtml",
+        "category": "top",
+        "categoryLabel": "要闻"
+      },
+      "secondary": {
+        "title": "古尔曼：苹果本月底发布 OLED MacBook Pro、M6 设备及 iPad mini 8，11 月 6 日上市",
+        "lead": "IT之家 10 月 19 日消息，彭博社的马克 · 古尔曼（Mark Gurman）称，苹果大概率会在 11 月 6 日周五发售多款新品，包括搭载 OLED 屏幕的 MacBook Pro、配备 M6 芯片的 14 英寸 MacBook Pro 与 iMac",
+        "source": "IT之家",
+        "group": "IT之家",
+        "link": "https://www.ithome.com/1/014/621.htm",
+        "category": "tech",
+        "categoryLabel": "科技",
+        "consensus": 2
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "日媒：日本首相高市早苗向靖国神社供奉“玉串料”",
+              "lead": "中新网10月19日电 据日本共同社报道，10月19日，日本首相高市早苗向靖国神社供奉“玉串料”(祭祀费)。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-19/10716925.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "法国多地抗议变暴力冲突 巴黎街头满是焚毁汽车和碎玻璃",
+              "lead": "法国全国多座城市反对生活成本上涨的抗议活动爆发暴力和破坏行为后，约有1800人被捕。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cq8ez1wny72xo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5c0a/live/d5bdf180-cae6-11f1-bc2e-018d645d8d21.jpg"
+            },
+            {
+              "title": "「我担心得不敢去中国了」：韩国脱北者接连收到警方赴华警告",
+              "lead": "为何已在韩国定居的脱北者，如今对前往中国感到忧虑？BBC深入了解韩国警方发出旅游警告的背景，以及脱北者实际遭中国当局拒绝入境的个案。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cmd6dgj9jwp8o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ceeb/live/358939a0-c923-11f1-9a39-31b474234113.jpg"
+            },
+            {
+              "title": "在美中国研究生涉毒害越南同学：大学与家属怎么说？",
+              "lead": "美国怀俄明大学一名越南籍研究生的家属向BBC表示，受害人在办公室的咖啡机内发现神经毒剂后，至今仍出现疲倦、食欲不振及睡眠欠佳等健康问题。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6vg08d0glp7o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ad95/live/f6d581c0-c920-11f1-9a39-31b474234113.png"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "（经济观察）中国民企AI大模型在全球“圈粉”",
+              "lead": "中新社北京10月18日电 (记者 刘亮)从深度求索(DeepSeek)到阿里巴巴通义千问；从月之暗面的Kimi K3到MiniMax的M3；从智谱的GLM到阶跃星辰的Step5 Preview，再到字节跳动的豆包、百度文心一言……一段时间以来，中国民营企业人工智能(AI)大模型集群式崛起，在全球“圈粉”。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-18/10716821.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "上线了！2027见闻历超值预售99元，活动火热进行中！",
+              "lead": "本文来自华尔街见闻，欢迎下载APP查看更多",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3782813",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "A股“股王”频繁易主 谁是下一个“股王”黑马？",
+              "lead": "近期，随着行情的剧烈波动，A股“股王”频繁易主， 联讯仪器 、 源杰科技 、 贵州茅台 轮番登上股价榜首。其中， 贵州茅台 在时隔5个半月后，于今年10月12日再度夺回A股“股王”宝座。“股王”更替历来备受市场关注，每一次王位更迭的背后，既有新晋者带来的行情狂欢，也有退位者的股价回调。",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://finance.eastmoney.com/news/1347,202610193899252385.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "苹果发布 iPhone Duo 欧盟能效标签：电池总容量 4883mAh",
+              "lead": "IT之家 10 月 19 日消息，苹果于当地时间周五发布了 iPhone Duo 的欧盟能效标签，文件显示这款设备的电池总容量为 4883 毫安时。 这份文件似乎证实了此前的一则爆料：iPhone Duo 配备两块电池电芯，容量分别为 2962 毫安时与 1921 毫安时，合计 4883 毫安时。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/014/620.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "苹果零售店据称11月6日调整陈列 OLED版iPad mini与触控MacBook Pro或同步上市",
+              "lead": "苹果零售店据称将在11月6日前后进行新一轮陈列调整。彭博记者马克·古尔曼的消息称，门店计划从11月5日晚间开始更换展示产品和标牌。由于调整时间紧接传闻中的10月新品发布活动，这被视为新款Mac与iPad可能于11月6日开售的信号，但苹果尚未正式确认活动、产品或上市日期。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1582780.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "退休教授因阻止 Uber Eats 机器人送货被捕",
+              "lead": "宾夕法尼亚大学 78 岁的荣休教授 Marvin 本周因拒绝给 Uber Eats 的送货机器人让路而被捕。她表示自己记不得多少次挡住机器人的路了，称自己在进行抗议，旨在反对“为增加自身利润而用机器人取代人类送货员的企业”。Marvin 说，她在现场停留了“相当长一段时间”，警察过来要求她让路，让机器人完成送货任务。在她多次拒绝后，警方以扰乱治安为由将她逮捕。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85642",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "菲律宾国家气象局：超强台风“蔷琵”逼近责任区",
+              "lead": "中新社马尼拉10月18日电(记者 周璟)菲律宾国家气象局18日表示，超强台风“蔷琵”(Champi)强度维持，正向菲律宾责任区靠近，预计将于20日进入该区域。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-18/10716648.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "在这极速超越高铁的赛车运动里，女性车手尽展锋芒",
+              "lead": "Top Fuel 直线竞速是目前唯一一个女性经常击败男性、赢得重要冠军头衔的顶级赛车运动组别。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cr15jlq50vq5o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7685/live/a4f7ed00-c25b-11f1-babe-4199b0e7ccea.jpg"
+            },
+            {
+              "title": "丑闻缠身 高市内阁支持率创新低",
+              "lead": "中新网10月18日电 近日，接连曝出的阁僚丑闻对高市内阁支持率产生持续冲击。日本共同社18日公布的最新民调结果显示，高市早苗内阁的支持率降至49.1%，自去年10月执政以来首次跌破50%，创新低。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-18/10716840.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "游艇上的水上滑梯、泳池：卫星影像揭示的金正恩「夏宫」生活",
+              "lead": "BBC追踪了一艘长达80米、配有水上滑梯的船只，旨在进一步了解金正恩如何度过假期——这对大多数朝鲜人而言，是遥不可及的体验。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cm9dzq7z7vw8o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a208/live/829d3600-c861-11f1-9a39-31b474234113.png"
+            },
+            {
+              "title": "「我申请了200份工作」——用AI「撒网」求职为何易弄巧成拙？",
+              "lead": "研究发现越来越多毕业生利用人工智慧在求职申请中编造个人资讯。但有人认为他们别无选择。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/crz65gwv8gv5o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e20e/live/3028ee00-c988-11f1-9a39-31b474234113.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "从没有厕纸到「没有未来」：走上街头的法国高中生为何愤怒？",
+              "lead": "今年九月中旬，巴黎东南郊克雷泰伊（Créteil）一所普通公立高中的学生用垃圾桶和铁栅栏堵住了校门。没有人预料到，短短三周之后，这场起初只关乎「缺老师」的抗议会蔓延到全法国四分之一的高中，把亨利四世中学、路易大帝中学这样的精英学府也卷入其中，最终迫使总理在国民议会承认大学报考平台 Parcoursup 需要「更透明、更简单」。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261019-international-france-high-school-student-protests/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GettyImages-2298302075-2.jpg"
+            },
+            {
+              "title": "第五届小十月文学奖在海盐颁奖",
+              "lead": "中新网浙江海盐10月18日电 “秦山核电杯”第五届小十月文学奖颁奖暨庆祝《十月少年文学》创刊十周年活动日前在浙江海盐中国核电科技馆举办。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-18/10716728.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "16支篮球队伍齐聚芒康 西藏自治区第三届乡村篮球联赛开幕",
+              "lead": "中新网拉萨10月18日电 (李林)17日，西藏自治区第三届乡村篮球联赛(2026“千年盐田”康BA)开幕式在西藏昌都市芒康县曲孜卡乡室外篮球场举行。来自西藏、川滇毗邻地区、渝津闽等对口援藏省市及相关企业的16支篮球队伍以篮球为媒，共赴这场属于雪域高原的乡村篮球盛会。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-18/10716816.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "2026武网：波兰选手赫瓦林斯卡逆转夺冠",
+              "lead": "中新社武汉10月18日电 (记者 武一力)2026武汉网球公开赛18日迎来收官之战。女子单打决赛中，波兰选手赫瓦林斯卡逆转英国选手卡塔尔，夺得职业生涯首个WTA巡回赛冠军。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-18/10716894.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "海外 AI 基建烧钱融资溢价飙升，Anthropic 借钱买芯片利息超 10%",
+          "lead": "IT之家 10 月 19 日消息，据央视财经援引英国《金融时报》16 日报道， 美国人工智能企业 Anthropic 正在以超过 10%",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/014/628.htm"
+        },
+        {
+          "title": "《街头霸王》真人电影登顶全球票房 口碑评价两极分化",
+          "lead": "《街头霸王》真人电影首映周末拿下全球票房冠军，总票房约5110万美元。其中北美市场3100万美元，海外其他地区合计2010万美元。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/game/1582800.htm"
+        },
+        {
+          "title": "华尔街见闻早餐FM-Radio | 2026年10月19日",
+          "lead": "华见早安之声 要闻精选 A股 周五 尾盘20分钟 突然爆量 ，百亿资金扫货浮现 宽基ETF托底信号 。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783833"
+        },
+        {
+          "title": "指纹显示秦始皇兵马俑的制作者有男有女有儿童",
+          "lead": "考古学家长期以来认为秦始皇兵马俑全是由成年男性工匠制作的。但俑上的指纹显示，男性、女性甚至儿童都参与了这项宏大工程。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85643"
+        },
+        {
+          "title": "事关国民经济运行与科技兴商 今天举办两场重要发布会",
+          "lead": "今天将举办两场重要发布会，聚焦国民经济运行与推进科技兴商有关情况。 国务院新闻办公室将于 10月19日（星期一）上午10时 举行新闻发布会",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1345,202610193899229050.html"
+        },
+        {
+          "title": "消费电子太无聊，连设计大师都想逃",
+          "lead": "瑞典，斯德哥尔摩南部的哈马比湖城（Hammarby Sjöstad）。 在这片由老港口改造成的水岸街区里，藏着一间像是怪奇实验室一样的工作室。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1683441?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "[分享创造] 分享一个开源项目 Agent8：让只有 Java 8 的 AIX / HP-UX / Solaris 继续当新版 Jenkins 的 agent",
+          "lead": "传统行业（银行、电信、制造）的 CI 里一个很常见的老问题：软件要支持 AIX 、HP-UX 、Solaris",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1249844#reply0"
+        },
+        {
+          "title": "香港的超级珊瑚：践踏和白化中不断「复原」的牠们，万一有天不再回来？",
+          "lead": "编按： 去年十一黄金周，游客在香港西贡践踏珊瑚的新闻引发热议。除了走调的生态旅游，还得面对极端天气的压力，在边缘中生存下来的香港珊瑚",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261018-hongkong-coral-restoration-crisis-hope/"
+        },
+        {
+          "title": "基于当代年轻人的生命经验 (评论: 一个夜晚与三个夏天)",
+          "lead": "东东 评论: 一个夜晚与三个夏天 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17860966/"
+        },
+        {
+          "title": "下周重磅日程：中国GDP、金融街论坛与APEC财长会、英伟达GTC、特斯拉Meta与宁德时代财报",
+          "lead": "10月19日 - 10月25日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观政策方面，中国三季度GDP",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783759"
+        },
+        {
+          "title": "预期差显现！多家券商首席集体发声：市场低估了中国经济的这些积极因素",
+          "lead": "券商首席看中国经济。 当前经济运行中，市场关注点往往集中在需求侧的体感温度，而供给端的实际产出变化容易被忽略。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1378,202610193899248788.html"
+        },
+        {
+          "title": "十年律师锐评律政剧《蒸蒸日上》，我就是那个李信 (评论: 蒸蒸日上)",
+          "lead": "玛嘉烈 评论: 蒸蒸日上 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17860880/"
+        },
+        {
+          "title": "餐饮史最长合作“告吹”：肯德基拥抱可口可乐、抛弃百事可乐",
+          "lead": "快餐行业历时近40年的标志性合作宣告终结。肯德基确认将于2027年起以可口可乐全面替换百事可乐，彻底改写美国快餐饮料供应格局",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783867"
+        },
+        {
+          "title": "木偶替人受难：安哲叙事里的个体缺席 (评论: 流浪艺人)",
+          "lead": "来自东方 评论: 流浪艺人 评价: 还行",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17860801/"
+        },
+        {
+          "title": "人皆寻梦 (评论: 我阿爹想旅行)",
+          "lead": "流公式 评论: 我阿爹想旅行 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17860713/"
+        }
+      ],
+      "supplement": {
+        "title": "下一代人的「精神病化」：香港青少年自杀、SEN／ADHD 诊断增长之反思",
+        "lead": "【编者按】生活于香港，很难再忽视「精神健康」这个议题。无论是街头的宣传广告，还是医院节节上升的诊断数字，无不揭示这个城市正迈入「全民皆病」的精神病化社会。 端传媒策划系列文章，邀请香港精神科医生阿全，结合政策文件解读、文献综述与业内人士经验，勾勒当代精神病化社会的图像，提供医疗与医疗以外的理解视角。这篇文章，我们讨论香港青少年自杀、SEN／ADHD 诊断增长的现象，剖析守护「下一代」的精神健康制度，究竟存在怎样的现况、落差与非预期后果。",
+        "body": [
+          "【编者按】生活于香港，很难再忽视「精神健康」这个议题。无论是街头的宣传广告，还是医院节节上升的诊断数字，无不揭示这个城市正迈入「全民皆病」的精神病化社会。端传媒策划系列文章，邀请香港精神科医生阿全，结合政策文件解读、文献综述与业内人士经验，勾勒当代精神病化社会的图像，提供医疗与医疗以外的理解视角。",
+          "这篇文章，我们讨论香港青少年自杀、SEN／ADHD 诊断增长的现象，剖析守护「下一代」的精神健康制度，究竟存在怎样的现况、落差与非预期后果。2025年，香港出现三组看似彼此无关、却同时发生的纪录。全港登记出生人数仅31,714，创历史新低，总和生育率跌至0.73，在全球236个地区中排名 倒数第二 。另一边厢，公营普通学校登记有特殊教育需要（SEN）的 中小学生 ，则由2020/21学年的56,640人增至2025/26学年的71,740人，累积升幅达26.7%。",
+          "其中，专注力不足／过度活跃症（ADHD）是第二大类别，达16,350人。同年，全港 总自杀率降 至五年低位，每十万人13.57宗；但19岁或以下青少年自杀人数却由35宗升至47宗，增幅逾三成，创近十年新高。​ ​ ​ ​ (function () { // ── 注入 CSS（只注入一次，支援同页多个图表）── if (!document.getElementById('ig-hk-under19-v2-styles')) { const s = document.createElement('style'); s.id = 'ig-hk-under19-v2-styles'; s.textContent = \".ig, .ig *, .ig *::before, .ig *::after { box-sizing: border-box; }\\n.ig *, .ig *::before, .ig *::after { margin: 0; padding: 0; }\\n\\n.ig {\\n font-family: 'Inter', 'Noto Sans TC', sans-serif;\\n"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261019-everyone-is-sick-youth-suicide-sen-adhd-diagnosis/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/20261017------------.jpg"
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 15,
+        "groups": 11,
+        "maxGroupShare": 22,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×6",
+          "華爾街見聞×4",
+          "豆瓣×4",
+          "IT之家×3",
+          "東方財富×3"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+        "lead": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+        "body": [
+          "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
+        ],
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4644/live/461bcc30-cb38-11f1-8a27-2de4c72fadc2.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them",
+        "lead": "Prime Minister Benjamin Netanyahu of Israel has downplayed accounts of recent extremist attacks on Palestinians in the West Bank amid the annual olive harvest.",
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18int-israel-violence-kcmp/18int-israel-violence-kcmp-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Guardian reporter filmed masked militants seconds before West Bank attack on French mayor",
+              "lead": "New video footage of Israeli settler assault on European delegation as Netanyahu attempts to raise doubt Hours after Israeli militants attacked a delegation of European diplomats",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/1c174181e57743e65dae5fd70dca0124f5d5888d/0_151_3500_2802/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=2a505948063202179dea282e4a84383a",
+              "consensus": 5
+            },
+            {
+              "title": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
+              "lead": "Prime Minister Mark Carney said the “violent, fast-moving” fire on Saturday in Alberta was one of the worst tragedies for Canada’s armed forces in peacetime on Canadian soil.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-base-fire-hbwv/18int-canada-base-fire-hbwv-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "How China made climate resilience part of its economic growth strategy",
+              "lead": "The war in the Middle East has disrupted oil and gas supplies, leaving governments to confront energy pressures as they prepare for next month’s Cop31 UN climate conference in Antalya, Turkey.",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/opinion/china-opinion/article/3371034/how-china-made-climate-resilience-part-its-economic-growth-strategy?utm_source=rss_feed",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/16/d9fd49c4-5701-4512-ad17-4bd1d452d9d6_133c4806.jpg?itok=Lnr9Y9GT&v=1792139272",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "France reels after ‘unprecedented’ violent riots",
+              "lead": "Government under pressure after struggle to contain attacks on stores and official buildings",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/369eba8b-246d-405f-b0d8-6c676b0b6dab?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe5adfef1-136e-4060-931f-4e245b44ee64.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+              "lead": "The Claude maker said that establishing the fund as an LLC will provide greater flexibility in how the money is used.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
+              "lead": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb7f/live/223a12e0-c0de-11f1-8cf3-7dbc6a5861dd.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "The bloated workweek is coming for Sundays—as some embrace flexibility, others worry about job security",
+              "lead": "A new report finds nearly half of workers are often logging in on Sundays. It is a boon for worker flexibility, or a sign of job-hugging insecurity?",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/make-it/2026/10/18/why-people-are-working-sundays.html",
+              "category": "business",
+              "categoryLabel": "Business"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+              "lead": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
+              "lead": "Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 3
+            },
+            {
+              "title": "Anthropic gives outside AI watchdog “employee-like” access",
+              "lead": "Anthropic has granted external evaluators “employee-like access” to assess the risks of its models, following through on a commitment to increase safeguards over concerns the technology could run catastrophically out of",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/claudebyanthropic-1024x648.jpg",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Madueke's 'anger and conviction' shows he's more than a 'finisher'",
+              "lead": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c3qjnyw8qe4do?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30fd/live/9dd03a10-cb1f-11f1-bfba-6f29101eb4a3.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Madueke's strike enough as Arsenal pick up narrow win over Forest",
+              "lead": "Noni Madueke comes of the bench to score the winning goal as Arsenal beat Nottingham Forest 1-0 at The City Ground.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/cm70px0l7p7no?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/588a/live/a9171840-cb19-11f1-9a39-31b474234113.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "'Four points is nothing' - O'Neill stays cool after statement win",
+              "lead": "Amid supporter discontent, a recent protest against the major shareholder and a veteran manager deciding now is not the time to \"wrap things up\", as Martin O'Neill put it",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cw0k0zn0lkjgo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7891/live/57df0e90-cb34-11f1-9a39-31b474234113.jpg"
+            },
+            {
+              "title": "Kartal reflects on becoming British number one",
+              "lead": "Sonay Kartal reflects on becoming British number one after reaching the final of the Wuhan Open.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/tennis/videos/c68jzpr8jvz9o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41af/live/d05609c0-cb14-11f1-bc2e-018d645d8d21.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Julianne Moore Says ‘The Debut’ Is ‘One of the Best Scripts I’ve Ever Read’ as Jesse Eisenberg’s Musical Comedy Closes London Film Festival on a High Note",
+              "lead": "“The Debut” ended London Film Festival on a high note Sunday night as director Jesse Eisenberg and star Julianne Moore gushed over each other to a packed audience at the Royal Festival Hall.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/festivals/julianne-moore-jesse-eisenberg-the-debut-london-premiere-1236915637/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/the-debut-1000.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Jason Sudeikis Hopes to Continue ‘Ted Lasso’ for Season 5, Says Coverage of Split From Olivia Wilde Missed a ‘Million Little Things’: ‘It’s Always More Complicated’",
+              "lead": "Jason Sudeikis opened up on a recent episode of “Talk Easy with Sam Fragoso,” discussing his hopes for “Ted Lasso” Season 5, how the show “saved” him from “self-harm” and what the public got wrong about his closely",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/news/jason-sudeikis-wants-ted-lasso-season-5-olivia-wilde-split-1236916062/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-2289127582.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists who discovered a third form of magnetism win major physics prize",
+              "lead": "Physicists have uncovered a hidden third form of magnetism that challenges more than 100 years of established physics. Called altermagnetism",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists discover a natural compound that could protect the brain from too much salt",
+              "lead": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Two monster black holes could collide in just 100 years",
+              "lead": "Astronomers have uncovered compelling evidence of two supermassive black holes spiraling toward a potentially spectacular collision at the center of galaxy Mrk 501.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261016070650.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’",
+          "lead": "Mike Huckabee calls for arrest and prosecution of those responsible",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine"
+        },
+        {
+          "title": "Major fire at Canada military base leaves four dead, dozens injured",
+          "lead": "Prime Minister Carney said military and emergency crews fought the",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
+          "lead": "After anti-government protests devolved into chaos",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html"
+        },
+        {
+          "title": "St Petersburg endures biggest Ukrainian drone attack",
+          "lead": "Strikes hit tech infrastructure after Russia targets electricity",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1"
+        },
+        {
+          "title": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
+          "lead": "India's finance minister said that continued capital outflows are one",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html"
+        },
+        {
+          "title": "Trump endorses ally Netanyahu in Israeli election, praising ‘great warrior prime minister’",
+          "lead": "US President Donald Trump on ⁠Sunday endorsed his ally Benjamin",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3371326/trump-endorses-ally-netanyahu-israeli-election-praising-great-warrior-prime-minister?utm_source=rss_feed"
+        },
+        {
+          "title": "Trump defends Russia sanctions relief, blasts Zelensky on peace",
+          "lead": "US President Donald Trump on Sunday accused Ukrainian President",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions"
+        },
+        {
+          "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+          "lead": "Anthropic said that it will commit 5% of its shares to the fund.",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+        },
+        {
+          "title": "Trump endorses Netanyahu in Israeli legislative elections",
+          "lead": "In a social media post ahead of the October 27 election",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss"
+        },
+        {
+          "title": "Jesse Eisenberg Says He ‘Couldn’t Get Movie Studio Parts Anymore’ After Winning a Razzie for ‘Batman v Superman’: ‘The Industry Did Not Want Me to Be in a Superhero Movie’",
+          "lead": "Jesse Eisenberg has said he was frozen out of studio movies after",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/global/jesse-eisenberg-razzie-batman-v-superman-1236915876/"
+        },
+        {
+          "title": "Scientists link a strange sugar in red meat to a 63% higher diabetes risk",
+          "lead": "A study of nearly 90,000 adults found that people consuming the most",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261017230031.htm"
+        },
+        {
+          "title": "A woman was arrested in Philly for blocking a delivery robot",
+          "lead": "Carolyn Marvin was arrested and charged with disorderly conduct after",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot"
+        },
+        {
+          "title": "US threatens Europe over Starlink restrictions",
+          "lead": "Ambassador Andrew Puzder warns about ‘devastating’ retaliation if",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
+          "lead": "South Korea's finance minister said semiconductor growth can last at",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html"
+        },
+        {
+          "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+          "lead": "\"You Can See Everything\" is having the second biggest opening weekend",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/"
+        },
+        {
+          "title": "‘Glee’ Reunion: Chris Colfer Joins Darren Criss Onstage to Perform ‘Baby It’s Cold Outside’ During London Concert",
+          "lead": "Darren Criss’ one-night-only concert at the Royal Albert Hall in",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/tv/news/glee-reunion-chris-colfer-darren-criss-perform-duet-1236916050/"
+        }
+      ],
+      "supplement": {
+        "title": "Joe Manganiello Says Ben Affleck’s Scrapped Batman Film Would Have Seen Deathstroke ‘Dismantle Batman’s Entire Life’ and Kill Commissioner Gordon",
+        "lead": "Joe Manganiello, who was set to reprise the role of Deathstroke in Ben Affleck’s scrapped Batman film, is telling all about what would have happened had the superhero film made it to theaters.",
+        "body": [
+          "Joe Manganiello, who was set to reprise the role of Deathstroke in Ben Affleck’s scrapped Batman film, is telling all about what would have happened had the superhero film made it to theaters.",
+          "In his new memoir “Bloodlines,” published on Tuesday, the actor wrote that Affleck, who was attached as the writer, director, producer and […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/news/joe-manganiello-ben-afflecks-batman-film-deathstroke-1236915997/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-1388071981.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 16,
+        "categories": 7,
+        "topGroups": [
+          "BBC×6",
+          "Variety×5",
+          "ScienceDaily×4",
+          "TechCrunch×3",
+          "紐約時報×2",
+          "SCMP×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-18T23:59:36.665Z",
+    "sources": {
+      "configured": 36,
+      "ok": 35,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "界面新聞",
+          "reason": "fetch failed"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 771,
+        "lang": 427,
+        "fresh": 281,
+        "denoised": 280,
+        "deduped": 260
+      },
+      "en": {
+        "fetched": 771,
+        "lang": 344,
+        "fresh": 286,
+        "denoised": 284,
+        "deduped": 277
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 15,
+        "groups": 11,
+        "maxGroupShare": 22,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×6",
+          "華爾街見聞×4",
+          "豆瓣×4",
+          "IT之家×3",
+          "東方財富×3"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 16,
+        "categories": 7,
+        "topGroups": [
+          "BBC×6",
+          "Variety×5",
+          "ScienceDaily×4",
+          "TechCrunch×3",
+          "紐約時報×2",
+          "SCMP×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

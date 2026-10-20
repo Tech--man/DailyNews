@@ -1,0 +1,927 @@
+{
+  "issue": 36,
+  "date": "2026-10-20",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月十一 · 寒露",
+    "en": "11th day of the 9th lunar month · Cold Dew"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "打破“唯论文”标尺！5个专业推行用实践成果申请硕博学位",
+        "lead": "部分专业学位研究生申请学位，将不再“唯论文”。国务院学位委员会办公室近日印发《关于做好专业学位研究生以实践成果申请学位工作的意见》，在前期工程硕博士用实践成果申请学位基础上，推动翻译、农业、临床医学、会计、艺术5个专业学位类别试点先行。",
+        "body": [
+          "部分专业学位研究生申请学位，将不再“唯论文”。",
+          "国务院学位委员会办公室近日印发《关于做好专业学位研究生以实践成果申请学位工作的意见》，在前期工程硕博士用实践成果申请学位基础上，推动翻译、农业、临床医学、会计、艺术5个专业学位类别试点先行。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/edu/2026/10-20/10717568.shtml",
+        "category": "top",
+        "categoryLabel": "要闻"
+      },
+      "secondary": {
+        "title": "法国陷入骚乱与动荡，极右翼从中看到了机会",
+        "lead": "法国将于六个月后举行大选，周末发生的骚乱让民众感到震惊，也让极右翼国民联盟看到了机会。该党将自己标榜为法律与秩序之党，同时主张驱逐非法移民。 Philippe Lopez/Agence France-Presse — Getty Images 周日波尔多市中心抗议活动后的景象。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/world/20261020/france-far-right-protests-riots/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "以场带产 产城融合 商业航天发展持续提速",
+              "lead": "活力中国调研行丨以场带产 产城融合 商业航天发展持续提速",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gn/2026/10-20/10717567.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "香港演员钟雪莹、袁澧林发声之后，她们分享亲历的性别冒犯",
+              "lead": "BBC中文访问了四位来自不同行业的女性，了解言语冒犯是如何在工作环境中出现；当性别冒犯被包装成「玩笑」，她们是如何应对。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cqly0v0xnxdvo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/058b/live/9a7d0ca0-cbbd-11f1-a64c-550be9e3c66b.jpg"
+            },
+            {
+              "title": "秘密线人和失踪的凶器：辛普森案尘封30年的谜团",
+              "lead": "应《纽约时报》请求解封的关于辛普森案尘封30年记录显示，一名线人曾向执法部门提供关于此案的关键信息，包括凶器据称所在的位置，以及辛普森为逃避起诉所采取的行动。 Vince Bucci/Agence France-Presse — Getty Images 1995年，O·J·辛普森（中）在洛杉矶接受双重谋杀案审判时的照片。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261019/oj-simpson-case-takeaways/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "中国第三季度经济增速微升：出口繁荣，消费停滞",
+              "lead": "官方数据显示，中国第三季度经济增速较上季度有所回升。出口激增以及维持这些出口所需的工业生产支撑经济保持增长，而消费支出仍然停滞、投资大幅下滑。 Gilles Sabrié for The New York Times 北京的一家商场。第三季度，中国国内经济尤其是零售销售举步维艰。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261019/china-economy-gdp/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "中国三季度增长4.5%但冷热不均：出口暴增，楼市新开工面积暴跌",
+              "lead": "分析人士向BBC指出，中国依赖单一外需引擎的风险正在累积，北京的刺激空间有限，未必愿意、也未必有能力在这个时点大举加码。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cqdjv2vw9n4po/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/06b9/live/88f0b560-cb98-11f1-93a7-b36f3083f4d3.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "当电影遇上AI：影视工业重塑“新质生产力”",
+              "lead": "中新网宁波10月19日电 (张斌)当大模型、虚拟制片、4D空间影像等新一代技术浪潮袭来，影视工业正经历怎样的变革？作为2026长三角国际青年电影周的重要活动之一，“当电影遇上AI”主题活动19日在宁波举行，多位从业者分享AI如何从幕后的辅助工具，跃升为重构电影工业的生产力。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-19/10717515.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "英伟达官宣重大突破：超8000块GPU加持，创纪录量子容错计算模拟所需物理比特降九成",
+              "lead": "英伟达在欧洲最大超算上实现量子计算模拟新纪录，利用8192块GPU完成104量子比特容错量子计算模拟，并验证了一种有望将相关方案所需物理量子比特数量减少约90%的技术路线。这一突破有望帮助研究人员降低量子纠错的资源开销，加快实用量子计算系统的研发。 美东时间10月19日周一，英伟达宣布，其研究人员依托德国于利希超级计算中心的“木星”（JUPITER）超算，开展了创纪录的容错量子计算模拟。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3783958",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "赶在 Anthropic 上市前：消息称 OpenAI 加速新一轮融资进程，估值或超 1.4 万亿美元",
+              "lead": "IT之家 10 月 20 日消息，据路透社报道，两位知情人士称，OpenAI 正争分夺秒地争取投资者承诺，力求在竞争对手 Anthropic 预计于 11 月中旬上市之前完成融资。此次融资节奏异常迅速，若顺利完成， 这家 ChatGPT 开发商的估值可能超过 1.4 万亿美元 （IT之家注：现汇率约合 9.37 万亿元人民币） 。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/015/078.htm",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "英伟达官宣新突破：创纪录量子容错计算模拟所需物理比特减少 90%",
+              "lead": "IT之家 10 月 20 日消息，当地时间 10 月 19 日，英伟达宣布在德国于利希超级计算中心（Jülich Supercomputing Centre）开展了创纪录的容错量子计算模拟。 英伟达研究人员利用欧洲最大规模超级计算机 JUPITER（木星）完成此次模拟，这是一个基于英伟达 GH200 超级芯片组成的系统。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/015/071.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "《GTA6》预告三天播放量超过前作13年累计",
+              "lead": "《GTA6》发售预告在YouTube上线三天后获得4700万次观看，超过《给他爱5》同类预告约13年累计的3400万次。按照这一数据计算，新预告在72小时内平均每秒播放约175次。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/game/1582948.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "早报｜苹果定档下周发布新品，触屏MacBook Pro或将亮相/华为苹果拿下中国手机四成份额/杨立昆锐评特斯拉飞车，马斯克：放屁",
+              "lead": "苹果确认 10 月 28 日在洛杉矶举办「Pro and tell」活动 中国手机三季度出货量创 14 年同期新低，华为与苹果份额合计超四成 豆包刘星回应「国内过半算力造爽剧」：字节约 10% 用于视频模型 OpenAI 为 OpenCode 受攻击用户退还被消耗的 API 额度 「海面漂满 iPhone」视频系 AI 编造",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1684957?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "法国总统马克龙出访海湾国家 聚焦能源供应",
+              "lead": "中新社巴黎10月19日电 法国总统马克龙当地时间19日起对多个海湾国家展开访问，聚焦能源供应。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-20/10717544.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "白宫闹剧令共和党中期选举前景蒙上阴影",
+              "lead": "美国驻希腊大使和新白宫新闻秘书相继被解职、知名总统盟友遭调查……特朗普政府近期争议事件层出不穷。中期选举临近，总统支持率大幅下滑，已经影响共和党候选人。 Haiyun Jiang/The New York Times 特朗普总统于周六在肯塔基州高地海茨举行的中期选举竞选集会上发表讲话后，抵达佛罗里达州西棕榈滩。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261019/trump-midterm-elections-republicans-approval-ratings/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "《孤独的美食家》：一个人吃饭，为什么能红遍全亚洲？",
+              "lead": "开播至今14年，《孤独的美食家》从日本深夜剧成长为风靡亚洲的电视作品。观众跟随主角井之头五郎穿梭街巷寻找美食和故事。主演松重丰希望让更多海外观众透过美食认识日本文化。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/watch/c6x2wvlxqjr8o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dd2c/live/34aedd30-c939-11f1-bc2e-018d645d8d21.jpg"
+            },
+            {
+              "title": "法国发生近年来最大规模骚乱，人们在抗议什么？",
+              "lead": "上周末，数十万法国人走上街头参加反政府游行。示威活动演变成暴力和抢劫，造成全国性破坏，约2000人被捕。这些抗议加剧了法国的财政和社会危机感。 Jeff Pachoud/Agence France-Presse — Getty Images 法医人员检查法国里昂的旅游咨询处。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261019/france-student-protests-why/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "「眼神给出去」的性商课，教的是魅男术，还是自我解放？",
+              "lead": "「性是爱情的基础」 「男人喜欢当皇帝，你要当什么？」房间中央站着一位丰腴的中年女子，她穿着高跟鞋、高开衩的紧身黑裙，妆容精致。灯光聚焦在她身上，她头顶的空调排风口旁，挂着一幅天使性爱绘画。 在中国长沙，一座高档玻璃写字楼的六楼房间里，二十几个穿着黑色睡袍的女人围坐在她身边。 性商学院的院长正讲解着「性的心理学」，「你要当的不是爱讲道理的皇后，而是爱妃」。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261020-mainland-unseen-middle-aged-women-the-sexual-intelligence-classes/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GettyImages-144076033.jpg"
+            },
+            {
+              "title": "鲁迅逝世90周年 鲁迅文学版本馆千余册典籍对外开放",
+              "lead": "中新社浙江绍兴10月19日电 (项菁)10月19日是鲁迅先生逝世90周年纪念日。坐落于浙江绍兴鲁迅故居附近的鲁迅文学版本馆当日开馆，千余册典籍在此永久展陈，面向海内外游客开放。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-19/10717469.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "2026首届东北地区钓鱼超级联赛总决赛落幕 徐有亮夺冠",
+              "lead": "中新网哈尔滨10月19日电 (记者 王妮娜)10月18日，2026首届东北地区钓鱼超级联赛总决赛举行，来自辽宁、吉林、黑龙江、内蒙古“三省一区”的88名分站赛入围垂钓高手展开年度巅峰对决。黑龙江选手徐有亮夺得冠军。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-19/10717044.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "中国乒协公示混团世界杯选拔办法：服务奥运夺金目标",
+              "lead": "中新社北京10月19日电 中国乒协19日在官网公示了2026年国际乒联混合团体世界杯选拔办法，表示本次选拔以保障参赛任务、服务2028年洛杉矶奥运会和2032年布里斯班奥运会夺金目标为导向。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-19/10717215.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "“南岛语族研究的新进展”学术研讨会在暨南大学举办",
+              "lead": "中新网广州10月19日电 (记者 郭军)“南岛语族研究的新进展”学术研讨会近日在暨南大学召开。会议聚焦近年来南岛语族研究的前沿成果，深入探讨南岛语族的起源、扩散及其现实路径，旨在进一步深化相关历史与现实问题的跨学科研究，更好服务于中华民族共同体与海疆建设。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/10-19/10717531.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "挑战英伟达 CUDA：亚马逊推出开源工具 TorchNeuron，自研 Trainium 芯片轻松运行 PyTorch 代码",
+          "lead": "IT之家 10 月 20 日消息，当地时间 10 月 19 日，亚马逊宣布推出开源工具 TorchNeuron，借助该工具",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/015/082.htm"
+        },
+        {
+          "title": "抄底资金来了！半导体和韩国ETF获强劲资金流入，内存板块持续“失血”",
+          "lead": "全球ETF投资者正以创纪录的规模和极高的杠杆率“抄底”半导体和韩国市场，而内存板块却遭到持续无情抛售。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783976"
+        },
+        {
+          "title": "BBC暂停公务员借调计划",
+          "lead": "BBC表示，所有新闻及编辑决定均由BBC记者及编辑作出。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cq0mel7ep01xo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "苹果宣布将于10月28日举行产品发布活动 分析师预计将推出触屏笔记本电脑",
+          "lead": "苹果宣布将于10月28日举行产品发布活动，并于周一向媒体和分析师发出邀请，活动名为“Apple Experience in Los",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1582946.htm"
+        },
+        {
+          "title": "泰国向中国电动汽车敞开大门，如今正付出代价",
+          "lead": "几年前，泰国政府推出减税和补贴政策以鼓励电动汽车的普及。如今，中国车企在泰国的电动车市场占据了85%的份额，对该国整个汽车产业的格局构成威胁。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/business/20261019/china-ev-thailand-cars/?utm_source=RSS"
+        },
+        {
+          "title": "ESA Hera 探测器准备飞越 DART 撞击的小行星",
+          "lead": "ESA Hera 探测器将在一个月后书写历史，它即将与执行首次行星防御测试的两颗小行星交会。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85652"
+        },
+        {
+          "title": "苹果第一个 AI 机器人，可能是个能动的 HomeView",
+          "lead": "上周，苹果一口气端出了十多款智能家居新品 ，其中最引人注目的，当属起价 299 美元的带屏中控 HomeView。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1684921?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "补看周末：法国暴乱为何难以控制？",
+          "lead": "这一周，法国街头火光四起，美乌之间隔空互控。在华府，白宫发言人上任五天就被请走，打破特朗普团队的「最短任期」纪录。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261019-weekly/"
+        },
+        {
+          "title": "[分享创造] [开源] 做了个本地 AI 小说写作工具，把伏笔和正文连起来",
+          "lead": "写长篇有个麻烦：前面埋了一条线索，后面想接着用，先得翻半天“当时到底怎么写的”。设定在笔记里，讨论在聊天窗口里，正文又在另一个地方。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1250158#reply0"
+        },
+        {
+          "title": "我们为什么迷恋成为支配者？ (评论: 教父)",
+          "lead": "捉鬼用保鲜膜 评论: 教父 评价: 还行",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17862716/"
+        },
+        {
+          "title": "科技巨头护盘，标普、纳指反弹，芯片指数终结八连跌，美油八连涨，黄金冲高转跌",
+          "lead": "科技股的强劲反弹为上周遭受重创的美股提供了喘息空间，但市场底部的信用裂缝正在持续扩大，并开始向权益市场渗透。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783911"
+        },
+        {
+          "title": "乌克兰钢企老板称：欧盟对华关税殃及本国",
+          "lead": "乌克兰最大钢铁企业之一的负责人表示，在针对廉价进口产品的限制措施中，乌克兰被「一并捆绑」纳入相关管制范围。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cw0k0z264d0jo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "不止打击非法移民：今年年初美国合法移民数量削减一半",
+          "lead": "国务院今年2月仅发放了2.6万份移民签证，来自穆斯林占多数国家的移民数量骤降90%以上。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/usa/20261019/trump-immigrant-visas-decline/?utm_source=RSS"
+        },
+        {
+          "title": "当所有愤怒汇聚时：法国逾50万人上街，大选前半年马克龙政府失守街头｜Whatsnew",
+          "lead": "「这个秋天将会充满危机。」9月24日，法国前国防部长、前外交部长让-伊夫·勒德里昂（Jean-Yves Le Drian）在接受",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261019-whatsnew-france-protest-turns-into-riots/"
+        },
+        {
+          "title": "好好活，我们都要好好活。 (评论: 兰香如故)",
+          "lead": "冰水煮豆肠🫕 评论: 兰香如故 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17862636/"
+        },
+        {
+          "title": "哈塞特：美国通胀仍需关注，尊重美联储的独立性",
+          "lead": "白宫国家经济委员会主任凯文·哈塞特表示，牛肉、鸡蛋等商品价格有所下降，但美国9月消费者价格数据表明，整体通胀问题仍需政策层面予以关注。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3783966"
+        }
+      ],
+      "supplement": {
+        "title": "【华尔街日报】欧洲右翼为何与MAGA分道扬镳？",
+        "lead": "编按：《华尔街日报》是全球最具影响力的财经媒体之一，每日产出大量深度报导，涵盖国际政治、商业财经与科技趋势。在「WSJ守护精选」栏目中，端传媒编辑每周二、四从中挑选涉及中国、科技、中美关系等华文读者最关心议题的报导。此栏目为守护会员专属。 放眼欧洲各地，民族主义政党正接连赢得选举并在民调中领先。它们成功的秘诀之一，就是与川普及「让美国再次伟大」运动(MAGA)的盟友保持距离。",
+        "body": [
+          "编按：《华尔街日报》是全球最具影响力的财经媒体之一，每日产出大量深度报导，涵盖国际政治、商业财经与科技趋势。在「WSJ守护精选」栏目中，端传媒编辑每周二、四从中挑选涉及中国、科技、中美关系等华文读者最关心议题的报导。",
+          "此栏目为守护会员专属。放眼欧洲各地，民族主义政党正接连赢得选举并在民调中领先。",
+          "它们成功的秘诀之一，就是与川普及「让美国再次伟大」运动(MAGA)的盟友保持距离。德国选择党(Alternative for Germany，简称AfD)在最近两场地区选举中拔得头筹，其领导人已减少同MAGA阵营的公开互动，承认该党与美国存在利益分歧，并将政治宣讲的重心转回国内议题。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261020-wsj-why-europes-right-is-breaking-up-with-maga/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GettyImages-2199985362-W.jpg"
+      },
+      "stats": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 13,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "華爾街見聞×4",
+          "端傳媒×4",
+          "BBC×3",
+          "IT之家×3"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
+        "lead": "System can estimate a person’s biological age and predict chances of cancer survival from a single photograph Doctors have developed an artificial intelligence",
+        "body": [
+          "System can estimate a person’s biological age and predict chances of cancer survival from a single photograph Doctors have developed an artificial intelligence tool that can predict a cancer patient’s chances of survival from a single photograph of their face.",
+          "The AI system was custom-built by experts at Mass General Brigham, a nonprofit, integrated academic healthcare system in Massachusetts, to estimate biological age and directly predict survival outcomes in patients diagnosed with cancer.",
+          "Continue reading..."
+        ],
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/fa40f496b03a1db7776f47e3b79ed8b0858aef61/722_304_4620_3696/master/4620.jpg?width=140&quality=85&auto=format&fit=max&s=560167757e3f4e4a3571ff33be6bb85d",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+        "lead": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks.",
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd6e/live/09c582e0-cc13-11f1-b0fa-5b9abd1bf87b.png",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Trump slams Zelenskyy amid Russia sanctions rift and says ‘somebody else’ should negotiate for Ukraine - live",
+              "lead": "President facing criticism for his move to waive sanctions for Russia as a new poll by Reuters shows only 31% of Americans approve of his performance in office Sign up for US Breaking News email A new Washington",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/24036470504f9c06915d922c35b6919c50e897e8/466_0_5341_4272/master/5341.jpg?width=140&quality=85&auto=format&fit=max&s=d2671cecb86df724987d5a47e03eb519",
+              "consensus": 5
+            },
+            {
+              "title": "Australian Lawmaker Helen Haines Injured After Attack, Prime Minister Says",
+              "lead": "A suspect is in custody and the country’s counterterrorism team was activated after Helen Haines, 65, was struck by a car outside her office.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/19/world/australia/helen-haines-mp-attacked-wangaratta-australia.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-oz-lawmaker-gktw/19int-oz-lawmaker-gktw-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Trump open to trilateral summit with Putin and Xi but wants denuclearization focus",
+              "lead": "Russian leader Vladimir Putin has reportedly proposed a summit for talks on the war in Ukraine, possibly during next month's APEC summit in China.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/news/2026/10/20/world/trump-open-xi-putin-meet/",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569385.JPG",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Anthropic and Nscale in talks for second multibillion-dollar deal",
+              "lead": "AI start-up looks for more computing power from UK data centre group",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/26a604d8-1a9d-4801-bd73-6ac588b63bdc?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fae1e9539-9f51-4cc0-871a-b32f03cd6638.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "China's growth accelerates as AI boom helps boost exports",
+              "lead": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7328/live/2759f110-cb64-11f1-a812-d3be2dbc962d.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Goldman says play defense with these stocks if you're worried about the AI bull failing",
+              "lead": "These defensive stocks, some of which have lagged, could be ready rally as investors bail on AI trade.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/19/goldman-says-play-defense-with-these-stocks-if-youre-worried-about-the-ai-bull-failing.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 4
+            },
+            {
+              "title": "People playing loud music on buses could face £100 fine",
+              "lead": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/9c756160-cb95-11f1-a64c-550be9e3c66b.jpg"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+              "lead": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+              "lead": "A Russian military satellite maneuvered in \"extreme proximity\" of a commercial Earth-imaging satellite in recent days in the first known example an unsanctioned rendezvous in low-Earth orbit",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ICEYE_assembling_satellite_06_3x2-1152x648.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
+              "lead": "The Miles is a smart plug for your car. My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Boland exposes South Africa's frailties to give Robinson blueprint",
+              "lead": "Australia expose South Africa's batting frailties again as Scott Boland takes four wickets to leave hosts in trouble in second Test.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/cricket/articles/c6rmy4mzl4wyo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4683/live/f2583760-cbdb-11f1-b139-f77a8b036d06.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Spurs beat Coventry to earn first league win of the season",
+              "lead": "Tottenham Hotspur record their first Premier League win of the season and move off the bottom of the table with a home victory over Coventry City.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/c9x28pyg05vyo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81f1/live/0dab38a0-cbff-11f1-9a39-31b474234113.jpg"
+            },
+            {
+              "title": "Brentford contact police after rugby ball kicked into stadium",
+              "lead": "Brentford say they are working with the police following a \"dangerous\" incident in which a rugby ball was kicked from a height towards the pitch during their Premier League game with Liverpool.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cm4g17d11zvwo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49e8/live/900722f0-cbd7-11f1-b139-f77a8b036d06.jpg"
+            },
+            {
+              "title": "Will Wales tackle reliance on Williams before World Cup?",
+              "lead": "Wales boast a world-class scrum-half in Tomos Williams but Steve Tandy might have to assess his back-up before the 2027 World Cup.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx23p2gl3p1o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f0/live/a9ce46f0-cba0-11f1-9ee2-f74dfb8e54e5.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Bob Buziak, Former President of RCA Records and Sony’s Tristar Music Group, Dies at 83",
+              "lead": "Bob Buziak, former president of both RCA Records and Sony’s TriStar Music Group, died on October 19, a rep confirms to Variety. No cause of death was announced; he was 83.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/music/news/bob-buziak-dead-rca-records-president-1236916935/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/albumcovertreatment-15-3.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Art crime detective Arthur Brand warns: 'All museums have been, and will be, victims of theft'",
+              "lead": "François Picard is pleased to welcome art crime detective Arthur Brand. \"In the old days they stole a painting, but a painting is unique;",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/tv-shows/spotlight/20261019-art-crime-detective-arthur-brand-warns-all-museums-have-been-and-will-be-victims-of-theft",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://s.france24.com/media/display/0783efda-cbf0-11f1-9d85-638c1c1f5fd6/w:1024/p:16x9/EN-20261019-184407-185127-CS.jpg"
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "‘Crucial opportunity to act’ as study finds most of Europe’s wild bee species in decline",
+              "lead": "As Cop17 kicks off, records since 1921 show more bee species declining than increasing in all parts of Europe except the Alps Most of Europe’s wild bee species and about half of its hover fly species have declined over",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/environment/2026/oct/19/study-europe-wild-bee-species-decline-",
+              "category": "science",
+              "categoryLabel": "Science",
+              "image": "https://i.guim.co.uk/img/media/866c33745465d9af42c6e781c991b6d04313522e/289_77_1694_1356/master/1694.jpg?width=140&quality=85&auto=format&fit=max&s=50f6437930656074ca2609be41ee32ba"
+            },
+            {
+              "title": "Scientists link a strange sugar in red meat to a 63% higher diabetes risk",
+              "lead": "A study of nearly 90,000 adults found that people consuming the most of a little-known sugar found in red meat had a 63% higher risk of developing type 2 diabetes.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261017230031.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Oregon man who killed school shooter reportedly took part in military drills with Iraq veterans",
+          "lead": "New details emerge about Kaylub Giamanco, who went on to elementary",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/us-news/2026/oct/19/oregon-school-shooter"
+        },
+        {
+          "title": "Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say",
+          "lead": "The Iranian-backed militia struck with ballistic missiles deep in",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html"
+        },
+        {
+          "title": "French bond sell-off intensifies after riots and looting",
+          "lead": "Authorities introduce curfews and admit police botched oversight of",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1"
+        },
+        {
+          "title": "France: ‘localised’ curfews announced after weekend of violence",
+          "lead": "Following a weekend of #violence and #looting",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "France24",
+          "link": "https://www.france24.com/en/france-localised-curfews-announced-after-weekend-scenes-of-violence"
+        },
+        {
+          "title": "Asian-Americans’ trust in Trump fading as economic woes increase, survey finds",
+          "lead": "Asian-Americans are laser-focused on the economy and healthcare costs",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/us/politics/article/3371430/asian-americans-trust-trump-fading-economic-woes-increase-survey-finds?utm_source=rss_feed"
+        },
+        {
+          "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+          "lead": "OpenCode is an open source AI coding agent that's become a popular",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
+        },
+        {
+          "title": "Zelenskyy says Ukraine got no warning of overnight Russian missile strike",
+          "lead": "In all, Russia fired 16 ballistic missiles overnight at Kyiv and the",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/20/world/ukraine-russian-missiles-no-warn/"
+        },
+        {
+          "title": "‘Release Epstein files’, protester interrupts JD Vance’s speech",
+          "lead": "A protester demanding the release of the Epstein files interrupted US",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/release-epstein-files-protester-interrupts-jd-vances-speech?traffic_source=rss"
+        },
+        {
+          "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
+          "lead": "Pennsylvania's health department issued a health alert Monday as",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/"
+        },
+        {
+          "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
+          "lead": "France’s worst unrest in years saw thousands arrested",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html"
+        },
+        {
+          "title": "‘You Can See Everything’ Sets Oscar Campaigns for Best Picture, Supporting Actress and More Categories",
+          "lead": "SPOILER ALERT: This article contains major spoilers for “You Can See",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/awards/you-can-see-everything-oscars-eligibility-awards-1236916699/"
+        },
+        {
+          "title": "Major European mobile carriers are teaming up for a ‘direct’ satellite program without Starlink",
+          "lead": "Deutsche Telekom, Orange, Telef&oacute;nica",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink"
+        },
+        {
+          "title": "Scientists discover a natural compound that could protect the brain from too much salt",
+          "lead": "Eating too much salt may do more than raise blood pressure.",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm"
+        },
+        {
+          "title": "France’s riots expose the impotence of its political class",
+          "lead": "Shocking violence highlights deepening social division",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/388569e9-3936-4359-8856-48b006587fb7?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+          "lead": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/"
+        },
+        {
+          "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+          "lead": "The world’s first demonstration of a subsea geothermal power plant",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/"
+        }
+      ],
+      "supplement": {
+        "title": "Role Model Shouts Out Jake Shane and Renee Rapp, Channels Chuck Timely on Final North American Tour Date: Concert Report",
+        "lead": "Without stretching the metaphor too far, Chuck Timely’s hourglass was closer to running out than he might have thought: While the second of two Los Angeles dates of Role Model’s “Chuck on Tour” jaunt in support of his",
+        "body": [
+          "Without stretching the metaphor too far, Chuck Timely’s hourglass was closer to running out than he might have thought: While the second of two Los Angeles dates of Role Model’s “Chuck on Tour” jaunt in support of his third studio album — titled (naturally enough) “Chuck Timely & the Hourglass” — was scheduled to be […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/music/news/role-model-jake-shane-renee-rapp-concert-report-1236916776/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-2292485195.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 19,
+        "categories": 7,
+        "topGroups": [
+          "BBC×7",
+          "Guardian×3",
+          "TechCrunch×3",
+          "Ars Technica×3",
+          "Variety×3",
+          "Japan Times×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-20T00:58:09.298Z",
+    "sources": {
+      "configured": 36,
+      "ok": 34,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "界面新聞",
+          "reason": "fetch failed"
+        },
+        {
+          "name": "東方財富",
+          "reason": "fetch failed"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 748,
+        "lang": 403,
+        "fresh": 317,
+        "denoised": 316,
+        "deduped": 299
+      },
+      "en": {
+        "fetched": 748,
+        "lang": 345,
+        "fresh": 325,
+        "denoised": 320,
+        "deduped": 310
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 13,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "華爾街見聞×4",
+          "端傳媒×4",
+          "BBC×3",
+          "IT之家×3"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 19,
+        "categories": 7,
+        "topGroups": [
+          "BBC×7",
+          "Guardian×3",
+          "TechCrunch×3",
+          "Ars Technica×3",
+          "Variety×3",
+          "Japan Times×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

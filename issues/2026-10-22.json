@@ -1,0 +1,936 @@
+{
+  "issue": 38,
+  "date": "2026-10-22",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月十三 · 寒露",
+    "en": "13th day of the 9th lunar month · Cold Dew"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "2026金融街论坛年会金融科技大会在京举办",
+        "lead": "中新网北京10月21日电 2026金融街论坛年会正在北京举行。20日，以“智能驱动 融合共生——智能经济新形态下的金融科技”为主题的2026金融街论坛年会金融科技大会在京开幕。",
+        "body": [
+          "中新网北京10月21日电 2026金融街论坛年会正在北京举行。",
+          "20日，以“智能驱动 融合共生——智能经济新形态下的金融科技”为主题的2026金融街论坛年会金融科技大会在京开幕。"
+        ],
+        "source": "中新網財經",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-21/10718797.shtml",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "为甚么马斯克要策划 SpaceX 与特斯拉的超大型合并？",
+        "lead": "马斯克称，透过合并这两家公司，「有很多好处可获得」，而这将会是历来规模最大的合并案。",
+        "source": "BBC中文",
+        "group": "BBC",
+        "link": "https://www.bbc.com/zhongwen/articles/c6eq309002q3o/trad?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "categoryLabel": "国际",
+        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a691/live/0777e580-cd28-11f1-bc2e-018d645d8d21.png"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "伊朗最高领袖会见议会议长 商讨最新局势",
+              "lead": "中新网10月22日电 综合伊朗媒体报道，当地时间21日，伊朗最高领袖穆杰塔巴会见伊朗议会议长卡利巴夫，共同商讨伊朗最新局势。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718838.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "吃什么能保持年轻肌肤？",
+              "lead": "植物、脂肪和发酵食品可以减少皱纹，促进胶原蛋白生长，并改善皮肤质地。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/ckjwe7jzn21no/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd26/live/e7378a40-cd5f-11f1-a64c-550be9e3c66b.jpg"
+            },
+            {
+              "title": "特朗普前律师的5000万美元薪酬与一位亿万富翁的特赦",
+              "lead": "出身于委内瑞拉的亿万富翁埃雷拉在美国面临指控。在寻求特赦无果后，他的家族重金聘用了特朗普的前私人律师哈巴。数周后，特朗普授予埃雷拉全面无条件的赦免。 Carlos Giusti/GFR Media, via Imago 2022年8月，胡里奥·埃雷拉·韦卢蒂尼在波多黎各圣胡安，此前他因涉嫌参与一桩行贿该地区总督万达·瓦斯奎兹的阴谋而被起诉，该阴谋旨在让瓦斯奎兹解雇一名正在调查其银行的监管人员。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261021/julio-herrera-pardon-alina-habba/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "欧洲中间派政党为何正在失去民心",
+              "lead": "经济增长低迷、通胀高企、政府债台高筑以及年轻人前景黯淡所引发的愤怒正在欧洲多国催生抗议。随着中间派政党陷入困境，极右翼和极左翼民粹主义政党正在崛起。 Kiran Ridley/Agence France-Presse — Getty Images 周一，经历周末骚乱后，巴黎伊夫·图迪克街上的一辆被烧毁的汽车。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261021/france-protests-europe-centrist-far-right/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "人工智能技术加速演进 业界如何驭智前行？",
+              "lead": "中新网北京10月21日电 (记者 吕少威)“网络安全领域正迎来根本性范式转变，AI驱动的智能自主攻击正在超越人类专家能力边界，应将安全深度融入数字系统的设计与制造全流程，从根源层面解决安全本质问题。”国家数字交换系统工程技术研究中心主任邬江兴21日在2026 TechWorld智慧安全大会上说。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-21/10718738.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "Anthropic推出全天候AI智能体Claude Duet，与Meta、OpenAI展开竞争",
+              "lead": "Anthropic正将AI竞争从模型能力延伸至任务执行。 当地时间周三， 公司推出新应用Claude Duet，将其定位为能够在后台持续运行、主动识别用户需求并执行工作任务的AI智能体，进一步拓展Claude的产品形态。 与等待用户发出指令的传统对话式助手不同，Claude Duet能够汇总关联应用中的重要信息，在需要用户关注时主动发送通知，并处理从会议安排到财务预测、网页应用开发等多种任务。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3784156",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 3
+            },
+            {
+              "title": "中国证监会：稳妥实施北交所新股市值配售",
+              "lead": "10月21日，中国证监会公众公司监管司一级巡视员商庆军在2026 金融街 论坛年会“共建服务中小企业资本市场新生态”平行论坛上发表题为《锚定服务创新型中小企业主阵地推动北交所新三板高质量发展》的主旨演讲。 “‘十五五’规划《纲要》首次将‘加快建设金融强国’纳入国家五年规划，强调要促进中小企业 专精特新 发展。站在新的起点上，北交所、新三板迎来重要战略机遇期。",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://stock.eastmoney.com/news/11215,202610223903054856.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "Anthropic推出Claude Duet主动式AI代理 可后台处理任务并在关键操作前征求批准",
+              "lead": "Anthropic推出Claude Duet，将其定位为一款主动式AI代理：它会从用户已连接的应用中发现需要处理的事项，在用户开口前发来提醒，也能接手任务并在用户离开设备后继续工作。产品围绕Claude Opus 5.5构建，面向工作事务繁杂的专业人士和小企业经营者。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1583272.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            },
+            {
+              "title": "24 小时为你在线打工：Anthropic 推出 Claude Duet AI 智能体，迎战 Meta 和 OpenAI",
+              "lead": "IT之家 10 月 22 日消息，Anthropic 昨日（10 月 21 日）宣布以研究预览版形式，推出全新应用 Claude Duet， 定位为可主动工作的 AI 智能体（agent），加入由 Meta 的 Muse、以及 OpenAI 的 Dots 领衔的“全天候主动型 AI 助理”大战。 技能方面，该应用会每天整理跨应用的重要事项、主动提醒需要处理的问题，并在用户离开后继续在后台完成被委托的任务。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/016/169.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            },
+            {
+              "title": "早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统",
+              "lead": "iPhone Duo 开启全球限购，每位顾客最多买 2 台 PHP 紧急修复两个严重漏洞，攻击者无需登录即可远程执行代码 三星、SK 海力士升级中国工厂，拟转产更高层数 NAND 雷军：汽车产业如果没有安全，其他都是 0 宝马员工争相离职挤崩系统，个别方案补偿超 65 万欧元 Today AI 累计融资超 2 亿美元，腾讯、蚂蚁等参投 OpenAI 模型将入驻谷歌云，企业可用云消费承诺购买 英伟达把 AI 工厂装进集装箱",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1685223?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "法国总统马克龙：将采取一切必要措施防范骚乱再次发生",
+              "lead": "中新社巴黎10月21日电 (记者 李洋)法国总统马克龙21日表示，法国官方将会采取一切必要措施防范骚乱再次发生。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-22/10718815.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "特朗普治下，美国经济的真实表现如何？",
+              "lead": "中期选举前夕，特朗普一直吹嘘美国经济的表现。 BBC事实查核（BBC Verify）调查美国的通货膨胀、就业和经济成长。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cqkgke5j6yego/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/711c/live/8e797e10-cbd7-11f1-a64c-550be9e3c66b.jpg"
+            },
+            {
+              "title": "法国多地爆发骚乱，现在去巴黎旅游安全吗？",
+              "lead": "巴黎成为法国示威活动的中心，共和国广场及周边大道发生重大冲突和骚乱。未来两周还有更多示威活动计划举行。我们整理了前往法国旅行之前需要了解的信息。 Abdul Saboor/Reuters 周一，抗议者封锁了巴黎卢浮宫的入口。在马赛、里尔和尼斯等法国多个城市都举行了声援公共教育及抗议生活成本高涨的示威活动。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/travel/20261021/france-travel-riots/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "石油大省多数选民拒绝脱离加拿大，卡尼取得关键胜利",
+              "lead": "阿尔伯塔省“独立公投”结果显示，压倒性多数选民支持留在加拿大。分析认为，选民对加拿大的强烈支持归功于卡尼过去一年推出的政策，以及他为维护统一所做的竞选活动。 Todd Korol/Reuters 加拿大总理马克·卡尼（中）上周五在艾伯塔省红鹿市与支持艾伯塔省留在加拿大的选民交流。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261021/carney-alberta-referendum-trump/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "美政府机构禁用DeepSeek，北京指责华盛顿打压中国公司",
+              "lead": "华盛顿以国家安全为由禁止深度求索的产品进入美国政府机构技术系统。北京指责美国试图垄断人工智能产业，打压中国企业，“将科技和经贸问题政治化”。 Florence Lo/Reuters 深度求索北京办公室的招牌。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261021/china-deepseek-us-ban/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "徐晓宏《大分离》：从「造反有理」到「少谈政治」",
+              "lead": "中国改革时代那种「少谈政治、多谈发展」的常识，是不是文革本身留下的意外遗产？",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261022-opinion-xuxiaohong-the-great-separation/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/AP19270162449110-2.jpg"
+            },
+            {
+              "title": "十八卷作品全面呈现创作风貌 冯骥才散文文库首次完整结集出版",
+              "lead": "中新网北京10月21日电 (记者 高凯)近日，由作家出版社推出的《冯骥才散文文库》第一辑、第二辑正式与读者见面。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-21/10718687.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "人还是那些人，话还是那些话，可是总有点打卡上班的感觉，不能给观众追剧的冲动 (评论: 流人 第六季)",
+              "lead": "Oz 评论: 流人 第六季 评价: 还行",
+              "source": "豆瓣",
+              "group": "豆瓣",
+              "link": "https://movie.douban.com/review/17864995/",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "2026中国业余高尔夫球队际公开赛西部大区赛圆满收官",
+              "lead": "中新网武汉10月21日电 2026一龄·中国业余高尔夫球队际公开赛(以下简称“中国队际赛”)西部大区赛21日在武汉收官。经过两轮激烈角逐，团队得分冠军由重庆南山队义字堂球队获得，团队净杆冠军由现代天外天高尔夫精英队获得。依照赛事竞赛规则，共计11支球队成功突围，拿到总决赛参赛资格。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-21/10718724.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "2026世界网联世界网球巡回赛青少年年终总决赛在成都开拍",
+              "lead": "中新网成都10月21日电(祝欢 安源)21日，2026世界网联世界网球巡回赛青少年年终总决赛在成都开赛。备受关注的中国小将孙心然在比赛中，以7：6(1)、6：2击败塞尔维亚选手阿纳斯塔西娅·茨维特科维奇。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-21/10718569.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "联合国旅游组织/亚太旅游协会旅游趋势与展望大会在桂林闭幕",
+              "lead": "中新网桂林10月21日电(周利朔 欧惠兰)10月21日，第二十届联合国旅游组织/亚太旅游协会旅游趋势与展望大会在广西桂林闭幕。桂林市委常委、统战部部长朱鹃屏致辞时表示，本届大会形成了重要共识——让技术更好地服务于人、让数据更好地赋能治理、让创新更好地惠及社区，将对亚太乃至全球旅游业的发展产生积极而深远的影响。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/10-21/10718806.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "美航空航天局公布月球车最新研发进展及任务规划",
+          "lead": "美国航空航天局当地时间20日公布了其月球车的最新研发进展及任务规划。用于探测月球水资源的“挥发物调查极地探索车”（VIPER）计划于2027",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/science/1583274.htm"
+        },
+        {
+          "title": "华东台风强、印尼野火烈——厄尔尼诺现象影响世界的五个方面",
+          "lead": "有记录以来最强的厄尔尼诺现象持续增强之际，全球各地已经感受到哪些天气模式方面的影响？BBC首席气象预报员莎拉·基斯",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cmy83vnzql06o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄",
+          "lead": "特斯拉将年度资本开支目标从逾250亿美元下调至200亿美元，同时马斯克为投资者描绘了一幅跨越多个业务线的长期增长图景，涵盖汽车产能",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3784155"
+        },
+        {
+          "title": "泽连斯基为何对特朗普展开回击？",
+          "lead": "在特朗普淡化俄罗斯的暴力，并让基辅更难反击之际，泽连斯基不再沉默，而是决定反击。美乌关系陷入紧张，但有迹象显示，双方都不打算彻底放弃这一关系。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/world/20261021/ukraine-war-zelensky-trump/?utm_source=RSS"
+        },
+        {
+          "title": "EA 启动成本削减计划：裁员 400 人、关闭 BioWare 工作室，并取消《质量效应》新作",
+          "lead": "IT之家 10 月 22 日消息，美国艺电公司（Electronic Arts Inc.，简称 EA）宣布将裁员",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/016/185.htm"
+        },
+        {
+          "title": "忧郁的雨季：一个写作者，如何在冈比亚失败",
+          "lead": "我深知自己并不真诚，曾犹豫过是否要写出来这些细节，也担心这会变成一种高高在上的指责。但道德焦虑的本质仍是无法平视。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261022-international-failing-gambia/"
+        },
+        {
+          "title": "10月22日投资日历|国家外汇管理局举办2026金融街论坛年会专场活动",
+          "lead": "（1）10月22日有450亿元7天期逆回购、800亿隔夜逆回购到期。 （2）国务院新闻办公室于10月22日下午3时举行“开局起步‘十五五’”",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/11848,202610223903280977.html"
+        },
+        {
+          "title": "尺寸暴涨！比亚迪新一代海鸥太超标了，还只要 6.59 万元",
+          "lead": "比亚迪新一代海鸥的尺寸，竟然都快赶上海豚了。 原先海鸥的车身长度只有 3780 毫米，属于标准的微型车，而现在",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1685151?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "2026 上海开源大赛「智算云赛道」决赛名单公布",
+          "lead": "2026 上海开源软件应用创新大赛「智算云赛道」决赛入围名单今日公布，以下 10 支队伍成功晋级",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/503144"
+        },
+        {
+          "title": "[分享创造] AWS Lightsail 全球多区域共享流量监控与自动停机部署手册",
+          "lead": "我用 AWS 的 lightsail ，每个 VPS 的流量是叠加的；但是 AWS 本身没有提供一种功能： 即流量快要用完了，自动停机 ；",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1250791#reply0"
+        },
+        {
+          "title": "这其实就是马克·沃尔伯格给政治正确逼们的一个投名状电影 (评论: 不择手段)",
+          "lead": "混世魔王普大帝 评论: 不择手段 评价:",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17865243/"
+        },
+        {
+          "title": "法国暴动：各界对谁该负责与该汲取的教训陷入分歧",
+          "lead": "法国上周末的抗议演变大规模抢劫暴力，媒体聚焦破坏，政客互推责任，极右派政党获得政治红利。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cwm2382gr5p1o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻",
+          "lead": "Meta第三季度营收创历史新高， 同时宣布将发行无投票权新类别股票，避免扎克伯格因加州财富税离开公司总部所在辖区",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3784152"
+        },
+        {
+          "title": "谁的身体值得先被研究？迟到的阴蒂史｜端闻 Podcast",
+          "lead": "https://open.acast.com/public/streams/66b07190af99592b5329f43a/episode",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261021-initium-audio-clitoris-research-history/"
+        },
+        {
+          "title": "A股热点前瞻丨中办国办发文推动科技创新和产业创新深度融合；英伟达宣布供应链大规模扩产",
+          "lead": "①两办发文推动科技创新和产业创新深度融合，产学研融通迎顶层部署； ② 英伟达 宣布联合供应链伙伴扩产，AI基建产能扩张开启；",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/11822,202610223903321285.html"
+        },
+        {
+          "title": "对私人化叙事往往显得节奏偏慢的思考 (评论: 一个夜晚与三个夏天)",
+          "lead": "大象席地燃烧 评论: 一个夜晚与三个夏天 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17865436/"
+        }
+      ],
+      "supplement": {
+        "title": "【华尔街日报】中国政坛「不倒翁」黄奇帆落马，折射了习近平治下的何种问题？",
+        "lead": "编按：《华尔街日报》是全球最具影响力的财经媒体之一，每日产出大量深度报导，涵盖国际政治、商业财经与科技趋势。在「WSJ守护精选」栏目中，端传媒编辑每周二、四从中挑选涉及中国、科技、中美关系等华文读者最关心议题的报导。此栏目为守护会员专属。 再过一年，习近平就将主持新一轮领导班子重大调整。眼下，他的内部清洗行动早已深入展开。 上周，北京宣布重庆市原市长黄奇帆因涉嫌严重违纪违法接受调查。今年74岁的黄奇帆长期活跃于中国经济政策圈。",
+        "body": [
+          "编按：《华尔街日报》是全球最具影响力的财经媒体之一，每日产出大量深度报导，涵盖国际政治、商业财经与科技趋势。在「WSJ守护精选」栏目中，端传媒编辑每周二、四从中挑选涉及中国、科技、中美关系等华文读者最关心议题的报导。此栏目为守护会员专属。",
+          "再过一年，习近平就将主持新一轮领导班子重大调整。眼下，他的内部清洗行动早已深入展开。上周，北京宣布重庆市原市长黄奇帆因涉嫌严重违纪违法接受调查。",
+          "今年74岁的黄奇帆长期活跃于中国经济政策圈。「严重违纪违法」是中共指称腐败的惯用委婉说法。在这类案件中，被定罪并受到惩处的比例几乎是100%。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261022-wsj-china-ultimate-political-survivor-just-fell/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GF10000332762.jpg"
+      },
+      "stats": {
+        "visible": 40,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 20,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "端傳媒×4",
+          "BBC×3",
+          "華爾街見聞×3",
+          "東方財富×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "El Salvador’s President Issues Harsh Warning to Haitian Gangs After 4 Soldiers Are Abducted",
+        "lead": "Four members of El Salvador’s military were abducted Sunday in Haiti, and their president wants them back.",
+        "body": [
+          "Four members of El Salvador’s military were abducted Sunday in Haiti, and their president wants them back."
+        ],
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/10/21/world/americas/el-salvador-military-haiti-gangs.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/10/21/multimedia/int21-Haiti-bukele-hjbm/int21-Haiti-bukele-hjbm-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
+        "lead": "Musk says ‘there’s a lot of merit’ to potential merger that would require approval of 50% of all Tesla shareholders",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/5079e04428f0108241397eee4e3383a1344455f5/436_0_4565_3655/master/4565.jpg?width=140&quality=85&auto=format&fit=max&s=645b2152a14156592f81a8cc071672a4",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions",
+              "lead": "With ICE arrests and detentions at their highest levels, immigration remains a key issue for voters less than two weeks before election day Sign in or sign up to join the conversation From mass raids to quiet crackdown",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/us-news/live/2026/oct/21/immigration-ice-mass-deportation-trump-midterm-elections",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/7e99cbcfbe918e7ce8516ed10f7d434dacbc981d/100_0_1000_800/master/1000.png?width=140&quality=85&auto=format&fit=max&s=87919bfea45f861d6ed3ed19c299fa90",
+              "consensus": 5
+            },
+            {
+              "title": "Pope Needs No Further Treatment for Lung Cancer, Doctors Say",
+              "lead": "Test results after the operation showed that the cancer was localized.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/21/world/europe/pope-leo-cancer.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-pope-health-qbwz/21int-pope-health-qbwz-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
+              "lead": "The Bundibugyo strain outbreak is the DR Congo's deadliest ever and has now reached West Africa for the first time.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Bessent shrugs off ‘systemic’ AI risks at closed-door investor conference",
+              "lead": "Treasury secretary spoke to financiers at charity event where tickets cost $7,500",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/5b7c2fdf-2300-4208-860e-6389ceb18886?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F846424b9-f3c6-4249-a73c-97d83499abcb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+              "lead": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/295f/live/2e2e9560-cd3d-11f1-9a39-31b474234113.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Inside India newsletter: Asia’s hottest data center market aims to quell concerns over water and power use",
+              "lead": "India is grappling with growing public anger against data centers that pose a threat to its ambitions to host the whole world's data.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/22/india-data-center-google-amazon.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+              "lead": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+              "lead": "Google would certainly prefer that everyone used its Gemini models with Google Cloud services, but soon, you'll have more options. OpenAI and Google have come to an arrangement that will see the former's frontier models",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Google-cloud-IO-1152x648.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement",
+              "lead": "Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Declan Rice grabs Arsenal draw at Bayern Munich in Champions League",
+              "lead": "Eze gave Arsenal the lead, but Davies levelled and Kane netted a penalty for the hosts before Rice made it 2-2.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/sports/2026/10/21/declan-rice-grabs-arsenal-draw-at-bayern-munich-in-champions-league?traffic_source=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "consensus": 5
+            },
+            {
+              "title": "Isco the difference as Betis continue winning start against Feyenoord",
+              "lead": "Real Betis secure their third win on the bounce in the Champions League as Isco converts a penalty in the 59th minute against Feyenoord.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/ckp8gjl3epr7o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35cf/live/c1eae780-cd93-11f1-bc2e-018d645d8d21.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Real Madrid thrash RB Leipzig as Mbappe scores in Champions League win",
+              "lead": "Real Madrid thrashed RB Leipzig 4-1 on Wednesday to secure their third consecutive Champions League victory. Bernardo Silva, Arda Guler, Kylian Mbappe and Yan Diomande scored for Jose Mourinho’s side",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/sport/20261022-real-madrid-thrash-rb-leipzig-as-mbappe-scores-in-champions-league-win",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://s.france24.com/media/display/5d6d175e-cd9a-11f1-b2ae-4da0d2c6855d/w:1024/p:16x9/AFP-20261021-D3ZX7Z4-v1-HighRes-FblEurC1RealMadridLeipzig.jpg",
+              "consensus": 3
+            },
+            {
+              "title": "Former Open champion Oosthuizen quits LIV Golf",
+              "lead": "Former Open Championship winner Louis Oosthuizen becomes the latest high-profile player to quit LIV Golf.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/golf/articles/ck62y977vm33o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9c0/live/d9ac0250-cd5c-11f1-b962-b7ff822cde72.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Hur Jin-ho Thanks Singapore Festival for Protecting Freedom of Expression as ‘The Assassin(s)’ Opens, SGIFF Chair Boo Junfeng Says: ‘We Refuse to Show Anything That Has Been Censored’",
+              "lead": "South Korean director Hur Jin-ho thanked the Singapore International Film Festival (SGIFF) for defending freedom of expression as his political thriller “The Assassin(s)” opened the festival’s 37th edition on Wednesday",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/festivals/hur-jin-ho-thanks-singapore-festival-assassins-opens-1236919346/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/SGIFF-2026-opening.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "New York’s first microdrama film festival searches for its audience",
+              "lead": "Actors Taye Diggs, Autumn Federici, Gary Entin, Troy Brookins, Edmund Entin and Eric Guilmette attend the world premiere of Microhouse Films and Lifetime's Reunion Island during the ALZA Festival.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
+              "category": "culture",
+              "categoryLabel": "Culture"
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Massive study of 460,000 people challenges ultra-processed food cancer fears",
+              "lead": "A massive study of more than 460,000 Americans found that ultra-processed foods were not associated with increased colorectal cancer risk overall, challenging a widely held assumption.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261020085014.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Too much RNA can starve cells of energy, scientists discover",
+              "lead": "Scientists have uncovered an unexpected danger lurking inside cells: too much RNA can damage the structures responsible for producing energy.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Astronauts’ hearts just passed a surprising test for Mars",
+              "lead": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Poland’s parliament votes to ease abortion ban but faces likely veto from president",
+          "lead": "Measures would remove some penalties for those helping women access",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/oct/21/poland-parliament-votes-ease-abortion-ban-likely-veto-president"
+        },
+        {
+          "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
+          "lead": "Saurav Das and Ashutosh Ranka were accused of breaking into an",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "US orders some personnel to leave Saudi Arabia after Houthi attacks",
+          "lead": "Decision comes as two people were killed in a drone attack targeting",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/f39aa4d2-e290-451f-ae91-b19138b6172f?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Student Protests Mushroom Across Europe, Exposing Bleak Views of the Future",
+          "lead": "Since high school students began protesting in France in September",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/21/world/europe/europe-protests-youth-future.html"
+        },
+        {
+          "title": "Canadian publisher drops writer Thelyson Orelien over AI use in novel",
+          "lead": "Publisher Boreal says investigations confirmed the Haitian-Canadian",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss"
+        },
+        {
+          "title": "Canadian publisher drops author Orelien after confirming he used AI in debut novel",
+          "lead": "The Canadian publisher representing Thélyson Orélien on Wednesday",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/culture/20261021-canadian-publisher-drops-author-orelien-after-confirming-he-used-ai-in-debut-novel"
+        },
+        {
+          "title": "Earnings season is in full swing. These are Morgan Stanley's highest conviction plays",
+          "lead": "Morgan Stanley expects a handful of stocks that are reporting",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/21/morgan-stanley-western-digital-terawulf-williams.html"
+        },
+        {
+          "title": "Could Hong Kong’s student housing boom lure property giants off the sidelines?",
+          "lead": "Hong Kong’s largest landlords and developers could get their first",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/business/article/3371634/could-hong-kongs-student-housing-boom-lure-property-giants-sidelines"
+        },
+        {
+          "title": "Does opting out of smart TV tracking work? Research finds “suspicious” traffic.",
+          "lead": "Smart TVs running operating systems from Samsung, Vizio",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/gadgets/2026/10/does-opting-out-of-smart-tv-tracking-work-research-finds-suspicious-traffic/"
+        },
+        {
+          "title": "‘ComicView: Rooftop Series’ Renewed for Season 2 at BET (EXCLUSIVE)",
+          "lead": "Keep on laughing: BET’s “ComicView” reboot has been renewed for",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/tv/news/comicview-rooftop-series-renewed-season-2-bet-1236918801/"
+        },
+        {
+          "title": "PHP: The three letters that shut down sites all over the internet today",
+          "lead": "Two bugs found with AI are behind major issues today for 4chan",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026"
+        },
+        {
+          "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
+          "lead": "The payout is related to a recent trial involving the social media",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/"
+        },
+        {
+          "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells",
+          "lead": "Scientists have turned blood cells from an 80-year-old into neural",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm"
+        },
+        {
+          "title": "The real reasons US politicians are getting older",
+          "lead": "No country for young men and women: why do older politicians seem to",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Musk sets lower sales target for Tesla as it explores SpaceX merger",
+          "lead": "Carmaker reports flat revenue and falling profits as it pivots from",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Tesla beats on earnings and sales even as auto revenue declines",
+          "lead": "Tesla reported better-than-expected third-quarter results.",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html"
+        }
+      ],
+      "supplement": {
+        "title": "‘Abbott Elementary’ Season 6 Premiere Hits 6.3 Million Viewers in Seven Days (EXCLUSIVE)",
+        "lead": "The school year is off to a strong start: “Abbott Elementary” returned to ABC with the premiere of its sixth season on Oct. 7 and achieved its strongest viewership in a year.",
+        "body": [
+          "The school year is off to a strong start: “Abbott Elementary” returned to ABC with the premiere of its sixth season on Oct.",
+          "7 and achieved its strongest viewership in a year.",
+          "After seven days of viewing, the Season 6 premiere reached a total of 6.3 million viewers and a across all platforms. Not only […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/tv/news/abbott-elementary-season-6-premiere-ratings-1236919286/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/image002-9.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "ScienceDaily×4",
+          "Al Jazeera×3",
+          "BBC×3",
+          "The Verge×3",
+          "Variety×3",
+          "紐約時報×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-22T00:29:46.896Z",
+    "sources": {
+      "configured": 36,
+      "ok": 34,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "界面新聞",
+          "reason": "fetch failed"
+        },
+        {
+          "name": "Solidot",
+          "reason": "fetch failed"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 754,
+        "lang": 410,
+        "fresh": 333,
+        "denoised": 331,
+        "deduped": 315
+      },
+      "en": {
+        "fetched": 754,
+        "lang": 344,
+        "fresh": 332,
+        "denoised": 328,
+        "deduped": 318
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 40,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 20,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "端傳媒×4",
+          "BBC×3",
+          "華爾街見聞×3",
+          "東方財富×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "ScienceDaily×4",
+          "Al Jazeera×3",
+          "BBC×3",
+          "The Verge×3",
+          "Variety×3",
+          "紐約時報×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

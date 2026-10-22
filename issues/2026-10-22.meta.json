@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-10-22T00:29:46.896Z",
+  "sources": {
+    "configured": 36,
+    "ok": 34,
+    "zhSources": 20,
+    "enSources": 16,
+    "failed": [
+      {
+        "name": "界面新聞",
+        "reason": "fetch failed"
+      },
+      {
+        "name": "Solidot",
+        "reason": "fetch failed"
+      }
+    ]
+  },
+  "funnels": {
+    "zh": {
+      "fetched": 754,
+      "lang": 410,
+      "fresh": 333,
+      "denoised": 331,
+      "deduped": 315
+    },
+    "en": {
+      "fetched": 754,
+      "lang": 344,
+      "fresh": 332,
+      "denoised": 328,
+      "deduped": 318
+    }
+  },
+  "layout": {
+    "zh": {
+      "visible": 40,
+      "sections": 7,
+      "briefs": 16,
+      "groups": 14,
+      "maxGroupShare": 20,
+      "categories": 7,
+      "topGroups": [
+        "中新社×8",
+        "紐約時報×5",
+        "端傳媒×4",
+        "BBC×3",
+        "華爾街見聞×3",
+        "東方財富×3"
+      ],
+      "headlineTier": "consensus+lead",
+      "headlineConsensus": 2,
+      "groupCap": 8
+    },
+    "en": {
+      "visible": 37,
+      "sections": 6,
+      "briefs": 16,
+      "groups": 18,
+      "maxGroupShare": 11,
+      "categories": 7,
+      "topGroups": [
+        "ScienceDaily×4",
+        "Al Jazeera×3",
+        "BBC×3",
+        "The Verge×3",
+        "Variety×3",
+        "紐約時報×2"
+      ],
+      "headlineTier": "consensus+lead",
+      "headlineConsensus": 5,
+      "groupCap": 7
+    }
+  }
+}

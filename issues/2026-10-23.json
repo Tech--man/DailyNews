@@ -1,0 +1,926 @@
+{
+  "issue": 39,
+  "date": "2026-10-23",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月十四 · 霜降",
+    "en": "14th day of the 9th lunar month · Frost's Descent"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "菲律宾央行加息50个基点应对通胀 比索再创历史新低",
+        "lead": "中新社马尼拉10月22日电 (记者 周璟)菲律宾中央银行22日宣布，将基准政策利率上调50个基点至5.5%，加息幅度超出市场普遍预期。该行表示，将视情况进一步收紧货币政策，以遏制通胀回升，稳定通胀预期。",
+        "body": [
+          "中新社马尼拉10月22日电 (记者 周璟)菲律宾中央银行22日宣布，将基准政策利率上调50个基点至5.5%，加息幅度超出市场普遍预期。",
+          "该行表示，将视情况进一步收紧货币政策，以遏制通胀回升，稳定通胀预期。"
+        ],
+        "source": "中新網國際",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-23/10719450.shtml",
+        "category": "business",
+        "categoryLabel": "财经"
+      },
+      "secondary": {
+        "title": "投资者不买账？OpenAI下调估值目标至1.25万亿，拟在IPO前完成300亿美元融资",
+        "lead": "OpenAI正将本轮融资估值从此前的1.4万亿美元下调至1.25万亿美元，以应对部分投资者的抵触情绪，同时力争在IPO前完成最高300亿美元的融资。 10月22日，据CNBC援引知情人士透露， 本轮融资由美国投资集团Coatue与阿联酋主权基金联合领投 ，OpenAI已通知潜在投资者须于 10月30日前 作出认购决定。",
+        "source": "華爾街見聞",
+        "group": "華爾街見聞",
+        "link": "https://wallstreetcn.com/articles/3784256",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 3
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "外媒：特朗普致电马斯克，要求解除对乌克兰“星链”限制",
+              "lead": "中新网10月23日电 据美国《华尔街日报》22日报道，美国总统特朗普致电美国企业家马斯克，要求他解除对乌克兰境内“星链”卫星通信系统军事化版本的相关限制。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-23/10719465.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "西藏发生7级强烈地震，据报至少16死、数十人受伤",
+              "lead": "地震发生在西藏东北部一个山区且人口稀少的地区。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c9zrd1rd3jmyo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9bb/live/35523df0-ce6f-11f1-a64c-550be9e3c66b.jpg"
+            },
+            {
+              "title": "政治平权的台湾样本：女性凭什么赢下选举？",
+              "lead": "几十年来，台湾一直利用配额和保留席位将女性引入选举政治。如今，台湾女性在政治领域的代表比例位居世界前列，而且在她们当中，很少有人是仅凭配额当选的。 Lam Yik Fei for The New York Times 苏巧慧在台湾竞选市长。台湾女性在立法机构中占据42%的席位，这一比例在亚洲居首，与北欧国家相当。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/asia-pacific/20261022/taiwan-gender-quotas/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "华东台风强、印尼野火烈——厄尔尼诺现象影响世界的五个方面",
+              "lead": "有记录以来最强的厄尔尼诺现象持续增强之际，全球各地已经感受到哪些天气模式方面的影响？BBC首席气象预报员莎拉·基斯—卢卡斯（Sarah Keith-Lucas）检视相关证据。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cmy83vnzql06o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c060/live/ba6a11a0-cd4f-11f1-a64c-550be9e3c66b.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "中国央行等多部门发文：金融支持国际科技创新中心建设",
+              "lead": "中新网北京10月22日电 (陶思阅)近日，在2026金融街论坛年会举办期间，中国人民银行会同科技部等10部门联合印发了《关于金融支持建设北京(京津冀)、上海(长三角)、粤港澳大湾区国际科技创新中心的指导意见》(下称《意见》)。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-22/10719396.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "AI早报 |马斯克：人形机器人将成为全球最大产业；Anthropic推出AI智能体Claude Duet",
+              "lead": "宇树科技创始人王兴兴明确宇树未来三大布局方向；智元开源首个真实场景Physical Agent数据集。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15224961.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "股东强烈反对、监管忧虑违规，海力士放弃Solidigm上市，\"美国最大芯片IPO\"告吹",
+              "lead": "SK海力士宣布放弃旗下子公司Solidigm赴美上市计划，这一原本被视为潜在\"美国最大芯片IPO\"的交易就此终止。 据彭博周五报道， SK海力士在一份监管文件中确认，已叫停Solidigm的美国上市进程，同时终止与上市同步推进的Pre-IPO融资工作。 公司表示，此次决定是在综合考量近期资本市场环境及股价走势后作出的，并不反映Solidigm业务前景或投资需求的任何变化。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3784259",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "OpenAI接近完成最高300亿美元融资 投前估值达1.25万亿美元",
+              "lead": "10月22日，OpenAI正接近完成一轮最高300亿美元的融资，投前估值达到1.25万亿美元。知情人士透露，本轮融资由阿联酋投资者和投资机构Coatue联合领投，OpenAI计划将其作为潜在首次公开募股（IPO）前的过渡性融资。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1583464.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            },
+            {
+              "title": "消息称 OpenAI 融资磋商进入尾声，估值目标下调至 1.25 万亿美元",
+              "lead": "IT之家 10 月 23 日消息，据彭博社报道，知情人士透露，正在寻求在最新一轮融资中筹集约 300 亿美元 （IT之家注：现汇率约合 2,006.8 亿元人民币） 的 OpenAI，目前在谈判的最后阶段将 目标估值定为 1. 25 万亿美元 （现汇率约合 8.36 万亿元人民币） 。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/016/782.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            },
+            {
+              "title": "早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
+              "lead": "微信回应 iPhone Duo 适配：正积极推进，将尽快更新 奥迪中国换帅，前奇瑞高管张俊将接任总裁 eBay 再裁约 1000 个岗位，年内第二轮收缩 比亚迪杨冬生：L3 级自动驾驶可能在 2028 年落地 特斯拉三季度净利降 43%，管理层仍强调 FSD 技术领先 王兴兴：物理 AI 已有突破苗头，难点在模型与机器人对齐 宝马与中国信通院续签合作，聚焦 AI 与下一代通信技术 OpenAI 据报接近敲定最高 300 亿美元融资",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1685530?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "联合国应对损失与损害基金为尼泊尔预留2000万美元",
+              "lead": "中新社加德满都10月23日电 联合国应对损失与损害基金董事会22日同意为尼泊尔预留2000万美元，支持该国“8·26”泥石流灾后的恢复与重建。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-23/10719452.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "不点单，没座位：星巴克中国推出新门店政策",
+              "lead": "星巴克表示，随著与本土竞争对手展开竞争，公司正致力改善顾客的店内体验。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/ckn9r7e4e8jpo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d52a/live/22a66e60-cdc5-11f1-ae0b-3f5d64e6a869.jpg"
+            },
+            {
+              "title": "民调显示，中期选举两周前特朗普支持率跌至新低",
+              "lead": "据《纽约时报》与锡耶纳学院联合发布的最新全国民调，仅36%的潜在选民认可特朗普的执政表现，59%表示不认可。选民不满意其对经济、伊朗战争和高油价问题的处理。 Jillian Vordick/The New York Times 数据基于《纽约时报》/锡耶纳于10月12日至19日对全美3494名潜在选民开展的民调。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261022/trump-midterm-election-poll/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "暗影人物：与乌克兰合作的俄罗斯人",
+              "lead": "从线人和秘密网络，到破坏行动及暗杀的指控，俄罗斯与乌克兰之间的战争，正越来越多地在远离战场的地方展开。 这场暗影战争的许多细节难以核实。不过，《BBC之眼》罕有地接触到一些俄罗斯人。他们声称，自己正通过在俄罗斯境内执行行动，以协助乌克兰。BBC已确认他们为乌克兰情报机构工作，但未能独立核实他们所称参与的行动。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/watch/c6eq32qzr0x8o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d4da/live/40b74640-cd1b-11f1-9a39-31b474234113.jpg"
+            },
+            {
+              "title": "为甚么马斯克要策划 SpaceX 与特斯拉的超大型合并？",
+              "lead": "马斯克称，透过合并这两家公司，「有很多好处可获得」，而这将会是历来规模最大的合并案。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6eq309002q3o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a691/live/0777e580-cd28-11f1-bc2e-018d645d8d21.png"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "原创纪录电影《象行记》今起登陆院线 讲述中国亚洲象保护故事",
+              "lead": "首部亚洲象主题IMAX原创纪录电影《象行记》今天(23日)起登陆全国各大院线。这部影片首次将云南亚洲象“北上南归”与被救助象“阿宝”野化放归等真实事件搬上银幕，讲述中国亚洲象保护的故事。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-23/10719481.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "「花莲王」傅崐萁，与党中央「管不了」的地方豪杰",
+              "lead": "在这场「猜忌怀疑的烂游戏」当中，有一条重要的规则：双方都要「憋著呼吸／越靠越近」。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261023-taiwan-fu-and-other-local-powers/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/IMGC7607-copy.jpg"
+            },
+            {
+              "title": "【彩云自译】意外室友 (评论: 意外室友)",
+              "lead": "梦里的花 评论: 意外室友 评价: 还行",
+              "source": "豆瓣",
+              "group": "豆瓣",
+              "link": "https://movie.douban.com/review/17865570/",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "CBA：山西队主场力克上海队 送卫冕冠军赛季首败",
+              "lead": "中新社太原10月23日电 (记者 胡健)2026-2027赛季中国男子篮球职业联赛(CBA)常规赛第3轮22日晚打响，山西汾酒男篮在主场以103比92战胜上海久事男篮，此前两连胜的卫冕冠军遭遇赛季首败。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-23/10719444.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "第20届倡棋杯中国职业围棋锦标赛决赛在沪开幕",
+              "lead": "中新网上海10月22日电(缪璐 狄权)第20届倡棋杯中国职业围棋锦标赛决赛开幕式22日晚间在上海举行。本届决赛由党毅飞九段对阵辜梓豪九段，三番棋将于10月23日至25日展开争夺，冠军将直接获得2028年第11届应氏杯世界职业围棋锦标赛的参赛资格。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-22/10719418.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "两部门启动国家地震灾害四级应急响应",
+              "lead": "西藏那曲巴青县发生7.0级地震",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/10-22/10719441.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "前OpenAI科学负责人创办Warp Sciences 融资2.15亿美元打造机器人药物实验室",
+          "lead": "前OpenAI首席产品官兼科学团队负责人凯文·韦尔创办Warp Sciences，目标是把人工智能与机器人引入药物研发实验室",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1583428.htm"
+        },
+        {
+          "title": "特朗普收紧绿卡政策，印度科技从业者的「美国梦」面临考验",
+          "lead": "由于移民限制和科技公司削减外籍员工，获得美国永久居留权对许多印度人来说正变得越来越遥不可及。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/crly0lw6g726o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
+          "lead": "Meta财报引爆AI资本开支恐慌，美股科技板块重挫，避险情绪推动美债大涨，原油则在中东局势升温下飙升。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3784189"
+        },
+        {
+          "title": "中国拟出台新规，加强对先进人工智能模型出口管控",
+          "lead": "拟议中的新规或将赋予政府限制本国顶尖人工智能出口的权力。草案折射出北京一方面希望监管前沿人工智能系统的传播，同时仍然希望全球用户采用中国软件。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/china/20261022/china-moves-to-tighten-its-grip-over-exports-of-top-ai-models/?utm_source=RSS"
+        },
+        {
+          "title": "中信证券：美妆板块经历市值与预期的深度调整，投资价值已现",
+          "lead": "中信证券指出，2026年“6·18”大促中，竞争加剧使得美妆行业投流成本上行，对核心上市公司收入及利润端造成影响，下半年以来美妆板块持续调整",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15227080.html"
+        },
+        {
+          "title": "《半条命 3》真的要来了？Valve 开发者首次公开提及 HLX 游戏代号",
+          "lead": "IT之家 10 月 23 日消息，科技媒体 pcgamer 昨日（10 月 22 日）发布博文",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/016/783.htm"
+        },
+        {
+          "title": "徐晓宏《大分离》：国家发展经济、群众远离政治的「共识」松动之后",
+          "lead": "1967究竟产生了什么只有中国才有的历史后果？",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261023-opinion-the-great-separation-is-1967-special/"
+        },
+        {
+          "title": "美国政府再出手强化芯片供应链！拟投入3.89亿美元支持功率半导体与关键材料研发",
+          "lead": "美国正加大对先进功率 半导体 和关键材料的支持力度，试图强化本土芯片供应链，并为核聚变",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1355,202610233904637291.html"
+        },
+        {
+          "title": "OpenAI 发现 PHP「世纪漏洞」，全球 70% 网站都危险了",
+          "lead": "「PHP 是世界上最好的语言」……但 10 月 21 日夜晚，却成了所有 PHP 运维人员的噩梦之夜。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1685507?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "[推广] [开源自荐] Linkit：本地优先的 AI 书签管理器，自动摘要 + 语义搜索 #01",
+          "lead": "大家好，做了一个桌面端的书签管理应用 Linkit ，开源免费。 要解决的痛点 浏览器书签就是个 URL 列表。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1251102#reply0"
+        },
+        {
+          "title": "网盘新片丨网大版《满江红》+《新龙门客栈》，轻刀快马再出古装武侠佳作！ (评论: 杯雪·一战成名)",
+          "lead": "福雷斯特·冈普 评论: 杯雪·一战成名 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17866431/"
+        },
+        {
+          "title": "Google军事人工智能合约引发辞职潮",
+          "lead": "BBC采访了多名前任和现任Google DeepMind员工，了解他们对人工智能在战场上应用的忧虑。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c620re8ye3e4o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
+          "lead": "AI科技股的一轮集中抛售，意外成为美债市场三年来最猛烈的单日反弹的导火索。 周四，10年期美债收益率单日下行19.3个基点至4.952%重回",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3784249"
+        },
+        {
+          "title": "当法国人将愤怒砸向奢侈品橱窗",
+          "lead": "长期以来，奢侈品被当作社会和经济不公的替身。在巴黎这座自诩奢侈品之都的城市，八年来第三次发生针对奢侈品牌的实体攻击",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/style/20261022/france-riots-luxury-dior-hermes/?utm_source=RSS"
+        },
+        {
+          "title": "西藏那曲发生7.0级地震，国道317线部分路段封闭",
+          "lead": "交通运输部消息，西藏那曲巴青县发生7.0级地震，受地震影响，国道317线部分路段遭遇山体落石。10月23日3时，公路养护部门清理通畅落石路段。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15227074.html"
+        },
+        {
+          "title": "台湾相声演员黄逸豪遭伪装车祸冲撞，《反渗透法》为何用不上？｜Whatsnew",
+          "lead": "台湾新北地方检察署（新北地检署）10月21日因相声演员黄逸豪遭车撞案 起诉 五名男子",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261022-whatsnew-taiwan-crosstalk-performer-staged-crash/"
+        }
+      ],
+      "supplement": {
+        "title": "《正常人》作者萨莉・鲁尼作品在英停售，反恐禁令如何波及出版？｜Whatsnew",
+        "lead": "北爱尔兰的部分独立书店，近日出现抢购爱尔兰小说家萨莉‧鲁尼（Sally Rooney）作品的抢购潮，位于德罗莫尔的独立书店Bridge Books表示，其作品销量增至原来的四倍多，不少网上订单来自英国。 销售突然拉升，源于10月14日的两则声明：鲁尼与英国出版社Faber先后表示，不再向英国市场供应她任何形式的作品。Faber解释，受到英国现行法律影响，出版社无法将作品在英销售所得的报酬支付给鲁尼；",
+        "body": [
+          "北爱尔兰的部分独立书店，近日出现抢购爱尔兰小说家萨莉‧鲁尼（Sally Rooney）作品的抢购潮，位于德罗莫尔的独立书店Bridge Books表示，其作品销量增至原来的四倍多，不少网上订单来自英国。销售突然拉升，源于10月14日的两则声明：鲁尼与英国出版社Faber先后表示，不再向英国市场供应她任何形式的作品。Faber解释，受到英国现行法律影响，出版社无法将作品在英销售所得的报酬支付给鲁尼；出版社无法接受继续出售作品，收益却不能支付给作者，因此，双方协商后决定停止供货。之所以涉及法律，与鲁尼的一项资助承诺有关。",
+          "2025年8月，她公开表示，将以作品收入，包括书籍及影视改编收益，用于支持「巴勒斯坦行动」（Palestine Action）。此前一个月，英国政府已将其列为恐怖组织，向其提供资金因而涉及反恐法风险。鲁尼在这次声明中表示，自己始终尽力向公众坦诚交代立场与意图，也愿意承担后果。然而，事件的影响迅速超出文学出版圈，英国部长与爱尔兰外交部长均已回应。英国《反恐法》制造的间接限制引发对言论自由的担忧：当作品本身与恐怖活动无关，反恐法仍可能使作品退出市场，是否产生审查效果？2026年10月16日，英国伦敦，爱尔兰小说家莎莉・鲁尼（Sally Rooney）在书店出售。",
+          "摄：Rasid Necati Aslim/Anadolu via Getty Images 萨莉・鲁尼是谁 鲁尼1991年出生，成长于爱尔兰西部梅奥郡，是当代英语文学中备受关注的作家之一，常被媒体称为「千禧一代的代言人」。她的四部长篇小说描写年轻人的亲情、友情与爱情，追问在这个年代，青年人为什么难以建立真实的亲密关系。在她的笔下，人物之间的误解与疏离，往往与收入、住房及社会地位交织，亲密关系也因此成为探讨阶级、性别与政治的切口。2020年，《正常人》（Normal People）改编剧集播出后，进一步扩大了她的全球知名度。2024年《间奏曲》（Intermezzo）出版时，英国与爱尔兰多家书店举办提前开门、排队购书等活动，英国也有独立书店安排午夜发售。英国是鲁尼作品的重要市场。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261022-whatsnew-sally-rooney-books-not-be-sold-in-uk-support-for-palestine-action/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/2019-01-29T175140Z_1393075208_RC1FCEF85590_RTRMADP_3_AWARDS-COSTA-7.JPG"
+      },
+      "stats": {
+        "visible": 40,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 20,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "BBC×5",
+          "華爾街見聞×4",
+          "端傳媒×4",
+          "紐約時報×2",
+          "cnBeta×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+        "lead": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
+        "body": [
+          "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region."
+        ],
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9bb/live/35523df0-ce6f-11f1-a64c-550be9e3c66b.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "King Charles urged ‘as human brother’ to support reparations talks at Caribbean summit",
+        "lead": "Caricom commission chair Hilary Beckles wants king to ensure Commonwealth becomes a ‘moral institution committed to human justice’ The head of the Caribbean’s",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/uk-news/2026/oct/22/caricom-reparations-commission-king-charles",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/6e85cdb1a9fa709e220653e6e87543de8f6199fd/554_0_5543_4435/master/5543.jpg?width=140&quality=85&auto=format&fit=max&s=1ef88ecfdda39fe6aa21e6f6d03ecb1e",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Child health in England at risk from sharp rise in NHS waiting times, report says",
+              "lead": "CQC research finds long delays are making conditions harder to treat and highlights regional disparities in care Thousands of children in England are experiencing some of the sharpest rises in waiting times for",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/society/2026/oct/23/child-health-england-at-risk-sharp-rise-nhs-waiting-times",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/aa0c403b6d4c0f5fec5de4c02d771214604febbc/688_43_4232_3386/master/4232.jpg?width=140&quality=85&auto=format&fit=max&s=cf3ad6976341c6338f554290a4f05934",
+              "consensus": 5
+            },
+            {
+              "title": "Serbian Election Underscores the Region’s Long Political Limbo",
+              "lead": "Aleksandar Vucic, Serbia’s dominant political figure since 2012, may extend his grip, using the Balkans’ unresolved nationalist resentments.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/20/multimedia/00int-serbia-nationalism-01-cbtq/00int-serbia-nationalism-01-cbtq-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Thousands gather at final student-led rally ahead of Serbia election",
+              "lead": "The student movement aims to end Vucic's 14 years of rule at Sunday's vote, as he holds a rival rally across town.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Moderna shares sink after leaked cancer data missed expectations",
+              "lead": "Melanoma vaccine treatment cut risk of recurrence or death by 58% but failed to exceed Wall Street’s lofty expectations",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/9e59746f-9b63-4adb-b868-14088d638b8a?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc9d40424-b91a-4240-ace5-fb485260daae.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
+              "lead": "Datacenter and chip costs fueled sharp decrease in AI sector although non-AI stocks still had a strong showing The latest shudder for stocks in the AI industry pulled markets lower worldwide on Thursday",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://i.guim.co.uk/img/media/9e77a4ead0dd662eb649b44a2b029545f70ae2d1/408_0_4078_3263/master/4078.jpg?width=140&quality=85&auto=format&fit=max&s=03c497b56890f64a599984cd4dece7c8",
+              "consensus": 2
+            },
+            {
+              "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+              "lead": "Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Canva’s first AI image model plans designs before generating them",
+              "lead": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+              "lead": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "US official: Russia's stalker satellite sure looks like an orbital weapon",
+              "lead": "Four years ago, a senior official in Russia's foreign ministry painted a bullseye on commercial satellite networks that assist Ukraine in its fight against invading Russian military forces.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/space/2026/10/russia-claims-its-stalker-satellite-is-purely-peaceful-in-character/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vorontsov-1152x648.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "The rising French star whose dad won Rugby World Cup with England",
+              "lead": "Felix Balshaw is the son of an English Rugby World Cup winner - but is representing France as he climbs the world tennis rankings.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/tennis/articles/cqe9ldmdpxzzo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93be/live/7837d090-ce2d-11f1-9f18-490cec60aa0f.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Tour de France UK stages in detail - where can you watch?",
+              "lead": "The full route for the 2027 Tour de France is announced in Paris, with street-by-street details of the six stages in the UK revealed.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/cycling/articles/cq1kd0z33r8ro?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a852/live/0e210250-ce17-11f1-bc2e-018d645d8d21.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Brook underlines status as world's best all-format batter in remarkable defeat",
+              "lead": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f1b/live/aad157e0-ce39-11f1-a86f-f78305ec9987.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Humphries withdraws from European Championship",
+              "lead": "World number two Luke Humphries pulls out of the European Championship in Germany because of gastroenteritis, with Luke Woodhouse throwing a nine-darter in the opening match of the tournament.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/darts/articles/ck240lypjqvno?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd00/live/b119e100-ce1e-11f1-906e-e3128518d85d.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "‘Ebenezer’ Creates a Real Venmo Profile for Scrooge, Which Looks to Be Accepting Money But Not Dishing It Out",
+              "lead": "The surly miser Ebenezer Scrooge is no longer just a fictional character haunting the holidays — he’s on Venmo. To promote Ti West’s upcoming adaptation of the notorious character in the film “Ebenezer",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/ebenezer-venmo-real-johnny-depp-scrooge-movie-1236921820/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/07/EBZR-02234R.jpg",
+              "consensus": 2
+            },
+            {
+              "title": "Oscars Predictions 2027: Is ‘You Can See Everything’ the Film That Can Take Down ‘The Odyssey’?",
+              "lead": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/lists/2027-oscars-predictions/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/09/You-Can-See-everything.jpg"
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists discover a surprising secret behind the human brain’s wrinkles",
+              "lead": "Scientists have discovered why common marmosets have unusually small, smooth brains despite starting development much like other primates.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261021231235.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Massive study of 460,000 people challenges ultra-processed food cancer fears",
+              "lead": "A massive study of more than 460,000 Americans found that ultra-processed foods were not associated with increased colorectal cancer risk overall, challenging a widely held assumption.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261020085014.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+          "lead": "The UN human rights chief Volker Türk says the multiple attacks may",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Revealed: billionaire Reform donor was in business with foundation linked to Iranian regime",
+          "lead": "Exclusive: Sasan Ghandehari’s partnership with religious foundation",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs"
+        },
+        {
+          "title": "Airfares will not return to pre-Iran war levels, American Airlines warns",
+          "lead": "Some industry chiefs say travellers should expect a further rise in",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/d114ce00-f30d-41c6-ac03-71209aa62ee2?syn-25a6b1a6=1"
+        },
+        {
+          "title": "He Was Reporting on Floods in Australia. Then He Jumped to the Rescue.",
+          "lead": "Will Murray of Australia’s public broadcaster spotted a man in a",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/22/world/australia/brisbane-flooding-car-rescue-abc-reporter.html"
+        },
+        {
+          "title": "Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports",
+          "lead": "The powerful earthquake has injured 32 others so far",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss"
+        },
+        {
+          "title": "Strong earthquake strikes China’s remote Tibet region",
+          "lead": "At least 16 people have died and dozens more have been injured after",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/asia-pacific/20261022-many-dead-massive-earthquake-strikes-china-s-remote-tibet-region-magnitude-seven"
+        },
+        {
+          "title": "EU mulls sanctions reprieve for Chinese fabric-maker accused of aiding Russia",
+          "lead": "Diplomats from the EU’s 27 member states were pressured this week to",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/china/article/3371832/eu-mulls-sanctions-reprieve-chinese-fabric-maker-accused-aiding-russia"
+        },
+        {
+          "title": "Canva releases its first image generation model",
+          "lead": "Canva is making its new image model available to all users",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+        },
+        {
+          "title": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year",
+          "lead": "FIFA is formally auctioning its U.S. media rights and wants bids by",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/22/fifa-launches-tender-of-us-world-cup-media-rights-for-2030.html"
+        },
+        {
+          "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
+          "lead": "NASA does not have, nor want, nuclear weapons.",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/"
+        },
+        {
+          "title": "Etsy is cracking down on AI slop listings",
+          "lead": "Etsy is announcing stricter rules about how AI can be used in",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing"
+        },
+        {
+          "title": "‘Wildwood’ Director Travis Knight on AI: ‘An Amazing Piece of Technology’ But ‘I’m Not Embracing It at All’",
+          "lead": "“Wildwood” director Travis Knight is weighing in on Hollywood’s use",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/columns/wildwood-director-travis-knight-ai-1236921716/"
+        },
+        {
+          "title": "Birds are more afraid of women than men. Scientists have no idea why",
+          "lead": "Scientists have uncovered a strange pattern in urban bird behavior",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261021231250.htm"
+        },
+        {
+          "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+          "lead": "Trump is suing the BBC over an episode of Panorama that edited",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump ordered to face BBC questioning in $10bn defamation lawsuit",
+          "lead": "President must appear by December 11 after attending campaign rally",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/8ada683f-9534-461d-9a3a-fc541550df16?syn-25a6b1a6=1"
+        },
+        {
+          "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+          "lead": "OpenAI is launching its decision model to the world.",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+        }
+      ],
+      "supplement": {
+        "title": "John Mayer Sets Up His Own Label, Sob Rock Records, in Partnership With Mercury to Release First New Solo Music in Five Years",
+        "lead": "John Mayer has had his hands full with what felt like a hundred projects over the past few years — with putting out new music not among them.",
+        "body": [
+          "John Mayer has had his hands full with what felt like a hundred projects over the past few years — with putting out new music not among them.",
+          "It takes a stretch of the memory to even recall that he announced a parting of ways with Sony Music back in 2022, with no followup revelation […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/music/news/john-mayer-new-label-sob-rock-records-mercury-1236921812/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/GENERAL-2026-114_John_Mayer_E_0991_V02_sm-2-e1792702431973.jpeg"
+      },
+      "stats": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "Guardian×3",
+          "TechCrunch×3",
+          "ScienceDaily×3",
+          "Al Jazeera×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-23T00:27:44.239Z",
+    "sources": {
+      "configured": 36,
+      "ok": 35,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "Solidot",
+          "reason": "fetch failed"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 779,
+        "lang": 435,
+        "fresh": 350,
+        "denoised": 349,
+        "deduped": 324
+      },
+      "en": {
+        "fetched": 779,
+        "lang": 344,
+        "fresh": 333,
+        "denoised": 330,
+        "deduped": 326
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 40,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 20,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "BBC×5",
+          "華爾街見聞×4",
+          "端傳媒×4",
+          "紐約時報×2",
+          "cnBeta×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "Guardian×3",
+          "TechCrunch×3",
+          "ScienceDaily×3",
+          "Al Jazeera×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

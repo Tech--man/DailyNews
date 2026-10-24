@@ -1,0 +1,897 @@
+{
+  "issue": 40,
+  "date": "2026-10-24",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月十五 · 霜降",
+    "en": "15th day of the 9th lunar month · Frost's Descent"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "俄军宣布27日在赫尔松方向实施停火",
+        "lead": "中新社莫斯科10月23日电 俄罗斯武装力量总参谋长格拉西莫夫23日表示，鉴于在赫尔松州奥列什基(又称阿廖什基)居民点开展人道主义行动，俄军决定在赫尔松方向实施停火，自莫斯科时间10月27日4时起进入“静默状态”。",
+        "body": [
+          "中新社莫斯科10月23日电 俄罗斯武装力量总参谋长格拉西莫夫23日表示，鉴于在赫尔松州奥列什基(又称阿廖什基)居民点开展人道主义行动，俄军决定在赫尔松方向实施停火，自莫斯科时间10月27日4时起进入“静默状态”。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720166.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "俄军宣布27日起在赫尔松方向停火并实行“静默状态”",
+        "lead": "10月23日消息，俄罗斯武装力量总参谋长、国防部第一副部长瓦列里·格拉西莫夫大将宣布，俄罗斯武装力量自莫斯科时间2026年10月27日4时起，在赫尔松方向停止开火并实行“静默状态”。美国白宫23日发表声明说，美国促成俄罗斯和乌克兰达成在赫尔松地区阿列什基的停火协议。",
+        "source": "界面新聞",
+        "group": "界面",
+        "link": "https://www.jiemian.com/article/15233498.html",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 2
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "泽连斯基确认乌美俄三方会谈将于11月上半月举行",
+              "lead": "乌克兰总统泽连斯基23日表示，他已与美国总统特使威特科夫和女婿库什纳通话，与俄罗斯和美国方面举行会晤的计划安排在11月上半月。泽连斯基同时表示，乌方愿意在任何一天举行会晤。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720158.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 3
+            },
+            {
+              "title": "西藏那曲发生7.0级地震，十余人死亡",
+              "lead": "地震发生在晚间10点半左右，随后发生多次余震。据官媒报道，地震造成至少16人死亡，54人受伤，300多栋房屋被毁。该地区海拔较高，气候寒冷，或对救援造成影响。 Xinhua, via Associated Press 周五，救援人员在西藏那曲市一个受地震影响的村庄展开救援。该地区海拔较高，预计未来几天将有降雪。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/china/20261023/earthquake-tibet-china/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "巴黎骚乱中的三位华人：「激烈的地方激烈，安静的地方安静」",
+              "lead": "三位受访者表示，暴力事件集中于示威区域，市民日常生活并未受到太大影响。但他们对政府能否平息抗议并不乐观，甚至有人预计，随著冬季来临、生活成本上涨，示威还会陆续出现。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/ckq6n02lqz8vo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f3d/live/dabd82c0-cea3-11f1-bc2e-018d645d8d21.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "上海推动人工智能赋能工业服务业",
+              "lead": "中新网上海10月23日电 (记者 郑莹莹)据上海市经济和信息化委员会23日发布的消息，《上海市加快推动人工智能赋能工业服务业高质量发展行动方案(2027-2028年)》(简称“行动方案”)于近日印发。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-23/10720144.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "十大券商首席研判：A股中长期投资价值凸显",
+              "lead": "",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15234053.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "美国将氦列为关键材料，半导体制造是重要考量，全球供应中断风险上升",
+              "lead": "美国能源部将氦气正式列入关键材料清单，此举将为氦气生产商开辟更多联邦融资渠道，并强化政府对供应链的监控力度。在全球氦气供应面临多重扰动的背景下，这一决定凸显了氦气对半导体、量子计算及清洁能源等战略性产业的不可替代性。 美国能源部长Chris Wright在声明中表示，特朗普政府正致力于摆脱美国对外国关键材料的依赖，以强化本土制造业、保障国家经济与安全。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3784355",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "港交所推出人工智能及半导体指数",
+              "lead": "中新社香港10月23日电 香港交易及结算所有限公司(简称“港交所”)23日宣布，正式推出香港交易所人工智能指数及香港交易所半导体指数。新推出的两项指数将拓展港交所指数业务，以覆盖新兴科技趋势。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-23/10720140.shtml",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "曝微软曾向 Netflix 开价 8 亿美元，寻求 XBOX 游戏 7 年独家影视改编权",
+              "lead": "IT之家 10 月 24 日消息，当地时间 23 日，外媒 Puck 援引三名知情人士消息称，微软曾向 Netflix 开价 8 亿美元 （IT之家注：现汇率约合 53.51 亿元人民币） ，希望达成为期 7 年的独家授权协议，允许 Netflix 将 XBOX 旗下游戏角色改编成电影和剧集，并在其流媒体平台上独家播出。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/017/293.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "美国将氦列入关键材料清单 供应链中断风险上升",
+              "lead": "美国能源部将氦列入关键材料清单，理由是这种元素对美国国内制造业和半导体生产至关重要，而且越来越容易受到供应链中断的影响。美国能源部周五在声明中表示，在许多关键应用中，这种惰性气体没有可行的替代品。已经列入清单的其他元素包括钴、镁和锂。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1583616.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "欧盟向也门追加2250万欧元人道主义援助",
+              "lead": "中新社布鲁塞尔10月23日电 (记者 德永健)在也门军事冲突持续升级之际，欧盟23日宣布向也门追加2250万欧元人道主义援助，用于应对当地日益增加的人道主义需求。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-23/10720139.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "在台湾，台风不仅是自然灾害，还可能决定政治人物的命运",
+              "lead": "在台湾，每当台风来袭时，各县、市长必须决定是否下令放“台风假”。选民通常会对这一假日表示欢迎，但无必要地宣布放假也可能会给政治人物带来负面影响。 Chiang Ying-Ying/Associated Press 周四，随着台风“蔷琵”逼近该地区，台湾北部基隆市海岸涌起巨浪。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/asia-pacific/20261023/taiwan-typhoon-champi-mayors/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "西藏那曲7级地震16死54伤，当局派翼龙无人机进行灾情侦察",
+              "lead": "地震发生在西藏东北部一个山区且人口稀少的地区。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c9zrd1rd3jmyo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9bb/live/35523df0-ce6f-11f1-a64c-550be9e3c66b.jpg"
+            },
+            {
+              "title": "李翊云新作：“小有名气”者的宿命与悲欢",
+              "lead": "《抗衡黑夜的音乐》以19世纪之交两位真实古典音乐家交织的命运为主题。李翊云生动地呈现了两个年轻人的感官与情感体验，同时坦率地探讨了艺术与商业的议题。 Aldo Jarillo",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/culture/20261023/music-against-the-night-yiyun-li/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "《长征专题书目（1936—2026）》出版 拓展目录学研究范畴",
+              "lead": "中新网10月23日电 在中国工农红军长征胜利90周年之际，由中国国家版本馆编纂、四川人民出版社出版的《长征专题书目(1936—2026)》于近日出版发行。这次红色文献专题书目的编纂出版，充实了目录学文献类型，拓展了目录学研究范畴。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-23/10719859.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "一个「好移民」能上街吗？——10月17日之后的巴黎手记",
+              "lead": "编者按：10月17日，据法国政府统计，约55万人在法国各地上街抗议生活成本高涨，多座城市随后发生打砸抢。在中文网络上，「零元购」和「移民暴动」成了最醒目的标题，示威本身的诉求却少有人提起。 作者是一名在巴黎的留学生，这个群体今年刚失去申领住房补助的资格，学费豁免也正被大幅收紧。游行那天，他没有上街。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261024-opinion-paris-october-17-good-immigrant/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GettyImages-2301482130-copy-4.jpg"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "2026中国壁球公开赛将开赛 48名国际职业球员参赛",
+              "lead": "中新网上海10月23日电 (缪璐 狄权)2026中国壁球公开赛23日正式官宣开票。本次赛事作为PSA(职业壁球协会)世界职业巡回赛金级赛事，将于11月17日至22日在上海克拉壁球中心与仙霞网球中心双主场举行。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-23/10720046.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "U17女足世界杯：中国队两连胜提前晋级16强",
+              "lead": "中新网北京10月23日电 (刘梦青)当地时间22日，在摩洛哥拉巴特举行的2026年国际足联U17女足世界杯E组第二轮比赛中，中国队以7:0大胜萨摩亚队，取得两连胜，提前一轮晋级16强。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-23/10719643.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "645家A股上市公司年内发布股权激励计划",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15234285.html"
+        },
+        {
+          "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
+          "lead": "油价大幅走强重燃通胀担忧，令投资者在美联储议息决定前夕加速撤离风险资产，美股与美债同步走低。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3784279"
+        },
+        {
+          "title": "科学家确认全新蝴蝶物种 曾长期被误认为是另一种",
+          "lead": "科学家近日宣布确认一种此前从未被正式描述的蝴蝶新物种，并将其命名为 Satyrium curiosolus。",
+          "category": "science",
+          "categoryLabel": "科学",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/science/1583618.htm"
+        },
+        {
+          "title": "台湾地方选举倒数一个月：「台风假」牵动选情？",
+          "lead": "蔷琵台风来袭之际，台湾各县市是否宣布停班停课，成为九合一地方选举前的舆论焦点。有研究指出，选举年台风「停班停课」可能性增加。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c9zrdkn7336yo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "普京的“棋局”：重塑美俄关系而无需作出任何让步",
+          "lead": "特朗普放松了对克里姆林宫的经济压力，且不要求普京作出任何让步作为回报。普京正抓紧机会采取行动，将自己定位为与美国和中国平起平坐的全球大国",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/world/20261023/putin-trump-ukraine-war/?utm_source=RSS"
+        },
+        {
+          "title": "苹果推送 iOS 27.1 更新，其首款折叠 iPhone Duo 独享",
+          "lead": "IT之家 10 月 24 日消息，科技媒体 MacRumors 昨日（10 月 23 日）发布博文",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/017/292.htm"
+        },
+        {
+          "title": "联合国警告厄尔尼诺可能导致数千万人粮食短缺",
+          "lead": "今年的厄尔尼诺事件强度可能前所未有。它将于 2026 年底前后达到峰值，但其影响在此之后仍将持续很长时间。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85694"
+        },
+        {
+          "title": "这一周，不漏读：跨境镇压再临",
+          "lead": "今天是星期五，10月23日，欢迎来端周报。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261023-weekly/"
+        },
+        {
+          "title": "智能体等应用普及率超90% 适时启动6G商用 国家信息化“十五五”规划释放了哪些信号",
+          "lead": "《国家信息化“十五五”规划》印发，系统谋划了“十五五”时期信息化发展的任务书、时间表、路线图。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1344,202610243907012127.html"
+        },
+        {
+          "title": "实测 iPhone Duo 微信适配版：适配好了吗，体验怎么样？",
+          "lead": "就在刚刚，微信正式推送了 8.0.80 版本的 iPhone 客户端更新，带来了对 iPhone Duo 进一步适配。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1685575?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "2026 上海开源软件应用创新大赛「开源 AI 工具赛道」决赛名单公布",
+          "lead": "2026 上海开源软件应用创新大赛「开源 AI 工具赛道」决赛入围名单今日公布，以下 10 支队伍成功晋级",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/503189"
+        },
+        {
+          "title": "[分享发现] 来了一个到处搬运帖子起号的用户：@cjkcjkcjk",
+          "lead": "t/1251383 年轻人的出路在哪里？ 6 小时 48 分钟前 t/1251369 我发现张本智和、张本美和不仅球打得好",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1251407#reply4"
+        },
+        {
+          "title": "【长评】不可能的返乡与诺兰的狡计——评《奥德赛》 (评论: 奥德赛)",
+          "lead": "TGD电影小组 评论: 奥德赛 评价:",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17868231/"
+        },
+        {
+          "title": "注销式回购成主线，多家上市企业披露增持回购公告",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15234286.html"
+        },
+        {
+          "title": "特朗普政府扩大对加拿大商品关税豁免范围，助力中期选举",
+          "lead": "特朗普政府扩大对加拿大商品的关税豁免范围， 此举被普遍解读为助力缅因州共和党参议员Susan Collins的连任竞选。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3784359"
+        },
+        {
+          "title": "研究发现日常化学物质或引发乳腺组织异常变化 科学家呼吁加强风险评估",
+          "lead": "一项最新研究显示，广泛存在于日常生活中的部分工业化学物质可能对人体乳腺组织产生意想不到的影响。",
+          "category": "science",
+          "categoryLabel": "科学",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/science/1583606.htm"
+        }
+      ],
+      "supplement": {
+        "title": "中国科学家在地球深处发现隐藏氧气来源：高压实验显示硅酸盐熔体可储存超 5% 额外氧",
+        "lead": "IT之家 10 月 23 日消息，地球大气中的氧气从何而来，绝大部分人都会说光合作用。但一项新研究提出，在地球历史的某个关键节点，岩浆本身可能也曾充当过重要的氧气搬运工。 中国学者发表在《国家科学评论》上的一项高压实验与模拟研究显示，硅酸盐熔体在高压下能够容纳远超传统化学计量预期的“额外氧”，这些氧随岩浆上升、压力降低而被逐步释放，为理解约 25 亿至 20 亿年前大气氧含量的第一次大幅上升提供了一条此前未被纳入考量的深部路径。",
+        "body": [
+          "IT之家 10 月 23 日消息，地球大气中的氧气从何而来，绝大部分人都会说光合作用。但一项新研究提出，在地球历史的某个关键节点，岩浆本身可能也曾充当过重要的氧气搬运工。中国学者发表在《国家科学评论》上的一项高压实验与模拟研究显示，硅酸盐熔体在高压下能够容纳远超传统化学计量预期的“额外氧”，这些氧随岩浆上升、压力降低而被逐步释放，为理解约 25 亿至 20 亿年前大气氧含量的第一次大幅上升提供了一条此前未被纳入考量的深部路径。传统上，地球科学家计算岩浆中的氧含量，依据的是硅、镁、铁等主要元素的丰度和价态。氧在硅酸盐地幔中占原子总数的一半以上，但绝大部分被化学键固定，其数量被认为完全由这些阳离子的“配方”决定。",
+          "与水和二氧化碳不同，氧本身长期不被视为一种可以独立溶解在岩浆中的挥发性组分。由北京高压科学研究中心（HPSTAR）林彦好研究员与毛河光院士领衔，联合西北工业大学牛海洋教授及阿姆斯特丹自由大学 Wim van Westrenen 教授的团队，对这一默认假设进行了直接检验。研究团队在实验室中合成了洋中脊玄武岩，在 1200 至 1800 摄氏度、1 个大气压至 7 吉帕斯卡的范围内进行熔融实验。7 吉帕斯卡约相当于 100 万磅每平方英寸的压力，接近上地幔的部分条件。为制造富氧环境，他们在部分样品中加入了氧化铂，随后将熔体快速冷却为玻璃，并测量其元素组成、水含量和二氧化碳含量，从中剥离出“化学计量必需氧”与“挥发分中的氧”，剩余部分被定义为“额外氧”。",
+          "结果呈现出清晰的压强依赖：在 1 个大气压下，额外氧接近于零；当压力升至 7 吉帕斯卡时，额外氧超过了样品重量的 5%，精确值为 5.2 ± 0.2 wt.%。作为对照，未添加氧化铂的同等温压实验仅产出 0.2% 至 0.5 wt.% 的额外氧。一个关键问题是，这些多出来的氧究竟进入了熔体结构，还是仅仅以气泡形式被物理包裹。拉曼光谱检测未在玻璃中发现氧气的气态信号，表明额外氧已被结合进硅酸盐网络之中。"
+        ],
+        "source": "IT之家",
+        "group": "IT之家",
+        "link": "https://www.ithome.com/1/017/272.htm",
+        "category": "science",
+        "categoryLabel": "科学"
+      },
+      "stats": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 17,
+        "maxGroupShare": 22,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×3",
+          "華爾街見聞×3",
+          "IT之家×3",
+          "cnBeta×3",
+          "界面×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+        "lead": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+        "body": [
+          "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets."
+        ],
+        "source": "BBC Business",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Trump to cut Canadian tariffs after pressure from Republicans",
+        "lead": "President to ease some levies to help candidates facing tough US Senate election battles",
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8567e868-5731-4719-8e56-56c6bd09dfa3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
+              "lead": "The Israeli military said two soldiers and two attackers had been killed, and three soldiers wounded. Prime Minister Benjamin Netanyahu vowed to launch a major offensive in the Israeli-occupied territory.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23Int-Israel-Shooting-02-lvmh/23Int-Israel-Shooting-02-lvmh-mediumSquareAt3X-v2.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’",
+              "lead": "Kaylub Giamanco recounts the day he confronted the Silver Rail elementary school shooter, who killed three boys and one teacher The Oregon father hailed as a hero for stopping a school shooting last week spoke for the",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/us-news/2026/oct/23/father-killed-oregon-shooter-speaks-out",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/d93043fb24be50d446422ceada214e462bca0249/319_0_4052_3241/master/4052.jpg?width=140&quality=85&auto=format&fit=max&s=74a2172573acb951eae2f4d1805307f9",
+              "consensus": 5
+            },
+            {
+              "title": "Trump to cut some Canada tariffs to help Maine lawmaker’s re-election bid",
+              "lead": "The Trump administration is expanding tariff exemptions to more Canadian products, a move that may help boost Republican US Senator Susan Collins’ re-election campaign in Maine.",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/world/united-states-canada/article/3371986/trump-lowers-some-canada-tariffs-help-maine-lawmakers-re-election-bid",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/24/96cc977f-250d-43f8-8493-5b76d3db49b2_fcceccda.jpg?itok=HxEOPIbm&v=1792785843",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
+              "lead": "Republican senator faces critical re-election battle in state where president’s trade war has outraged voters Donald Trump dropped some of the US’s tariffs on Canada on Friday to “better serve the public interest” the",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://i.guim.co.uk/img/media/a656adaa305948099a0698f8410031bd96ebf2ff/261_0_2655_2125/master/2655.jpg?width=140&quality=85&auto=format&fit=max&s=4d9cc435fff3980f6d247bc8abe9a63f",
+              "consensus": 5
+            },
+            {
+              "title": "How does the UK state pension compare with other countries?",
+              "lead": "Do British pensioners have it better or worse than those in other countries?",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a29/live/b390e000-ce14-11f1-9f55-cdc56e9c248c.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Trump moves to block certification of Alaska Senate election if Republican loses",
+              "lead": "Candidates’ similar names could ‘taint’ the result, argues US Justice Department",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/b68b8544-4ce9-45d4-b522-cd2f8150e4cc?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffa14f622-f903-4386-b70c-629d499d4d82.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+              "lead": "Since last week, Ukraine has reported restrictions on Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+              "lead": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "OpenAI now trains its frontier AI models with no internet access",
+              "lead": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
+              "lead": "Defense Secretary Pete Hegseth issued a memo warning military personnel against using nonpublic information to make bets on prediction markets, saying the wagers could give important clues to enemy countries.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Leclerc fastest from Antonelli in US GP practice",
+              "lead": "Ferrari's Charles Leclerc leads Mercedes' Kimi Antonelli in Friday practice at the United States Grand Prix.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a42/live/e60f9400-cf2b-11f1-89f6-f5ef8a187796.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Kompany taken to hospital after collapsing at training",
+              "lead": "Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f178/live/0950f610-cefb-11f1-accf-3309656ad0bb.jpg",
+              "consensus": 2
+            },
+            {
+              "title": "'It doesn't make sense' - Glasner confused after Diop avoids red card",
+              "lead": "Nottingham Forest manager Oliver Glasner admits he was left confused by the decision to not send off Issa Diop after a VAR check during his side's 1-1 draw at Ipswich Town",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/c8ly03l6klzpo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac3/live/c1c66a40-cf2d-11f1-93e1-3b657b665bcf.jpg"
+            },
+            {
+              "title": "Raskin happy at Rangers but unsure about January",
+              "lead": "Belgium midfielder Nicolas Raskin is \"really happy\" at Rangers but is unsure what might happen in January.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c6n8dezr0345o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e392/live/de4c6120-ceeb-11f1-bdca-23c64447299f.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Sacha Baron Cohen Says Donald Trump Has ‘Elements of Brilliance’ and ‘We Were Too Easy to Dismiss Him as a Nincompoop’",
+              "lead": "20 years after retiring Ali G, Sacha Baron Cohen has dusted off his tracksuit collection and reprised the character for “Ali G: Who Iz I?,” now open in theaters before coming to Amazon Prime Oct. 30.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/sacha-baron-cohen-donald-trump-brilliance-nincompoop-ali-g-1236930008/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/SACHA-BARON-TRUMP.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Why Olivia Colman Didn’t Get Splinters From Getting Intimate With Alexander Skarsgård’s ‘Wicker’ Costume",
+              "lead": "Believe the hype. “Wicker,” now in theaters, is every bit as horny, romantic and wonderful as the trailer leads you to believe. Olivia Colman plays a spinster fisherwoman in a medieval community where marriage is what",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/artisans/news/what-alexander-skarsgard-wicker-basket-was-made-from-1236929863/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/W_R_00006-1.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Dental implants can hijack your immune system, scientists discover",
+              "lead": "Researchers have uncovered a surprising reason dental implant infections often resist antibiotics: the implants themselves can contribute to the problem.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists discover a surprising double benefit of exercise for Parkinson’s",
+              "lead": "A seven-year study found that people with Parkinson’s disease who were more physically active experienced slower declines in memory, thinking, and movement abilities.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261022081306.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "A tiny defect in a crystal reveals a big quantum surprise",
+              "lead": "Researchers have solved a long-standing challenge in understanding how tiny defects in materials like diamond and silicon carbide behave when exposed to light.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261022081302.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Argentina drops investigation into President Milei over crypto fraud",
+          "lead": "Javier Milei had denied acting fraudulently when a cryptocurrency",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "One Killed Near Paris After Gunman Fires at Random, Officials Say",
+          "lead": "The shooter was arrested after firing from a car in several locations",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/23/world/europe/france-shooting.html"
+        },
+        {
+          "title": "Ramaswamy accuses Acton of ‘lying’ about attack ad, but court records contradict mother’s claim – live",
+          "lead": "Vivek Ramaswamy campaign ad features Democrat Amy Acton’s estranged",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates"
+        },
+        {
+          "title": "Zuckerberg’s deal to stay in California cheered by wealth tax campaign",
+          "lead": "Supporters of the tax say many billionaires threatening to leave the",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/859676ae-5fa4-489a-99af-560771dd44a1?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
+          "lead": "Sen. Susan Collins announced Canada was dropping Canadian tariffs",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html"
+        },
+        {
+          "title": "Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’",
+          "lead": "As Israel approaches a consequential parliamentary election amid",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/tv-shows/spotlight/20261023-netanyahu-weighs-west-bank-operation-ahead-of-elections-politically-it-will-not-help-anybody"
+        },
+        {
+          "title": "Europe considers new quotas and tariffs to stem Chinese imports",
+          "lead": "The European Union may hit more Chinese industries with quotas or",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3371962/france-certain-united-front-germany-pushed-china-hybrid-car-deal"
+        },
+        {
+          "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
+          "lead": "President Trump says it was First Lady Melania Trump’s initiative",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss"
+        },
+        {
+          "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+          "lead": "A new program wants to encourage more startups to allow workers to",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/"
+        },
+        {
+          "title": "Knicks sent employees fake offer of championship rings in phishing test: Report",
+          "lead": "The New York Knicks organization sent employees a phishing email",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/"
+        },
+        {
+          "title": "Musk’s political donations top $445 million ahead of U.S. midterm elections",
+          "lead": "With a net worth of $905.8 billion, the world's richest person's",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/23/world/politics/musk-445m-midterm-donations/"
+        },
+        {
+          "title": "Scientists discover a hidden messaging system deep inside the brain",
+          "lead": "A tiny region deep within the brain has surprised scientists by",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261022081304.htm"
+        },
+        {
+          "title": "Ethan Klein Reacts to Hila Klein’s Cheating Allegations Amid ‘H3 Podcast’ Fallout: ‘Please Respect My Family’s Privacy … They Have Nothing to Do With This’",
+          "lead": "Ethan Klein has spoken out after the implosion of his marriage and",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/digital/news/ethan-klein-reacts-hila-klein-cheating-allegations-h3-1236929836/"
+        },
+        {
+          "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
+          "lead": "The Space 2 comes in multiple colors, including an attractive seafoam",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale"
+        },
+        {
+          "title": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
+          "lead": "Rise in energy prices pushes US inflation expectations higher",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1"
+        },
+        {
+          "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
+          "lead": "With SpaceX imposing speed limits on Starlink in Ukraine and",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html"
+        }
+      ],
+      "supplement": {
+        "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+        "lead": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology.",
+        "body": [
+          "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology.",
+          "It identified foods, plastics, and medicines with 100% accuracy in tests and demonstrated the ability to monitor blood glucose, alcohol, and other health markers without invasive procedures."
+        ],
+        "source": "ScienceDaily",
+        "group": "ScienceDaily",
+        "link": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+        "category": "science",
+        "categoryLabel": "Science",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 16,
+        "categories": 7,
+        "topGroups": [
+          "BBC×6",
+          "ScienceDaily×5",
+          "Variety×3",
+          "FT×2",
+          "Guardian×2",
+          "SCMP×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-24T00:22:47.986Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 797,
+        "lang": 455,
+        "fresh": 366,
+        "denoised": 365,
+        "deduped": 340
+      },
+      "en": {
+        "fetched": 797,
+        "lang": 342,
+        "fresh": 328,
+        "denoised": 327,
+        "deduped": 323
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 17,
+        "maxGroupShare": 22,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×3",
+          "華爾街見聞×3",
+          "IT之家×3",
+          "cnBeta×3",
+          "界面×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 16,
+        "categories": 7,
+        "topGroups": [
+          "BBC×6",
+          "ScienceDaily×5",
+          "Variety×3",
+          "FT×2",
+          "Guardian×2",
+          "SCMP×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

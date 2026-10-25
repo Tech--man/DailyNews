@@ -1,0 +1,838 @@
+{
+  "issue": 41,
+  "date": "2026-10-25",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月十六 · 霜降",
+    "en": "16th day of the 9th lunar month · Frost's Descent"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "也门胡塞武装称沙特一天内发动百次空袭",
+        "lead": "当地时间24日晚，也门胡塞武装发表声明称，过去24小时，沙特方面发动100次空袭，袭击了也门首都萨那及其他地区的民用目标，造成数十人死伤。声明称，自局势升级以来，沙特方面发动的空袭和导弹袭击总数已达3123次。",
+        "body": [
+          "当地时间24日晚，也门胡塞武装发表声明称，过去24小时，沙特方面发动100次空袭，袭击了也门首都萨那及其他地区的民用目标，造成数十人死伤。",
+          "声明称，自局势升级以来，沙特方面发动的空袭和导弹袭击总数已达3123次。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-25/10720542.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
+        "lead": "IT之家 10 月 25 日消息，英伟达已经上市一段时间的 GeForce RTX 30 系列（代号安培，Ampere）显卡，显然还有大量尚未释放的计算潜力。GitHub 用户扎吉塔（Zagitta）开发了一款名为 GPU Unlock 的开源新项目，可以解除安培架构显卡上部分人为设置的性能限制，在特定负载下",
+        "source": "IT之家",
+        "group": "IT之家",
+        "link": "https://www.ithome.com/1/017/525.htm",
+        "category": "tech",
+        "categoryLabel": "科技",
+        "consensus": 2
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "俄乌将为阿列什基人道主义行动同步停火",
+              "lead": "当地时间24日，俄罗斯人权事务专员兰特拉托娃表示，她与乌克兰最高拉达(议会)人权事务专员卢比涅茨就阿列什基的人道主义任务举行了在线会议。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-25/10720543.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "泽连斯基：不会为结束冲突放弃更多领土",
+              "lead": "据乌克兰方面24日消息，乌总统泽连斯基23日接受采访时称，乌克兰准备尽快结束同俄罗斯的军事冲突，但不会为了结束冲突而放弃更多领土。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-25/10720541.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "中国首个区域电力市场正式运行",
+              "lead": "中新社广州10月24日电 (王华 蓝旺)中国首个区域电力市场——南方区域(即广东、广西、云南、贵州、海南等南方五省区)电力市场24日转入正式运行，标志着中国统一电力市场体系建设取得重大突破。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-24/10720447.shtml",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 3
+            },
+            {
+              "title": "南方区域电力市场转入正式运行暨高质量发展推进会在广州召开",
+              "lead": "会议强调，南方区域要深化落实全国统一大市场建设“五统一、一开放”要求，锚定保供应、促转型、发展新质生产力等重点任务，进一步健全机制、完善治理、扩大规模、提高成效。要夯实市场制度和功能体系，进一步加强市场一体化设计，推动跨省与省内市场更好融合；要加强电力基础设施建设，持续扩大有效投资，强化电网网架建设，推动主配微网协同发展；要深化治理和风险防控，完善信息披露机制，健全市场运行监测预警体系，引导市场经营主体自觉维护市场秩序；",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15235889.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 3
+            },
+            {
+              "title": "重磅会议来袭！美联储加息大消息！市场关注三大问题",
+              "lead": "美联储的动向备受市场关注！ 美联储将于10月27日至28日召开议息会议。随着会议临近，市场焦点已转向美联储是否会进一步加息，以及本次会议将为12月政策路径释放何种信号。 美联储曾在9月进行自2023年以来的首次加息，以应对高于目标的通胀。但根据LSEG数据，联邦基金 期货 显示，美联储在10月28日（下周三）发布政策声明时再次加息的可能性不到10%。",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://forex.eastmoney.com/news/1131,202610243907098131.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "3万亿级参数规模 全球最大开源AI大模型上新",
+              "lead": "中新社北京10月24日电 (记者 刘亮)10月24日凌晨，中国人工智能(AI)大模型企业月之暗面(Moonshot AI)发布新一代开源大模型Kimi K3.1 Pro。该模型为3万亿级参数规模，支持100万词元(Token)上下文窗口，蝉联全球参数规模最大的开源模型。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-24/10720310.shtml",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "全球最大“电力超市”开业，南方区域电力市场正式运行",
+              "lead": "IT之家 10 月 25 日消息，据央视财经报道，10 月 24 日，我国首个区域电力市场 —— 南方区域电力市场正式运行。 此举标志着全国统一电力市场建设迎来重大里程碑式节点。它打通了广东、广西、云南、贵州、海南五个省区的市场， 把煤电、水电、核电、风电、光伏等都放到一个市场里买卖 ，按同一套规则竞价交易。值得一提的是，这是目前 世界上最大、最繁忙 的“电力超市”。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/017/529.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            },
+            {
+              "title": "开源工具gpu-unlock解除RTX 30系限制 部分计算性能提升近80%",
+              "lead": "GitHub用户Zagitta开发了开源工具gpu-unlock，可解除Ampere架构GeForce显卡在部分Tensor Core运算中的指令发射率限制。社区测试显示，RTX 3090的部分计算吞吐量提升接近80%，但实际增幅会随任务而变化。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/game/1583690.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "瓦努阿图群岛发生6.8级地震 震源深度10千米",
+              "lead": "中新网10月24日电 据中国地震台网正式测定：10月24日10时31分在瓦努阿图群岛(南纬14.05度，东经165.55度)发生6.8级地震，震源深度10千米。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720237.shtml",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 2
+            },
+            {
+              "title": "尼泊尔前总统吁加强环喜马拉雅国家间冰川监测等合作",
+              "lead": "中新社河北雄安10月24日电 (记者 曾玥 周昕)2026全球治理论坛(雄安)24日在河北雄安新区举行大会发言环节。尼泊尔前总统班达里在发言中呼吁加强包括中国、尼泊尔、印度在内的环喜马拉雅国家间合作，以共同应对气候变化带来的挑战。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720405.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "赋能发展中国家 世界人工智能合作组织推动弥合全球智能鸿沟",
+              "lead": "【中国那些事儿】赋能发展中国家 世界人工智能合作组织推动弥合全球智能鸿沟",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-24/10720316.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "《孤山独影》：谁替「绝对自由」承担后果？",
+              "lead": "2026年1月29日，法国工作室The Game Bakers推出了《孤山独影》（Cairn）。玩家扮演职业登山者艾瓦，逐一安放她的四肢，在从未有人登顶的神之山上寻找路线；攀爬之外，还要管理岩钉、食物、饮水和体力。游戏发行不到两个月，销量便突破50万份。《PC Gamer》给出91分，IGN给出9分。 游戏发布的背景是攀岩在年轻运动爱好者中的流行。攀岩路线明确的等级带来目标与激励，过程中的即时反馈也让攀岩者获得掌控感和挑战的快乐。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261025-game-on-cairn-who-pays-for-absolute-freedom/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/c9ca2b659611b9bd928a9fefde29e2263035f5de6f0b32c7.jpg"
+            },
+            {
+              "title": "评分撕裂背后，一部注定孤独的电影 (评论: 星际探索)",
+              "lead": "Tree d'or 评论: 星际探索 评价: 力荐",
+              "source": "豆瓣",
+              "group": "豆瓣",
+              "link": "https://movie.douban.com/review/17869641/",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "青藏铁路受地震影响区段列车恢复正常运行",
+          "lead": "10月22日22时33分，西藏自治区那曲市巴青县发生7.0级地震，波及青藏铁路格尔木至拉萨段部分区段，铁路部门紧急扣停途经列车。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15235922.html"
+        },
+        {
+          "title": "考古学家发现疑似全球最古老沉船 或改写青铜时代地中海贸易史",
+          "lead": "一个国际考古团队近日宣布，他们在土耳其南部海岸附近发现了一艘可能是目前已知世界上最古老的沉船。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/science/1583712.htm"
+        },
+        {
+          "title": "搭载冷气推进系统，特斯拉新款 Roadster 在洛杉矶彼得森汽车博物馆展出",
+          "lead": "IT之家 10 月 25 日消息，如果你本周末身在洛杉矶，就有机会亲眼见到特斯拉新款 Roadster。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/017/534.htm"
+        },
+        {
+          "title": "研究揭示丹尼索瓦人的长相",
+          "lead": "中科院研究人员首次揭示出神秘古丹尼索瓦人的形态共性。丹尼索瓦人是一支已灭绝的古老人类支系",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85700"
+        },
+        {
+          "title": "环球下周看点：AI巨头财报密集揭晓 美联储议息或为利率定调",
+          "lead": "美股投资者即将迎来关键的一周。由大型AI企业领衔的企业财报，以及美联储政策会议，都将成为市场重要考验。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://forex.eastmoney.com/news/1131,202610253907135366.html"
+        },
+        {
+          "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
+          "lead": "油价大幅走强重燃通胀担忧，令投资者在美联储议息决定前夕加速撤离风险资产，美股与美债同步走低。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3784279"
+        },
+        {
+          "title": "史上最快宾利！竟然是一辆 SUV？",
+          "lead": "又一台性能猛兽出现了，只是这次贴的是宾利的双翼车标。 纯电 SUV Torcal 在伦敦的全球亮相才刚过去一个月",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1685572?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "[分享创造] 分享一个用 Rust 写的开源 2D CAD： CADCraft",
+          "lead": "最近在做技术制图和自动化工作流时，整理了一个开源项目： CADCraft 。 它是一款免费、开源的 2D CAD 应用，使用 Rust 构建",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1251588#reply0"
+        },
+        {
+          "title": "这一周，不漏读：火烈鸟运动",
+          "lead": "今天是星期五，10月23日，欢迎来端周报。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261023-weekly/"
+        },
+        {
+          "title": "首更品鉴，不烧心的古偶 (评论: 尚公主)",
+          "lead": "橙子焦糖 评论: 尚公主 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17870190/"
+        },
+        {
+          "title": "西藏日喀则市萨迦县发生3.0级地震，震源深度10千米",
+          "lead": "中国地震台网正式测定：10月25日03时34分在西藏日喀则市萨迦县（北纬28.74度，东经88.54度）发生3.0级地震，震源深度10千米。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15235905.html"
+        },
+        {
+          "title": "泽连斯基：乌方愿为停火达成协议但拒绝放弃25%领土 俄军目前实控约19.3%",
+          "lead": "泽连斯基：不会为结束冲突放弃更多领土 据乌克兰方面24日消息，乌总统泽连斯基23日接受采访时称， 乌克兰准备尽快结束同俄罗斯的军事冲突",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1345,202610253907141691.html"
+        },
+        {
+          "title": "法国50万人上街：一场高中抗议，如何烧遍全国？｜端闻 Podcast",
+          "lead": "https://open.acast.com/public/streams/66b07190af99592b5329f43a/episode",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261023-initium-audio-international-france-protest-turns-into-riots/"
+        },
+        {
+          "title": "《愤怒的老虎》—新人导演编剧剪辑的自嗨 (评论: 愤怒的老虎)",
+          "lead": "大白小盆友 评论: 愤怒的老虎 评价: 较差",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17870000/"
+        },
+        {
+          "title": "枪战还比较紧张刺激，但这个“秘密行动”有点太儿戏了吧 (评论: 拨乱行动)",
+          "lead": "混世魔王普大帝 评论: 拨乱行动 评价:",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17869835/"
+        }
+      ],
+      "supplement": {
+        "title": "一个「好移民」能上街吗？——10月17日之后的巴黎手记",
+        "lead": "编者按：10月17日，据法国政府统计，约55万人在法国各地上街抗议生活成本高涨，多座城市随后发生打砸抢。在中文网络上，「零元购」和「移民暴动」成了最醒目的标题，示威本身的诉求却少有人提起。 作者是一名在巴黎常驻的学生，这个群体今年刚失去申领住房补助的资格，学费豁免也正被大幅收紧。游行那天，他没有上街。",
+        "body": [
+          "编者按：10月17日，据法国政府统计，约55万人在法国各地上街抗议生活成本高涨，多座城市随后发生打砸抢。在中文网络上，「零元购」和「移民暴动」成了最醒目的标题，示威本身的诉求却少有人提起。作者是一名在巴黎常驻的学生，这个群体今年刚失去申领住房补助的资格，学费豁免也正被大幅收紧。游行那天，他没有上街。这篇手记从他的缺席和随后迟来的不安写起，追问一场抗议如何被几段画面改写成「移民问题」，也追问「好移民」与「好示威者」这两套标准，如何塑造了他自己的旁观。10月17日，巴黎南部的街区像往常一样寂静。",
+          "不论是重大足球赛事还是全国性的罢工游行，我所在的街区都一视同仁地置身事外，连同着我的那份。周六，窗外施工的声音也停歇了，我一觉睡到了中午。原本约好了去朋友家接回寄养已久的猫，结果得亏社交媒体，才想起今天有大规模的黄背心运动，于是只好赶忙打招呼改日再来。打开巴黎公共交通的官方软件IDF（Île-de-France Mobilités），不出意料几乎每一条地铁线路都标上了红色的叉。「今天又可以在家里舒舒服服地宅一天了。」上午改一下论文，下午玩了一会Switch，傍晚开始精心糊弄几盘饭菜，晚上约了好友们一起在线游戏，睡前记得续上多邻国的连胜纪录，来结束这一天。",
+          "周日，睁眼之后仿佛经历了一场过度放纵日常的宿醉。先是微信上一些国内朋友对法国「暴动」的好奇与对我的关心，我连忙解释我住的地方一切安好，远离所有的冲突中心。然后，几乎陈词滥调般的，一股悔意涌上来：当大家在争取共同权益的时候，我感觉自己不应该坐享安稳生活的特权；同时我感到困惑：作为一名挣扎着想要融入法国社会却不能的异乡人，我需要对法国社会肩负多大的责任感？平日面对那些乞讨者的时候，我总是暗自坚持，我还没有完全经济独立，我不想为法国的社会问题埋单。于是，法国也取消了我这个外国学生的社会福利……"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261024-opinion-paris-october-17-good-immigrant/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GettyImages-2301482130-copy-4.jpg"
+      },
+      "stats": {
+        "visible": 31,
+        "sections": 5,
+        "briefs": 15,
+        "groups": 12,
+        "maxGroupShare": 26,
+        "categories": 5,
+        "topGroups": [
+          "中新社×8",
+          "端傳媒×4",
+          "豆瓣×4",
+          "IT之家×3",
+          "東方財富×3",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Who are the candidates in Brazil's presidential election?",
+        "lead": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
+        "body": [
+          "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro."
+        ],
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ee/live/36a0f0a0-cfc5-11f1-93e1-3b657b665bcf.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
+        "lead": "Critics say prime minister’s proposal would turn country into an economic pariah",
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F61d2bf80-4e69-43d0-a9b4-9c6ddd91cd52.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+              "lead": "But Elon Musk, whose company SpaceX owns Starlink, accuses Ukrainian military of violating ⁠the company’s terms Ukraine’s military has a “stable connection to Starlink”, the Ukrainian government said",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/0d51da8a70a218cd186de054b9f5706103605242/86_0_3672_2937/master/3672.jpg?width=140&quality=85&auto=format&fit=max&s=6187a5581088a8f821a4738282f531ab",
+              "consensus": 5
+            },
+            {
+              "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
+              "lead": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/22/multimedia/xxint-israel-netanyahu-profile-gvjt/xxint-israel-netanyahu-profile-gvjt-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+              "lead": "Donald Trump praised First Lady as 'better than professionals' after a localised Russia-Ukraine ceasefire in Oleshky.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Hundreds of thousands protest in France in second weekend of mass demonstrations",
+              "lead": "Government puts 70,000 police officers on the streets to boost security after last weekend’s riots",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdf266323-89ac-4e5d-8c60-5d8c4ffd8336.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+              "lead": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+              "source": "BBC News",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
+              "lead": "A memo from DNI director Jay Clayton said Iran is in the \"advanced stages\" of planning attacks against Americans.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "The young are conformists in denial",
+              "lead": "The reassuringly bourgeois values behind a rebellious generation",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/70280c68-2ae0-4656-b013-281eb75a197a?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F48d5f269-cc3b-4f79-a11b-a4da6de4d5ba.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+              "lead": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+              "lead": "Barnes Ice Cap sits on the central plateau of Baffin Island, in the Canadian Arctic. It is the last surviving fragment of the Laurentide Ice Sheet, the largest of the Pleistocene ice sheets",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1458824614-1152x648.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Pennsylvania will require labels on AI-generated ads",
+              "lead": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Antonelli takes US pole on weekend he can win title",
+              "lead": "Kimi Antonelli secures pole position for the United States Grand Prix on the weekend on which he can potentially clinch his first world title.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/formula1/articles/cqy7lvp7n57lo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/194c/live/7fe6e240-cff9-11f1-b0ff-614e4f91e969.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Northern Olympics campaign to get £7m in Healey’s budget",
+              "lead": "Fund will support feasibility study for potential bid to host Games in 2040s, backed by northern mayors and top athletes John Healey is to announce a £7m fund to examine a potential future bid to host the Olympics in",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/sport/2026/oct/24/northern-olympics-campaign-funds-john-healey-budget",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://i.guim.co.uk/img/media/b1b20686c0a17f6b550db91a3343309528494478/377_0_3982_3187/master/3982.jpg?width=140&quality=85&auto=format&fit=max&s=f243d2e8864ba2ac76dfb0ac4a299683"
+            },
+            {
+              "title": "How 'special talent' Jackson inspired Villa to victory over Man City",
+              "lead": "Match of the Day pundits Martin Keown and Steph Houghton look at the impact Aston Villa forward Nicolas Jackson had with his two goals in their 2-1 victory over Manchester City",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/cmzxj1r8j7p2o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/505c/live/4730faa0-cff7-11f1-a701-fddedf244c16.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Nathan Fielder Negotiated a ‘Kill Switch’ on ‘You Can See Everything,’ Says Lance Oppenheim: ‘If We Didn’t Find Something, We Could Just Throw It All Away’",
+              "lead": "“You Can See Everything” might be the buzziest film of the moment, but before the Elizabeth Holmes-focused documentary made it to theaters",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/nathan-fielder-you-can-see-everything-lance-oppenheim-1236916862/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/09/You-Can-See-everything.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "‘SNL U.K.’ Weekend Update Tackles Meghan Markle Dad Allegations, James Bond Auditions and ‘Glee’ Reboot",
+              "lead": "“Saturday Night Live U.K.’s” Weekend Update isn’t afraid to tackle the most controversial topics, as the show proved again this weekend when co-host Paddy Young directly referenced the allegations that emerged this past",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/global/snl-uk-weekend-update-meghan-markle-glee-1236930013/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/weekend-update-1000.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists propose a way to detect dangerous “mirror life” before it exists",
+              "lead": "Scientists have proposed a way to detect “mirror life,” a hypothetical form of life that could pose serious risks to humans, animals, and ecosystems if artificially created.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261023023726.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Could lowering high blood pressure be as simple as stimulating your ear?",
+              "lead": "A small device that gently stimulates nerves through the ear could offer a new way to tackle stubborn high blood pressure. In a clinical trial of 63 patients already taking medication, the treatment proved safe",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "These tiny snakes roll four times faster than they slither",
+              "lead": "Tiny snakes in Southeast Asia have mastered an extraordinary escape technique: rolling across the ground at speeds up to four times faster than ordinary slithering.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261023023718.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Hundreds of thousands march across France in protests over schools and policing",
+          "lead": "Almost 1,000 arrested as police charge crowd in Paris and teargas",
+          "category": "society",
+          "categoryLabel": "Society",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing"
+        },
+        {
+          "title": "Why Is the U.S. Accusing Canada of Election Interference?",
+          "lead": "The Trump administration says Canadian officials are trying to sway",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html"
+        },
+        {
+          "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+          "lead": "The crackdown follows the killing of two Israeli soldiers by two",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Ukraine military says Starlink service restrictions have been lifted",
+          "lead": "Slowdown in drone communication system had hampered Kyiv’s ability to",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8"
+        },
+        {
+          "title": "Trump prepares for Iran escalation after U.S. and Israeli elections",
+          "lead": "A Middle East war that U.S. President Donald Trump said would be over",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/25/world/politics/iran-us-midterm-elections-war/"
+        },
+        {
+          "title": "How have Democrats’ policies shifted since the last major US election?",
+          "lead": "From trans rights to Israel's war on Gaza, the party's candidates",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss"
+        },
+        {
+          "title": "'The marches went well' – French government on demonstrations a week after looting and violence",
+          "lead": "Hundreds of thousands marched across France Saturday protesting the",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/france/20261024-the-marches-went-well-%E2%80%93-french-government-on-demonstrations-a-week-after-looting-and-violence"
+        },
+        {
+          "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
+          "lead": "French unrest pushed bond yields to a 24-year high as investors weigh",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html"
+        },
+        {
+          "title": "China’s next generation of leaders waiting in the wings for more senior roles",
+          "lead": "Plenary sessions of the Central Committee, the upper echelon of",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/china/politics/article/3372013/chinas-next-generation-leaders-waiting-wings-more-senior-roles"
+        },
+        {
+          "title": "Here are the top AI agents that can live in your text messages",
+          "lead": "We created a list of the most notable AI agents that can live in your",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
+        },
+        {
+          "title": "Shia LaBeouf Would Trash-Talk ‘Lizzie McGuire’ While Filming ‘Even Stevens,’ Says Christy Carlson Romano: ‘He Wanted to Be the Number One Show’",
+          "lead": "Christy Carlson Romano, who first broke out on the sitcom “Even",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/tv/news/shia-labeouf-lizzie-mcguire-even-stevens-christy-carlson-romano-1236930410/"
+        },
+        {
+          "title": "Your blood could reveal inflammatory bowel disease 10 years before diagnosis",
+          "lead": "A major study has uncovered hidden warning signs of inflammatory",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261023023713.htm"
+        },
+        {
+          "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
+          "lead": "Defense Secretary Pete Hegseth issued a memo warning military",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/"
+        },
+        {
+          "title": "Blue Planet III is keeping the rough edges in the age of AI",
+          "lead": "BBC's Blue Planet III is looking to prove its authenticity by leaving",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
+        },
+        {
+          "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+          "lead": "Officials have so far managed to avoid a repeat of last weekend's",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Intelligence memo warns Iran is plotting to kill Americans in Middle East",
+          "lead": "Plans against US citizens have reached ‘advanced stages’ as tensions",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1"
+        }
+      ],
+      "supplement": {
+        "title": "Cynthia Erivo Plays Glinda in ‘Nigerian Wicked’ Sketch on ‘SNL U.K.’: ‘She Wants a BBL That Defies Gravity’",
+        "lead": "Cynthia Erivo spoofed “Wicked” during her stint hosting “SNL U.K.,” this time taking on the role of Glinda in “Nigerian Wicked.” Alongside Ayoade Bamgboye as Elphaba, Erivo",
+        "body": [
+          "Cynthia Erivo spoofed “Wicked” during her stint hosting “SNL U.K.,” this time taking on the role of Glinda in “Nigerian Wicked.” Alongside Ayoade Bamgboye as Elphaba, Erivo — sporting a blonde wig and pink velour tracksuit — starred in a lo-fi, melodramatic version of the Oscar-nominated musical in which the two enemies-turned-friends go off to […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/tv/global/cynthia-erivo-glinda-nigerian-wicked-snl-uk-1236930402/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/nigerian-wicked.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 8,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "ScienceDaily×4",
+          "FT×3",
+          "Guardian×2",
+          "Al Jazeera×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-25T00:05:39.547Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 798,
+        "lang": 455,
+        "fresh": 326,
+        "denoised": 325,
+        "deduped": 306
+      },
+      "en": {
+        "fetched": 798,
+        "lang": 343,
+        "fresh": 306,
+        "denoised": 305,
+        "deduped": 300
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 31,
+        "sections": 5,
+        "briefs": 15,
+        "groups": 12,
+        "maxGroupShare": 26,
+        "categories": 5,
+        "topGroups": [
+          "中新社×8",
+          "端傳媒×4",
+          "豆瓣×4",
+          "IT之家×3",
+          "東方財富×3",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 8,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "ScienceDaily×4",
+          "FT×3",
+          "Guardian×2",
+          "Al Jazeera×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

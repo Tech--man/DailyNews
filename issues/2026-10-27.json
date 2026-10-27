@@ -1,0 +1,944 @@
+{
+  "issue": 43,
+  "date": "2026-10-27",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月十八 · 霜降",
+    "en": "18th day of the 9th lunar month · Frost's Descent"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "卢拉逆转赢得巴西总统大选，打击拉美右翼浪潮",
+        "lead": "卢拉逆转击败博索纳罗，后者拒绝接受选举结果，称存在舞弊。这是拉美地区过去18个月来首次出现左翼领导人胜选，但卢拉仍然面临领导一个严重分裂国家的艰巨任务。 Andre Penner/Associated Press 周日，赢得连任的卢拉在圣保罗。",
+        "body": [
+          "卢拉逆转击败博索纳罗，后者拒绝接受选举结果，称存在舞弊。",
+          "这是拉美地区过去18个月来首次出现左翼领导人胜选，但卢拉仍然面临领导一个严重分裂国家的艰巨任务。",
+          "Andre Penner/Associated Press 周日，赢得连任的卢拉在圣保罗。"
+        ],
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/world/20261027/brazil-election-president-lula-bolsonaro/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "secondary": {
+        "title": "以色列议会选举，内塔尼亚胡能否挺过命运“大考”？",
+        "lead": "中新网10月27日电 10月27日，以色列举行议会选举。这是以色列近40年来，首次按计划而非提前举行议会选举。",
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-27/10721459.shtml",
+        "category": "top",
+        "categoryLabel": "要闻"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "中央气象台：北方地区将有大风降温 东部海区有大风天气",
+              "lead": "中新网10月27日电 据中央气象台网站消息，昨日，海南岛出现较强降雨，内蒙古、华北、东北出现大风天气。预计未来三天，黑龙江、内蒙古等地有雨雪天气；今明两天北方地区大风降温天气持续；关注对交通、农牧业等的影响。东海、台湾海峡等海域关注海上大风对船舶航运、海上作业平台等的影响。受孟加拉湾热带系统影响，29日起，青藏高原有较强雨雪，防范次生灾害。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/10-27/10721450.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "特朗普重返白宫后，如何从五方面改变美国移民政策？",
+              "lead": "特朗普承诺封锁边境及大规模遣返移民后重返白宫。这两项标志性政策如今取得了甚么成效，又带来哪些影响？",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cmy83lne67zqo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eeb3/live/8c0c5bf0-d138-11f1-be77-d1864d279cb0.jpg"
+            },
+            {
+              "title": "“自我革命”、持续清洗：习近平为下一任期铺路",
+              "lead": "习近平准备争取再次连任，但他认为许多官员依然不忠诚、麻木且腐败。黄奇帆被调查震动党内外，而习近平的怀疑可能延伸到了更高层级，甚至可能包括王岐山。 Ng Han Guan/Associated Press 预计中国国家主席习近平明年将连任执政的共产党领导人，开启第四个任期。他曾警告称，有太多官员未能忠实地执行他的命令。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/china/20261026/china-communist-party-xi-forever-purge/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "美国中选举前夕，奥巴马抨击特朗普政府",
+              "lead": "奥巴马表示，这场选举是「至少能抑制本届政府某些愚蠢行径的最后一次最佳机会」。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cm4g13j5jg5ko/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0734/live/d07c4f10-cff9-11f1-93e1-3b657b665bcf.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "2026中国国际农业机械展览会天津开幕 首次全馆室内办展",
+              "lead": "中新网天津10月26日电(薛淳月)2026中国国际农业机械展览会26日在国家会展中心(天津)开幕。本届展会首次实现全馆室内展出，预计吸引海内外专业观众超20万人次，集中展示农业机械化、智能化、绿色化发展新装备、新技术。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-26/10721388.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "Anthropic招股书里最值得看的14个细节",
+              "lead": "10月26日，Anthropic正式向美国证券交易委员会公开提交IPO申请，拟在纳斯达克挂牌，股票代码ANT，目标估值1.5万亿美元至2万亿美元，有望超越SpaceX创下的历史纪录。IPO时间窗口据媒体爆料定于11月16日当周。 当天，美股半导体板块应声上涨——纳指盘中涨超1%，博通、AMD、英伟达各自拉涨近3%。Anthropic还未挂牌，最先涨的是它的供应商们。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3784522",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 3
+            },
+            {
+              "title": "OpenAI推出GPT-6.1 Terra",
+              "lead": "当地时间10月26日，OpenAI宣布推出GPT-6.1 Terra。该模型快速高效，并提升了视觉推理、计算机操作等能力，可帮助用户起草提案、解读技术图纸，填写表单和编辑视频。OpenAI表示，Terra的标准API价格比GPT-5.6 Terra和GPT-6.1 Sol低50%，使开发者能够经济地自动化大批量工作。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15243100.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "四大华尔街巨头630亿美元豪掷Anthropic算力，博通为芯片残值托底",
+              "lead": "博通携手多家金融机构，构建起迄今最大规模的AI芯片融资交易之一，折射出华尔街对人工智能基础设施建设的持续押注。 美国银行、黑石、花旗及摩根士丹利周一联合宣布， 通过一家新成立的特殊目的载体（SPV），提供总计630亿美元的融资，用于采购博通AI加速器及网络设备，并将其租赁给AI大模型开发商Anthropic。芯片交付预计自2027年起开始。 此次交易规模之大、结构之复杂，令华尔街与硅谷业界高度关注。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3784511",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "630 亿美元！华尔街银行与黑石为 Anthropic 采购博通 AI 芯片提供融资",
+              "lead": "IT之家 10 月 27 日消息，据路透社报道，美国银行（Bank of America）、黑石（Blackstone）、花旗（Citi）和摩根士丹利（Morgan Stanley）将提供 630 亿美元 （IT之家注：现汇率约合 4,206.79 亿元人民币） 融资，用于为 Anthropic 采购博通（Broadcom）的人工智能芯片与网络设备，这是和人工智能算力建设相关的规模最大的一笔债务交易之一。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/018/199.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "Anthropic公开递交纳斯达克IPO申请 目标下月16日当周上市",
+              "lead": "Anthropic正式踏上上市之路。这家成立仅五年、身处生成式AI浪潮核心的企业，本次IPO有望创下历史纪录。Anthropic在提交给美国证券交易委员会（SEC）的文件中披露，计划登陆纳斯达克交易所，股票代码定为“ANT”， 目标在11月16日当周进行IPO。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1583932.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "法国总统马克龙称10月31日的示威活动仍然存在风险",
+              "lead": "中新社巴黎10月26日电 (记者 李洋)法国总统马克龙当地时间26日表示，将于10月31日举行的示威活动仍然存在风险。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-27/10721433.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "福田康夫逝世享年90岁 长期亲华的「短暂」日本首相",
+              "lead": "福田康夫出任日本首相期间才不过一年，当时曾被国内舆论批评为「不负责任」；北京赞扬其对中日关系「作出积极贡献」。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cm4g149yw14lo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4bb5/live/01521e20-d14a-11f1-93e1-3b657b665bcf.jpg",
+              "consensus": 2
+            },
+            {
+              "title": "探访加密货币大佬赵长鹏：亿万富翁天堂里的前罪犯",
+              "lead": "赵长鹏曾因金融犯罪入狱，后被特朗普赦免，如今在阿联酋过着奢华的生活，仍是加密货币行业的权势人物。在一个肆无忌惮地打破规则却能获得奖励的时代，他堪称常胜赢家。 Laura Boushnak for The New York Times 币安创始人赵长鹏承认违反反洗钱法，并于去年10月获得特朗普总统的赦免。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261026/changpeng-zhao-binance/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "中期选举集会，奥巴马特朗普针锋相对",
+              "lead": "奥巴马在演讲中抨击特朗普政府，称伊朗战争是一场“不必要的战争”，将物价上涨归咎于战争与关税。特朗普和奥巴马还对美国面临的最紧迫问题提出了不同看法。 Haiyun Jiang/The New York Times; Victor J. Blue for The New York Times",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261026/obama-trump-competing-rallies-midterms/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "蔡康永称「没支持过台独」后出席蒋万安造势 两岸舆论未息",
+              "lead": "分析人士称，「这根本不是一封求饶的『道歉信』，而是一封向特定市场与群众温柔清算的『道别信』」。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/ckq6nve0my4ro/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bcf2/live/df45f110-d114-11f1-921d-7d7921390179.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "格力和它的「公公婆婆」：一家企业与「国家」的共舞",
+              "lead": "一家企业撑起一座城市，然后是漫长的分家。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261027-mainland-story-of-gree-electric/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GettyImages-1497801831-copy.jpg"
+            },
+            {
+              "title": "中国电影评论学会第九届会员代表大会召开 胡智锋当选新一届会长",
+              "lead": "中新网北京10月26日电 (记者 高凯)中国电影评论学会第九届会员代表大会日前在北京举行。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-26/10721392.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "《黑球》：历史没有把所有被它辜负的人还给我们，而我们正在慢慢把他们找回来。 (评论: 黑球)",
+              "lead": "平怪罢了 评论: 黑球 评价:",
+              "source": "豆瓣",
+              "group": "豆瓣",
+              "link": "https://movie.douban.com/review/17872928/",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "全国短池游泳锦标赛：李冰洁刷新亚洲纪录 张雨霏一日两金",
+              "lead": "中新社北京10月26日电 (记者 国璇)2026年全国游泳锦标赛(25米)26日在北京国家游泳中心“水立方”继续举行。李冰洁刷新短池女子1500米自由泳亚洲纪录，张雨霏夺得女子100米个人混合泳金牌。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-26/10721430.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "京张公路自行车公开赛总决赛收官 600余名选手骑游世园",
+              "lead": "中新网北京10月26日电 2026第十六届北京国际自行车骑游大会暨“北京世园公园杯”京张公路自行车公开赛总决赛25日在北京世园国际旅游度假区圆满落幕。本次活动设置公路自行车赛、休闲骑游、儿童平衡车三大板块，吸引600余名骑行爱好者参与。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-26/10721272.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "广东以赛带训 推动智能机器人等技能培训与产业升级同频",
+              "lead": "中新网佛山10月26日电 (记者 王坚)来自广州、深圳、珠海等地先进制造业的技能人才25日齐聚佛山，在2026年广东省智能机器人与数字制造应用技术项目职业技能竞赛的赛场上，比学赶超、各展身手，绘就一幕幕“人机协作”的智造画卷。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/10-26/10721390.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "「铁蛋白脸」真的存在吗？从外表能否判断缺铁？",
+          "lead": "一些声称能发现缺铁症状的影片在网路上吸引了数百万的点击量。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cx4g103g9jnvo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Anthropic IPO招股书八大看点：增速逆天，但风险也是明摆着的",
+          "lead": "前沿AI模型公司Anthropic正式迈出上市关键一步，这将是AI领域迄今规模最大的IPO。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3784524"
+        },
+        {
+          "title": "Anthropic 招股书披露：曾因安全顾虑暂停旗舰 AI 模型训练一个多月",
+          "lead": "IT之家 10 月 27 日消息，Anthropic 在当地时间周一公布的 IPO 招股文件中披露，出于安全方面的顾虑",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/018/201.htm"
+        },
+        {
+          "title": "苹果回应iPhone Duo内屏裂纹问题 称仅极少数设备受影响 建议联系AppleCare更换",
+          "lead": "在首款折叠屏手机iPhone Duo上市后不久，部分用户反映铰链区域出现问题，导致内屏出现裂纹。苹果公司现已就相关报告作出回应。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1583948.htm"
+        },
+        {
+          "title": "日本福岛县近海发生4.6级地震",
+          "lead": "据日本气象厅发布消息，当地时间10月27日9时25分左右，日本福岛县近海发生4.6级地震，最大震感为震度3。震源深度60公里。（央视新闻）",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15243163.html"
+        },
+        {
+          "title": "人类已经引发了第二次宇宙大爆炸",
+          "lead": "第二次大爆炸始于人工智能革命，但绝不止于此。我们人类必须建立健康的相互依存关系，才能在即将到来的一切中生存下来。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/opinion/20261026/ai-second-big-bang/?utm_source=RSS"
+        },
+        {
+          "title": "早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营",
+          "lead": "Anthropic 提交 IPO 申请，拟以「ANT」登陆纳斯达克 5499 元起，iPad mini 8 发布",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1685979?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "【华尔街日报】金正恩意外踏访中国，现身中朝新建大桥",
+          "lead": "编按：《华尔街日报》是全球最具影响力的财经媒体之一，每日产出大量深度报导，涵盖国际政治、商业财经与科技趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261027-wsj-kim-jong-un-makes-surprise-trip-to-china/"
+        },
+        {
+          "title": "美联储本周决议将风平浪静？高盛预测：不会加息、也不会释放重大新信号",
+          "lead": "本周，全球金融市场迎来备受瞩目的“超级央行周”，美联储、欧洲央行和日本央行将于北京时间10月29日凌晨至30日先后公布利率决议。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://stock.eastmoney.com/news/11722,202610273908971171.html"
+        },
+        {
+          "title": "科学家重现古罗马的分色玻璃",
+          "lead": "制作于公元四世纪的罗马玻璃笼子杯 Lycurgus Cup 会根据光源位置的不同而呈现不同的颜色，从前方照射呈绿色后方则呈红色。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85713"
+        },
+        {
+          "title": "[问与答] 挖了个豆， 5499 元起， iPad mini 8 发布，仍无高刷",
+          "lead": "新机的主要变化包括： 显示屏边框收窄 24%，HDR 峰值亮度最高 1200 尼特，最低亮度 1 尼特；",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1252099#reply0"
+        },
+        {
+          "title": "我们是同一种不肯向前走的人 (评论: 复仇者联盟4：终局之战)",
+          "lead": "HYDRA 评论: 复仇者联盟4：终局之战 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17874421/"
+        },
+        {
+          "title": "澳洲囚犯争取吃Vegemite酱败诉，为何狱中禁止「国民食物」？",
+          "lead": "因谋杀一名地产发展商而入狱的安德烈·麦克肯尼（Andre McKechnie）认为，享受澳洲文化是他的权利。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cx98zq3gze22o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "苹果回应iPhone Duo折叠屏开裂问题：承认少量设备受影响，建议用户申请换机",
+          "lead": "苹果公司旗舰折叠屏新机iPhone Duo发售数日内，已有多名用户反映内屏在正常使用中出现破裂，这款定价1999美元",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3784514"
+        },
+        {
+          "title": "两市融资余额减少55.63亿元",
+          "lead": "截至10月26日，上交所融资余额报12346.97亿元，较前一交易日减少26.54亿元；",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15243156.html"
+        },
+        {
+          "title": "金正恩取道新鸭绿江大桥突访丹东，与王沪宁会晤",
+          "lead": "新鸭绿江大桥开通和此次访问凸显中朝正加深两国关系。分析人士预计金正恩可能出席11月APEC会议，此行也为可能举行的朝美首脑会晤传递积极预期。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/asia-pacific/20261026/north-korea-kim-jong-un-china/?utm_source=RSS"
+        }
+      ],
+      "supplement": {
+        "title": "三个青田女人「出来」之后：在西班牙当老板，等待下班",
+        "lead": "浙江青田是中国著名的侨乡。几十年来，一代代青田人远赴欧洲打工、创业，靠著亲戚与同乡的网络，在异国落地生根；靠著省吃俭用攒下来的钱，开自己的店、成为老板。然而，迁徙改变的不只是居所，还有人与人之间的关系：父母与子女长年分离，亲戚间既相互扶持，也有利益冲突。 端传媒记者孙漫漫走访西班牙滨海小镇，记录三位青田女性的故事。上篇〈 国际留守儿童「团聚」之后，在父母身边当异乡人 〉，讲述17岁的小芮赴欧与父母团聚，却难以弥合多年分离造成的隔阂。",
+        "body": [
+          "浙江青田是中国著名的侨乡。几十年来，一代代青田人远赴欧洲打工、创业，靠著亲戚与同乡的网络，在异国落地生根；靠著省吃俭用攒下来的钱，开自己的店、成为老板。然而，迁徙改变的不只是居所，还有人与人之间的关系：父母与子女长年分离，亲戚间既相互扶持，也有利益冲突。端传媒记者孙漫漫走访西班牙滨海小镇，记录三位青田女性的故事。上篇〈 国际留守儿童「团聚」之后，在父母身边当异乡人 〉，讲述17岁的小芮赴欧与父母团聚，却难以弥合多年分离造成的隔阂。本篇聚焦小芮的母亲秀梅与舅妈英姐，她们从打工人熬成酒吧老板，却仍困于看不到尽头的劳动。从巴塞罗那驱车两个小时，穿过夏末海岸的热浪，我来到了滨海略雷特（Lloret de Mar）。",
+          "烈日下，我一时不知道自己身处何处。街道上，中国移民开日本餐厅，卖寿司和拉面；哥斯达黎加移民开西班牙 tapas 小店，却起了「Paris」的店名。俄罗斯人开的 SPA 酒店，门前对称摆著两尊佛像，街对面却是埃及壁画。但造访这座西班牙地中海小镇的欧美游客，不会在意这些。这座小镇缺乏日常生活的痕迹。住在这里的一半是买醉狂欢的游客，一半是服务游客的人；餐厅不是海景庄园里的高级料理，就是像 kebab 这样给移民吃的平价小吃，还有肯德基、麦当劳等连锁快餐。",
+          "主街上塞满赌场和迪厅，却很难找到菜店和超市。社群媒体上，滨海略雷特的名声是「庸俗」（hortera），说的是小镇随处可见、张冠李戴的异国风情。「Hortera」这个西语词，原本指的是商店里的伙计。二十世纪，西班牙外省农村的年轻人移居马德里，成为商店店员。因为渴望融入上流社会，他们常模仿富人顾客的穿搭，却被嘲讽为东施效颦、俗不可耐。久而久之，这个词逐渐演变出「庸俗」的意思。近一个世纪后，庸俗的西班牙滨海小镇，也迎来移民店员，中国移民接手了西班牙的社区酒吧。小芮一家来自浙江青田，在滨海略雷特的主街开了一间酒吧，招牌上写著一个不折不扣的加泰语名字，店里也卖各类经典西班牙小食，但处处可见中国痕迹：柜台上摆著康师傅泡面，菜单最下面是炒饭和馄饨汤。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261024-strangers-qingtian-women-immigrants-become-spain-bar-owners/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GettyImages-2279874115.jpg"
+      },
+      "stats": {
+        "visible": 40,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 20,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "BBC×4",
+          "華爾街見聞×4",
+          "端傳媒×3",
+          "IT之家×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
+        "lead": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro",
+        "body": [
+          "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. What comes next for Brazil?",
+          "The Guardian’s Tom Phillips will be answering your questions from 15:00 GMT today. Ask a question: log in or sign up here to comment, or email conversations@theguardian.com After losing the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva, better known simply as Lula, pulled off the most stunning political fightback in modern Brazilian history by winning the second, in so doing securing a fourth presidential term.",
+          "It will see him become the country’s longest-serving leader. The result – 51.79% to Lula, 48."
+        ],
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/f7975b381e5fff70c5e117ef42e308e459969785/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=b010691acf8ee8e0264df18bb89e5d99",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
+        "lead": "Israel’s military chief resisted the prime minister, who then pressed in recent days for a separate action, short of an overt strike",
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-israel-netanyahu-iran-qmcz/26int-israel-netanyahu-iran-qmcz-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "How Lula’s Social Media Campaign Helped Him Win Brazil’s Election",
+              "lead": "President Luiz Inácio Lula da Silva won another term on Sunday, with the help of a seismic social media campaign that convinced Brazilians to reject his rival.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-social-media.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26brazil-election-assess-mwht/26brazil-election-assess-mwht-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims",
+              "lead": "Tasks from determining asylum seekers’ ages to border surveillance now involve AI, says Open Rights Group AI has been embedded across the Home Office in near-total secrecy",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/7e78c9ecda3946a0ac5b06ad0d9dba095ba565d5/636_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=3a3bc59f46c3f78c2e68d5c3dc56520d",
+              "consensus": 5
+            },
+            {
+              "title": "Africa food security under threat due to Iran war, trade officials warn",
+              "lead": "The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Bolsonaro’s Liberal Party accepts defeat in Brazil as Trump calls result ‘rigged’",
+              "lead": "US President casts doubt on integrity of South American nation’s election result over extension of voting hours",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/ae37754c-6200-425d-8f8f-ce0b0f7cc250?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9b4feb29-aa70-4c92-acdb-f953da0da412.png?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+              "lead": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a4/live/4c5ea950-d15a-11f1-9f24-99bf1cc18b1d.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
+              "lead": "It's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Business Daily",
+              "lead": "A Chinese export surge has implications far beyond its borders",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sounds/play/w3ct8ggp?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pj3vqn.jpg"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+              "lead": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+              "lead": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+              "lead": "Highway thieves are using sophisticated digital tactics that investigators worry make it easy to rob trucks carrying millions in expensive data center equipment.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/via-Cook-County-Sheriffs-Office-X-1152x648-1793033307.jpeg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Player in Stokes and Atkinson altercation joins Bristol after Saracens sacking",
+              "lead": "Bristol Bears have signed 21-year-old Samoan forward Totoa Auvaa, two weeks after he was sacked by Saracens.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c95yn672rx64o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24b3/live/45dbfe60-d16a-11f1-87df-afb7a168a1f2.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "London City's Putellas wins record-equalling third Ballon d'Or",
+              "lead": "Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f75b/live/cfdebc20-d191-11f1-8c41-0bbbeafdc6d4.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Weir 25th in Ballon d'Or and joins Olid & Cuthbert in award shortlist",
+              "lead": "Caroline Weir is ranked the 25th best women footballer in the world on the day she also joined fellow Scotland midfielder Erin Cuthbert and Manchester United head coach Eva Olid on the shortlist for the Scottish Women's",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/ckd6dzv7w85go?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7107/live/c99908e0-d14e-11f1-93e1-3b657b665bcf.png"
+            },
+            {
+              "title": "McDowell becomes latest major champion to exit LIV",
+              "lead": "Northern Ireland's Graeme McDowell becomes the latest major champion to exit LIV Golf.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/golf/articles/ck78px63l923o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3486/live/d7b44550-d15f-11f1-87df-afb7a168a1f2.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "‘Call of Duty’ Movie Will Be About the ‘Cost of War and Having to Be a Warrior,’ Says Director: ‘These Are Not Comic Books or Cartoon Characters’",
+              "lead": "Paramount Pictures’ upcoming “Call of Duty” movie, based on the massively popular video game franchise, is definitely not going to feel like a comic book tentpole or make soldiers out to be superheroes",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/call-of-duty-movie-rejects-comic-book-films-superheroes-1236931483/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2025/12/Call-of-Duty-Black-Ops-7.png",
+              "consensus": 5
+            },
+            {
+              "title": "Neil Young Files $10 Million Suit Against Trump for Using ‘Rockin’ in the Free World,’ Six Years After a Prior Settlement Over the Same Song",
+              "lead": "Neil Young has filed a $10 million lawsuit Monday against Donald J. Trump’s political action committee, Trump 47 Committee Inc., alleging copyright infringement for the ongoing use of Young’s song “Rockin’ in the Free",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/music/news/neil-young-files-suit-donald-trump-rockin-in-the-free-world-1236931685/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2022/01/Neil-Young-Amazon-Music.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Chinese scientists discover “D-rex,” a giant fungus with roots stretching back 65 million years",
+              "lead": "Scientists have discovered a giant new fungus in China that grows up to 20 inches tall and weighs nearly five pounds, making it the largest known of its kind.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261025073034.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "AI detects “invisible” signs of pancreatic cancer years before diagnosis",
+              "lead": "A powerful new AI system could help doctors detect pancreatic cancer years before it becomes visible on conventional scans. The technology, called REDMOD",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Exercise doesn't just strengthen your heart. It rewires it",
+              "lead": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Protest leaders urge French pupils to keep barricading their schools",
+          "lead": "Activists say struggle must go on until their ‘maximum’ demands are",
+          "category": "society",
+          "categoryLabel": "Society",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools"
+        },
+        {
+          "title": "Lula wins fourth term in dramatic Brazil election comeback",
+          "lead": "The left-wing incumbent president had lost the first round to",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "What to Know About Lula’s Election Victory in Brazil, and What Comes Next",
+          "lead": "President Luiz Inácio Lula da Silva won a fourth term",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html"
+        },
+        {
+          "title": "US charges ex-FBI chief James Comey for third time",
+          "lead": "Former official is charged with disclosing national defence",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/6b669a41-b629-47ce-8f68-c1ab1bd1320b?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Trump says Brazil election looked ‘rigged,’ defeated Bolsonaro’s party recognizes Lula win",
+          "lead": "Flavio Bolsonaro himself has refused to concede defeat in Sunday's",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/27/world/politics/bolsonaro-party-lula-win/"
+        },
+        {
+          "title": "Lula wins Brazil runoff after prediction markets favored Bolsonaro",
+          "lead": "While prediction market odds pointed to a clear Bolsonaro victory",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/26/lula-brazil-election-prediction-markets.html"
+        },
+        {
+          "title": "Leaders across Americas react to Brazil President Lula's re-election",
+          "lead": "​President Luiz Inacio Lula da Silva won Brazil's presidential",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/leaders-across-americas-react-to-brazil-president-lula-s-re-election"
+        },
+        {
+          "title": "Bolsonaro says police demand passports after Brazil election defeat",
+          "lead": "Flavio Bolsonaro posted a video on social media saying police ordered",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss"
+        },
+        {
+          "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+          "lead": "Turns out selling to big companies isn’t about having the shiniest",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/"
+        },
+        {
+          "title": "Trump claims Brazil election ‘rigged’ as Bolsonaro’s party acknowledges result",
+          "lead": "US President Donald Trump said on Monday that leftist incumbent Luiz",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/americas/article/3372220/brazils-flavio-bolsonaro-says-he-will-lead-opposition-lula-government"
+        },
+        {
+          "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
+          "lead": "From the bright minds that brought you FTX Arena and NBA Top Shot NFT",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket"
+        },
+        {
+          "title": "Macklemore Calls for Unity During First ‘Free Palestine’ Show as Hozier, Kneecap and Mark Ruffalo Support: ‘Those Two Words Are So Threatening to Some People’",
+          "lead": "Macklemore dedicated his first “Free Palestine” tour date in Dublin",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/music/global/macklemore-free-palestine-show-call-for-unity-dublin-1236931074/"
+        },
+        {
+          "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+          "lead": "Hundreds of employees at the US robotics firm Boston Dynamics signed",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/"
+        },
+        {
+          "title": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
+          "lead": "A solar eclipse recorded more than 2,700 years ago is revealing",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm"
+        },
+        {
+          "title": "Trump accused of ‘manipulating’ Catholic bishops for political gain",
+          "lead": "Archbishop of Milwaukee says White House exploited clerics in Oval",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/d8e6fac8-9c71-4e0d-9639-b8cf1d5617b4?syn-25a6b1a6=1"
+        },
+        {
+          "title": "NBA enters prediction markets with Kalshi, Polymarket partnerships",
+          "lead": "The league also inked a memorandum of understanding with the CFTC",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/26/nba-kalshi-polymarket-prediction-markets.html"
+        }
+      ],
+      "supplement": {
+        "title": "‘Nobody Wants This’ Star Tovah Feldshuh Responds to Adam Brody’s Palestine Support: ‘To Accuse the Jewish People of Genocide’ Is ‘Right Out of Hitler’s Playbook’",
+        "lead": "“Nobody Wants This” star Tovah Feldshuh has weighed in after Adam Brody called for a “Free Palestine” during a GQ interview last month.",
+        "body": [
+          "“Nobody Wants This” star Tovah Feldshuh has weighed in after Adam Brody called for a “Free Palestine” during a GQ interview last month.",
+          "At the time, the actor, who plays Rabbi Noah Roklov on the Netflix show, explained that while he hadn’t spoken publicly about the Israel-Gaza issue before, it comes up “a lot” for […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/tv/news/nobody-wants-this-tovah-feldshuh-adam-brodys-palestine-1236931666/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/78th-primetime-emmy-awards-arrivals-79th-annual-tony-awards-1000x667-1.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 16,
+        "categories": 8,
+        "topGroups": [
+          "BBC×6",
+          "Variety×4",
+          "ScienceDaily×4",
+          "Guardian×2",
+          "紐約時報×2",
+          "Al Jazeera×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-27T01:17:27.366Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 794,
+        "lang": 448,
+        "fresh": 345,
+        "denoised": 344,
+        "deduped": 325
+      },
+      "en": {
+        "fetched": 794,
+        "lang": 346,
+        "fresh": 308,
+        "denoised": 307,
+        "deduped": 303
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 40,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 20,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "BBC×4",
+          "華爾街見聞×4",
+          "端傳媒×3",
+          "IT之家×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 16,
+        "categories": 8,
+        "topGroups": [
+          "BBC×6",
+          "Variety×4",
+          "ScienceDaily×4",
+          "Guardian×2",
+          "紐約時報×2",
+          "Al Jazeera×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

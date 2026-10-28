@@ -1,0 +1,904 @@
+{
+  "issue": 44,
+  "date": "2026-10-28",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月十九 · 霜降",
+    "en": "19th day of the 9th lunar month · Frost's Descent"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "Anthropic上市关乎什么？几乎所有一切",
+        "lead": "Anthropic位于一个庞大的商业伙伴和供应商金字塔的顶端。它的上市将成为经济的一次试金石，首次深入展现支撑人工智能热潮的关键业务的健康状况，并考验其持久性。 David Paul Morris/Bloomberg Anthropic旧金山总部。该公司的挂牌上市将成为检验此轮人工智能繁荣持续性的关键试金石。",
+        "body": [
+          "Anthropic位于一个庞大的商业伙伴和供应商金字塔的顶端。",
+          "它的上市将成为经济的一次试金石，首次深入展现支撑人工智能热潮的关键业务的健康状况，并考验其持久性。",
+          "David Paul Morris/Bloomberg Anthropic旧金山总部。该公司的挂牌上市将成为检验此轮人工智能繁荣持续性的关键试金石。"
+        ],
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/business/20261027/anthropic-going-public-stakes/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "中央气象台：北方和东部海区有大风天气 西藏南部将有强雨雪",
+        "lead": "中新网10月28日电 据中央气象台网站消息，昨日，云南和贵州部分地区出现明显降雨，东北及内蒙古等地出现大风。预计今天西北地区东部、华北北部、内蒙古等地仍将有大风，关注对交通、农牧业等的影响；东海、台湾海峡等海域关注海上大风对船舶航运、海上作业平台的影响。",
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-28/10721981.shtml",
+        "category": "top",
+        "categoryLabel": "要闻"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "“机器人健身房”：欧洲在机器人领域追赶中国",
+              "lead": "纽鼐机器人是致力于将人工智能应用于机器人领域的欧洲领先企业之一，对于欧洲能否缩小与中国的差距至关重要。在“机器人健身房”中，机器人接受训练，变得更像人类。 Roderick Aichinger for The New York Times",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261028/neura-robotics-germany-china-ai/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "特朗普夫人：“俄乌奥列什基停火提前生效，范围已扩大”",
+              "lead": "中新网10月28日电 据路透社报道，当地时间27日，美国总统特朗普的夫人梅拉尼娅表示，俄罗斯与乌克兰在赫尔松地区奥列什基的停火协议于当天提前生效，停火范围已扩大到奥列什基以外区域。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-28/10721974.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "姆巴佩陷入「中国独裁者」迷因风波：品牌解约、央视停播",
+              "lead": "因在节目中以「独裁者」形容已故中国领导人毛泽东，法国足球明星基利安·姆巴佩（麦巴比）近日在中国引发争议，多家中国大型品牌先后宣布终止与其合作。姆巴佩发表道歉声明也不被中国网民接纳。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6x2v4p284ylo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf7a/live/b6465c90-d205-11f1-93e1-3b657b665bcf.jpg"
+            },
+            {
+              "title": "武契奇14年执政落幕，中塞「铁杆友谊」何去何从？",
+              "lead": "从总理到总统，武契奇领导的塞尔维亚进步党（SNS）一步步将塞尔维亚打造成欧洲强硬的亲华国家，中国亦曾形容两国关系为「铁杆友谊 」。外界关注这一亲华总统败选，将如何改变中塞关系。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cw62y7lkvyn0o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/151f/live/28411ed0-d1dd-11f1-8e07-c79267b33d55.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "中国国开行完成3650亿元新型政策性金融工具投放任务",
+              "lead": "中新社北京10月27日电 (记者 王恩博)记者27日自中国国家开发银行获悉，该行于当天完成3650亿元(人民币，下同)新型政策性金融工具投放任务，全部用于补充项目资本金，涉及项目总投资5.5万亿元。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-27/10721859.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "M6芯片加持！新款苹果iMac AI性能直接翻5倍，起售价12499元",
+              "lead": "苹果公司本周密集发布新品， 在触控屏MacBook Pro亮相前夕，率先推出搭载M6芯片的24英寸iMac与14英寸入门级MacBook Pro。 两款新机将于10月29日凌晨1点10分接受预购，11月6日正式发货。 新款iMac起售价12499元人民币，MacBook Pro起售价15999元。 苹果表示， M6芯片赋予新款iMac在人工智能任务上较上代机型五倍的性能提升 ，入门级MacBook Pro的图形处理速度则较前代提升30%。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3784609",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "首届“飞阅中国”低空经济应用场景大赛决赛在重庆梁平举行",
+              "lead": "中新网重庆10月27日电(记者 肖江川)27日，首届“飞阅中国”低空经济应用场景大赛决赛启动仪式在“西部低空之城”重庆梁平举行。大赛以“构建协同生态 筑梦西部低空”为主题，汇聚政产学研用各方力量，共同挖掘低空应用创新成果，探索低空产业场景化落地的实践路径，助力西部低空经济高质量发展。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-27/10721955.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "甲骨文扩大与英伟达的芯片供应合作，同时引入谷歌 TPU 和 Cerebras 芯片",
+              "lead": "IT之家 10 月 28 日消息，甲骨文（Oracle）当地时间周二表示，将扩大与英伟达（Nvidia）的云端 AI 芯片合作，同时进一步推进供应多元化，引入英伟达竞争对手的产品，包括谷歌母公司 Alphabet 旗下的谷歌以及 Cerebras Systems 的芯片。 甲骨文和英伟达表示，甲骨文将大规模部署英伟达最新一代 Vera Rubin AI 服务器，相关部署规模将达到“数吉瓦级”。双方没有披露这笔交易的具体金额。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/018/728.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "苹果发布搭载M6芯片的新款24英寸iMac 起售价1499美元",
+              "lead": "苹果于10月27日正式发布新一代24英寸iMac。新机搭载全新的M6芯片，并引入支持Wi‑Fi 7和Bluetooth 6的N1芯片，同时提升了SSD存储性能，在保持原有外观设计的基础上进一步增强整体性能。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1584046.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "苹果终于对「摇一摇」广告动手了！",
+              "lead": "今天凌晨，苹果正式推送了 iOS 27.2 系统更新。 这次更新里藏着一个让所有国内 iPhone 用户喜大普奔的「史诗级」功能——限制动作数据（Restrict Motion Data）。 不夸张地说，对于苦开屏广告久矣的国内 iPhone 用户而言，这可能是近三年最值得连夜升级的一次小版本更新。这回，苹果也算是亲自下场向「摇一摇」跳转广告宣战。",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1686157?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "Anthropic 重磅上市——目前我们知道的五件惊人信息",
+              "lead": "Anthropic 的招股说明书长达355页，其中包含大量从未披露过的公司资讯。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c623dz784403o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e6a4/live/4c5ea950-d15a-11f1-9f24-99bf1cc18b1d.jpg"
+            },
+            {
+              "title": "韩国前总统尹锡悦妻子金建希将被羁押至年底",
+              "lead": "中新社首尔10月27日电 (记者 金旭)当地时间27日，韩国最高法院以“存在毁灭证据或潜逃的可能性”为由，签发对韩国前总统尹锡悦妻子金建希的追加逮捕令。金建希原定于10月31日到期的羁押期限将暂时延长两个月，至今年年底。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-27/10721958.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "卢拉逆转赢得巴西总统大选，打击拉美右翼浪潮",
+              "lead": "卢拉逆转击败博索纳罗，后者拒绝接受选举结果，称存在舞弊。这是拉美地区过去18个月来首次出现左翼领导人胜选，但卢拉仍然面临领导一个严重分裂国家的艰巨任务。 Andre Penner/Associated Press 周日，赢得连任的卢拉在圣保罗。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261027/brazil-election-president-lula-bolsonaro/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "塞尔维亚大选暴露右翼民粹潮流新弱点",
+              "lead": "塞尔维亚选民拒绝了自2012年来主导该国政治的武契奇。在欧洲大部分地区，右翼势头似乎不可阻挡。但在东欧，长期执政的民粹主义强人逐渐被边缘化，表明潮流可以逆转。 Djordje Kojadinovic/Reuters 周一，塞尔维亚长期执政的领导人亚历山大·武契奇在贝尔格莱德承认败选后，“学生名单——学生获胜”竞选名单的支持者们欢庆胜利。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261027/serbia-election-vucic-nationalist-populists/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "专访池子：当我察觉到你想听什么了，我就不说什么",
+              "lead": "「一个人可以自我流放，也可以被动流放，我也不知道我是自我的还是被动的。」",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261028-mainland-chizi-on-comedy/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/CKW_8042.jpg"
+            },
+            {
+              "title": "香港浸大举办电影节表彰青年电影人 章子怡获荣誉教授衔",
+              "lead": "中新网香港10月27日电 (记者 戴小橦)香港浸会大学(简称“浸大”)27日在香港举行“Future Film Fest 2026”开幕暨颁奖典礼，现场颁发八项大奖表彰青年电影人，同时向知名演员章子怡颁授创意艺术学院荣誉教授衔。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-27/10721938.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "一项跨越半个多世纪的生命历程研究（70岁篇的内容待增补） (评论: 人生七年10)",
+              "lead": "蜜雪冰陈 评论: 人生七年10 评价: 力荐",
+              "source": "豆瓣",
+              "group": "豆瓣",
+              "link": "https://movie.douban.com/review/17874978/",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "全国短池游泳锦标赛：张雨霏、张展硕创新纪录 徐嘉余率队破纪录",
+              "lead": "中新社北京10月27日电 (刘梦青)2026年全国游泳锦标赛(25米)27日在北京国家游泳中心“水立方”继续进行。张雨霏、张展硕分别斩获女子100米蝶泳、男子800米自由泳冠军，并刷新短池亚洲纪录；在男女4×100米混合泳接力决赛中，徐嘉余仰泳开棒游出48秒54的成绩、打破短池亚洲纪录，率浙江寿仙谷队夺冠，并破亚洲纪录。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-27/10721959.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "2026中国业余高尔夫球队际公开赛南部大区赛落幕",
+              "lead": "中新网清远10月27日电 2026一龄·中国业余高尔夫球队际公开赛(以下简称“中国队际赛”)南部大区赛27日在广东清远狮子湖高尔夫俱乐部圆满落幕。作为本年度大区赛阶段的压轴之战，南部大区赛不仅完成了南部赛区晋级名额的最终争夺，也标志着2026中国队际赛大区赛阶段全面收官。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-27/10721907.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "「鞠躬不仅仅是一种问候」：日本肢体语言中不言而喻的规则",
+          "lead": "从招手示意某人过来，到示意结帐，学习常见的日本手势能帮助你在日本的社交场合中不发一语也能应对自如。我们的专家将教你如何做到。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/ckrey039nxryo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "630亿美元，史上最大规模AI基建融资！博通CEO\"亲自下场\"，华尔街紧盯明年Q1\"巨债发行\"",
+          "lead": "一笔创纪录的AI基建融资，在最后关头险些告吹。 据华尔街日报10月27日报道， 博通（Broadcom）CEO 陈福阳（Hock",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3784625"
+        },
+        {
+          "title": "关乎美国国运的一次中期选举",
+          "lead": "特朗普正在破坏几代人以来使美国实际上成为世界头号强国的根基。这次中期选举关系到我们是接受失败，还是努力夺回我们的国家。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/opinion/20261027/midterms-trump-america/?utm_source=RSS"
+        },
+        {
+          "title": "海洋中的“海雪”暗藏气候秘密：输送至深海的碳可能增加六倍以上",
+          "lead": "海洋中存在一种类似雪花、不断向深海飘落的微小颗粒，被科学家称为“海雪”（Marine Snow）。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/science/1584086.htm"
+        },
+        {
+          "title": "柳叶刀倒计时报告：气候变化对人类健康的危害正加速攀升",
+          "lead": "IT之家 10 月 28 日消息，一份于周三发布的全球重要评估报告显示，气候变化对人类健康造成的负面影响不仅日益加剧",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/018/736.htm"
+        },
+        {
+          "title": "数说科技：全球网路安危，系于一名志工？PHP 事件暴露的开源困境",
+          "lead": "编按：「 数说科技 」是端传媒的注册免费栏目，每周三更新。从一个数字出发，用1500字解析科技话题，追踪值得关注的 AI 趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261028-tech-in-numbers-php-security-crisis-and-open-source-maintainers/"
+        },
+        {
+          "title": "早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告",
+          "lead": "苹果发布 M6 MacBook Pro 和 iMac iPhone 18 Pro 上市三周在华销量增 29%",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1686109?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "Reddit 开源社区争议是否禁止 AI",
+          "lead": "美国社交新闻平台 Reddit 专注于讨论开源项目的社群 r/opensource 公布了禁止 AI 的政策《Your tokens",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85722"
+        },
+        {
+          "title": "[分享创造] [开源] 记事喵 · TaskCat，微信随手记，待办随身行",
+          "lead": "我的待办清单里，常年躺着一堆三周前写的事。 后来想明白了，不是懒，是 记一件事的成本太高 ：打开 App ，找列表，选日期，挑分组。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1252398#reply0"
+        },
+        {
+          "title": "愤怒的老虎，还是沉默的羔羊？ (评论: 愤怒的老虎)",
+          "lead": "人生无。。。 评论: 愤怒的老虎 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17875282/"
+        },
+        {
+          "title": "美国中期选举：选举有何影响、为何重要？七个关键问题解析",
+          "lead": "美国选民将于11月3日投票，这场选举的结果可能对总统特朗普余下任期产生重大影响。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cmx2qg1nn1wlo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "以色列选举“创50年最高投票率”：出口民调显示“无明显赢家”，但“反内塔尼亚胡”阵营领先，阿拉伯政党“异军突起”",
+          "lead": "以色列第26届议会选举以创近50年来最高投票率落幕，出口民调显示两大阵营均未能获得组阁所需多数席位，政治前景高度不确定。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3784623"
+        },
+        {
+          "title": "可能拯救美国制造业的台积电工厂",
+          "lead": "台积电工厂提供的最重要资产不是金钱、设备或当地就业，而是美国人已经失去的先进技能。政府必须充分接纳希望在这里立足的新移民。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/opinion/20261027/ai-computer-chips-semiconductor-arizona-industry/?utm_source=RSS"
+        },
+        {
+          "title": "格力和它的「公公婆婆」：一家企业与「国家」的共舞",
+          "lead": "一家企业撑起一座城市，然后是漫长的分家。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261027-mainland-story-of-gree-electric/"
+        },
+        {
+          "title": "《逃出布迪秀》是一个童年血淋淋的破产 (评论: 逃出布迪秀)",
+          "lead": "张繇 评论: 逃出布迪秀 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17874977/"
+        },
+        {
+          "title": "「卢拉军团」的WhatsApp聊天群如何扭转巴西选情",
+          "lead": "虽然民调显示败局已定，但数百万巴西人加入了「卢拉军团」频道，后者被认为帮助将线上热情转化为现实世界的动员。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c680zjdvk7kgo/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "supplement": {
+        "title": "从街头暴乱到债务危机，牺牲下一代的「法国社会模式」已到穷途末路",
+        "lead": "十月，距离2027年大选尚有半年的法国已然在字面意义上「硝烟四起」。几周以来，一场旨在抗议学校教师资源不足、基础设施陈旧老化、公立大学入学筛选机制等问题的高中学生示威运动，于上周六（10月17日）的全国性示威中 达到高潮 。混迹在示威人群中的暴力分子或破坏街头公共设施、与防暴警察激烈对抗，或洗劫店铺，全国各地数千家商户蒙受损失，西南部城市利摩日（Limoges）始建于1882年、新古典主义建筑风格的市政厅甚至被纵火烧毁。",
+        "body": [
+          "十月，距离2027年大选尚有半年的法国已然在字面意义上「硝烟四起」。几周以来，一场旨在抗议学校教师资源不足、基础设施陈旧老化、公立大学入学筛选机制等问题的高中学生示威运动，于上周六（10月17日）的全国性示威中 达到高潮 。混迹在示威人群中的暴力分子或破坏街头公共设施、与防暴警察激烈对抗，或洗劫店铺，全国各地数千家商户蒙受损失，西南部城市利摩日（Limoges）始建于1882年、新古典主义建筑风格的市政厅甚至被纵火烧毁。",
+          "即使在素以警民冲突场景著称的法国，这样的情形也殊为罕见。遗憾但毫不意外的是，一个周末的暴乱过后，公众舆论风向大变，示威的原本诉求被围绕暴力犯罪的谴责和争议彻底淹没。但硝烟不止在街头冒起。法国政府提出的2027年财政预算案，目前正在国民议会审议中，但由于议会四分五裂，难以通过有益削减财政赤字的预算案。",
+          "在大选的压力下，无论哪一派的总统候选人都没有、也不敢拿出一个能真正恢复法国财政健康的政策纲领。自2024年以来酝酿发酵两年的国债危机，出现了断崖式的恶化，10年期国债 收益率 在几周内飙升，于本周三突破 5% 关口，为2002年以来最高，甚至超过了金融危机和欧债危机高峰时期的水平；德法国债利差再度拉大，对冲法国主权债务违约风险的保险合同价格也开始上涨。迄今为止对法国糟糕的财政纪律保持了极大容忍的金融市场，终于走到了恐慌性抛售的边缘。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261028-international-how-pensions-fueled-france-debt-crisis/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/RC2R9OASCIK3.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 13,
+        "maxGroupShare": 21,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "端傳媒×4",
+          "BBC×3",
+          "華爾街見聞×3",
+          "豆瓣×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "No clear winner in Israeli parliamentary election, exit polls suggest",
+        "lead": "Gadi Eisenkot’s bloc slightly ahead of Benjamin Netanyahu’s coalition, but neither forecast to secure a majority, according to TV surveys",
+        "body": [
+          "Gadi Eisenkot’s bloc slightly ahead of Benjamin Netanyahu’s coalition, but neither forecast to secure a majority, according to TV surveys"
+        ],
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa48730da-a74f-4273-9524-2ad0c8193651.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+        "lead": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b7/live/fc424bf0-d23c-11f1-904a-5b90e72e87ff.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+              "lead": "Far-right senator en route to US after missing deadline to hand over his passport since loss to Lula The far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way to the United States after losing",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/3ef222ab0dad82e1fda7dafb6d9e2ec911a85e26/945_122_2901_2320/master/2901.jpg?width=140&quality=85&auto=format&fit=max&s=a686b3dd34a0924dbda1e0f19772782c",
+              "consensus": 5
+            },
+            {
+              "title": "Arab Parties’ Strong Showing May Bring Role in Formation of Israel’s Next Government",
+              "lead": "Voters supporting two leading Arab parties turned out in record numbers to voice their opposition to the Netanyahu government.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-arab-parties.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27israel-arab-parties1-qwmp/27israel-arab-parties1-qwmp-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Lebanese and Syrians expect no change in Israeli policy after election",
+              "lead": "Residents in Lebanon and Syria expect little change in Israeli policy after the election.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/aje-onl-nf_lebanese-syrians-expectaions-israeli-elections-271026?traffic_source=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Washington to issue Flávio Bolsonaro US visa after election loss",
+              "lead": "Defeated rightwing presidential candidate is under investigation by Brazilian police over alleged corruption and money laundering",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/f294230a-0956-4c8c-9bb5-4dd5b6e7438a?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1149b856-9831-418d-b4d7-583f636b615b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "'Tone deaf at best' - advice to stock up on essentials worries experts and low-income families",
+              "lead": "Some families say they cannot afford to stockpile in line with the government's advice.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c6x238kpxj8do?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0e6/live/7feaccc0-d210-11f1-b3b6-c1e79e957e40.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
+              "lead": "Major Indian brokerages are providing retail investors access to U.S. stocks at a time when the local market has been battered.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+              "lead": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+              "lead": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+              "lead": "Defenders across the world face the burden of responding to yet another botched code-execution vulnerability, this time in boot-time firmware used by most of the world’s server vendors and data centers.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Man Utd stick with Carrick - inside a turbulent 48 hours at Old Trafford",
+              "lead": "BBC Sport looks at the 48 hours that led to Manchester United deciding to keep under-pressure Michael Carrick as their head coach for Saturday's trip to Chelsea.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0191/live/aa944b90-d22e-11f1-a701-fddedf244c16.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Will players in the Gulf establish a new security framework?",
+              "lead": "Officials from Riyadh, Islamabad, Ankara and Tehran met in Iran.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/video/inside-story/2026/10/27/will-players-in-the-gulf-establish-a-new-security-framework?traffic_source=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "consensus": 3
+            },
+            {
+              "title": "Top doubles players call on ATP to rethink proposed changes",
+              "lead": "\"The current plans would shift about $20 million in prize money from doubles to singles,\" a group of players wrote.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/sports/2026/10/27/tennis/atp-doubles-changes/",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/27/570756.jpg"
+            },
+            {
+              "title": "Captain Xhaka allowed to play for Switzerland again",
+              "lead": "Granit Xhaka and Breel Embolo will be allowed to return to action for Switzerland next month following an investigation into forged Covid-19 vaccination certificates.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/ck3wvl2ygd77o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3161/live/109258e0-d227-11f1-b8e4-17c9744a7f8e.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Horror Film ‘The Land of Jinn’ Is First Indonesia-Kyrgyzstan Co-Production, Unveiled at Tokyo Gap-Financing Market",
+              "lead": "Indonesia and Kyrgyzstan have made their first film together. “The Land of Jinn,” a supernatural horror feature directed by Kevin Rahardjo (“Smothered”)",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/markets-festivals/horror-land-of-jinn-first-indonesia-kyrgyzstan-co-production-1236932567/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/Land-of-Jinn.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Festival de Frue offers an antidote to Japan’s samey music festivals",
+              "lead": "The small-scale music festival has carved out its own identity without relying on deep-pocketed sponsors or pandering to the algorithm.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/culture/2026/10/27/music/festival-de-frue/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/27/570631.jpg"
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
+              "lead": "Scientists have created one of the largest and most detailed simulations of the early universe ever made, offering an extraordinary new glimpse into the cosmos shortly after the Big Bang.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "James Webb discovers a scorching lava planet with a “giant sunscreen”",
+              "lead": "A scorching lava planet 280 light-years away has surprised astronomers by apparently maintaining a thick atmosphere despite conditions that should have stripped it away billions of years ago.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Israel election live: Netanyahu and Eisenkot opposition blocs tied in latest exit polls",
+          "lead": "Updated exit polling shows Benjamin Netanyahu’s bloc tied with",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates"
+        },
+        {
+          "title": "Flávio Bolsonaro Leaves Brazil for the U.S. After Election Defeat",
+          "lead": "The U.S. plans to issue a visa to Mr. Bolsonaro, a U.S. official said.",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html"
+        },
+        {
+          "title": "Watch: What happens now after close vote in Israeli election?",
+          "lead": "Polls have closed in the Israeli election, but there is no clear",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Washington discusses Russian deals for US oil majors in Ukraine peace talks",
+          "lead": "White House proposes renewed postwar business ties in an effort to",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/d703aaae-f607-4b30-9830-ac2a25472d44?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Arab parties could win 18 seats in Israeli elections, exit polls suggest",
+          "lead": "Record-breaking voter turnout among Palestinian citizens of Israel",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss"
+        },
+        {
+          "title": "U.S. to give visa to Brazilian election loser Bolsonaro",
+          "lead": "The defeated presidential candidate is reportedly en route to the U.S.",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/10/28/world/politics/us-visa-brazil-election-bolsonaro/"
+        },
+        {
+          "title": "Japanese Producers Drive Tokyo Market Growth as Exhibition Space Sells Out",
+          "lead": "The Tokyo International Film Festival’s TIFFCOM market exhibition",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/markets-festivals/japanese-producers-drive-tokyo-market-growth-1236932465/"
+        },
+        {
+          "title": "Global carmakers search for new China strategy as market share slips below 30%",
+          "lead": "Global carmakers are searching for a way to survive in China’s",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/business/china-business/article/3372359/global-carmakers-search-new-china-strategy-market-share-slips-below-30"
+        },
+        {
+          "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+          "lead": "The S&P 500 posted back-to-back gains on Tuesday as tech shares rose.",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/27/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html"
+        },
+        {
+          "title": "VisionQuest is what happens when AI really goes rogue",
+          "lead": "In Marvel's VisionQuest , a superpowered robot tries to better",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai"
+        },
+        {
+          "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+          "lead": "A family is suing OpenAI, saying ChatGPT coached their daughter to",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
+        },
+        {
+          "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
+          "lead": "I understand the appeal of foldable phones",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/"
+        },
+        {
+          "title": "1.9-million-year-old discovery rewrites the story of human evolution",
+          "lead": "New evidence suggests that early humans reached the Jordan Valley at",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261025073042.htm"
+        },
+        {
+          "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+          "lead": "The trio - two of whom were high-profile US real estate moguls - were",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Putin lectures Nordic leaders on Russian history",
+          "lead": "Russia’s leader goes on extended tangent in call with western",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/a384acd1-c90c-4b71-bf7d-6c6e00bf9822?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Punk Band Guitar Wolf Rocks Back Into Takeuchi Tetsuro’s ‘Wild Zero Overdrive’ at Tokyo Gap-Financing Market",
+          "lead": "Guitar Wolf, a real-life punk outfit with a long record of touring",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/markets-festivals/guitar-wolf-rocks-back-wild-zero-overdrive-tokyo-market-1236932518/"
+        }
+      ],
+      "supplement": {
+        "title": "Ancestral Memory Meets AI in Himalayan Drama ‘Shirjara: Song of Grandmother’ at Tokyo Gap-Financing Market",
+        "lead": "A Himalayan drama that sets a grandmother’s stories against the rise of artificial intelligence is aiming for a Cannes premiere next year.",
+        "body": [
+          "A Himalayan drama that sets a grandmother’s stories against the rise of artificial intelligence is aiming for a Cannes premiere next year.",
+          "Director Bikash Subedi’s Nepali feature “Shirjara: Song of Grandmother” has wrapped principal photography and is at the Tokyo Gap-Financing Market to raise its last $44,000.",
+          "Described as a speculative drama, the film moves […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/markets-festivals/ancestral-memory-ai-nepali-drama-shirjara-tokyo-market-1236932531/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/Shirjara-Song-of-Grandmother.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "Al Jazeera×3",
+          "Japan Times×3",
+          "ScienceDaily×3",
+          "FT×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-28T01:02:49.480Z",
+    "sources": {
+      "configured": 36,
+      "ok": 34,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "界面新聞",
+          "reason": "fetch failed"
+        },
+        {
+          "name": "東方財富",
+          "reason": "fetch failed"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 749,
+        "lang": 405,
+        "fresh": 314,
+        "denoised": 313,
+        "deduped": 293
+      },
+      "en": {
+        "fetched": 749,
+        "lang": 344,
+        "fresh": 326,
+        "denoised": 323,
+        "deduped": 318
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 13,
+        "maxGroupShare": 21,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "端傳媒×4",
+          "BBC×3",
+          "華爾街見聞×3",
+          "豆瓣×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "Al Jazeera×3",
+          "Japan Times×3",
+          "ScienceDaily×3",
+          "FT×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

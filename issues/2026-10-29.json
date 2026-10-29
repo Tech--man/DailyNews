@@ -1,0 +1,901 @@
+{
+  "issue": 45,
+  "date": "2026-10-29",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月二十 · 霜降",
+    "en": "20th day of the 9th lunar month · Frost's Descent"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "从一瓶水、一份早餐，到一捧花、一个盲盒——地铁站内的生意更丰富了",
+        "lead": "工作日的傍晚，北京地铁西土城站站厅内，“一朵小花”摊位上已摆出当季鲜花。人来人往间，不时有人驻足小摊前，买下一捧新鲜花束。“我几乎每天两点一线通勤，天天都路过这个摊位。偶尔顺路带束花回去，能给普通的一天增添一点仪式感。”一名刚买了一捧花的地铁乘客告诉笔者。",
+        "body": [
+          "工作日的傍晚，北京地铁西土城站站厅内，“一朵小花”摊位上已摆出当季鲜花。",
+          "人来人往间，不时有人驻足小摊前，买下一捧新鲜花束。“我几乎每天两点一线通勤，天天都路过这个摊位。",
+          "偶尔顺路带束花回去，能给普通的一天增添一点仪式感。”一名刚买了一捧花的地铁乘客告诉笔者。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/cj/2026/10-29/10722521.shtml",
+        "category": "top",
+        "categoryLabel": "要闻"
+      },
+      "secondary": {
+        "title": "苹果MacBook Pro重大改版：首次搭载触控屏，打破乔布斯时代延续近20年的产品理念",
+        "lead": "苹果公司正式推翻坚守近20年的产品理念， 发布首款搭载触控屏的MacBook Pro，以此重振旗舰笔记本产品线并拉升产品均价。 新款MacBook Pro同时配备OLED显示屏与灵动岛功能区，这也是Mac产品线首次引入上述两项技术。",
+        "source": "華爾街見聞",
+        "group": "華爾街見聞",
+        "link": "https://wallstreetcn.com/articles/3784702",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "国内最长地铁环线全线开通",
+              "lead": "新华社权威快报|国内最长地铁环线全线开通",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/10-29/10722543.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "西班牙港口城市热情拥抱中国投资，经济机遇背后暗藏隐忧",
+              "lead": "港口城市费罗尔饱受工业衰败的困扰，如今，上汽集团的建厂计划受到当地居民广泛欢迎。这一项目体现了中国投资给欧洲带来的短期机遇与长期风险之间的权衡。 Daniel Rodrigues for The New York Times 西班牙费罗尔港的船只，摄于2020年。这座城市正因热情欢迎中国企业进入西班牙乃至西欧市场而受到关注。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261029/spain-saic-ferrol-china/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "姆巴佩就「中国独裁者」迷因道歉 背后的资讯真空与「毛泽东热」",
+              "lead": "因在节目中以「独裁者」形容已故中国领导人毛泽东，法国足球明星基利安·姆巴佩（麦巴比）近日在中国引发争议，多家中国大型品牌先后宣布终止与其合作。姆巴佩发表道歉声明也不被中国网民接纳。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6x2v4p284ylo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e832/live/1cd37e80-d282-11f1-8e81-a194fdb2a7ba.jpg"
+            },
+            {
+              "title": "“国家队”救市不灵了？中国股市颓势折射经济困境",
+              "lead": "中国大陆股市较近期高点下跌超过20%，已达到熊市的临界点。股市抛售反映出人们对经济更深层次的担忧，以及对政策制定者是否采取了足够刺激措施的质疑。 Florence Lo/Reuters 中国国家主席习近平召集了高级领导人，以制定政府的施政纲领，但经济问题很可能要让位于政治问题。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261028/china-stocks-losses-government-intervention/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "美联储宣布维持联邦基金利率不变",
+              "lead": "中新社华盛顿10月28日电 (记者 沙晗汀)美国联邦储备委员会28日宣布，将联邦基金利率目标区间维持在3.75%至4%不变，符合市场普遍预期。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-29/10722495.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "贝森特“安抚华尔街”：美债没问题，AI融资没问题，美联储再加息也没问题",
+              "lead": "美国财政部长贝森特（Scott Bessent）周三集中回应了市场对多个核心风险点的担忧，在美联储宣布维持利率不变后不久，他向投资者传递出一个明确信号：当前美国经济与金融体系的主要压力点均在可控范围之内。 据CNBC和彭博社10月28日报道， 在AI融资风险方面，贝森特明确表示“完全不认为这是问题” ，并指出新云计算公司（neoclouds）在整体AI生态系统中占比有限，融资和交易仍在持续推进。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3784723",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "苹果凌晨发布首款触控屏MacBook Pro 22999元起售",
+              "lead": "今日凌晨， 苹果 公司正式发布首款支持屏幕触控的MacBook Pro，提供14英寸、16英寸两款机型，配备PR OLED XDR显示屏，新增灵动岛设计，发光Logo回归。 新机搭载M5 Pro/M5 Max芯片，最高可选16TB固态硬盘，续航最长达24小时，将于10月30日9点接受预购，11月6日发售，国行售价22999元起。",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://finance.eastmoney.com/news/1344,202610293913083887.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "苹果首次将“灵动岛”引入MacBook Pro",
+              "lead": "苹果公司首次把“灵动岛”（Dynamic Island）设计引入 Mac 产品线，在全新的 14 英寸和 16 英寸 MacBook Pro 上，将实时活动、聚焦搜索（Spotlight）与 Siri 人工智能整合进屏幕上一块可交互的区域。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1584218.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 5
+            },
+            {
+              "title": "顶配 11.26 万！触屏 MacBook Pro 终于来了，乔布斯可能有话说",
+              "lead": "折叠 iPhone 的热度还没有过去，触屏 MacBook 又来了。 在刚刚结束的 10 月苹果特别活动上，新 CEO 约翰·特努斯再次登台，为我们带来了今年 Mac 产品线的最大更新—— MacBook Pro。 是的，它就叫这个名字，而非传闻中的新产品线 MacBook Ultra 或者别的什么。",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1686513?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 5
+            },
+            {
+              "title": "[MacBook Pro] 新 MacBook 为什么不做屏下摄像头",
+              "lead": "iPhone Duo 已经在使用了，所以肯定不是技术层面的问题； 相较于 iPhone ，MacBook 本身对摄像头素质也没有太高的要求，能进行视频会议就够了，所以也不存在拍摄效果太差的问题； 至于灵动岛，我真心觉得这是一个为了美化挖孔屏而出现的过渡性交互，真的不能当做产品卖点； 屏下摄像头虽然会影响到一小部分显示效果，但总好过挖孔吧，在全屏播放视频时真的有点膈应",
+              "source": "V2EX",
+              "group": "V2EX",
+              "link": "https://www.v2ex.com/t/1252731#reply7",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "突发：印尼马鲁古省附近海域发生6.4级地震",
+              "lead": "中新网10月29日电 据印度尼西亚气象、气候和地球物理局消息，当地时间10月29日5时06分，印尼马鲁古省塔宁巴尔群岛西北方向201公里处发生6.4级地震，此次地震没有引发海啸的风险。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-29/10722509.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "燃油危机之下，中国电动机车风行南亚",
+              "lead": "由于霍尔木兹海峡局势不明朗导致燃油成本飙升，越来越多的道路使用者转向购买中国制造的电动机车。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cmkgq9vzgkjlo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2974/live/3865f700-d227-11f1-b8e4-17c9744a7f8e.jpg"
+            },
+            {
+              "title": "特朗普考虑解除对普京“小金库”的制裁",
+              "lead": "美国官员长期将俄罗斯旗舰主权投资基金视为克里姆林宫最强有力的国际影响力工具之一。这是美俄更广泛谈判的一部分，该基金协助安排了运往美国的首批俄罗斯柴油。 Ramil Sitdikov/Reuters 特朗普总统的特使史蒂夫·威特科夫、贾里德·库什纳与俄罗斯直接投资基金负责人基里尔·德米特里耶夫上月在莫斯科。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261028/russia-fund-sanctions-trump/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "ChatGPT的致命“用药指导”和一名华人女子的悲剧死亡",
+              "lead": "万博雯在癫痫复发、药物失效、孤立无援之际向ChatGPT求助，三年间与ChatGPT对话超过27万条。ChatGPT建议她减少抗癫痫药物的用量，最终导致了毁灭性的后果。 via Qun Wan and Meiqin Xu 亚利桑那州立大学毕业典礼上的万博雯。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/health/20261028/ai-chatgpt-medication-epilepsy-death/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "【华尔街日报】中美俄三方峰会：习近平想当调解人，川普另有打算",
+              "lead": "编按：《华尔街日报》是全球最具影响力的财经媒体之一，每日产出大量深度报导，涵盖国际政治、商业财经与科技趋势。在「WSJ守护精选」栏目中，端传媒编辑每周二、四从中挑选涉及中国、科技、中美关系等华文读者最关心议题的报导。 习近平或许难以相信，自己竟有这样的好运。距离中国在深圳主办亚太经济合作组织(Asia-Pacific Economic Cooperation)峰会不到一个月",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261029-wsj-trump-has-other-ideas-for-a-historic-summit/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/AP26285648595228.jpg"
+            },
+            {
+              "title": "聚焦民间文学之生命力 《民间文学》杂志创刊70周年交流活动举办",
+              "lead": "中新网杭州10月28日电 聚焦民间文学之生命力，《民间文学》杂志创刊70周年座谈交流活动日前在浙江淳安举办。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-28/10722442.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "全国短池游泳锦标赛收官：连创纪录，多点突破",
+              "lead": "中新社北京10月29日电 (记者 国璇)2026年全国游泳锦标赛(25米)28日在北京国家游泳中心“水立方”收官。作为爱知·名古屋亚运会后的首场全国性游泳大赛，本届赛事对于许多选手而言是一次找回比赛节奏的综合演练。老将和新星创造多项纪录，为12月的北京短池世锦赛预热。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-29/10722488.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "2026年“快乐垒球进社区、进校园”长沙站举行",
+              "lead": "中新网10月28日电 据中国垒球协会消息，10月27日，2026年“快乐垒球进社区、进校园”(长沙站)活动在宁乡市树仁学校举办。本场活动作为2026年度该系列普及推广活动的收官站，共有280名师生参与其中。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-28/10722298.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "超八成受访者今年想去红色纪念地 未成年人家长有此意愿的比例更高",
+              "lead": "超八成受访者今年想去红色纪念地，其中62.6%已成行",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/10-29/10722513.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "苹果MacBook Pro十年后重启发光Logo",
+          "lead": "苹果公司当日宣布，标志性的背部发光苹果Logo将在最新款MacBook Pro上回归。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1584216.htm"
+        },
+        {
+          "title": "印中关系缓和之际：印边境官员称中国军队大批集结并搭帐篷",
+          "lead": "印中关系原本正处于谨慎的复苏阶段，直到一位边境官员的言论引发了人们对实际情况的新疑虑。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cwkg5e249vmko/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "[MacBook Pro] 新款 MacBook 的触摸屏真的有用吗？",
+          "lead": "作为一个用了几代苹果的长期用户来说，对于这个功能真的很费解。 如果想触摸就得拿近点，那我为什么不拿个平板呢？",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1252725#reply22"
+        },
+        {
+          "title": "“机器人健身房”：欧洲在机器人领域追赶中国",
+          "lead": "纽鼐机器人是致力于将人工智能应用于机器人领域的欧洲领先企业之一，对于欧洲能否缩小与中国的差距至关重要。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/business/20261028/neura-robotics-germany-china-ai/?utm_source=RSS"
+        },
+        {
+          "title": "美联储如期按兵不动，两年期美债收益率下跌，美股上涨，美元指数下跌，黄金震荡",
+          "lead": "华尔街见闻提及 ，美东时间10月28日周三，美联储在货币政策委员会FOMC会后公布，维持利率政策在3.75%-4%不变。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3784706"
+        },
+        {
+          "title": "A股开盘：创业板指下跌1.46%，物理AI、CPO、AI语料等概念走弱",
+          "lead": "10月29日早间A股开盘，上证指数跌0.13%，深证成指跌0.82%，创业板指跌1.46%，北证50跌1.12%。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15261047.html"
+        },
+        {
+          "title": "三星电子 2026 财年第三财季业绩爆发：归母净利润 75.21 万亿韩元同比增长 526.39%",
+          "lead": "IT之家 10 月 29 日消息，三星电子今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/019/294.htm"
+        },
+        {
+          "title": "天文学家在柯伊伯带发现一颗巨大的矮行星候选天体",
+          "lead": "2025 年 6 月正式启动观测的 Vera C. Rubin 天文台其任务之一是绘制太阳系内小天体地图，尤其是柯伊伯带天体。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85735"
+        },
+        {
+          "title": "美联储按兵不动！“新债王”公开质疑：为何不加息 还在等什么？",
+          "lead": "双线资本创始人、有着“新债王”之称的杰夫·冈拉克周三公开质疑美联储按兵不动的合理性， 直言搞不懂为何美联储不进一步加息 。 “你们还在等什么？",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://futures.eastmoney.com/news/11233,202610293913165468.html"
+        },
+        {
+          "title": "早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时",
+          "lead": "22999 元起，触屏 MacBook Pro 发布，发光 logo 回归 Google 发布 Gemini 4 Carbon",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1686590?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "从康乃尔到斯坦福，校园性暴力为何难追责？｜端闻 Podcast",
+          "lead": "邀请你带这端的会员身份，逛遍全世界独立书店 https://theinitium.com/membership-worldwide-book",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261028-initium-audio-international-cornell-7-and-campus-sexual-assault/"
+        },
+        {
+          "title": "期待高，有些失望 (评论: 我不是大师)",
+          "lead": "直树 评论: 我不是大师 评价: 还行",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17877727/"
+        },
+        {
+          "title": "西班牙列车相撞至少68死：我们目前已知甚么？",
+          "lead": "西班牙两列载有逾500名乘客的高速列车相撞。该国交通部长表示，电脑系统故障导致列车一度停驶，但控制中心其后在「令人费解的情况下」",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c50mejwyrypno/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "朝韩边境线争端引发半岛新紧张局势",
+          "lead": "三名韩国士兵在朝韩边境因地雷爆炸受伤，引发两国政府激烈交锋，冲突风险升高。1953年朝鲜战争停战后划定了一条军事分界线",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/asia-pacific/20261028/korea-tensions-border-dmz-mdl/?utm_source=RSS"
+        },
+        {
+          "title": "美联储10月声明全文对比：经济评价上调至“强劲”，删除政策有助于及时回归通胀目标的表述",
+          "lead": "美联储新任主席凯文·沃什继续延续官方式、极简化的沟通风格。本次10月利率决议声明正文依然精炼，与9月声明相比，主要调整集中在经济增长评价",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3784710"
+        },
+        {
+          "title": "机构风向标 | 利扬芯片(688135)2026年三季度已披露持仓机构仅8家",
+          "lead": "2026年10月29日，利扬芯片(688135.SH)发布2026年第三季报。截至2026年10月28日",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15260005.html"
+        }
+      ],
+      "supplement": {
+        "title": "关税、签证与4.1亿美元计划：美国如何把数万移民遣返「外包」给35国？｜Whatsnew",
+        "lead": "2025年7月1日，护理师库亚特（Rabbiatu Kuyateh）前往美国移民及海关执法局（ICE）例行报到。她已在美国生活近30年，与儿子、父母同住于巴尔的摩。然而这一次，她没有像往常一样回家，被当场拘留。9月，美国移民法官裁定，库亚特若返回原籍国塞拉利昂（Sierra Leone，又译狮子山），可能面临迫害，因此给予她「禁止遣返」令。",
+        "body": [
+          "2025年7月1日，护理师库亚特（Rabbiatu Kuyateh）前往美国移民及海关执法局（ICE）例行报到。她已在美国生活近30年，与儿子、父母同住于巴尔的摩。然而这一次，她没有像往常一样回家，被当场拘留。9月，美国移民法官裁定，库亚特若返回原籍国塞拉利昂（Sierra Leone，又译狮子山），可能面临迫害，因此给予她「禁止遣返」令。然而，11月，她戴著手镣脚铐，被押上一架飞往西非加纳（迦纳）的包机——一个她从未踏足、毫无连结的国家。抵达加纳五天后，她又被当地官员带走。",
+          "同行者拍摄的影片显示，她在饭店内遭人拉扯、拖倒，最终仍被送回塞拉利昂。像库亚特一样，从美国被遣至第三国的移民至少有2.5万人。由巴黎非营利新闻组织Forbidden Stories统筹的「遣返计划」（ The Deportation Project ）近日报导特朗普再次上任以来快速扩大的「第三国遣返」网络，该计划集合15国、26家媒体的72名记者，透过内部文件、航班纪录及现场采访，揭露新政策如何将移民送往其原籍国以外的国家。接收国有时提供暂时安置，有时则成为再次遣返的中转站，遣送程序多有缺失，也可能违反国际法的「不遣返原则」。上述遣返人数仍可能低估实际规模。路透社10月5日引述初步政府资料称，特朗普再次上任以来，ICE与边境巡逻队已将逾4万人遣往非本国的国家，其中约900人被送往非洲。",
+          "《华盛顿邮报》查阅的内部记录显示，特朗普政府已承诺与35个国家促成此类协议，至少投入4.1亿美元，其中近三分之一的国家位于非洲。2026年7月23日，美国加州中央谷地，Aurora和她六岁的女儿先签被ICE拘留，并被送往德州的家庭拘留中心。Aurora的脚踝遭扣上监视器。摄：Carlos Barria/Reuters/达志影像 谁被送走：保护令、家庭与犯罪纪录 美国政府对第三国遣返计划高度保密，未完整公开遣返名单与背景统计，外界难以掌握其筛选标准。白宫反复强调，被送往第三国的人包括「危险犯罪者」及「母国不愿接收的非法移民」。但媒体与人权组织拼凑出更复杂的群体样貌。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261013-whatsnew-ice-third-country-deportation-from-us/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GettyImages-2277764411.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "華爾街見聞×4",
+          "紐約時報×4",
+          "端傳媒×3",
+          "BBC×2",
+          "東方財富×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Flávio Bolsonaro claims fraud in Brazil’s presidential election",
+        "lead": "But some allies of the loser in Sunday’s run-off, who has fled to the US, disown his allegations",
+        "body": [
+          "But some allies of the loser in Sunday’s run-off, who has fled to the US, disown his allegations"
+        ],
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/040c71ac-cef9-46b6-9ca1-aeaa01420d64?syn-25a6b1a6=1",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F134e5c90-fa5d-412d-ab20-69e0f1347f93.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Trump Officials Discussing Sanctions Relief for Russian Fund, Russia Acknowledges",
+        "lead": "A Russian official said potential relief for a state investment fund was part of talks. Russia has sought to wring economic benefits from the negotiations on",
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/10/28/us/politics/russia-sanctions-relief-fund-trump.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/10/28/multimedia/dc-russia-sanctions-jpht/dc-russia-sanctions-jpht-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Israel’s opposition may not be able to form a government, but it still could control Parliament.",
+              "lead": "",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/live/2026/10/28/world/israel-elections/israels-opposition-may-not-be-able-to-form-a-government-but-it-still-could-control-parliament",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28israel-parliament-topart-01-wbfv/28israel-parliament-topart-01-wbfv-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Australian politics live: Paterson accuses PM of ‘no standards’ over golf club error; Haines office to reopen",
+              "lead": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Gas reservation policy set for lower house vote today Australia’s domestic gas reservation is set to be debated and voted on in the",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/224d0acfc9136279c0bbb01626b410e900ef0233/554_0_5516_4415/master/5516.jpg?width=140&quality=85&auto=format&fit=max&s=c65c31c02a4909f318c55e60bd17362d",
+              "consensus": 5
+            },
+            {
+              "title": "Israelis rally for Jewish-Arab government after election gains",
+              "lead": "Israelis rallied for a Jewish-Arab gov’t after parties representing Israel’s Arab citizens made gains in the election.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Fed holds fire on interest rates despite intensifying inflation",
+              "lead": "Central bank to vote on monetary policy seven times next year in shift from decades-old custom of having eight such meetings",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/f31fccd8-e9b6-4b01-989d-790ca6bb4d29?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe5bbc111-ab08-4113-a859-431ea5c5eda6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "What we now know about the UK economy in four charts",
+              "lead": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/302d/live/da4a7910-d2ea-11f1-8d86-83eebc838351.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "CNBC TEC Summit takeaways: How technology executives are navigating enterprise AI adoption, costs and risks",
+              "lead": "Recapping CNBC's 2026 Technology Executive Council Summit and discussions around AI agents, cybersecurity, AI costs and business implications",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/28/cnbc-technology-summit-live-updates.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+              "lead": "It's almost like Google's got something to prove after taking a break from releasing new frontier AI models earlier this year. Just two weeks after rolling out Gemini 4 Argon , Google has announced Gemini 4 Carbon .",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
+              "lead": "Samsung Electronics reported third-quarter earnings on Thursday.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+              "lead": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "'Stutter' penalty back in the spotlight after Barco miss costs Chelsea",
+              "lead": "The stuttering run-up for penalties has been called 'naive' as players continue to try to deceive goalkeepers with a stop-start approach - but why?",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cmp3g8vxd258o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2567/live/4a1635a0-d32b-11f1-b0c3-4b2ce0e9f02a.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "How unbeaten Chelsea are getting back to their best",
+              "lead": "Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c8wy9wenqd01o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c93/live/57164640-d309-11f1-ad4f-5d2bbacf0caf.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "McClean's Derry exit not 'any real surprise' - Coyle",
+              "lead": "Former Derry City striker Liam Coyle says that James McClean's exit from the club does not come as \"any real surprise\" after it was announced on Wednesday that his contract had been terminated by mutual consent with",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/articles/cm5ynw78kgj6o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7841/live/6c536390-d2f9-11f1-8091-57f2713cabe8.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Bangladesh Soccer League, Indonesian Film Venture Drive U.K. Firm Goldfinch’s Asia Push (EXCLUSIVE)",
+              "lead": "A proposed Bangladeshi soccer league and an Indonesian film joint venture sit at the center of Goldfinch International’s move into Bangladesh and Indonesia.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/bangladesh-soccer-league-indonesian-film-venture-goldfinchs-asia-push-1236933685/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/Goldfinch-Indonesia-Bangladesh.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "‘Pixels and Pencils’ Panelists Talk the Dangers of AI, Demanding Animation Processes and the Importance of Human Creativity",
+              "lead": "As artificial intelligence continues to advance, animators are increasingly facing questions about the future of their craft and the role of human creativity in filmmaking.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/pixels-and-pencils-panelists-2026-1236933652/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/2302132667.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists discover a secret glow in toxic fire salamanders",
+              "lead": "Researchers have discovered a surprising hidden ability in Europe's familiar black-and-yellow fire salamanders: they glow green and cyan under ultraviolet light.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
+              "lead": "NASA’s Artemis I mission has revealed that cosmic radiation near the Moon is higher than in Earth orbit, but not by as much as scientists might expect.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists discover the immune system’s hidden sense of touch",
+              "lead": "Scientists at McGill University have discovered a surprising new ability of immune cells that could change how we understand long-term immunity.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261026225617.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "New book makes fiery claims about Jared Kushner’s finances in Trump’s first term",
+          "lead": "Kushner threatens to sue, denying allegations that two slush funds",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/us-news/2026/oct/28/jared-kushner-book-claims"
+        },
+        {
+          "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+          "lead": "Survivors of the train crash in Spain have spoken of their shock",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Israel’s Parties Gird for Wrangling to Form a Government, With No Clear Path",
+          "lead": "Votes are still being counted, but it appears that neither Prime",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html"
+        },
+        {
+          "title": "Microsoft blames data centre delays for lower capital expenditure",
+          "lead": "Software group reports overall revenue rose 19% to $92.",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/93f53cb4-1fc8-4ca5-aa91-186b77b03d92?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Spain rail crash came after train ordered to go in error: minister",
+          "lead": "A rail collision in Spain that claimed at least 68 lives on Wednesday",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/spain-rail-crash-came-after-train-ordered-to-go-in-error-minister"
+        },
+        {
+          "title": "Fed holds rates steady despite concerns over inflation",
+          "lead": "Two of the 12 Federal Open Market Committee voters dissented from the",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html"
+        },
+        {
+          "title": "Fed leaves interest rates unchanged despite inflation in the US",
+          "lead": "Rates will remain 3.75-4 percent even as inflation continues to rise.",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss"
+        },
+        {
+          "title": "US Fed holds interest rates steady despite surging inflation",
+          "lead": "The US Federal Reserve on Wednesday held interest rates steady",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3372489/us-fed-holds-interest-rates-steady-despite-surging-inflation"
+        },
+        {
+          "title": "Fed holds fire as Warsh telegraphs more hikes without saying it",
+          "lead": "Warsh used his assessment of a strong economy and warnings over",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/business/2026/10/29/economy/fed-warsh-hikes/"
+        },
+        {
+          "title": "Google expands AI Search ads globally as core ad growth slows",
+          "lead": "The announcement came alongside parent company Alphabet's",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
+        },
+        {
+          "title": "Google says its investments in AI are driving more searches",
+          "lead": "Google parent company Alphabet says that its AI investments are",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026"
+        },
+        {
+          "title": "Apple announces touchscreen MacBook Pro with OLED display",
+          "lead": "LOS ANGELES—Apple today announced and gave a first glimpse of its",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/"
+        },
+        {
+          "title": "‘The Hunger Games: Sunrise on the Reaping’ First Reactions Call Prequel the ‘Rogue One’ of the Franchise and Praise Joseph Zada as Haymitch",
+          "lead": "“The Hunger Games: Sunrise on the Reaping” has officially premiered",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/news/hunger-games-sunrise-on-the-reaping-first-reactions-1236933573/"
+        },
+        {
+          "title": "Earth's ice ages may have been driven by a hidden ocean chain reaction",
+          "lead": "Scientists have uncovered a surprising connection between Earth's",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261026225610.htm"
+        },
+        {
+          "title": "Non-profit group leaks data of more than 40,000 homeland security workers",
+          "lead": "Information released by Distributed Denial of Secrets is the third",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/us-news/2026/oct/28/homeland-security-data-leak"
+        },
+        {
+          "title": "Israel's election deadlock is a sign of the country's deep divisions",
+          "lead": "The election was a celebration of democracy in some ways - but it has",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "supplement": {
+        "title": "From Carlos Reygadas to Hamaguchi’s Cinematographer, Tokyo’s Nippon Cinema Now Directors on Unexpected Connections",
+        "lead": "A first-time director who messaged Oscar winner Hamaguchi Ryusuke’s cinematographer directly, and a former hunter whose film led Carlos Reygadas to float a collaboration",
+        "body": [
+          "A first-time director who messaged Oscar winner Hamaguchi Ryusuke’s cinematographer directly, and a former hunter whose film led Carlos Reygadas to float a collaboration, were among five Nippon Cinema Now filmmakers who shared the unexpected connections behind their work at the 39th Tokyo International Film Festival (TIFF).",
+          "The “How We Make Films” panel at Tokyo […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/festivals/carlos-reygadas-hamaguchi-cinematographer-nippon-cinema-now-1236933790/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/Nippon-Cinema-Now-directors.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "ScienceDaily×4",
+          "FT×2",
+          "紐約時報×2",
+          "Al Jazeera×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-29T01:38:49.384Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 801,
+        "lang": 455,
+        "fresh": 379,
+        "denoised": 379,
+        "deduped": 353
+      },
+      "en": {
+        "fetched": 801,
+        "lang": 346,
+        "fresh": 333,
+        "denoised": 329,
+        "deduped": 320
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "華爾街見聞×4",
+          "紐約時報×4",
+          "端傳媒×3",
+          "BBC×2",
+          "東方財富×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "ScienceDaily×4",
+          "FT×2",
+          "紐約時報×2",
+          "Al Jazeera×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

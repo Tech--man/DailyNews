@@ -1,0 +1,925 @@
+{
+  "issue": 46,
+  "date": "2026-10-30",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月廿一 · 霜降",
+    "en": "21st day of the 9th lunar month · Frost's Descent"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "以媒：超10架美国军机飞抵以色列空军基地",
+        "lead": "中新网10月30日电 综合外媒29日报道，据监测公开来源航班追踪数据的分析人士称，过去一周，有10多架美国军用运输机降落在以色列南部的空军基地。报道指出运输机的具体载货情况尚不清楚，但据推测与美国在可能与伊朗爆发新一轮冲突之前，为加强该地区防空能力所做的努力有关。",
+        "body": [
+          "中新网10月30日电 综合外媒29日报道，据监测公开来源航班追踪数据的分析人士称，过去一周，有10多架美国军用运输机降落在以色列南部的空军基地。",
+          "报道指出运输机的具体载货情况尚不清楚，但据推测与美国在可能与伊朗爆发新一轮冲突之前，为加强该地区防空能力所做的努力有关。"
+        ],
+        "source": "中新網國際",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/10-30/10723088.shtml",
+        "category": "world",
+        "categoryLabel": "国际",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "一场“无人获胜”的选举：以色列大选的四个初步结论",
+        "lead": "内塔尼亚胡的执政联盟议席大幅缩水，但其主要对手埃森科特也未能实现目标。阿拉伯裔公民的投票人数创历史新高。新政府最终如何组建可能还需要数周时间才能明朗。 Amir Cohen/Reuters; Alexi J. Rosenfeld/Getty Images 左：前以色列国防军总参谋长埃森科特；右：以色列总理内塔尼亚胡",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/world/20261029/israel-election-vote-results-takeaways/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "中共中央今天上午10时将举行新闻发布会，介绍和解读党的二十届五中全会精神",
+              "lead": "新华社快讯：中共中央今天上午10时将举行新闻发布会，介绍和解读党的二十届五中全会精神。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gn/2026/10-30/10723104.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "习近平清洗行动继续：中共宣布33名高官被开除党籍",
+              "lead": "此次被公告开除党籍的很多官员此前已消失数月甚至更长时间，官方一直没有作出解释。其中包括前高级外事官员刘建超，以及曾担任习近平军方秘书的钟绍军。 Florence Lo/Reuters 中国领导人习近平，上月摄于北京。中国共产党将于2027年召开下一次全国代表大会，届时习近平预计将谋求第四个为期五年的中共中央总书记任期。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/china/20261030/china-communist-party-purges/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "刘延东逝世：「红二代」「团派」背景，政治局里少见的女性身影",
+              "lead": "刘延东的逝世提醒外界一个现象：从吴仪、刘延东到孙春兰，中共中央政治局曾连续20年保持至少一名女性委员，直到2022年「二十大」中断，权力核心再无女性。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cq2038dd7pzxo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/32a6/live/fa8244d0-d2de-11f1-b441-2b33b063138f.jpg"
+            },
+            {
+              "title": "美国将中国基因组学公司华大列入贸易黑名单",
+              "lead": "近年来，美国两党人士均曾公开批评华大，称其与北京关系密切，且能获取大量基因数据，对美国国家安全构成威胁。美国官员还将华大子公司与新疆侵犯人权行为联系起来。 Ren Chao/Xinhua, via Getty Images 去年，华大在北京一场展览上的展台。特朗普政府将这家长期受到美国官员质疑的中国大型基因组学公司列入贸易黑名单，旨在禁止使用中国强迫劳动生产的产品进入美国。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261029/us-china-biotech-trade-ban/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "“中国芯”鲜切花月季“文秀”“娇龙”正式上市",
+              "lead": "中新网昆明10月29日电 (贝文)29日，国产鲜切花月季“文秀”“娇龙”正式上市，由云南自主培育、承载时代精神的两款“中国芯”鲜切花正式面向全国消费者销售。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-29/10723063.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "白宫顾问哈塞特：特朗普尊重美联储独立性，10月通胀数据将决定政策走向",
+              "lead": "白宫国家经济委员会主任凯文·哈塞特表示，美国经济正迈向4%的强劲增长，供给侧繁荣正对物价形成下行压力；特朗普认为利率具备下行空间，但尊重美联储及主席沃什的独立决策。 周四，白宫国家经济委员会主任凯文·哈塞特（Kevin Hassett）在接受Fox Business访谈时，就美国近期的经济增长、通胀数据表现以及美联储的货币政策路径发表了最新看法。 哈塞特指出，美国最新GDP数据显示经济增长趋向4%，实际产出持续大幅超出分析师预期。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3784793",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "A股热点前瞻 ｜ “易中天”三季报出齐；新一代无创超声脑机接口亮相；礼来三季报超预期",
+              "lead": "①\"易中天\"三季报出齐，机构称光模块产业景气未改； ②四部门发文 提升 海南自贸 港贸易便利化，开放红利持续释放； ③新一代无创超声 脑机接口 亮相，康复应用打开新空间； ④ 礼来 三季报超预期并上调全年营收展望，减重药需求再度爆发； ⑤上海印发 卫星互联网 行动方案，商业化闭环有望加速成型； ⑥扩内需战略实施方案将加快印发，消费板块关注度升温。",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://finance.eastmoney.com/news/11822,202610303915512449.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "消息称Anthropic为SpaceX最大单一客户 贡献超三分之一收入",
+              "lead": "知情人士称，Anthropic是SpaceX的最大单一客户，在第三季度为马斯克旗下这家AI和火箭公司贡献了超过三分之一的营收。SpaceX上周在一份监管文件中表示，上季度约34.5%的营收来自一家向其AI部门付费的客户。该部门现名为Super Intelligence，主要提供算力服务。文件当时仅将这家客户称为“客户B”。不过，知情人士透露，这家客户就是Anthropic。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1584368.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "研究发现非英语的 token 成本更高",
+              "lead": "Coalition for Language Equity in AI Research 上个月发表的一项研究发现，AI 模型处理部分语言提示所需的 token 量远超英语。研究人员称之为隐性 token 税，意味着小语种用户的 AI 成本更高。研究发现，即使互联网最流行的 20 种语言，token 使用量也存在差异。最昂贵语言使用的 token 数量是最便宜语言的 1.5-5 倍。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85747",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "谷歌 Gemini 升级：生成的文档、表格可在聊天中直接修改",
+              "lead": "IT之家 10 月 30 日消息，现在用户可以直接在谷歌 Gemini 内生成、预览并编辑 PDF、谷歌文档、谷歌表格、幻灯片、Markdown 文件、TXT 文本以及代码文件。这项全新的文件编辑功能从今日起面向所有 Gemini 用户开放，其中 PDF 的预览和编辑功能同时支持网页端与移动端，其余所有文件格式目前仅可在网页端使用。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/019/878.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "美军中央司令部司令向特朗普汇报对伊朗军事选项",
+              "lead": "总台记者当地时间10月29日获悉，美军中央司令部司令布拉德·库珀当天在白宫向美国总统特朗普汇报了针对伊朗的军事行动选项。美国国防部长赫格塞思和美军参谋长联席会议主席丹·凯恩也参加了此次会谈。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-30/10723083.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "黄仁勋被认为是中国间谍行动的目标",
+              "lead": "美国情报机构发现，一名与黄仁勋建立了密切联系的中国籍高管是一名向北京传递信息的情报人员。特朗普约一年前听取了相关情报，但他选择不采取任何行动。 Manuel Orbegozo for The New York Times 英伟达首席执行官黄仁勋对白宫的技术政策颇具影响力，并与特朗普总统建立了密切关系。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261030/nvidia-china-jensen-huang-trump/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "中国施压下姆巴佩道歉，但许多人仍不知道他究竟说了什么",
+              "lead": "姆巴佩有关一名「中国领导人」的言论引发众怒，但网络审查令许多人仍不清楚事件究竟是怎么回事。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/ck4g18ql0vj9o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c4a8/live/2e93a660-d3ac-11f1-b441-2b33b063138f.jpg"
+            },
+            {
+              "title": "西班牙港口城市热情拥抱中国投资，经济机遇背后暗藏隐忧",
+              "lead": "港口城市费罗尔饱受工业衰败的困扰，如今，上汽集团的建厂计划受到当地居民广泛欢迎。这一项目体现了中国投资给欧洲带来的短期机遇与长期风险之间的权衡。 Daniel Rodrigues for The New York Times 西班牙费罗尔港的船只，摄于2020年。这座城市正因热情欢迎中国企业进入西班牙乃至西欧市场而受到关注。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261029/spain-saic-ferrol-china/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "桂林艺术节“艺术大讲堂”：表演、戏剧与人文表达",
+              "lead": "中新网桂林10月29日电 题：桂林艺术节“艺术大讲堂”：表演、戏剧与人文表达",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-29/10723081.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "从爱国公关到铁拳公关，华为为什么开始被批评？",
+              "lead": "「不出问题就遥遥领先，一出问题就猛抓汉奸。」",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261030-mainland-huawei-pr-failure/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/RC2HX9AA90QT.jpg"
+            },
+            {
+              "title": "考古不要从弃剧里淘 (评论: 孤战迷城)",
+              "lead": "北京秀才 评论: 孤战迷城 评价: 较差",
+              "source": "豆瓣",
+              "group": "豆瓣",
+              "link": "https://movie.douban.com/review/17879202/",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "世界杯分组出炉，中国女排再拼奥运“门票”",
+              "lead": "世界杯分组出炉，前3名球队将获得洛杉矶奥运会席位",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-30/10723091.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "全国县域足球赛北京市基层赛收官 1616名球员参与",
+              "lead": "中新网北京10月29日电 据北京市足球运动协会消息，2026年“全民健身 健康中国”全国县域足球赛北京市基层赛日前收官。赛事历时三个月，来自全市7个县域地区的86支球队、1616名球员参与，累计开展基层赛事240场。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-29/10722858.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "11月起，这些新规将影响你我生活",
+              "lead": "11月起，一批新规将正式施行，涉及社会民生多个领域，一起来了解↓",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/10-30/10723094.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "如何不刻意锻炼，也能增加活动量？",
+          "lead": "日常零星活动正显现出保护健康的强大作用，其效果令人意外。它有助于我们消耗更多热量，降低患心血管疾病的风险，甚至降低死亡风险。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c3lylxpp7vjzo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "全球科技股“惨遭血洗”！纳指期货跌2%，韩国股市跌4%，亚洲芯片股重挫",
+          "lead": "全球科技股正经历本轮财报季最密集的一次集体下挫。 英特尔盘后重挫23%，亚马逊盘后下跌约7.3%。纳斯达克100指数期货跌幅扩大至2%。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3784816"
+        },
+        {
+          "title": "人员动荡、派系对立：中期选举前的白宫阴霾密布",
+          "lead": "特朗普正在收紧核心圈子，猛烈抨击批评者，坚持亲自主持竞选集会。白宫因人事变动和对选情的焦虑弥漫着阴郁的气氛",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/usa/20261029/trump-midterms-white-house-mood/?utm_source=RSS"
+        },
+        {
+          "title": "普京称赞马斯克是“真正的天才”",
+          "lead": "俄罗斯总统弗拉基米尔·普京近日公开称赞美国企业家、SpaceX首席执行官埃隆·马斯克，称其为“真正的天才”。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1584356.htm"
+        },
+        {
+          "title": "从爱荷华到德州：共和党的铁票仓，为何突然不「铁」了？",
+          "lead": "「请假装特朗普在选票上」？这可能正是问题所在。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261030-international-how-trump-sabotages-the-midterms/"
+        },
+        {
+          "title": "李开复创立的零一万物总部将落地杭州临平区，获市区两级国资联动投资数亿元",
+          "lead": "IT之家 10 月 30 日消息，零一万物今日宣布，10 月 28 日，零一万物与杭州市、临平区达成合作，由市区两级国资联动投资",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/019/877.htm"
+        },
+        {
+          "title": "刚刚，ChatGPT Pro 额度官宣翻倍，但免费重置可能要没了",
+          "lead": "被用户吐槽了一个月，OpenAI 终于决定不再折腾大家的使用额度了。 就在刚刚，OpenAI 产品负责人 Tibo 突然宣布",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1686830?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "Google AI 搜索产生的收入低于传统搜索",
+          "lead": "Google/Alphabet 在公布第三季度财报之后股价下跌了近 10%，原因是搜索巨人披露 AI 搜索产生的收入低于传统搜索",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85748"
+        },
+        {
+          "title": "亚马逊财报会：高昂AI开支吓退市场 AWS万亿规模“大饼”也不香了？",
+          "lead": "美东时间周四盘后， 亚马逊 公布2026年第三季度财报，整体营收、营业利润双双走高，AWS云业务同比增长 39.3%",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://stock.eastmoney.com/news/11228,202610303915462525.html"
+        },
+        {
+          "title": "[分享创造] SoloEx 独立开发者社区全新栏目上线：每日开源",
+          "lead": "每天精选一个优质开源项目，AI 整理简介，不重复，帮独立开发者快速发现好用工具、参考灵感。欢迎一起交流、分享你看好的开源项目。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1253051#reply0"
+        },
+        {
+          "title": "电影手册第836期影评与剪辑师专访 (评论: 感谢你能来)",
+          "lead": "树上躺着默而索 评论: 感谢你能来 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17879311/"
+        },
+        {
+          "title": "巴西前总统博索纳罗之子败给卢拉后，为何飞往美国？",
+          "lead": "这位参议员离开巴西后，被拍到在美国走下飞机。他在巴西因涉嫌洗钱而接受调查。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cx5ynjr6q6gzo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "报道：欧洲央行官员倾向12月加息，通胀前景是关键变量",
+          "lead": "若通胀形势未能改善，欧洲央行将在12月重启加息——这一信号正推动市场对年内再度收紧货币政策的预期持续升温。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3784805"
+        },
+        {
+          "title": "博索纳罗败选后逃往美国，宣称自己为巴西合法领导人",
+          "lead": "博索纳罗此前在巴西大选中落败。他经由阿根廷逃往美国迈阿密，称自己输掉的选举存在舞弊，并称自己遭到巴西司法机构的“猎巫”。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/world/20261029/flavio-bolsonaro-us-miami-brazil-trump/?utm_source=RSS"
+        },
+        {
+          "title": "债务失控的中国年轻女生，如何才能走出「负债螺旋」？",
+          "lead": "「消费的门槛太低了。当你习惯了这种最省力的逃避方式，启动其他自救方式的动力，就会降到无限低。」",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261029-mainland-debt-spiral-young-female/"
+        },
+        {
+          "title": "盘后跌超7%！亚马逊Q3财报“冰火两重天”：AWS高增难挽“AI烧钱”后果",
+          "lead": "周四美股盘后， 亚马逊 股价一度暴跌12%，截至发稿跌幅收窄至约7%。此前，该公司公布了令人失望的第三季度业绩和不断扩大的自由现金流流出",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1354,202610303915378137.html"
+        }
+      ],
+      "supplement": {
+        "title": "宏福苑大火报告公开，港府记者会重点：李家超率官鞠躬道歉、只一局长下台、围标刑事化｜Whatsnew",
+        "lead": "香港大埔宏福苑大灾接近一年，行政长官李家超今日（10月29日）率领高官公开宏福苑火灾调查报告。在记者会上，李家超先率领多名高官向全港市民鞠躬道歉。这是事发至今第338天，政府首次就事件道歉。 「对宏福苑火灾发生导致168人死亡，包括一位英勇救火殉职的消防员，1984个家庭受影响，带给灾民悲痛及社会哀伤。我作为行政长官、政府之首，深感难过。」李家超说：「我代表政府向灾民及广大市民表示道歉。",
+        "body": [
+          "香港大埔宏福苑大灾接近一年，行政长官李家超今日（10月29日）率领高官公开宏福苑火灾调查报告。在记者会上，李家超先率领多名高官向全港市民鞠躬道歉。这是事发至今第338天，政府首次就事件道歉。「对宏福苑火灾发生导致168人死亡，包括一位英勇救火殉职的消防员，1984个家庭受影响，带给灾民悲痛及社会哀伤。我作为行政长官、政府之首，深感难过。",
+          "」李家超说：「我代表政府向灾民及广大市民表示道歉。」 去年11月26日，宏福苑大火造成168亡79伤，独立委员会历经9个月举行30场听证会后，于上周向李家超提交调查报告，今日公开。与会官员包括政务司司长陈国基、财政司司长陈茂波、律政司司长林定国、保安局局长邓炳强、劳工及福利局局长孙玉菡、发展局局长甯汉豪以及财政司副司长黄伟纶。房屋局局长何永贤是目前因事件下台的唯一政府高官。李家超表示经综合考虑，事件虽不涉及何永贤本人，但她作为房屋局局长须承担政治责任，是「政治问责」。何已于10月28日提出请辞，翌日停止职务，财政司副司长黄伟纶将兼任房屋局局长，政府并已报请中央人民政府建议免除其职务。",
+          "在记者会后，何永贤发辞职 声明 ，称作为房屋局局长，「愿意为宏福苑的火灾承担政治责任，希望逝者可以安息，家人可以安心前行，早日走出伤痛。」 2026年10月29日，电视直播政府就大埔宏福苑火灾独立委员会报告召开的记者会，行政长官李家超率领相关官员出席，并在开始前向大众鞠躬，表示道歉。摄：邓家烜/端传媒 调查报告重点：对承建商等及政府部门的问责 委员会调查报告设16章节，9份附件，合共 1013页 ，主要内容为：对外打击系统性围标现象，对内追究涉事单位及部门于宏福苑大火的责任。报告涵盖宏福苑起火、火势蔓延和造成重大伤亡成因，当局当日灭火、疏散及处理求助电话个案程序，消防员何伟豪的殉职与行动程序，火灾前楼宇维修工程消防安全相关的规管制度；而下册则检视工程承建商／承办商及私营机构在是次大火中的责任，各政府部门的监管责任，全港大型楼宇维修工程涉及的围标行为，以及委员会对上述事宜的建议。重要的事，追踪起来 免费注册端传媒，为你整理新闻脉络，直送你的电子邮箱。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261029-whatsnews-hongkong-wang-fuk-court-fire-report-of-the-independent-committee-and-government-response/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/TKH20261029W177-W_1.jpg"
+      },
+      "stats": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "端傳媒×4",
+          "華爾街見聞×3",
+          "東方財富×3",
+          "BBC×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "No Clear Winner in Israel Election, Final Results Show",
+        "lead": "Prime Minister Benjamin Netanyahu’s party and its allies won 53 seats in Parliament, falling short of the outright majority needed to form a government.",
+        "body": [
+          "Prime Minister Benjamin Netanyahu’s party and its allies won 53 seats in Parliament, falling short of the outright majority needed to form a government.",
+          "The main opposition bloc, led by Gadi Eisenkot, won 48."
+        ],
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-israel-result-netanyahu-hflp/29int-israel-result-netanyahu-hflp-mediumSquareAt3X-v4.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Manosphere and online misogyny should be treated as public health issues, say UK experts",
+        "lead": "Report calls for an effort to tackle harms in similar way to obesity and smoking, and stresses need to ‘offer boys something better’ The manosphere and online",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/society/2026/oct/29/manosphere-online-misogyny-public-health-policy-lancet-report",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/97e1c3e1f50c4260373821af06446263ed696cf0/1532_402_5032_4027/master/5032.jpg?width=140&quality=85&auto=format&fit=max&s=c726efd68a5cafa9e19f214272a55f24",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "What Israeli Election Results Reveal About the Electorate",
+              "lead": "Some groups stood by Prime Minister Benjamin Netanyahu’s party, but support fell off among others. Turnout was also a striking factor in the election.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29Int-Israel-Voter-Data-vtlz/29Int-Israel-Voter-Data-vtlz-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Polymarket temporarily suspends trading on international platform due to security incident",
+              "lead": "Security incident linked to performance-monitoring tool spurred platform to halt trading for about an hour Polymarket temporarily halted trading on its international platform on Thursday because of a security incident",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/oct/29/polymarket-temporarily-suspends-trading-security-incident",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/53655ca13f741fafb5e28ebb0e55c4c4bc6773ef/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=bf6173cb5fe40b76709a6060d8b32cc8",
+              "consensus": 5
+            },
+            {
+              "title": "Chinese scholars warned of challenge of ‘translating academic research into policy’",
+              "lead": "Chinese academic courses designed to deepen understanding of different countries or regions face a challenge in better informing policy and moving beyond frameworks developed in the West",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/china/diplomacy/article/3372557/chinese-scholars-warned-challenge-translating-academic-research-policy",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/29/adf7ba59-ecb6-431b-9d8f-6a064b0a1014_fb826326.jpg?itok=p2aP1FPv&v=1793258712",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Crypto worth billions frozen after suspected Binance hack",
+              "lead": "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\".",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a0f/live/12c05980-d3f5-11f1-8635-ad8ba8dceb2e.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Binance temporarily suspends withdrawals after apparent hack",
+              "lead": "Tether and Circle freeze billions of dollars’ worth of their coins as world’s largest crypto exchange investigates security issue",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9b1f8025-6548-4a03-8a13-60e457e6cea3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "As AI transforms global markets, Cyberport Venture & Capital Forum 2026 brings together the investors and innovators shaping what's next",
+              "lead": "[The content of this article has been produced by our advertising partner.] Global venture capital is surging in 2026, fuelled by concentrated investment in AI, digital infrastructure",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/presented/news/hong-kong/topics/cvcf-2026-shapes-agentic-economy/article/3372499/ai-transforms-global-markets-cyberport-venture-capital-forum-2026-brings-together-investors-and",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/2026/10/29/CVCF-Hero.jpg?itok=Cc8mS5xy",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+              "lead": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Intel says it’s selling every affordable laptop chip it can make",
+              "lead": "During Intel's latest earnings call , CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
+              "lead": "In the future, you won’t be able to use Reddit without logging in. Reddit CEO Steve Huffman confirmed the impending change in a letter (PDF) to shareholders today about Q3 performance.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-1152x648-1752522571.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Dowman to miss three matches after appeal rejected",
+              "lead": "Arsenal's Max Dowman will miss three matches after an appeal against his sending-off during Tuesday's loss at Fleetwood is rejected.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c6kgq9qg28dno?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5147/live/a2fe6400-d2cf-11f1-b677-b762d2f83f6e.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Careless dismissals give Australia route to series win in South Africa",
+              "lead": "Australia take a step towards victory over South Africa in Cape Town, with the help of careless batting from Proteas' top order.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42b2/live/34539a90-d3bd-11f1-93e1-3b657b665bcf.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Chelsea linked with Alexander-Arnold - Friday's gossip",
+              "lead": "Trent Alexander-Arnold may become a target for Chelsea, Bournemouth's Alex Scott could also be heading to Stamford Bridge and Manchester United are looking at Leeds United striker Dominic Calvert-Lewin.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/ck1l396jqv4zo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14eb/live/d3634440-d3dc-11f1-b441-2b33b063138f.png"
+            },
+            {
+              "title": "Chessum signs new two-year deal with Leicester",
+              "lead": "Leicester Tigers captain Ollie Chessum has signed a new multi-year deal to stay at Welford Road.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c61m4k2gx5n8o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45e2/live/f34da000-d393-11f1-b490-07d78ce4b8e5.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "French Action Film ‘Red Bird’ Lands CIS Deal as D.C. Romance ‘Step Back, Doors Closing’ Bows at Tokyo Market (EXCLUSIVE)",
+              "lead": "A French action film and an American indie romance are both up for grabs with international buyers at the Tokyo International Film Festival’s TIFFCOM market.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/markets-festivals/french-actioner-red-bird-cis-deal-dc-romance-tokyo-1236934672/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/Red-Bird.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Mathis Landwehr Martial Arts Films ‘Lion Fist,’ ‘The Last Kumite’ Land Korea, Latin America Deals at Tokyo Market (EXCLUSIVE)",
+              "lead": "Mathis Landwehr-led martial arts feature “Lion Fist” has been picked up for South Korea, Latin America and the CIS. Fellow Landwehr starrer “The Last Kumite” has also found a South Korean home",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/markets-festivals/mathis-landwehr-martial-arts-films-lion-fist-the-last-kumite-land-deals-1236934651/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/Lion-Fist-The-Last-Kumite.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "NASA discovers Jupiter’s invisible shield is more complex than Earth’s",
+              "lead": "NASA’s Juno spacecraft has discovered that Jupiter uses a surprisingly complex system of powerful plasma waves and multiple shock regions to defend against the solar wind.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261028232715.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists discover that cranberry juice may help fight tooth decay",
+              "lead": "Cranberry juice may offer an unexpected benefit beyond its reputation for helping prevent urinary tract infections: protecting teeth from decay.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261028232701.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists just broke a textbook rule of physics",
+              "lead": "Scientists have defied a long-standing rule of laser physics by generating X-rays with much higher energies than conventional theory predicts.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Young athlete and former minister among victims of Spain train crash",
+          "lead": "As some of the victims' names are released publicly",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump again calls for prosecution of Mary Peltola as turmoil grows over Alaska campaign investigation – live",
+          "lead": "‘This is voter fraud at the highest level,’ president tells rally",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates"
+        },
+        {
+          "title": "Has Australia’s push for lower house prices gone too far?",
+          "lead": "Canberra wanted to cool one of the world’s hottest property markets",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/5e37d086-5ecf-45a2-96e1-278a0f5a86c2?syn-25a6b1a6=1"
+        },
+        {
+          "title": "How Israel’s Election Could End",
+          "lead": "Neither Benjamin Netanyahu nor Gadi Eisenkot won a majority in",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/video/world/middleeast/100000011242127/how-israels-election-could-end.html"
+        },
+        {
+          "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
+          "lead": "Rivian also revised its 2026 guidance to mark expected improvements",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html"
+        },
+        {
+          "title": "Trump administration renews bid to block Alaska election results",
+          "lead": "The updated lawsuit cites a new report that Democratic operatives",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results?traffic_source=rss"
+        },
+        {
+          "title": "Netanyahu’s party claims election ‘stolen’ as results show him losing majority",
+          "lead": "Israeli Prime Minister Benjamin Netanyahu’s party on Thursday",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3372644/netanyahus-party-claims-election-stolen-results-show-him-losing-majority"
+        },
+        {
+          "title": "ECB President Lagarde steps down in order to speak out",
+          "lead": "European Central Bank President Christine Lagarde will step down from",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/tv-shows/business/20261029-ecb-president-lagarde-steps-down-in-order-to-speak-out"
+        },
+        {
+          "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "lead": "As AI transforms how people find information online",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
+        },
+        {
+          "title": "Rivian’s R2 is officially its best-selling vehicle",
+          "lead": "Rivian reported its third quarter earnings of 2026",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software"
+        },
+        {
+          "title": "California Begins Discussion on Unlimited Film Incentives: ‘That Is a Heavy Lift’",
+          "lead": "California lawmakers began a discussion Thursday about removing the",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/news/california-film-incentives-unlimited-1236934661/"
+        },
+        {
+          "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+          "lead": "The Pentagon inspector general's office declined a request from US",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/"
+        },
+        {
+          "title": "Less than 42 minutes of bright daylight linked to higher dementia risk",
+          "lead": "Getting more daylight could be linked to a surprisingly powerful",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm"
+        },
+        {
+          "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+          "lead": "The PM's Likud party has alleged foreign interference and said",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Uproar in Alaska sparks Democratic fears for Senate majority",
+          "lead": "Campaign mishaps and infighting could undermine party’s push to take",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/4894285b-40dc-4a8d-a685-2696f3292bc9?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+          "lead": "Wall Street hammered Alphabet for an earnings miss that included",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html"
+        }
+      ],
+      "supplement": {
+        "title": "Patrick Stewart’s Final Movie Is ‘Avengers: Doomsday’; He Said Before His Death That ‘I Can’t Imagine Retiring. I’ll Forever Be an Actor’",
+        "lead": "Patrick Stewart’s final movie role will be in the upcoming “Avengers: Doomsday,” which marks his ninth time playing the “X-Men” character Charles Xavier on the big screen.",
+        "body": [
+          "Patrick Stewart’s final movie role will be in the upcoming “Avengers: Doomsday,” which marks his ninth time playing the “X-Men” character Charles Xavier on the big screen.",
+          "Marvel Studios confirmed the news in their tribute to the late actor, who died at 86 years old after a brief battle with Alzheimer’s and Lewy Body Dementia.",
+          "[…]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/news/patrick-stewart-last-movie-role-avengers-doomsday-1236934590/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/P115ONMP.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 17,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×4",
+          "SCMP×3",
+          "紐約時報×2",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-30T01:42:44.458Z",
+    "sources": {
+      "configured": 36,
+      "ok": 35,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "界面新聞",
+          "reason": "fetch failed"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 774,
+        "lang": 430,
+        "fresh": 347,
+        "denoised": 347,
+        "deduped": 332
+      },
+      "en": {
+        "fetched": 774,
+        "lang": 344,
+        "fresh": 331,
+        "denoised": 328,
+        "deduped": 321
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "端傳媒×4",
+          "華爾街見聞×3",
+          "東方財富×3",
+          "BBC×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 17,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×4",
+          "SCMP×3",
+          "紐約時報×2",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

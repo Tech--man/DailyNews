@@ -1,0 +1,911 @@
+{
+  "issue": 47,
+  "date": "2026-10-31",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月廿二 · 霜降",
+    "en": "22nd day of the 9th lunar month · Frost's Descent"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "台风“烟花”向偏北方向移动 预计未来对我国近海无影响",
+        "lead": "中新网10月31日电 据中央气象台网站消息，今年第31号台风“烟花”(超强台风级)的中心31日早晨5点钟位于日本东京南偏东方向约1680公里的西北太平洋洋面上，就是北纬20.9度、东经143.2度，中心附近最大风力有16级(55米/秒)，中心最低气压为930百帕，七级风圈半径250-360公里，十级风圈半径120公里",
+        "body": [
+          "中新网10月31日电 据中央气象台网站消息，今年第31号台风“烟花”(超强台风级)的中心31日早晨5点钟位于日本东京南偏东方向约1680公里的西北太平洋洋面上，就是北纬20.9度、东经143.2度，中心附近最大风力有16级(55米/秒)，中心最低气压为930百帕，七级风圈半径250-360公里，十级风圈半径120公里，十二级风圈半径80公里。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/sh/2026/10-31/10723763.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "Apple智能接入阿里千问，11月4日开放测试",
+        "lead": "10月31日，苹果和阿里巴巴宣布达成合作，将千问集成至Apple智能，中国用户可以在Siri、写作工具及视觉智能中，直接调用千问的文本与图像理解、内容生成等能力。这些功能将于11月4日起随最新的iOS开发者Beta版开放测试，并将于12月iOS 27.3正式发布时面向中国用户推出。",
+        "source": "界面新聞",
+        "group": "界面",
+        "link": "https://www.jiemian.com/article/15275430.html",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 3
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "涉及重要网络系统和数据安全 3起典型案例公布",
+              "lead": "中新网10月31日电 据“公安部网安局”微信公众号消息，公安网安部门深入开展“护网—2026”专项工作，全力维护重要网络系统和数据安全。今日，公布3起不履行数据安全保护义务或网络安全保护义务案。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/fz/2026/10-31/10723765.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "中共五中全会「空椅子」背后：常态化高压反腐如何改变中国官场？",
+              "lead": "「这次全会进一步表明，习近平的反腐运动没有终点。」专家说，「持续施加纪律压力不应只是阶段性运动，而必须成为中共运作方式中永久存在的一部分。」",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c3j47p5gwj5lo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5dbe/live/ef6456d0-d462-11f1-ab12-eb0c94f5b382.jpg"
+            },
+            {
+              "title": "习近平清洗行动继续：中共宣布33名高官被开除党籍",
+              "lead": "此次被公告开除党籍的很多官员此前已消失数月甚至更长时间，官方一直没有作出解释。其中包括前高级外事官员刘建超，以及曾担任习近平军方秘书的钟绍军。 Florence Lo/Reuters 中国领导人习近平，上月摄于北京。中国共产党将于2027年召开下一次全国代表大会，届时习近平预计将谋求第四个为期五年的中共中央总书记任期。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/china/20261030/china-communist-party-purges/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "币安遭黑客攻击：涉63亿美元 或为史上最大规模 朝鲜黑客组织被指涉案",
+              "lead": "两家分析公司已将事件归咎于「TraderTraitor」。人工智能调查公司TRM Labs在一份报告中称，币安攻击事件的多个要素与早前和朝鲜有关的事件相似，包括2025年Bybit交易所创纪录的15亿美元黑客攻击。另一家加密分析公司Chainalysis也表示，「高度确信」该朝鲜组织与这次黑客攻击有关。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cw0k023x733lo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c7b7/live/358b5900-d446-11f1-b441-2b33b063138f.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "证监会：全力稳市场稳预期，深化投融资综合改革",
+              "lead": "中新网北京10月30日电 (记者 陈康亮)中国证监会党委书记、主席吴清30日主持召开党委(扩大)会议。会议要求，牢固树立大局意识、系统观念，全力稳市场稳预期，深化投融资综合改革，完善全链条监管体系，持续提升资本市场韧性和信心，确保“十五五”开局之年资本市场各项任务圆满完成。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-30/10723649.shtml",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "中心附近最大风力16级，预计超强台风“烟花”对我国近海无影响",
+              "lead": "今年第31号台风“烟花”（超强台风级）的中心今天（10月31日）早晨5点钟位于日本东京南偏东方向约1680公里的西北太平洋洋面上，即北纬20.9度、东经143.2度，中心附近最大风力有16级（55米/秒），中心最低气压为930百帕，七级风圈半径250~360公里，十级风圈半径120公里，十二级风圈半径80公里。预计，“烟花”将以每小时15公里左右的速度向偏北方向移动，强度变化不大，未来“烟花”对我国近海无影响。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15275472.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "苹果收盘市值再度反超英伟达，重夺全球市值最高上市公司",
+              "lead": "IT之家 10 月 31 日消息，在美国当地时间 10 月 30 日 16 点（北京时间 10 月 31 日凌晨 4 点）股市收盘后，苹果公司市值为 5.03 万亿美元 （现汇率约合 33.58 万亿元人民币） ，收盘后市值再度反超英伟达（4.93 万亿美元 （现汇率约合 32.92 万亿元人民币） ），重回全球市值最高上市公司。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/020/404.htm",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "报告称长三角形成从底层算力、核心算法到终端应用的完整产业生态",
+              "lead": "中新网北京10月31日电 (记者 张素)30日发布的一份报告认为，数据、算力、算法是智能经济的三个核心驱动要素，而长三角地区已经形成从底层算力、核心算法到终端应用、高端装备的完整产业生态。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-31/10723757.shtml",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "苹果市值超越英伟达 重登全球第一宝座",
+              "lead": "在经历过去一周科技股普遍下跌之后，苹果公司凭借持续强劲的iPhone市场需求，再次超过英伟达，重新成为全球市值最高的上市公司。近年来，苹果与英伟达围绕全球最高市值公司的位置持续展开拉锯战。苹果依靠iPhone产品线和服务业务的增长，而英伟达则受益于人工智能热潮带动的AI芯片需求。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1584494.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "把空气“冷冻”起来存电能：我国液态空气储能重大突破，全球最大规模、百分百国产",
+              "lead": "IT之家 10 月 31 日消息，据央视新闻今日报道， 全球最大规模 60 兆瓦液态空气储能国家示范项目 成功并网发电，实现液态空气储能技术工程化、商业化落地的重大突破。 该液态空气储能项目位于青海省格尔木市，总规模 6 万千瓦，每天可助力 60 万度清洁能源消纳， 全年输电量约达 1.8 亿度，满足 3 万户家庭一年的用电需求 。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/020/399.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "18件高棉文物回归柬埔寨",
+              "lead": "中新社金边10月30日电 (张安琪 张堰林 杨强)柬埔寨文化艺术部当地时间30日发布的新闻稿称，18件此前在英国伦敦被追回的高棉文物当天已正式移交柬埔寨驻英国大使馆，将于近期安排将其运送回国内。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-31/10723721.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "一场“无人获胜”的选举：以色列大选的四个初步结论",
+              "lead": "内塔尼亚胡的执政联盟议席大幅缩水，但其主要对手埃森科特也未能实现目标。阿拉伯裔公民的投票人数创历史新高。新政府最终如何组建可能还需要数周时间才能明朗。 Amir Cohen/Reuters; Alexi J. Rosenfeld/Getty Images 左：前以色列国防军总参谋长埃森科特；右：以色列总理内塔尼亚胡",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261029/israel-election-vote-results-takeaways/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "台湾新北市长选战：「政二代」苏巧慧对决「专业副手」李四川，谁能拿下蓝绿关键一城？",
+              "lead": "作为全台人口最多的直辖市，新北市被视为「最关键战场」，将判定蓝绿整体胜负，并可能牵动2028年总统大选。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cm9wzeg8ql22o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7311/live/9232e340-d440-11f1-97f9-27ebf08d99fe.jpg"
+            },
+            {
+              "title": "习近平之后，中国将走向何方？",
+              "lead": "随著习近平打破传统任期惯例，未来的权力继承路径与接班阵容充满变数。权力交接、接班人选，以及习近平未来角色的讨论，正在成为中国政治最受关注、也最难回答的问题之一。习近平之后，中国会走向何方？",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/watch/cm4g197q34l7o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2171/live/c80ebef0-d439-11f1-b441-2b33b063138f.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "“孙中山与上海”文物史料展在上海革命历史博物馆开幕",
+              "lead": "中新网上海10月30日电 (记者 王笈)2026年是孙中山先生诞辰160周年。由上海革命历史博物馆、民革上海市委会、上海市黄埔军校同学会、上海孙中山故居纪念馆主办的“孙中山与上海——纪念孙中山先生诞辰160周年文物史料展”30日在上海革命历史博物馆开幕。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-30/10723468.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "「欢迎来到法国」：我在法国街头的三场游行",
+              "lead": "编者按：10 月 17 日后，为快速恢复社会秩序，马克龙政府采取了罕见的严厉干预和多地宵禁；截止 10 月 28 日晚，部分市镇对无陪同未成年人的宵禁仍在持续。即便如此，10 月 24 日，人们仍再次走上街头。只是这次，少了打砸抢烧，它的可见度也大幅度减少。 如果平静难以收获回应，暴力是否就因此获得合法性？今年十月以来，作者多次在法国参与示威游行，置身于不熟悉的「游行文化」，她试图听见暴力之外，人们想要发出的声音。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261031-international-three-protests-in-france/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GettyImages-2300149948-copy.jpg"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "全国岸钓路亚锦标赛首场总决赛在宝应启幕 200名选手竞逐19.98万元奖金",
+              "lead": "中新网扬州10月30日电 (徐珊珊 杜强)10月30日，2026中国·宝应“江苏银行扬州分行杯”全国岸钓路亚锦标赛总决赛在宝应县泰山殿历史文化街区启幕。国家体育总局社会体育指导中心副主任张琛出席开幕式并宣布总决赛开幕。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/10-30/10723569.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "2026-2027赛季中国杯短道速滑精英联赛（第二站）在七台河开赛",
+              "lead": "中新网七台河10月30日电(崔雪妍 孙鹏飞)29日，“七台河冰超”·2026-2027赛季中国杯短道速滑精英联赛(第二站)在七台河体育中心拉开帷幕。来自上海、吉林、辽宁、山东、内蒙古、四川等26支代表队的217名运动员齐聚“奥运冠军之城”，在为期四天的赛程里同台竞技，逐梦冰场。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-30/10723525.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "把空气“冷冻”起来存电能，我国实现液态空气储能技术重大突破",
+          "lead": "中国绿发集团消息，全球最大规模60兆瓦液态空气储能国家示范项目成功并网发电，实现液态空气储能技术工程化、商业化落地的重大突破。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15275434.html"
+        },
+        {
+          "title": "孙悟空爱上林黛玉：中国AI短剧怎么成了“不当婚恋”",
+          "lead": "中国政府要求清理“扭曲”原著、颠覆角色设定的AI魔改视频。分析认为政府要求人们以尊崇的态度诠释经典作品，重新诠释历史",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/china/20261030/china-ai-videos-sun-wukong-lin-daiyu/?utm_source=RSS"
+        },
+        {
+          "title": "「我不希望它成为我的身份」：Hyrox失禁选手复出比赛前接受BBC专访",
+          "lead": "这位澳洲运动员承认责任，但表示舆论反弹令她「创伤」。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cmy932qe3wx3o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "上市 5999 元：小米 MIX Flip 2 小折叠手机国补后 2378 元新低",
+          "lead": "小米 MIX Flip 2 小折叠手机发布于 2025 年 6 月，搭载骁龙 8 至尊版处理器，12+256G 发售价为 5999 元。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/020/418.htm"
+        },
+        {
+          "title": "早报｜iPhone国行AI官宣！千问接入Siri/DeepSeek千亿融资曝光/于东来建议支持「消费入座」",
+          "lead": "iPhone 国行 AI 官宣，11 月 4 日开放测试 DeepSeek 千亿融资曝光，腾讯、宁德时代",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1686979?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "日本科学家研发无颜料涂层技术 飞机涂装重量有望减少99%",
+          "lead": "日本神户大学的研究人员开发出一种全新的无颜料涂层技术，通过硅纳米颗粒与光线之间的特殊相互作用产生鲜艳色彩，无需使用传统染料或颜料",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/science/1584486.htm"
+        },
+        {
+          "title": "Google 创上市至今最大跌幅，市值蒸发逾 5000 亿美元",
+          "lead": "Google 在公布三季度财报之后遭遇了它自 2004 年上市以来最大的单日跌幅，市值蒸发逾 5000 亿美元。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85752"
+        },
+        {
+          "title": "凌晨重磅！两大科技巨头正式官宣！Apple智能接入阿里千问",
+          "lead": "两大科技巨头官宣合作！ 10月31日， 苹果 公司（Apple）宣布和 阿里巴巴 达成合作，将千问集成至Apple智能功能",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1354,202610313917337771.html"
+        },
+        {
+          "title": "【不端著 Podcast EP03】割韭菜养干部？从「个人是养老第一责任人」看中国社保困局｜对话林宗弘",
+          "lead": "近期，中国社交媒体上，关于「社保」的争议持续发酵。 一边是人社部推动「数据找人」，希望将基本养老保险参保率稳定在 95% 以上；",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261030-initium-audio-china-social-security-pension-crisis/"
+        },
+        {
+          "title": "[iOS] Apple 智能将于 11 月 4 日上线",
+          "lead": "官网页面放出了，新闻稿说是 11 月 4 号上 beta 。首批机型列表里只有 iPhone ，没有 iPad 和 Mac 。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1253334#reply1"
+        },
+        {
+          "title": "聚力开源向实 赋能产业创新——2026 上海开源软件应用创新大赛总决赛暨创新增长大会圆满落幕",
+          "lead": "10月29日至30日，2026上海开源软件应用创新大赛总决赛暨创新增长大会在上海张江人工智能创新小镇举行。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/503320"
+        },
+        {
+          "title": "《善男信女》：为何做个善良的人很难？ (评论: 善男信女)",
+          "lead": "午牛 评论: 善男信女 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17880664/"
+        },
+        {
+          "title": "OpenAI据称将新一轮融资目标下调100亿美元，拟以1.25万亿美元估值融资200亿美元",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15277030.html"
+        },
+        {
+          "title": "大选未产生明确获胜者，谁能最终成为以色列总理？",
+          "lead": "初步结果显示，没有任何政党赢得议会绝对多数席位，这意味着政党间需要组成联盟。这可能意味着激烈的谈判，或者僵局，而再次选举的可能性也真实存在。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/world/20261030/israel-election-coalition-scenarios/?utm_source=RSS"
+        },
+        {
+          "title": "为什么欧洲各国年轻人走上街头？背后的共同诉求和暴力隐忧",
+          "lead": "过去一个月，欧洲各地爆发了由青年主导的示威游行。这些游行活动有何共同点？",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cv8ez8w9edzxo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "央行：继续实施适度宽松的货币政策 保持流动性充裕",
+          "lead": "10月30日，中国人民 银行 党委书记、行长潘功胜主持召开党委会议，传达学习习近平总书记在党的二十届五中全会上的重要讲话和全会精神",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1344,202610313917377062.html"
+        }
+      ],
+      "supplement": {
+        "title": "因为有你们，所以这是很好的一生：《80亿分之1》的你与我",
+        "lead": "最近震撼华语社交网络圈的一款独立游戏《 80亿分之1 》，没有超高清画质、酷炫特效与超强运算效能，是一款纯粹由文字、数据与抉择构成的网页游戏。 由韩国独立开发者Jin Hwi-eus制作的《80亿分之1》，介面相当简单，以点阵图贯穿所有美学设计，带来一种早期互联网时代的纯粹与粗糙。然而也正是这种极简的文字与数据，在手机萤幕上折射出震撼的「命运自选台」。",
+        "body": [
+          "最近震撼华语社交网络圈的一款独立游戏《 80亿分之1 》，没有超高清画质、酷炫特效与超强运算效能，是一款纯粹由文字、数据与抉择构成的网页游戏。",
+          "由韩国独立开发者Jin Hwi-eus制作的《80亿分之1》，介面相当简单，以点阵图贯穿所有美学设计，带来一种早期互联网时代的纯粹与粗糙。然而也正是这种极简的文字与数据，在手机萤幕上折射出震撼的「命运自选台」。",
+          "你在游戏开始只能决定出生的时代，如当下、过去、未来，而在哪一个国家出生，则视乎该年世界人口数据，随机安排。不过是一星期前的事，我在上班时发现 Threads上 有人谈论这部游戏，然后边上班边玩。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261031-gameon-1-in-8-billion/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/----------6-W.jpg"
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 22,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×4",
+          "IT之家×3",
+          "端傳媒×3",
+          "界面×2",
+          "紐約時報×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says",
+        "lead": "The transport minister said a judge would investigate controllers’ actions, including authorizing a train to proceed at high speed though another was stalled",
+        "body": [
+          "The transport minister said a judge would investigate controllers’ actions, including authorizing a train to proceed at high speed though another was stalled in front of it."
+        ],
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30Int-spain-crash-tfqv/30Int-spain-crash-tfqv-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+        "lead": "Ukraine correspondent Dan Johnson explains the temporary ceasefire in the devastated town of Oleshky.",
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc6f/live/ee8a8a40-d4b2-11f1-88a4-835788f4f80e.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "No Clear Winner in Israel Election, Final Results Show",
+              "lead": "Prime Minister Benjamin Netanyahu’s party and its allies won 53 seats in Parliament, falling short of the outright majority needed to form a government. The main opposition bloc, led by Gadi Eisenkot, won 48.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-israel-result-netanyahu-hflp/29int-israel-result-netanyahu-hflp-mediumSquareAt3X-v4.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Local devolution decisions rest solely with Scotland and Wales, first ministers tell Burnham",
+              "lead": "John Swinney and Rhun ap Iorwerth say devolving power further is up to Holyrood and Senedd – not Westminster Scotland and Wales’s first ministers have told Andy Burnham that decisions on local devolution rest solely",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/politics/2026/oct/30/local-devolution-decisions-scotland-wales-first-ministers-tell-burnham",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/1f5cdf71a56a7e2e93b0afac99dbd2568c8faf90/1108_426_3175_2540/master/3175.jpg?width=140&quality=85&auto=format&fit=max&s=91a348597e0939832636a34dba85a0f4",
+              "consensus": 5
+            },
+            {
+              "title": "New Everest film hopes to nudge US-China relations into a higher altitude",
+              "lead": "The film Everest: The Other Side, a collaborative US-China project that opened on Friday in 515 US cinemas and that will premiere at 700 IMAX theatres in China on November 6",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/us/society-culture/article/3372803/new-everest-film-hopes-nudge-us-china-relations-higher-altitude",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/ce2d1266-a7c6-4e5e-b271-9e60701fa6a3_7ebe06f8.jpg?itok=XA0h941k&v=1793404963",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Pensioners bet on a lifetime cruise. They ended up in a Cambodian scam town",
+              "lead": "Many passengers on the Odyssey hoped to spend the rest of their lives at sea but high oil prices got in the way",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/e64a4e33-c69b-4582-9e89-ac1b23ba1a3f?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4bf1f53f-e788-47c2-9803-e176f34420a7.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Binance's $6.3bn crypto hack biggest in history",
+              "lead": "Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what is thought to be the biggest crypto hack on record.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1fa/live/c7f7b2b0-d474-11f1-93e1-3b657b665bcf.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+              "lead": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Daiwa profit climbs on strong global markets trading income",
+              "lead": "Net income climbed 7.8% from a year earlier to ¥51.43 billion in the three months ended Sept. 30, the Tokyo-based company said Friday.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/business/2026/10/30/companies/daiwa-profit-climb/",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571426.jpg"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Google’s satellite AI server transmits its first response to Earth",
+              "lead": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs)",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+              "lead": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Indian AI infrastructure firm reportedly seeks to raise $3 billion of debt to buy Nvidia's next-generation chips",
+              "lead": "Within two years, AM Intelligence plans to set up 400 MW of compute capacity using Nvidia's Rubin graphics processing units.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/30/nvidia-india-ai-chips-computing.html",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Moloney-MacDonald scores four tries as England thump USA",
+              "lead": "Watch highlights as England bounce back from defeats to Canada with a 55-12 win over USA in the WXV Global Series.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-union/videos/c65yn0w2w152o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a84/live/066955b0-d4bd-11f1-93e1-3b657b665bcf.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Ukraine's 'deep outrage' after Russia's international ice hockey ban ended",
+              "lead": "The Court of Arbitration for Sport overturns the ban on Russia by ice hockey's global governing body.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cm87zqjrr9dno?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d5/live/5d34ee00-d453-11f1-8780-edcbf4859104.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Moondra's record 6-26 helps Ireland force decider against Namibia",
+              "lead": "Seamer Jai Moondra finishes with the best ever figures for an Ireland bowler in one-day international cricket as the tourists level their five-game series against Namibia with a comprehensive 130-run victory.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/cricket/articles/cq0732v1znz8o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3b6/live/408b4580-d474-11f1-9dda-1ba6fcc7d159.jpg"
+            },
+            {
+              "title": "Sherrock upsets Littler to claim £501,000 prize",
+              "lead": "Fallon Sherrock defeats reigning world champion Luke Littler in one leg of darts to win £501,000.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/darts/articles/crkg7p1z3p3lo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d1/live/6f7d0770-d4b5-11f1-a58c-6d26609b0a57.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Martin Scorsese Says His ‘Cleopatra’ Movie With Angelina Jolie Was ‘Ruined’ by Seth Rogen and the Sony Hack: ‘It Was Gonna Be Really Wild’",
+              "lead": "Martin Scorsese’s “Cleopatra” never came to fruition, and he says the Angelina Jolie-starrer was nixed because of Seth Rogen and the Sony hack.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/martin-scorsese-cleopatra-angelina-jolie-ruined-sony-hack-1236935596/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/split-image-1000_ede697.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Beijing Queer film festival cancelled after harassment from authorities",
+              "lead": "Forums for discussion of feminist and LGBTQ+ views face growing intolerance from Chinese state, say experts Beijing’s annual independent queer film festival has been cancelled after what is understood to have been a",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/oct/30/beijing-queer-film-festival-cancelled-after-police-harassment",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://i.guim.co.uk/img/media/14a4cd9301124343d52ca3d230e01866c02481a9/555_0_5549_4439/master/5549.jpg?width=140&quality=85&auto=format&fit=max&s=c679eae0981b76838a2b191d00a1d0ea"
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists confirm global warming is accelerating faster than ever recorded",
+              "lead": "Earth is warming faster than ever recorded, with scientists detecting a major acceleration in global temperatures since around 2015. A new study reveals that the warming rate has surged to approximately 0.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261027231200.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Hubble reveals a stunning twist in how the universe emerged from darkness",
+              "lead": "A surprising discovery by astronomers using the Hubble Space Telescope is challenging a leading explanation for how the early universe emerged from a dense fog of hydrogen roughly 13 billion years ago.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Why some “lower-risk” childhood cancers turn deadly",
+              "lead": "Scientists have uncovered hidden aggressive cancer cells in children whose tumors were previously considered lower risk, revealing why some cases of rhabdomyosarcoma become unexpectedly deadly.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261028232717.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+          "lead": "Óscar Puente has been facing calls to resign after two high-speed",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "A top-secret spy mission, a decades-old scandal – and the Austin Powers-esque saga to lift the lid",
+          "lead": "Rex Patrick’s latest transparency fight is over what he calls ‘most",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/australia-news/2026/oct/31/timor-leste-australia-bugging-rex-patrick-ntwnfb"
+        },
+        {
+          "title": "Russia observes rare Ukraine ceasefire to allow evacuations",
+          "lead": "Hundreds of residents from Russian-occupied Oleshky to be repatriated",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/a6e29400-95bb-453e-8cc6-55c54d857024"
+        },
+        {
+          "title": "Carney Commits Canada to Becoming European Union’s First ‘Associate Member’",
+          "lead": "The move is part of the Canadian prime minister’s effort to reduce",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html"
+        },
+        {
+          "title": "UK minister discusses tech collaboration in Greater Bay Area during Hong Kong visit",
+          "lead": "UK Indo-Pacific minister Rosie Winterton has visited Hong Kong’s",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/hong-kong/politics/article/3372788/uk-minister-discusses-tech-collaboration-greater-bay-area-during-hong-kong-visit"
+        },
+        {
+          "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+          "lead": "As an increasing number of AI assistants flood the market",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/"
+        },
+        {
+          "title": "Israel's election ends in deadlock as final results show no clear winner",
+          "lead": "Israel's wartime election appeared deadlocked on Tuesday",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/video/20261030-israel-s-election-ends-in-deadlock-as-final-results-show-no-clear-winner"
+        },
+        {
+          "title": "What to know about California’s midterm elections",
+          "lead": "Redistricting in California, the most populous US state",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/30/what-to-know-about-the-midterm-elections-in-california?traffic_source=rss"
+        },
+        {
+          "title": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
+          "lead": "Crypto exchanges make it easier to buy, sell and store digital assets",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html"
+        },
+        {
+          "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+          "lead": "Asked about supply chain shortages, like the ongoing RAM shortage",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
+        },
+        {
+          "title": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
+          "lead": "A significant number of patients in the US lie to their doctors to",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/"
+        },
+        {
+          "title": "Marvin R. Shanken, Longtime Publisher and Editor of Wine Spectator, Dies at 83",
+          "lead": "Marvin R. Shanken, the longtime editor and publisher of Wine",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/biz/lifestyle/marvin-r-shanken-dead-wine-spectator-1236935611/"
+        },
+        {
+          "title": "Scientists discover mysterious seahorse lookalikes that no one has ever seen alive",
+          "lead": "Scientists have discovered that three bizarre deep-sea fish that look",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261029072119.htm"
+        },
+        {
+          "title": "US greenlights $2.1bn sale of Patriot interceptors to Ukraine",
+          "lead": "Volodymyr Zelenskyy had accused Trump administration of delaying the",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+          "lead": "Intel is being hurt by PC sales as the AI industry gobbles memory and",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/"
+        },
+        {
+          "title": "$6.3 billion Binance hack is largest crypto theft on record",
+          "lead": "Binance says a security breach impacted about $6.3 billion in assets.",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html"
+        }
+      ],
+      "supplement": {
+        "title": "Magical Realist Tale ‘6TM’ and ‘Searching for SmarterChild,’ About One of the Earliest Chatbots, Win Top Industry Awards at Ji.hlava Festival",
+        "lead": "“6TM,” directed by Karim Akalay and produced by Walid Bekhti, won the New Visions Award for the most promising European project at the Ji.hlava Documentary Film Festival on Friday.",
+        "body": [
+          "“6TM,” directed by Karim Akalay and produced by Walid Bekhti, won the New Visions Award for the most promising European project at the Ji.hlava Documentary Film Festival on Friday.",
+          "The film is described as “a Belgian family comedy in three chapters, rooted in magic realism and the resilience of a community.” In the film, which […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/global/6tm-searching-for-smarterchild-industry-award-jihlava-1236935633/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/6-TM.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 16,
+        "categories": 7,
+        "topGroups": [
+          "BBC×6",
+          "ScienceDaily×4",
+          "TechCrunch×3",
+          "Variety×3",
+          "紐約時報×2",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-10-31T01:27:27.147Z",
+    "sources": {
+      "configured": 36,
+      "ok": 35,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "華爾街見聞",
+          "reason": "fetch failed"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 775,
+        "lang": 430,
+        "fresh": 344,
+        "denoised": 344,
+        "deduped": 327
+      },
+      "en": {
+        "fetched": 775,
+        "lang": 345,
+        "fresh": 332,
+        "denoised": 331,
+        "deduped": 323
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 22,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×4",
+          "IT之家×3",
+          "端傳媒×3",
+          "界面×2",
+          "紐約時報×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 16,
+        "categories": 7,
+        "topGroups": [
+          "BBC×6",
+          "ScienceDaily×4",
+          "TechCrunch×3",
+          "Variety×3",
+          "紐約時報×2",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

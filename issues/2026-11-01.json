@@ -1,0 +1,915 @@
+{
+  "issue": 48,
+  "date": "2026-11-01",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月廿三 · 霜降",
+    "en": "23rd day of the 9th lunar month · Frost's Descent"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "二十国集团外长会未就地缘和经济安全问题达成共识",
+        "lead": "为期两天的二十国集团(G20)外长会10月31日在美国南部佐治亚州首府亚特兰大结束。会议笼罩在乌克兰危机和美伊冲突的阴影下，未能就重要全球地缘和经济安全问题达成共识。",
+        "body": [
+          "为期两天的二十国集团(G20)外长会10月31日在美国南部佐治亚州首府亚特兰大结束。",
+          "会议笼罩在乌克兰危机和美伊冲突的阴影下，未能就重要全球地缘和经济安全问题达成共识。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-01/10724125.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "蒋万安、沈伯洋台北市长选举辩论会交锋",
+        "lead": "距离台湾「九合一」地方选举不足一个月，在台北，中国国民党籍现任市长蒋万安将与台湾执政民进党候选人沈伯洋出席首场电视辩论会。",
+        "source": "BBC中文",
+        "group": "BBC",
+        "link": "https://www.bbc.com/zhongwen/watch/cm3el2ewgvx0o/trad?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "categoryLabel": "国际",
+        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d942/live/48316f80-d52d-11f1-a701-fddedf244c16.jpg",
+        "consensus": 2
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "载人月球探测工程采用“两次发射、环月对接”方案",
+              "lead": "记者从10月31日开幕的第七届载人航天学术大会了解到，我国载人月球探测工程采用“两次发射、环月对接”方案，工程登月阶段任务各项研制建设工作正在扎实稳步推进。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gn/2026/11-01/10724130.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "「我与鬼魂同住」：走进吸引人们捡便宜的日本「闹鬼」住宅",
+              "lead": "日本许多人会开始因为购买打折的「事故物件」（凶宅），他们称毫不介意与幽灵同住。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6vg9k3n5vj4o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5c40/live/5436ab40-cc8d-11f1-bed8-c51b95c602ec.jpg"
+            },
+            {
+              "title": "中共五中全会「空椅子」背后：常态化高压反腐如何改变中国官场？",
+              "lead": "「这次全会进一步表明，习近平的反腐运动没有终点。」专家说，「持续施加纪律压力不应只是阶段性运动，而必须成为中共运作方式中永久存在的一部分。」",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c3j47p5gwj5lo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5dbe/live/ef6456d0-d462-11f1-ab12-eb0c94f5b382.jpg"
+            },
+            {
+              "title": "朝鲜「精英」黑客组织是谁？为何成为币安63亿美元盗窃案的头号嫌疑者？",
+              "lead": "如果有关指控属实，这宗破纪录的盗窃案显示，涉嫌来自朝鲜的黑客如今已拥有多么强大的能力。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cqe8rpl8wjd0o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "绿色航运加快发展（政策解读）",
+              "lead": "近日，交通运输部等3部门联合印发的《内河新能源船舶推广应用行动方案(2026—2030年)》(以下简称《方案》)提出，加快全场景应用、加强全链条支撑，到2028年，内河新能源船舶保有量较2025年翻倍；到2030年，初步实现新能源船舶规模化应用。重点推动内河电动、甲醇动力船舶应用。在长江干线、西江航运干线等逐步形成“两横一纵两网”零碳水路运输通道。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/10-31/10724070.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "著名英国文学研究专家、翻译家张中载逝世",
+              "lead": "10月31日晚，北京外国语大学英语学院发布讣告：中国共产党优秀党员，著名英国文学研究专家、翻译家，北京外国语大学英语学院教授、博士生导师张中载先生，因病医治无效，于2026年10月31日凌晨4时20分在北京逝世，享年93岁。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15278406.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "标普将Meta信用评级展望下调至负面，维持AA-，警告AI开支与自由现金流承压",
+              "lead": "标普全球评级周五将Meta Platforms的AA-信用评级展望由稳定下调至负面，评级本身维持AA-不变。 标普的理由是AI相关高额资本开支推升杠杆，自由经营现金流承压，且Meta将AI投资变现的能力弱于同业。 标普表示，目前尚不清楚这些开支何时才会带来超过成本上升的重大收入。负面展望反映的是资本开支将维持高位多久、自由经营现金流将持续为负多久的不确定性。 同日美股科技股走弱，纳指收跌约3.5%，一度触及技术性回调。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3784917",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "美国白宫科学与技术顾问会议主席：Anthropic 很可能成为资本主义历史最伟大企业",
+              "lead": "IT之家 11 月 1 日消息，美国白宫科学与技术顾问会议主席戴维 · 奥利弗 · 萨克斯（David Oliver Sacks）最近出席 All-In 播客，深入分析 Anthropic 的 S-1 注册文件， 称这家人工智能初创公司很可能成为资本主义历史上最伟大的企业 。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/020/633.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "科学家发现白矮星可能突破钱德拉塞卡极限 强磁场或让死星质量达到太阳的2.4倍",
+              "lead": "恒星耗尽核燃料后，并不一定会以壮观的超新星爆发结束生命。对于类似太阳的恒星而言，它们通常会抛掉外层物质，留下一个体积接近地球、质量却可能与太阳相当的致密核心，这就是白矮星。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/science/1584572.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活",
+              "lead": "当程序员还在群聊里讨论 Bug 怎么修时，AI 可能已经默默完成了问题复现，甚至把修复代码提交到了 GitHub。 就在刚刚，DeepSeek Harness 团队发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》，详细介绍了他们正在探索的 Super-agent 架构。",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1687026?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "道歉可以，赔偿免谈？英国首相回应奴隶贸易历史责任",
+              "lead": "中新网10月31日电 据英国《卫报》当地时间10月30日报道，英国首相伯纳姆在发表于《卫报》的一篇文章中，就英国为在跨大西洋奴隶贸易中的角色正式道歉一事。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-31/10724002.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "装扮成哈利波特，公开质疑泰国王室——他如今面临34年监禁",
+              "lead": "自2020年以来，泰国已有294人因涉嫌违反冒犯君主罪而被起诉，刑期最长达50年。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/ck3r52e814pqo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2371/live/1f84cb60-d4bd-11f1-a701-fddedf244c16.jpg"
+            },
+            {
+              "title": "算法“投毒”，篡改不了历史罪责",
+              "lead": "中新网北京10月31日电 一线明星参演的日本热播剧《Vivant》(《别班》)捏造了“中国人施暴、日本自卫队正义反击”的桥段，这样的荒唐“大戏”，日本首相高市早苗竟点名要看？",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/10-31/10723903.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "迷失于节食与暴食之间，我的失控十年",
+              "lead": "【编者按】谈起身体，我们往往感到不好意思。你喜欢自己的身体吗？你和它有什么故事？有哪些愉悦或艰难的经验？ 心为形役，形为心役，没有人的身体是完美。终其一生，我们都和不完美的身体共存与相处，甚至是对抗与和解。在「人身肉做」这个栏目，我们谈身体，也谈照顾、残障、医疗，还有更宏观的社会文化和制度。 食物是很多人的快乐来源，但其实不少人和食物的关系并不和平。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261101-in-the-flesh-eating-disorder/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/Untitled_Artwork-16.jpg"
+            },
+            {
+              "title": "京津冀考古合作迈入“平台共建” 着力构建学术共同体",
+              "lead": "中新网北京10月31日电 (记者 徐婧)第四届京津冀考古学术交流活动暨2026北京公众考古季闭幕式31日在北京延庆举办。活动发布多个最新考古发现，北京市考古研究院京北考古工作站正式启用。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/10-31/10724085.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "BLG 2:0 HLE：英雄联盟 S16 全球总决赛 8 强诞生，LPL 赛区三支队伍晋级",
+              "lead": "IT之家 11 月 1 日消息，在今日的英雄联盟 2026 全球总决赛瑞士轮第八日比赛中，来自中国大陆 LPL 赛区的二号种子 BLG 战队， 以 2:0 的比分战胜来自韩国 LCK 赛区的二号种子 HLE 战队 ，成功晋级八强。 至此，英雄联盟 S16 全球总决赛 8 强正式诞生， LPL 赛区共有三支队伍晋级 ，IT之家汇总如下： LCK 赛区：GenG，DK，T1 LPL 赛区：IG，TES，BLG LCS 赛区",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/020/644.htm",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "全国大学生乒乓球锦标赛第四站冰城挥拍 14所高校运动员齐聚冰城",
+              "lead": "中新网哈尔滨10月31日电 (记者 刘锡菊)31日，学体联2026年全国大学生乒乓球锦标赛(甲组)第四站比赛在哈尔滨市挥拍开赛，来自全国14所高校的218名大学生运动员齐聚冰城。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/10-31/10724092.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "港澳台侨学子探访“成都智造”：在科创岛感受AI与机器人前沿",
+              "lead": "中新网成都10月31日电 (单鹏)百余名在蓉港澳台侨大学生31日来到成都科创生态岛(以下简称科创岛)，探索人工智能与机器人技术前沿。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/10-31/10724062.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "广药集团旗下达安基因基孔肯雅病毒抗原检测产品获批上市",
+          "lead": "11月1日，据广药集团消息，旗下达安基因研发的“基孔肯雅病毒抗原检测试剂盒（胶体金法）”通过国家药监局的三类医疗器械注册审批，注册证编号",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15278392.html"
+        },
+        {
+          "title": "澳大利亚北部海域或成极危绿锯鳐最后避风港 科学家呼吁填补关键研究空白",
+          "lead": "一项最新研究显示，在全球范围内濒临灭绝的绿锯鳐可能正在澳大利亚北部海域找到最后的重要栖息地。",
+          "category": "science",
+          "categoryLabel": "科学",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/science/1584560.htm"
+        },
+        {
+          "title": "OpenAI：12 月起，ChatGPT 将与 Codex 共享额度",
+          "lead": "IT之家 11 月 1 日消息，OpenAI 发布公告，宣布从 12 月开始，随着将 Work 的智能体能力引入至 ChatGPT",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/020/645.htm"
+        },
+        {
+          "title": "Marvell收购Lumentum：“芯片 + 光学”的首次深度闭环，“既当裁判又当运动员”与光通信的“赢家通吃”",
+          "lead": "10月28日，彭博报道称，Marvell正与光学器件制造商Lumentum进行深入谈判，考虑通过全股票交易收购后者。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3784923"
+        },
+        {
+          "title": "环球下周看点：AI热潮遇考验 美国中期选举、非农与苹果财报接连来袭",
+          "lead": "在科技股近期遭遇集中抛售之后，美股将在下周迎来一系列重要考验。美国中期选举、10月非农就业报告，以及 苹果",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://forex.eastmoney.com/news/1131,202611013917659992.html"
+        },
+        {
+          "title": "思科给予一名 27 岁工程师无限 tokens 去重写陈旧代码",
+          "lead": "思科总裁兼首席产品官 Jeetu Patel 在接受《财富》杂志采访时称，该公司给予一名 27 岁工程师无限 tokens",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85764"
+        },
+        {
+          "title": "[OpenAI] OpenAI： ChatGPT 和 Codex 的使用限制将在 12 月调整",
+          "lead": "原文地址： https://help.openai.com/en/articles/20001625-understanding-chatg",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1253478#reply0"
+        },
+        {
+          "title": "西班牙高铁追撞至少69死，同路线九个月内两度发生重大事故｜Whatsnew",
+          "lead": "当地时间2026年10月28日上午约8时54分，在连接西班牙首都马德里（Madrid）与南部安达鲁西亚自治区（Andalusia）的高速铁路",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261031-whatsnew-spain-high-speed-train-collision/"
+        },
+        {
+          "title": "早报｜iPhone国行AI官宣！千问接入Siri/DeepSeek千亿融资曝光/于东来建议支持「消费入座」",
+          "lead": "iPhone 国行 AI 官宣，11 月 4 日开放测试 DeepSeek 千亿融资曝光，腾讯、宁德时代",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1686979?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "本月玩什么｜影之刃零、战争机器：事变日等",
+          "lead": "欢迎你在评论区分享 10 月新作的游玩体验。 查看全文",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "少數派",
+          "link": "https://sspai.com/post/117960"
+        },
+        {
+          "title": "死亡教育，生活处处是哀悼 (评论: 燃烧吧！爸爸)",
+          "lead": "IntoFuture 评论: 燃烧吧！爸爸 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17881199/"
+        },
+        {
+          "title": "联合国工作人员在被胡塞武装拘押期间死亡，古特雷斯呼吁彻查",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15278443.html"
+        },
+        {
+          "title": "奥特曼：PC上装内存太浪费，最好留给AI数据中心",
+          "lead": "「从全球资源配置的角度来看，让每个人把紧缺的 DRAM 囤在自己电脑里大部分时间闲置，是『相当糟糕』（quite terrible）的安排",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3784916"
+        },
+        {
+          "title": "「欢迎来到法国」：我在法国街头的三场游行",
+          "lead": "编者按：10 月 17 日后，为快速恢复社会秩序，马克龙政府采取了罕见的严厉干预和多地宵禁；",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261031-international-three-protests-in-france/"
+        },
+        {
+          "title": "两篇手册影评 (评论: 斗牛与美人)",
+          "lead": "假惺惺的戴 评论: 斗牛与美人 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17881192/"
+        },
+        {
+          "title": "《80亿分之1》的你与我：因为有你们，所以这是很好的一生",
+          "lead": "最近震撼华语社交网络圈的一款独立游戏《 80亿分之1 》，没有超高清画质、酷炫特效与超强运算效能，是一款纯粹由文字、数据与抉择构成的网页游戏。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261031-gameon-1-in-8-billion/"
+        }
+      ],
+      "supplement": {
+        "title": "台北市长辩论速评：面对强势进攻的蒋万安，沈伯洋战术失效了吗？",
+        "lead": "乍看之下，10月31日这场台北市长辩论的主角，当然就是蒋万安和沈伯洋两位候选人。但实际上，有一组隐藏的主角同时也是解读这场辩论会的重点：柯文哲，以及黄珊珊。 要解读这场辩论，不妨从这个基本原则出发：辩论跟球赛不一样，没有单纯的记分板，所以也不是得分多的赢、得分少的输。",
+        "body": [
+          "乍看之下，10月31日这场台北市长辩论的主角，当然就是蒋万安和沈伯洋两位候选人。但实际上，有一组隐藏的主角同时也是解读这场辩论会的重点：柯文哲，以及黄珊珊。要解读这场辩论，不妨从这个基本原则出发：辩论跟球赛不一样，没有单纯的记分板，所以也不是得分多的赢、得分少的输。相反地，包含辩论在内，任何选战活动都是关于候选人想要「分别向哪一群选民呈现出什么」，每个候选人阵营必须设定自己的战略目标，以及他们达成目标的战术，向「不同群选民」分别寻求加分、避免扣分。",
+          "而从当前民调上来看，柯文哲─黄珊珊的「前支持者」才是争取的重点──这群选民现在高比率支持沈伯洋，所以沈伯洋的战略目标应聚焦在催动这群选民，提高他们的投票动机。所以，沈伯洋必须拉开两人的对比，务必说服他们坚持到投票日都要出门投票。相反地，蒋万安的优势是国民党在台北市的基本盘，对她而言，能拉拢这群「前黄珊珊选民」当然最好，但就算无法直接说服他们蒋万安优于沈伯洋，只要把重点放在压低他们投票的意愿，诉诸「别让这群选民认为高下立判，所以非出来支持沈伯洋不可」，就已经算是任务达成，至于选民是认为差不多好还是差不多烂，则非重点所在。换个更精简的说法：面对这一群「前黄珊珊」选民，沈伯洋更须拉开对比，说「我真的好很多」，但蒋万安可以只诉诸「他没那么好」。",
+          "不论出于有意或无意，双方候选人在辩论会上的表现都大抵符合这样的战略目标设定。于是，我们可以看到沈伯洋在提问设定上做到了「字字不提，句句不离」，虽然并未提及柯文哲或黄珊珊，但倒是特别针对「黄珊珊式独立选民」关心的概念提问，希望对比蒋万安距离某种「十年前柯文哲曾经代表的新政治理念」相当遥远。相对地，蒋万安则借助自己的现任形象优势，不断指控沈伯洋对市政不够熟悉，也颇有把沈伯洋「拉回凡间」的意味──于此同时，由于蓝营支持者内部对蒋万安也开始出现信心危机，这些可以单独剪辑出来的「打脸沈伯洋」同样也有提振自家人士气的附带效果存在。2026年10月31日，台北，2026台北市长选举电视辩论直播，现任台北市长蒋万安与民进党台北市长参选人沈伯洋在电视台内辩论。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261031-taiwan-taipei-mayoral-debate/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/IMGL5433-copy-5.jpg",
+        "consensus": 2
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 22,
+        "categories": 8,
+        "topGroups": [
+          "中新社×8",
+          "BBC×5",
+          "端傳媒×5",
+          "華爾街見聞×3",
+          "IT之家×3",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+        "lead": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+        "body": [
+          "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls."
+        ],
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e057/live/87e1b610-d44e-11f1-8780-edcbf4859104.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
+        "lead": "With Prime Minister Benjamin Netanyahu fighting to stay in power and President Trump facing a tough midterm, Iran’s leaders expect no major shift in policy.",
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-iran-assess-1-vjkm/31int-iran-assess-1-vjkm-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal",
+              "lead": "Inner west Sydney seat has long been safely held by the PM – but potential changes to copyright laws are angering its large creative community Get our daily political email",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/807757f27fc7edd5bb144e03b8fbb5e5681bfa56/196_36_2835_2268/master/2835.jpg?width=140&quality=85&auto=format&fit=max&s=f774176952b35a2f6f87a9e3e6fa6a60",
+              "consensus": 5
+            },
+            {
+              "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
+              "lead": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-nkorea-hacking-wtk-lpjv/31int-nkorea-hacking-wtk-lpjv-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Palestine Action supporters arrested outside US embassy in London",
+              "lead": "Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government's ban on Palestine Action.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Tusk vows to press on with overhaul of Poland’s judiciary",
+              "lead": "Prime minister defends suspension of constitutional court’s president as opposition accuses him of staging an institutional coup",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/d49a7943-fc11-45cb-bcf2-f5876c3c381d?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff01bab3e-5314-40e7-9e04-8e214738691b.png?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "The fight to save Canadian town threatened by Trump's tariffs",
+              "lead": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
+              "source": "BBC News",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7be/live/dab6afd0-d223-11f1-93e1-3b657b665bcf.jpg",
+              "consensus": 3
+            },
+            {
+              "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+              "lead": "President Donald Trump denied writing a birthday letter to sex offender Jeffrey Epstein, which was the subject of a 2025 Wall Street Journal article.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "The right to be apolitical",
+              "lead": "The film ‘Fatherland’ is too harsh on the uncommitted",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/74c46706-a4d9-4c8b-a2e7-7ff6ad811ec0?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9bca4a2e-bf59-4962-ba0b-105f8b898404.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+              "lead": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+              "lead": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Chinese archaeologists set for hi-tech excavations with AI and deep-sea robots",
+              "lead": "Chinese archaeologists are set for a hi-tech turn, with the latest five-year blueprint aiming to deploy AI and deep-sea robots to trace Chinese history",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/china/science/article/3372841/chinese-archaeologists-set-hi-tech-excavations-ai-and-deep-sea-robots",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/31/3e66acc2-a203-4d8d-9311-15a1677c158d_7b1b7243.jpg?itok=-laIrGAY&v=1793445914",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Are Manchester United really at risk of a relegation scrap?",
+              "lead": "Manchester United's current tally of nine points from seven games would not even get them 30 points if it was continued for the full season.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "🔴Senegal kicks off Africa's first ever Olympics with Youth Games",
+              "lead": "",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/africa/20261031-senegal-hosts-africa-s-first-ever-youth-olympic-games",
+              "category": "sport",
+              "categoryLabel": "Sport"
+            },
+            {
+              "title": "AC Milan score three first-half goals to seal derby victory over Inter",
+              "lead": "Christian Pulisic, Adrien Rabiot and Diego Moreira score in the first-half to help AC Milan to a 3-1 victory over city rivals Inter Milan in the first Milan derby of the season in Serie A.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/cmqln15wdyxgo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a139/live/5b584f00-d575-11f1-b441-2b33b063138f.jpg",
+              "consensus": 2
+            },
+            {
+              "title": "Thiago on target as Brentford beat Forest",
+              "lead": "Igor Thiago's second-half goal helps Brentford to their first win in five as they beat Nottingham Forest 2-0 at the Gtech Community Stadium.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/ck1l3z063n8vo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0170/live/c24a4850-d564-11f1-b441-2b33b063138f.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "‘Green Room’ Director Remembers Patrick Stewart as a ‘F—ing Sweetheart’ and Credits Him for Rescuing the Film: He ‘Swooped Down’ ‘Into Our Cruddy Ass Movie and Saved Us’",
+              "lead": "“Green Room” writer and director Jeremy Saulnier paid tribute to late actor Patrick Stewart, who starred in the film and whom he credits with saving the day when they were “close to shutting down",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/green-room-director-patrick-stewart-1236936405/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/MCDGRRO_EC004_5d4753.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Pandemic-Era Longing to Gather Fed Qiu Jiongjiong’s Tokyo Competition Title ‘Fuxi: Four Tales of Feasting’",
+              "lead": "Chinese painter and filmmaker Qiu Jiongjiong began shaping his new film during the pandemic. With the world suddenly forced to pause, he tells Variety",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/festivals/pandemic-longing-gather-tokyo-competition-title-fuxi-1236936421/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/Fuxi-crew.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists discover metals that defy the deep freeze at -424°F",
+              "lead": "Scientists have discovered a surprising mechanism that allows certain metals to resist cracking at temperatures as low as -253°C (-424°F), when similar materials typically become dangerously brittle.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261029072127.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists discover a bacterial defense so strange they thought it was broken",
+              "lead": "Scientists have discovered a bizarre bacterial defense system that works almost completely backward from anything seen before. Unlike typical bacterial immune systems that keep a deadly toxin under control until a virus",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261029072123.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
+              "lead": "Scientists have recreated a primordial state of matter from the dawn of the universe by colliding oxygen nuclei at nearly the speed of light.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Almost 140 arrested at protest against Palestine Action ban outside US embassy in London",
+          "lead": "Met alleges demonstrators ‘meeting to purposefully commit a crime’ in",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london"
+        },
+        {
+          "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+          "lead": "The Federal Bureau of Investigation (FBI) says North Korea was",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Clashes Erupt Again in France, After Festive Start to Day of Protest",
+          "lead": "More than 300,000 people took to the streets",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html"
+        },
+        {
+          "title": "Steve Bannon: Republicans will erupt in ‘civil war’ after midterm elections",
+          "lead": "Former White House chief strategist predicts ‘monster’ legislative",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/a97de5ca-484e-4ed9-84e0-958b90b85ef8?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
+          "lead": "The two individuals have been isolated while officials carry out",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss"
+        },
+        {
+          "title": "Frank Miller on Why He’s Relieved There Are Fewer Comic Book Adaptations Now: They Were ‘Really in Danger of Losing Their Souls’",
+          "lead": "Comic book writer and screenwriter Frank Miller",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/global/frank-miller-comic-book-movies-lucca-1236936369/"
+        },
+        {
+          "title": "Southeast Asia’s EV boom sidelines local car parts suppliers",
+          "lead": "Southeast Asia’s electric vehicle boom risks leaving the region’s",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/week-asia/economics/article/3372760/southeast-asias-ev-boom-sidelines-local-car-parts-suppliers"
+        },
+        {
+          "title": "U.S. to reportedly deport 150 Afghan immigrants back to Afghanistan",
+          "lead": "Trump last year issued travel bans for a number of countries",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/01/world/us-deport-afghan-immigrants/"
+        },
+        {
+          "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
+          "lead": "Youth-led protests took place elsewhere in Europe, including Germany",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/10/31/a-third-weekend-of-protests-as-youth-led-rallies-sweep-europe.html"
+        },
+        {
+          "title": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
+          "lead": "A remarkable 4,000-year-old defensive structure discovered in Morocco",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm"
+        },
+        {
+          "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+          "lead": "The money behind the money is thrilled, mostly.",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/"
+        },
+        {
+          "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+          "lead": "The Hubble Space Telescope still shines in the eyes of astronomers",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/"
+        },
+        {
+          "title": "I built an AI Tamagotchi before Meta could",
+          "lead": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"
+        },
+        {
+          "title": "Thousands demonstrate in Paris as protests spread across Europe",
+          "lead": "More than 320,000 people demonstrated across France against the",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Evacuees from Russian-occupied city arrive in Ukraine",
+          "lead": "Complex humanitarian mission extracted hundreds of people from",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/55dfa145-4078-450f-a853-5f2d551260f1"
+        },
+        {
+          "title": "Phoebe Bridgers Makes L.A.’s Intuit Dome Into an Intimate Space Full of Love, Grief, Light Shows, ‘Peter Pan’ Cosplay and a Great Billie Eilish Duet: Concert Review",
+          "lead": "So, in talking about the marvel that was Phoebe Bridgers’ opening",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/music/concert-reviews/phoebe-bridgers-concert-review-billie-eilish-intuit-dome-1236936235/"
+        }
+      ],
+      "supplement": {
+        "title": "Judge Dismisses Trump’s Wall Street Journal Defamation Lawsuit Over Published Epstein ‘Birthday Book’ for a Second Time",
+        "lead": "A federal judge has once again dismissed President Donald Trump’s defamation claims against the Wall Street Journal over a 2025 report by the paper that a 2003 birthday letter to convicted sex offender Jeffrey Epstein",
+        "body": [
+          "A federal judge has once again dismissed President Donald Trump’s defamation claims against the Wall Street Journal over a 2025 report by the paper that a 2003 birthday letter to convicted sex offender Jeffrey Epstein was purportedly written by Trump.",
+          "Trump’s lawsuit “falls short of pleading actual malice,” wrote U.S.",
+          "District Judge Darrin P. Gayles […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/biz/news/judge-dismisses-trump-wsj-defamation-lawsuit-epstein-1236936423/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-2280583841.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 13,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×5",
+          "ScienceDaily×4",
+          "紐約時報×2",
+          "Al Jazeera×2",
+          "FT×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-01T00:49:18.625Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 798,
+        "lang": 455,
+        "fresh": 326,
+        "denoised": 324,
+        "deduped": 305
+      },
+      "en": {
+        "fetched": 798,
+        "lang": 343,
+        "fresh": 300,
+        "denoised": 298,
+        "deduped": 292
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 37,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 22,
+        "categories": 8,
+        "topGroups": [
+          "中新社×8",
+          "BBC×5",
+          "端傳媒×5",
+          "華爾街見聞×3",
+          "IT之家×3",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 13,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×5",
+          "ScienceDaily×4",
+          "紐約時報×2",
+          "Al Jazeera×2",
+          "FT×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

@@ -1,0 +1,896 @@
+{
+  "issue": 49,
+  "date": "2026-11-02",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月廿四 · 霜降",
+    "en": "24th day of the 9th lunar month · Frost's Descent"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "教育部教师工作司原副司长韩劲红接受审查调查",
+        "lead": "中新网11月2日电 据中央纪委国家监委驻教育部纪检监察组、浙江省纪委监委消息：教育部教师工作司原副司长韩劲红涉嫌严重违纪违法，主动投案，目前正接受中央纪委国家监委驻教育部纪检监察组纪律审查和浙江省衢州市监委监察调查。",
+        "body": [
+          "中新网11月2日电 据中央纪委国家监委驻教育部纪检监察组、浙江省纪委监委消息：教育部教师工作司原副司长韩劲红涉嫌严重违纪违法，主动投案，目前正接受中央纪委国家监委驻教育部纪检监察组纪律审查和浙江省衢州市监委监察调查。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-02/10724554.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "“激光灭蚊防空系统”：中国企业推出人工智能灭蚊设备",
+        "lead": "一家中国公司推出AI激光灭蚊设备，利用自动驾驶汽车所采用的技术锁定目标，同时依靠人工智能判断何时可以安全发射激光。设备售价1000美元，预计几周内量产。 Qilai Shen for The New York Times",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/china/20261102/mosquito-laser-ai/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "出口民调：保加利亚现总统约托娃在总统选举第二轮投票中领先",
+              "lead": "中新网11月2日电 据路透社1日报道，出口民调显示，保加利亚现任总统约托娃在当天举行的总统选举第二轮投票中领先。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-02/10724536.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "人工智能泡沫将爆破？这群「新云端」公司正加剧市场担忧",
+              "lead": "这些数据中心正滚存著数百亿英镑的债务。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c5djvk2dm33xo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/16f5/live/d2c08770-d493-11f1-93e1-3b657b665bcf.jpg"
+            },
+            {
+              "title": "「我们从地狱回来」——在俄罗斯占领城市撤离的乌克兰人说",
+              "lead": "由美国第一夫人梅拉尼娅·特朗普（Melania Trump）斡旋达成的人道停火在赫尔松（Kherson）地区生效，令当地四年来首次出现数天和平时段，并让奥列什基（Oleshky）居民得以撤离。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cwn8dkzrm8lvo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/053a/live/d1a9e840-d54c-11f1-bcb7-8f812b44c2e5.jpg"
+            },
+            {
+              "title": "德国生活成本抗议演变成暴力事件 商店遭洗劫",
+              "lead": "德国多座城市，包括柏林、汉堡和法兰克福，都爆发了抗议活动。同一天，法国也有数十万人走上街头示威。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c8vgxe1nq7w7o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg"
+            },
+            {
+              "title": "「我与鬼魂同住」：走进吸引人们捡便宜的日本「闹鬼」住宅",
+              "lead": "日本许多人会开始因为购买打折的「事故物件」（凶宅），他们称毫不介意与幽灵同住。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6vg9k3n5vj4o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5c40/live/5436ab40-cc8d-11f1-bed8-c51b95c602ec.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "超八成A股上市银行前三季度净利正增长",
+              "lead": "A股上市银行2026年三季报收官，行业盈利底盘持续稳固。11月1日，北京商报记者统计发现，前三季度，42家A股上市银行合计实现归母净利润17467.9亿元，同比增长3.78%，超八成银行实现同比正增长。从梯队表现来看，国有大行稳坐利润“压舱石”，股份行增长两极分化，部分城农商行盈利实现高增，少数机构则表现承压。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-02/10724548.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "【11.2盘前哨】央行今日双会稳市，本周迎美中选、非农与苹果财报三重考验",
+              "lead": "上周五A股放量调整，科技重挫，消费（白酒涨停潮）与银行逆势领涨。今日央行、证监会召集证券基金公司会议研究推动资本市场工具使用，金融监管总局会同两部门召集银行优化回购增持再贷款。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15279753.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "11月2日投资日历 | 央行及证监会今日9时召开会议 研究推动支持资本市场工具使用",
+              "lead": "（1）11月2日有1万亿隔夜逆回购、560亿元7天期逆回购到期。 （2）第十四届全国人民代表大会常务委员会第二十五次会议将于11月2日至6日在北京举行。 （3）中国人民 银行 11月2日起，每个工作日开展隔夜逆回购操作招标，采用固定利率、数量招标，目前操作利率为1.25%。 （4）应国务院总理李强邀请，奥地利总理施托克尔将于11月2日至7日对中国进行正式访问。",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://finance.eastmoney.com/news/11848,202611023917851965.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "OpenAI考虑将数据中心重新包装为“AI算力园区”",
+              "lead": "随着人工智能产业进入大规模基础设施建设阶段，数据中心正在成为科技行业最具争议的话题之一。巨大的电力需求、冷却系统消耗的水资源、土地占用以及对当地电网的压力，使得越来越多社区居民开始反对在附近建设大型数据中心。面对这种局面，OpenAI正在考虑改变对数据中心的宣传方式，甚至可能将其重新命名为“AI算力园区”（AI Compute Campuses）。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1584632.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "古尔曼：苹果计划明年淘汰非触屏版 MacBook Pro，仅保留 14 英寸基础款机型",
+              "lead": "IT之家 11 月 2 日消息，苹果上周推出首款触屏 MacBook Pro，采用 M5 Pro/M5 Max 芯片。不过如今，苹果仍在销售今年 3 月推出的 M5 Pro/M5 Max 版 MacBook Pro。根据知情人士的消息，这种产品定位互相冲突情况不会持续太久。 彭博社记者马克 · 古尔曼透露，苹果计划在 2027 年推出第二代触屏 MacBook Pro 时，将现有笔电阵容的非触屏高端 MacBook Pro 逐步淘汰。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/020/853.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "Google AI Mode 未给网站带来流量",
+              "lead": "Reddit 的最新财报证实了众多网站的抱怨：Google AI Mode 未给网站带来流量。AI Mode 通过生成总结的方式响应用户的查询，而不是传统搜索的提供网站链接以及简要摘要。硅谷对 AI 的全面拥抱牺牲了构成互联网的无数网站。Reddit 联合创始人兼 CEO Steve Huffman 表示：“用户依然需要 Reddit，只是 Google 不再像过去那样将他们引导到 Reddit。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85767",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "美国佛州一飞机坠毁并爆炸 机上9人全部遇难",
+              "lead": "中新网11月2日电 据美媒报道，当地时间1日，一架载有9人的公务机在美国佛罗里达州棕榈滩县一处居民区坠毁，机上人员全部遇难。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-02/10724528.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "不得要求房客清洁——Airbnb的新守则如何引发分歧",
+              "lead": "根据11月生效的规定，爱彼迎（Airbnb）房东不得再要求房客清洗餐具或倒垃圾。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cw62y1qjqz7po/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/52bf/live/c3b77ec0-d3b5-11f1-a340-478c8f3b9e55.jpg"
+            },
+            {
+              "title": "俄总统助理：普京从未拒绝与泽连斯基对话，泽连斯基可以来莫斯科",
+              "lead": "中新网11月1日电 综合塔斯社、俄罗斯卫星通讯社11月1日报道，俄罗斯总统助理乌沙科夫在接受采访时表示，俄罗斯总统普京从未拒绝与乌克兰总统泽连斯基对话。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-01/10724474.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "「见鬼了」：为什么我们会产生超自然体验？",
+              "lead": "人类讲述鬼故事已有数千年历史，科学的进步并未改变这一点。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cm3vqy5g204vo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2e00/live/53688970-d5db-11f1-93e1-3b657b665bcf.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "特朗普力挺，共和党人踩煞车：反数据中心浪潮如何搅动中期选举？",
+              "lead": "10月6日，艾米・克雷默（Amy Kremer）把一辆印着巨大美国国旗和「AI 数据中心起义」标语的巴士停在旧金山 Anthropic 公司总部门口，结束了一场35站的「反数据中心」 全美巡游 。克雷默曾组织2021年1月6日国会山骚乱，是特朗普的忠诚拥趸。但这次，她要告诉保守派和共和党人，站出来反对数据中心「是完全可以的」。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261102-international-republicans-turn-against-ai-data-centers-ahead-of-midterms/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/RC2JMMARSUV2.jpg"
+            },
+            {
+              "title": "金荣花、杨扬被聘为“妈祖文化全球推广大使”",
+              "lead": "中新网莆田11月1日电 (叶秋云)11月1日，第十一届世界妈祖文化论坛开幕式在莆田湄洲岛举行。开幕式上同期举行妈祖文化全球推广大使聘任仪式，中国气象局国家气象中心党委书记、主任金荣花和中国首位冬奥会金牌获得者、联合国难民署亲善大使杨扬被聘为“妈祖文化全球推广大使”。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-01/10724490.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "国际摩联世界摩托车锦标赛（MotoGP）马来西亚大奖赛正赛：马克·马奎斯夺冠",
+              "lead": "",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "http://www.chinanews.com.cn/tp/hd2011/2026/11-02/1209440.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "孙颖莎战胜王艺迪晋级决赛 将与蒯曼争夺冠军",
+              "lead": "北京时间11月1日，2026年WTT蒙彼利埃冠军赛继续进行。在女单半决赛中，国乒选手孙颖莎战胜队友王艺迪 ，晋级决赛。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-01/10724494.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "中信证券：看好中期选举之后美股科技反弹的可能，建议半导体硬件为首要方向",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15279711.html"
+        },
+        {
+          "title": "欧洲与加拿大建立AI算力合作联盟 共享14台超级计算机、10台量子计算机和19座AI工厂",
+          "lead": "在欧美关系出现新的不确定性之际，欧洲与加拿大正在进一步加强人工智能和高性能计算领域的合作。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1584604.htm"
+        },
+        {
+          "title": "韩国 2026 年 10 月半导体出口再超 500 亿美元，持续贡献近半出口总额",
+          "lead": "IT之家 11 月 2 日消息，根据韩国产业通商资源部当地时间昨日提供的数据， 该国 2026 年 10 月半导体出口达 564.4",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/020/867.htm"
+        },
+        {
+          "title": "70GW“电力缺口”！美国电网、民众和AI巨头，总得有一方“让步”，天量资本开支“无法落地”",
+          "lead": "人工智能的爆发式增长正与美国电网的物理极限发生激烈碰撞，由此产生的巨大电力缺口，正对全球科技巨头的基础设施扩张计划构成实质性威胁。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3784959"
+        },
+        {
+          "title": "灾后访记：何以为「家」，故土破碎后，尼泊尔塔芒族人走与留的困局",
+          "lead": "10 月初，尼泊尔中部城镇比德尔的一座寺院，空气中弥漫着燃烧的杜松（尼泊尔语称 sang）香的气味，风不断吹动寺外飘扬的经幡。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261102-international-tamang-leave-or-stay-after-flood/"
+        },
+        {
+          "title": "三重考验即将来袭：美股本周直面中期选举、非农和财报冲击 能否绝处逢生？",
+          "lead": "在美股刚刚因Alphabet、 亚马逊 和 英特尔 财报冲击而经历动荡一周后，本周，美股预计将经历更加更大的冲击：美股更多科技公司将公布财报",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://stock.eastmoney.com/news/11228,202611023917873950.html"
+        },
+        {
+          "title": "NASA 征询拯救哈勃望远镜的方案",
+          "lead": "哈勃望远镜在轨运行 36 年之后仍然极具价值，但它的轨道高度已经大幅下降，如果不采取行动它将于 2030 年代中期前重返大气层。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85765"
+        },
+        {
+          "title": "早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力",
+          "lead": "曝苹果明年上半年将更新三款 iPad，Air 拟换 OLED 屏 我国首次载人登月乘组计划由 3 人组成",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1687043?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "novel-plus v6.3.2 发布，原创文学 CMS 系统",
+          "lead": "novel-plus v6.3.2 发布了，v6.3.0 – v6.3.2 主要改变如下： 创作数据看板 + AI 解读",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/503333"
+        },
+        {
+          "title": "电影手册第836期导演专访与评论 (评论: Pierre ou, Les ambiguïtés Season 1)",
+          "lead": "树上躺着默而索 评论: Pierre ou, Les ambiguïtés Season 1 评价:",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17883305/"
+        },
+        {
+          "title": "两市融资余额减少413.4亿元",
+          "lead": "截至10月30日，上交所融资余额报11989.02亿元，较前一交易日减少192.87亿元；",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15279759.html"
+        },
+        {
+          "title": "见闻历11.11限时大促！双开礼盒+千元知识礼包，双十一拿货价超香！",
+          "lead": "本文来自华尔街见闻，欢迎下载APP查看更多",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782813"
+        },
+        {
+          "title": "台北市长选举辩论后民调现反转：蒋万安、沈伯洋首度攻防整理｜Whatsnew",
+          "lead": "距离2026台湾地方九合一选举仅剩不到一个月，众所瞩目的台北市长选举辩论会在10月31日中午举行，争取连任的台北市长蒋万安",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261102-whatnew-2026-taipei-mayoral-debate-wan-an-chiang-puma-shen/"
+        },
+        {
+          "title": "刘铮亮，谢谢你；肖战，谢谢你 (评论: 小城良方)",
+          "lead": "玟瑄moo🥕 评论: 小城良方 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17883609/"
+        },
+        {
+          "title": "从网路迷因到全网禁言，姆巴佩如何伤害了中国人民的感情？｜Whatsnew",
+          "lead": "一段候场时的非正式访问，让法国足球明星姆巴佩（Kylian Mbappé）在不到两天内遭到中国官方和市场 集体切割 。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261101-whatsnew-mbappe-apologize-to-china-for-his-mao-zedong-dictator-comment/"
+        }
+      ],
+      "supplement": {
+        "title": "共和党选情告急，但特朗普真的在乎吗？",
+        "lead": "美国中期选举已进入最后冲刺阶段。目前民调和分析人士的共识显示，民主党占据较大优势，基本确定能夺回众议院（《经济学人》的模型预测，民主党拿下众议院的概率为95%），而参议院在民主党已有3席劣势的情况下仍出现白热化的争夺，两党取得参议院多数的概率相近。不出意外的话，今年中期选举很可能迎来像2018年乃至2006年一样的「蓝潮」，共和党手握竞选资金和选区重划两大优势也无济于事。",
+        "body": [
+          "美国中期选举已进入最后冲刺阶段。目前民调和分析人士的共识显示，民主党占据较大优势，基本确定能夺回众议院（《经济学人》的模型预测，民主党拿下众议院的概率为95%），而参议院在民主党已有3席劣势的情况下仍出现白热化的争夺，两党取得参议院多数的概率相近。",
+          "不出意外的话，今年中期选举很可能迎来像2018年乃至2006年一样的「蓝潮」，共和党手握竞选资金和选区重划两大优势也无济于事。而面对这样的严峻形势，共和党却因自己的领袖特朗普而陷入了两难，导致无法推出一个统一的、自洽的竞选策略。",
+          "共和党迫切地需要特朗普的帮助和配合以在中期选举中保有一战之力，但特朗普的心思却并不在此。从施政到选战，今年的特朗普给共和党添了诸多大麻烦，对国会共和党人的呼声亦充耳不闻。与以往的所有总统不同，特朗普似乎并不真的在乎中期选举的胜负，而更加专注于自己对共和党的控制，以及自己的历史地位和遗产。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261102-international-does-trump-care-about-losing-midterms/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/AP26301001098888.jpg"
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 15,
+        "groups": 14,
+        "maxGroupShare": 22,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×6",
+          "端傳媒×5",
+          "東方財富×2",
+          "cnBeta×2",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Trump makes final pitch to restive voters in midterms campaign",
+        "lead": "Republican Party is defending its control of Congress against signs of a backlash to the president",
+        "body": [
+          "Republican Party is defending its control of Congress against signs of a backlash to the president"
+        ],
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6df1c516-c5fc-48f3-a902-8bb587571394.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+        "lead": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "AI is stealing Indigenous Australian art and churning out ‘Temu slop’, artist says",
+              "lead": "Chair of National Gallery’s First Nations advisory group says the technology is undermining artists’ agency and the authenticity of their work Get our breaking news email",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/artanddesign/2026/nov/02/ai-stealing-indigenous-australian-art-temu-slop-artist-says-ntwnfb",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/d42e0956def730a6b1eb335fab858536fb224a9c/224_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=3b398433f56c1d072a5fbe34ddd5e80a",
+              "consensus": 5
+            },
+            {
+              "title": "India’s Congress Party Holds Mass Protest in New Delhi",
+              "lead": "Tens of thousands gathered in India’s capital in a clamor of banging drums, chants and billowing flags, with participants from across the country.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-india-protest-vtgk/01int-india-protest-vtgk-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+              "lead": "Election body says deadlocked result won't be undermined even if foreign interference claims are found to be true.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Binance users withdraw $3.6bn after record crypto hack",
+              "lead": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Nine killed as business jet crashes in Florida",
+              "lead": "Aviation authorities to investigate after Learjet plunges into street eight miles from Donald Trump’s Mar-a-Lago resort",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/2bd1e339-98b2-43a9-a0e6-812736abedf8?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbfcc7e5d-fff1-428d-90a8-f5dca45e4e64.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Exit polls suggest that Yotova wins runoff to become Bulgaria’s first elected female president",
+              "lead": "Several polling surveys give Yotova about 52% of the vote. If official results confirm it, she would become Bulgaria's first elected female head of state.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/01/exit-polls-suggest-yotova-to-become-bulgarias-first-female-president.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Energy bills help 'doesn't go far enough'",
+              "lead": "Families in the West Midlands say they are worried about paying winter energy bills.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26db/live/70c13820-d471-11f1-9dda-1ba6fcc7d159.jpg"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+              "lead": "Data centers are deeply unpopular. But what if we called them something else?",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "North Korea linked to massive Binance crypto heist",
+              "lead": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+              "lead": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Antonelli becomes world champion as Verstappen wins in Mexico",
+              "lead": "Kimi Antonelli becomes the youngest world champion in Formula 1 history as Max Verstappen wins the Mexico City Grand Prix.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1694/live/d0cd8590-d64a-11f1-b441-2b33b063138f.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Lower-ranked players struggle with mental and physical strain near end of long season",
+              "lead": "Former player and sports psychologist Jeff Greenwald said a long season could leave players tired, mentally stale, negative or emotionally reactive.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/sports/2026/11/01/tennis/lower-ranked-players-mental-health/",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571583.JPG",
+              "consensus": 5
+            },
+            {
+              "title": "Five Takeaways From Lucca Comics and Games, Europe’s Largest Comic-Con: ‘Harry Potter’ and ‘Percy Jackson’ Fandoms Are Alive and Well, As Are Cosplayers",
+              "lead": "Over the last few days, Lucca Comics and Games, Europe’s largest Comic-Con, has been celebrating its 60th anniversary. The medieval city located in Italy’s Tuscany region hosted creative leaders",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/global/five-takeaways-lucca-comic-and-games-1236936963/",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://variety.com/wp-content/uploads/2026/11/Lucca-2.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Jakarta World Cinema Plans to Revive First Feature Competition With International Jury",
+              "lead": "Jakarta World Cinema aims to bring back its First Feature Competition next year, open to filmmakers from around the world and judged by an international jury. This year’s edition did not accept submissions.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/festivals/jakarta-world-cinema-revive-first-feature-competition-1236937042/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/JWC-team.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Dustin Hoffman Says Filming ‘The Graduate’ Was a ‘Terrible Experience’ and Director Mike Nichols Made Katharine Ross Slap Him 27 Times for a Scene He ‘Didn’t Even Use’",
+              "lead": "Dustin Hoffman, who shot to fame after starring as Ben Braddock in Mike Nichols’ classic film “The Graduate,” has opened up about his experience shooting the 1967 comedy-drama in a recent essay for The New Yorker",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/dustin-hoffman-the-graduate-mike-nichols-1236937024/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/M8DGRAD_EC005_8b5014.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists discover a surprising brain benefit of eating peanuts every day",
+              "lead": "A surprising new study suggests that eating peanuts every day could help support brain health and memory in older adults. Researchers found that consuming about two servings of unsalted",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists say a forgotten particle may explain why the universe exists",
+              "lead": "A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists shrink Archimedes’ screw to the size of a single molecule",
+              "lead": "Scientists have built a groundbreaking molecular motor that spins in either direction using electricity, inspired by a machine invented more than 2,000 years ago.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261030002940.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+          "lead": "Hours later Russian authorities said its app was also hacked",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Spain train crash: four US citizens, and nationals from Japan, Canada among dead, authorities say",
+          "lead": "The train disaster, one of Europe’s deadliest rail incidents this",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/nov/02/spain-trash-crash-us-citizens-japan-canada-dead"
+        },
+        {
+          "title": "Gulf braced for escalation of war between US-Israel alliance and Iran",
+          "lead": "Diplomats warn that renewed conflict would be even more damaging than",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Where Do Israel’s Arab Parties Stand?",
+          "lead": "Having won a record 19 seats in Israel’s Parliament",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/01/world/middleeast/israel-arab-parties.html"
+        },
+        {
+          "title": "Bulgarian acting president Iliana Iotova wins run-off election, exit polls show",
+          "lead": "Bulgaria’s acting president Iliana Iotova, who favours dialogue with",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/europe/article/3372909/bulgarian-acting-president-iliana-iotova-wins-run-election-exit-polls-show"
+        },
+        {
+          "title": "French presidential candidate Édouard Philippe rejects centre-right primary",
+          "lead": "French presidential candidate and former Prime Minister Édouard",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/france/20261101-french-presidential-candidate-philippe-rejects-centre-right-primary"
+        },
+        {
+          "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
+          "lead": "Canadian PM Mark Carney announces progress in Canada-US trade deal",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss"
+        },
+        {
+          "title": "The midterm election could reshape the muni bond market. Here’s what investors need to know",
+          "lead": "The 2026 election could affect municipal bonds through state tax",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/01/election-municipal-bonds.html"
+        },
+        {
+          "title": "Palme d’Or Winner ‘Fjord’ Opens Jakarta World Cinema as Cinematographer Tudor Vladimir Panduru Leads Masterclass",
+          "lead": "Cristian Mungiu’s Palme d’Or winner “Fjord” opened the fifth edition",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/festivals/fjord-jakarta-world-cinema-1236937002/"
+        },
+        {
+          "title": "Binance resumes withdrawals following $6.3 billion breach",
+          "lead": "The cryptocurrency exchange said it's now covered 95% of the stolen",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
+        },
+        {
+          "title": "New Zelda and GTA represent a games industry that no longer exists",
+          "lead": "This is The Stepback , a weekly newsletter breaking down one",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists"
+        },
+        {
+          "title": "Scientists discover the hidden “muscles” trees use to straighten themselves",
+          "lead": "Scientists have discovered that trees can sense their own shape and",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261030003006.htm"
+        },
+        {
+          "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+          "lead": "There were hundreds of arrests as protesters took to the streets in",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Bond investors sit out ‘most consequential’ US midterm elections in years",
+          "lead": "Big fund managers are pressing ‘pause’ as vote and economic data",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
+          "lead": "Binance recorded $3.64 billion in net outflows after resuming",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html"
+        },
+        {
+          "title": "‘Between Us’ Director Matsumura Shingo on Finding Connection After Disaster and Making Films on Japanese Budgets",
+          "lead": "Unspoken emotional wounds linger throughout “Between Us",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/festivals/between-us-director-connection-after-disaster-japanese-budgets-1236936999/"
+        }
+      ],
+      "supplement": {
+        "title": "From ‘The Devil Wears Prada’ to ‘The Invite,’ Costume Designers Shatter the Myth Behind Dressing Contemporary Characters: ‘It’s Very Difficult’",
+        "lead": "Contrary to popular belief, contemporary design in film is not just about shopping; it involves deep storytelling and thought behind how characters are dressed.",
+        "body": [
+          "Contrary to popular belief, contemporary design in film is not just about shopping; it involves deep storytelling and thought behind how characters are dressed.",
+          "Molly Rogers, who worked on “The Devil Wears Prada” as an assistant costume designer and was the sequel’s costume designer, said, “When someone comes up to me and says, ‘I really […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/artisans/news/costume-designers-contemporary-costume-1236936227/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/10/2302419584.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 16,
+        "categories": 7,
+        "topGroups": [
+          "Variety×6",
+          "BBC×4",
+          "ScienceDaily×4",
+          "TechCrunch×3",
+          "FT×2",
+          "Al Jazeera×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-02T01:21:32.208Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 795,
+        "lang": 452,
+        "fresh": 331,
+        "denoised": 330,
+        "deduped": 311
+      },
+      "en": {
+        "fetched": 795,
+        "lang": 343,
+        "fresh": 274,
+        "denoised": 272,
+        "deduped": 268
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 15,
+        "groups": 14,
+        "maxGroupShare": 22,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×6",
+          "端傳媒×5",
+          "東方財富×2",
+          "cnBeta×2",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 16,
+        "categories": 7,
+        "topGroups": [
+          "Variety×6",
+          "BBC×4",
+          "ScienceDaily×4",
+          "TechCrunch×3",
+          "FT×2",
+          "Al Jazeera×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

@@ -1,0 +1,921 @@
+{
+  "issue": 50,
+  "date": "2026-11-03",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月廿五 · 霜降",
+    "en": "25th day of the 9th lunar month · Frost's Descent"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "中国气象局发布今冬明春气候预测 最强厄尔尼诺事件影响明显",
+        "lead": "记者在今天的中国气象局新闻发布会上了解到，2026年9月，赤道中东太平洋形成一次超强厄尔尼诺事件，10月已发展为有监测记录以来最强的厄尔尼诺事件，预计秋末冬初达到峰值，将对我国今冬明春气候产生明显影响。",
+        "body": [
+          "记者在今天的中国气象局新闻发布会上了解到，2026年9月，赤道中东太平洋形成一次超强厄尔尼诺事件，10月已发展为有监测记录以来最强的厄尔尼诺事件，预计秋末冬初达到峰值，将对我国今冬明春气候产生明显影响。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-03/10725212.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "全球人工智能热潮中的“黑马”：马来西亚",
+        "lead": "得益于廉价土地和电力以及海底互联网电缆，中美科技巨头正向马来西亚投入数十亿美元，建设庞大的数据中心。马来西亚在中美AI竞争中没有选边站，而是对双方都敞开大门。 Ulet Ifansasti for The New York Times",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/business/20261103/malaysia-data-center-china/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "美国中期选举今日投票；伊朗此前提出“两天方案”",
+              "lead": "美国中期选举今日投票；伊朗此前提出“两天方案”丨国际早察",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-03/10725166.shtml",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 2
+            },
+            {
+              "title": "一文读懂美国中期选举：两党各持何种立场，选情如何",
+              "lead": "受到伊朗战争和不断上涨的物价影响，特朗普支持率接近历史最低水平。这让民主党人燃起希望，他们有机会赢得目前由共和党控制的众议院。参议院选情则更为复杂。 Ruth Fremson/The New York Times 周五，迈阿密选举总部进行的提前投票。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261103/midterms-election-2026-senate-house-congress/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "台湾选举：四成陆配参选遭剔除，「法理死结」如何困住参政之路？",
+              "lead": "「除籍满10年」如何计算，成为这届选举多位陆配被剔除参选资格的争议焦点。今年有25位「陆配」参选，当中逾4成参选人不符参选资格。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cm4g1ynq5n5jo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d87a/live/b52594a0-d676-11f1-b441-2b33b063138f.png"
+            },
+            {
+              "title": "中国企业推出人工智能灭蚊设备",
+              "lead": "一家中国公司推出AI激光灭蚊设备，利用自动驾驶汽车所采用的技术锁定目标，同时依靠人工智能判断何时可以安全发射激光。设备售价1000美元，预计几周内量产。 Qilai Shen for The New York Times",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/china/20261102/mosquito-laser-ai/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "中国人民银行决定上调金融机构外汇存款准备金率",
+              "lead": "中新网11月3日电 据中国人民银行网站消息，为加强金融机构外汇流动性管理，中国人民银行决定，自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点，即外汇存款准备金率由现行的4%提高到6%。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-03/10725110.shtml",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 3
+            },
+            {
+              "title": "近五年来首次！央行上调外汇存款准备金率2个百分点",
+              "lead": "分析师表示，本次上调外汇存款准备金率，是央行在当前人民币偏强、外汇供给较充裕背景下，对汇率单边波动和外汇流动性所作的一次宏观审慎调节。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15286192.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 3
+            },
+            {
+              "title": "华尔街严阵以待美债发行多年来最大调整：长债或提前减量，短债融资占比面临考验",
+              "lead": "美国财政部即将公布新一季度再融资声明，华尔街正密切关注美国国债发行策略是否迎来2024年以来最大调整。 在美国财长贝森特近期多次释放干预债市、压低长期收益率信号后，市场普遍预期，财政部可能调整维持国债发行规模稳定的政策指引，为未来削减20年期和30年期长期国债发行铺路，同时更多依赖短期国库券（T-bills）满足不断增长的融资需求。 不过，市场对于调整的时间和力度仍存在分歧。部分华尔街机构预计，财政部本周可能直接宣布削减长债发行；",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3785015",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "苹果CEO特努斯承认iPhone Duo缺货 不知何时才能解决",
+              "lead": "据路透社报道，苹果CEO约翰·特努斯(John Ternus)周一在公布财报后接受采访时表示，苹果目前无法满足市场对iPhone Duo的需求，也没有何时能够追赶上需求的时间表。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1584762.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "全国放心消费平台正式上线：可扫码查看附近放心消费商家，百度地图、美团外卖、淘宝闪购、京东外卖已接入",
+              "lead": "IT之家 11 月 3 日消息，市场监管总局今日官宣，按照《优化消费环境三年行动方案（2025—2027 年）》《扩大消费“十五五”规划》等明确部署，市场监管总局正在全面推进放心消费单元和集聚区培育，在全国打造一批放心消费新场景、新地标、新品牌，改善消费体验、提振消费信心。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/021/346.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "小鼠研究显示阉割有助于长寿",
+              "lead": "男性想要长寿的话可随时尝试阉割。对包括人类在内的哺乳动物，切除睾丸有助于延长雄性的寿命。一项新研究发现，与此前的认知不同，阉割手术并不一定要在生命早期进行。对年长雄鼠进行去势处理，可使其寿命延长逾 30%。这一发现颠覆了以往对于睾丸如何影响衰老的既有观念。在人类等物种中，雌性的寿命显著长于雄性。以美国为例，男女之间的平均寿命差距为 6 年。男性也更容易罹患与衰老相关的疾病如癌症和心脏病。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85776",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "人工智能时代，美中关系将迎来重大变革",
+              "lead": "此次中国之行让我清楚地看到，人工智能已经在重塑美中关系。它正在地缘政治层面拉近两国的距离，与此同时也加剧了双方的贸易分歧。 Jason Allen Lee",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/opinion/20261103/us-china-ai-manufacturing-exports-weapons/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "美国中期选举将正式开选：“蓝潮将至”？还是共和党打破“选举魔咒”？",
+              "lead": "中新网11月3日电 11月3日，美国中期选举将迎来正式投票日。共和党和民主党围绕国会两院席位及诸多州级和地方层面席位，展开激烈争夺。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-03/10725081.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "Netflix 重现斯坦福监狱「虐待性」研究应该吗？",
+              "lead": "Netflix将美国心理学家菲利普·津巴多 (Philip Zimbardo) 1971 年备受争议的研究改编成了一部六集真人秀，重新引发了一场由来已久的辩论，并引发了关于科学与娱乐之间界限的新问题。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/ck4g1xzw1jnpo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e13f/live/e112fb00-d3a8-11f1-a5cd-49637fcbd4e4.jpg"
+            },
+            {
+              "title": "中国前副总理刘延东去世：跻身共产党高层的少数女性之一",
+              "lead": "刘延东出身中共高官家庭，曾任国务院副总理。她是迄今为止中共中央政治局仅有过的六位女性之一，但其职业生涯也凸显了中国统治精英阶层中女性所面临的局限。 Stanley Chou/Getty Images 中国前副总理、曾任该国最高级别女官员之一的刘延东于上周三在北京逝世。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/obits/20261102/liu-yandong-dead/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "聚焦抗战文学全新写作视角 长篇小说《四千里》研讨会举办",
+              "lead": "中新网北京11月2日电 (记者 高凯)罗伟章长篇小说《四千里》研讨会日前在京举办。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-02/10724994.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "在红州俄亥俄看中期选举：不能说的数据中心，最丑陋的州长选战",
+              "lead": "在曾被特朗普承诺打动的俄亥俄，生活未必好转，选战却愈发丑陋。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261103-international-midterms-in-ohio/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/AP26286002014428.jpg"
+            },
+            {
+              "title": "小城良方 (评论: 小城良方)",
+              "lead": "闲闲 评论: 小城良方 评价: 力荐",
+              "source": "豆瓣",
+              "group": "豆瓣",
+              "link": "https://movie.douban.com/review/17885758/",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "陕西：击剑冠军走进校园 小剑手近距离感受击剑魅力",
+              "lead": "中新网西安11月3日电 (记者 张一辰)陕西2026长安剑客国际击剑精英赛配套活动“剑耀少年时”击剑冠军校园行2日在西安开展，国家击剑队运动员走进中小学校园，与学生面对面交流，传授击剑技艺。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-03/10725186.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "WTA250香港公开赛：王欣瑜女单首轮晋级",
+              "lead": "中新网香港11月3日电 (记者 张语洽)WTA(女子网球协会)250香港公开赛2日在香港维多利亚公园举行。中国内地选手王欣瑜首轮以两个6:1击败中国香港选手李芬，顺利晋级女单16强。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-03/10725157.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "宁夏盐碱水养鲈新模式入选全国农业典型案例 实现错季上市增收",
+              "lead": "中新网银川11月3日电(记者 于晶)11月2日，记者从宁夏回族自治区水产技术推广站获悉，宁夏“盐碱水大口黑鲈棚塘接力养殖”入选2026年中国农业重大新技术新产品新场景典型案例，跻身全国20个新场景典型案例之列。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-03/10725143.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "金与正发文 朝鲜否认策划63亿美元币安黑客攻击",
+          "lead": "美国执法部门和网络安全分析师将这宗破纪录的盗窃案归咎于平壤当局。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/ckwyqjd9w4x7o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "国家发改委：健全“人工智能+”政策体系，细化落实重点行业实施方案",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15286186.html"
+        },
+        {
+          "title": "创业板指盘初一度跌2%后翻红，电池产业链爆发，算力硬件调整、“易中天”再大跌，恒科指涨超1%，科网股拉升",
+          "lead": "11月3日，A股低开低走，三大股指盘初进一步扩大跌幅，沪指跌1%，创业板跌2%，科创50指数一度跌近3%，随后跌幅收窄，深成指率先翻红。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785042"
+        },
+        {
+          "title": "研究发现蜘蛛也会做梦 睡眠中的跳蛛展现类似REM睡眠行为",
+          "lead": "一种体型微小、以敏锐视觉著称的跳蛛，正在让科学家重新思考“做梦”是否并非脊椎动物专属能力。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/science/1584776.htm"
+        },
+        {
+          "title": "币安63亿美元黑客攻击事件始末",
+          "lead": "币安被迫暂停充值和提现，承诺承担所有损失；其创始人赵长鹏在X上“直播”了事件进展。币安遭受攻击的影响波及整个加密货币行业，执法机构也介入调查。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/technology/20261102/binance-hack-crypto-north-korea/?utm_source=RSS"
+        },
+        {
+          "title": "央行：11月15日起上调金融机构外汇存款准备金率2个百分点",
+          "lead": "为加强金融机构外汇流动性管理，中国人民 银行 决定，自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1345,202611033919446783.html"
+        },
+        {
+          "title": "Meta 回应与中国企业傅利叶合作开发人形机器人：美国供应链不给力，原型机暂无出售计划",
+          "lead": "IT之家 11 月 3 日消息，据 The Information 此前报道， Meta 最近与中国企业傅利叶（Fourier）合作",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/021/339.htm"
+        },
+        {
+          "title": "【华尔街日报】走进「大理福尼亚」：中国年轻人的「躺平之都」告诉我的事",
+          "lead": "编按：《华尔街日报》是全球最具影响力的财经媒体之一，每日产出大量深度报导，涵盖国际政治、商业财经与科技趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261103-wsj-china-laid-back-capital-of-doing-nothing/"
+        },
+        {
+          "title": "乔布斯的「祖训」和触屏 MacBook，何以同时成立？｜硬哲学",
+          "lead": "在洛杉矶的苹果新品活动现场，当全新的 MacBook Pro 在展台上亮起时，最先抓人眼球的甚至还不是屏幕正面",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1686623?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "小鼠研究发现骨骼在运动中会释放延缓衰老和延寿的蛋白质",
+          "lead": "骨骼塑造着体型，也影响着衰老。根据发表在《Cell Metabolism》期刊上的一项研究，小鼠实验发现骨骼在机械应力下—",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85771"
+        },
+        {
+          "title": "ShopXO 免费开源商城系统 v6.9.3 版本已发布",
+          "lead": "更新日志 1.【新增】同城急送插件，对接快递100聚合运力与达达配送，支持门店端查看骑手",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/503357"
+        },
+        {
+          "title": "【随笔】电影的明证 (评论: 何处是我朋友的家)",
+          "lead": "MaΙkοΙm 评论: 何处是我朋友的家 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17885023/"
+        },
+        {
+          "title": "爱情、幸运与魔法：年轻人为何找上了网上女巫？",
+          "lead": "一家网上零售商表示，他们有售有助带来好运咒语，而最近购买的人数大幅上升。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/crq8n9qq8q49o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "贵州省贵阳市政府原副市长高杨被“双开”",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15286221.html"
+        },
+        {
+          "title": "央行出手给人民币降温，上调外汇存款准备金率至6%，离岸人民币急跌200点",
+          "lead": "中国人民银行11月3日宣布，为加强金融机构外汇流动性管理，将自 2026年11月15日 起，上调金融机构外汇存款准备金率 2个百分点",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785039"
+        },
+        {
+          "title": "日剧《Vivant》被指“辱华”，三丽鸥取消联名合作",
+          "lead": "北京指责这部剧集将虚构的中国情报机构设为反派，“企图通过文化产品抹黑中国、散播仇华情绪”。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/asia-pacific/20261102/japan-vivant-spy-show-china/?utm_source=RSS"
+        }
+      ],
+      "supplement": {
+        "title": "11年救3千只狗，动物义工 Kent：「流浪狗是香港一部分，也要五年规划」",
+        "lead": "「知道你好辛苦呀，睇到新闻，同你打声招呼！加油呀！」在公路上，陆家捷（Kent）正低头回复一条又一条讯息，电话响了十多次。有朋友直接打去Kent的电话，为他打气。 近日Kent被推上风口浪尖，事缘香港9月再度发生怀疑狗咬死人事件，警方随后捉捕5只狗，发现其中一只狗「大B」晶片登记人为动物团体毛守救援（下称毛守）创办人Kent。他被控「没有妥善管控狗只」及「过期狗牌」两罪，消息一出，社会哗然。",
+        "body": [
+          "「知道你好辛苦呀，睇到新闻，同你打声招呼！加油呀！」在公路上，陆家捷（Kent）正低头回复一条又一条讯息，电话响了十多次。有朋友直接打去Kent的电话，为他打气。",
+          "近日Kent被推上风口浪尖，事缘香港9月再度发生怀疑狗咬死人事件，警方随后捉捕5只狗，发现其中一只狗「大B」晶片登记人为动物团体毛守救援（下称毛守）创办人Kent。他被控「没有妥善管控狗只」及「过期狗牌」两罪，消息一出，社会哗然。11年来，他拯救超过3000多只狗，也被政府控告未有妥善照顾狗只200多次。但Kent只说：「尽量帮咗先，命就得一条，如果真系被渔护署捉到，就玩完㗎啦。",
+          "」 一场夺命惨剧，引发了全城对流浪狗与北都发展的讨论。有人质疑北都收地导致弃养失控，有人痛斥民间团体包庇恶犬，但更多人发现一个荒谬现实——全港数以千计流浪狗，法律责任全落在前线义工头上。明知正踩入法律界限，为何Kent要用不寻常方法救狗？日以继夜，Kent和助手随求助讯息和GPS导航，穿梭城市与乡郊拯救动物。摄：邓家烜/端传媒 这天，记者跟Kent从中午到凌晨穿梭北都，走进他动物救援的一日，也看他眼中的香港。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261103-hongkong-kent-luk-and-stray-dog-rescue-profile/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/TKH20261006W526-W_1-1.jpg"
+      },
+      "stats": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "BBC×2",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "RBA interest rates live: Reserve Bank of Australia meeting today before cash rate decision and announcement – latest news",
+        "lead": "Reserve Bank is expected to raise interest rates to an 18-year high on Tuesday, the fifth hike this year Use our loan calculator to check how a rate rise may",
+        "body": [
+          "Reserve Bank is expected to raise interest rates to an 18-year high on Tuesday, the fifth hike this year Use our loan calculator to check how a rate rise may affect you Get our breaking news email , free app or daily news podcast CBA forecasts home prices to fall by 14% Australia’s biggest lender, Commonwealth Bank , now expects national dwelling prices to suffer a peak-to-trough fall of about 14% amid souring economic conditions.",
+          "Continue reading..."
+        ],
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/4b59f9affe07234b60bcd306cbe130d9aa41c2ee/10_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=68094f8f53403fef2aa07059f65d7dc6",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "OpenAI hires former US Army secretary as military seeks to expand AI use",
+        "lead": "Dan Driscoll to join the start-up as senior counsellor for national security modernisation",
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67?syn-25a6b1a6=1",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2de2a1a8-6cf8-4859-a895-bdfd7361bc51.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Trump loses supreme court bid to set aside 20,000 California ballots as justices refuse to take up emergency request – live",
+              "lead": "Ruling was latest judicial rebuke of unprecedented efforts from Trump administration to intervene in elections process of multiple states Supreme court rules against Trump over bid to force California to set aside",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/94bf86cddc911729306056b68b43e823106b5991/367_0_5113_4093/master/5113.jpg?width=140&quality=85&auto=format&fit=max&s=a16c64ede785cef3b0aba19f1b62e139",
+              "consensus": 5
+            },
+            {
+              "title": "Are Freezers Being Hacked? Europe and the U.S. Military Are Investigating.",
+              "lead": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02xp-freezers/02xp-freezers-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Netanyahu is pressing Trump to attack Iran after US midterm elections, officials say",
+              "lead": "Israeli Prime Minister Benjamin Netanyahu is pushing for another wave of strikes on Iran after Tuesday’s midterm elections in the United States",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/world/united-states-canada/article/3373046/netanyahu-pressing-trump-attack-iran-after-us-midterm-elections-officials-say",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/03/ab1b3a53-ba1f-4275-b1ae-588a80c4a05b_9fa24fd7.jpg?itok=hDnqZlAw&v=1793653993",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "‘A massive piece of pool’: Trump talks algae and grass in final midterm push",
+              "lead": "US President touts new pipes and ‘great reflectivity’ of Washington’s Reflecting Pool on eve of critical vote",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/6ec53c14-0186-4b58-86db-cf200131680f?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd5d82647-988d-40d6-8b0e-396918c8a746.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+              "lead": "The men and women who rummage through commercial bins to take clothes and other items.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fcb/live/1bb38aa0-d6d7-11f1-b441-2b33b063138f.jpg",
+              "consensus": 4
+            },
+            {
+              "title": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
+              "lead": "Democratic gains in Congress could bring tougher oversight of major companies and shift billions of dollars in federal spending and regulatory policy.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Supermarkets across Europe report new suspected freezer hack",
+              "lead": "Danish refrigeration systems maker Danfoss said the incidents across Europe involved its products, as was the case in France last month.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/news/2026/11/03/world/supermarkets-europe-freezer-hack/",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/571946.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+              "lead": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Third person dies of bird flu since virus started jumping to livestock",
+              "lead": "A person in Washington state has died from bird flu after exposure at an infected dairy farm, state health officials reported Sunday .",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2190742287-1152x648.jpg",
+              "consensus": 4
+            },
+            {
+              "title": "Anthropic clamps down on Claude’s AI video game clones",
+              "lead": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware .",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Can Alcaraz's ex-coach help Shelton challenge his former protege?",
+              "lead": "US Open runner-up Ben Shelton joins forces with Juan Carlos Ferrer, the former coach of Carlos Alcaraz - BBC Sport analyses why the partnership suits both parties.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/tennis/articles/crz654jdzdqpo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/490d/live/18b0c730-d6b1-11f1-b5fb-3b1e7f14caa9.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Senegal hosts Africa’s first Olympics",
+              "lead": "The head of the International Olympic Committee discusses the significance of Africa hosting the Youth Olympic Games.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/2/senegal-hosts-africas-first-olympics?traffic_source=rss",
+              "category": "sport",
+              "categoryLabel": "Sport"
+            },
+            {
+              "title": "Jaissle unhappy with 'clear foul' before Barry goal",
+              "lead": "Newcastle United head coach Matthias Jaissle takes issue with referee John Brooks' decision not to call a \"clear foul\" on Fabian Schar in the build-up to Thierno Barry's goal in their loss to Everton in the Premier",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f84/live/1a2cfac0-d710-11f1-b441-2b33b063138f.jpg"
+            },
+            {
+              "title": "Who has made Troy's Premier League team of the week?",
+              "lead": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c8dx37n11kv2o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf47/live/e05ef5c0-d6f4-11f1-93e1-3b657b665bcf.png"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Veteran Publicist Bill Harrison and Creative Director Johnny Wujek Join Nonprofit Art of Elysium (EXCLUSIVE)",
+              "lead": "Veteran publicist Bill Harrison and Emmy-winning costume designer, celebrity stylist and creative director Johnny Wujek have joined the staff of arts nonprofit The Art of Elysium.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/columns/publicist-bill-harrison-creative-director-stylist-johnny-wujek-art-of-elysium-1236938034/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/split-image-1000_821784.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "‘Vote for America 2026:’ Here’s How to Watch Newsmax’s Midterm Election Special Online for Free",
+              "lead": "Millions of voters across America take to the polls Tuesday for the 2026 Midterm Elections, and Newsmax has set its schedule for the night, with its so-called “Vote for America” programming block.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/shopping/news/newsmax-midterm-elections-show-watch-live-online-free-stream-1236938036/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/watch-newsmax-live-online-free-midterm-elections.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists find surprisingly little evidence that medical cannabis helps you sleep",
+              "lead": "A major new review challenges the growing enthusiasm for medical cannabis as an insomnia treatment, finding little reliable evidence that it improves sleep quality, sleep duration, or daytime functioning.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261031221157.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "NASA’s Perseverance Mars rover breaks historic record after traveling 28 miles",
+              "lead": "NASA’s Perseverance rover has set a historic record by traveling 28.10 miles across Mars, farther than any vehicle has ever driven on another world.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261101010536.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 3
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Big majority of US voters disapprove of Trump’s handling of inflation: FT poll",
+          "lead": "On the eve of the midterm elections, Americans say they want",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia",
+          "lead": "The incident comes amid growing calls for the temperature of",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
+          "lead": "After a second apparent cyber-attack in weeks",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why"
+        },
+        {
+          "title": "Russian Strike on Ukraine Humanitarian Hub Kills Dozens",
+          "lead": "The strike in the Zaporizhzhia region came a day after a brief",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html"
+        },
+        {
+          "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+          "lead": "Hit hard by Trump's tariffs and the war on Iran",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss"
+        },
+        {
+          "title": "Stock market after midterm elections: What S&P 500 history shows",
+          "lead": "Midterms historically precede a strong year for the S&P 500.",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html"
+        },
+        {
+          "title": "Russian strikes kill 26 in Ukraine after longest ceasefire ends",
+          "lead": "Russia killed at least 26 people in strikes on a village in southern",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/europe/20261103-russian-strikes-kill-26-in-ukraine-after-longest-ceasefire-ends"
+        },
+        {
+          "title": "Trump approval near career low ahead of elections, poll finds",
+          "lead": "While U.S. President Donald Trump won't be on the ballot on Tuesday",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/03/world/politics/trump-approval-low-elections-poll/"
+        },
+        {
+          "title": "OpenAI executive urges caution in China-US AI talks, warns of distillation threats",
+          "lead": "A top OpenAI executive said on Monday that Washington needs to be",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/us/article/3373052/openai-executive-urges-caution-china-us-ai-talks-warns-distillation-threats"
+        },
+        {
+          "title": "Trent Reznor and Atticus Ross to Score David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’",
+          "lead": "Nine Inch Nails principals and veteran film composers Trent Reznor",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/music/news/trent-reznor-atticus-ross-score-david-fincher-cliff-booth-1236938107/"
+        },
+        {
+          "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+          "lead": "The plaintiffs said they started using YouTube as young as age 3 and",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/"
+        },
+        {
+          "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+          "lead": "Last week, Anthropic introduced a new system prompt designed to stop",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/"
+        },
+        {
+          "title": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
+          "lead": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints"
+        },
+        {
+          "title": "NASA's Hubble and Webb discover ancient worlds that remember their past",
+          "lead": "NASA’s Hubble and James Webb Space Telescopes have uncovered",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261031221209.htm"
+        },
+        {
+          "title": "US to hold first talks with Russia and Ukraine since February",
+          "lead": "Officials from Washington, Moscow and Kyiv will meet in Abu Dhabi",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/cb91f234-85af-4686-9cc5-6f6189e0304c?syn-25a6b1a6=1"
+        },
+        {
+          "title": "What Florida jet audio and flight data tells us about its final moments",
+          "lead": "A private jet crashed in Florida on Sunday",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "supplement": {
+        "title": "Cynthia Nixon Says She ‘Loved’ Miranda’s Attempts to Become ‘Woke’ on ‘And Just Like That’ Despite Fans Being ‘Horrified’",
+        "lead": "Cynthia Nixon is standing by her “Sex and the City” character Miranda Hobbes’ arc in the chaotic reboot “And Just Like That” — despite how bewildering some fans found it.",
+        "body": [
+          "Cynthia Nixon is standing by her “Sex and the City” character Miranda Hobbes’ arc in the chaotic reboot “And Just Like That” — despite how bewildering some fans found it.",
+          "In a recent interview with The New York Times, the actress explained that despite the fact that the show’s viewers “were so horrified by [Miranda’s] […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/tv/news/cynthia-nixon-miranda-hobbes-and-just-like-that-1236938079/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/11/cynthia-nixon_0_ad49ab.webp",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "ScienceDaily×3",
+          "Guardian×2",
+          "FT×2",
+          "SCMP×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-03T03:22:26.890Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 797,
+        "lang": 453,
+        "fresh": 372,
+        "denoised": 372,
+        "deduped": 357
+      },
+      "en": {
+        "fetched": 797,
+        "lang": 344,
+        "fresh": 307,
+        "denoised": 306,
+        "deduped": 297
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "BBC×2",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "ScienceDaily×3",
+          "Guardian×2",
+          "FT×2",
+          "SCMP×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

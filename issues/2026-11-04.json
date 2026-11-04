@@ -1,0 +1,926 @@
+{
+  "issue": 51,
+  "date": "2026-11-04",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月廿六 · 霜降",
+    "en": "26th day of the 9th lunar month · Frost's Descent"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "11月4日央行开展2575亿元隔夜逆回购操作",
+        "lead": "中新网11月4日电 据中国人民银行网站消息，2026年11月4日中国人民银行以固定利率、数量招标方式开展了2575亿元隔夜期逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "body": [
+          "中新网11月4日电 据中国人民银行网站消息，2026年11月4日中国人民银行以固定利率、数量招标方式开展了2575亿元隔夜期逆回购操作，全额满足了一级交易商需求。",
+          "具体情况如下："
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-04/10725754.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "聚焦美国中期选举：结果出炉后值得关注的六大问题",
+        "lead": "这场选举将成为对特朗普第二任期议程的全国性公投。民主党在众议院净增三个席位即可获得控制权，参议院的难度则大得多。选举结果将深刻影响美国政治格局。 Erin Schaff/The New York Times 周日，安克雷奇的选民们。民主党计划在该州参议院竞选中推举一名搅局的候选人，此举激怒了共和党人。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/usa/20261104/midterm-elections-trump-democrats-republicans-key-themes/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "菲律宾央行：货币政策仍处紧缩周期 通胀预计数月后见顶",
+              "lead": "中新社马尼拉11月4日电 (记者 周璟)菲律宾央行行长雷莫洛纳3日表示，鉴于通胀仍处高位，菲律宾央行目前处于货币紧缩周期，预计通胀将在未来数月达到峰值。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-04/10725700.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "有望成为首位穆斯林美国参议员，42岁的赛义德是谁？",
+              "lead": "在密歇根州，民意调查显示，民主党候选人阿卜杜勒·赛义德（Abdul El-Sayed）有望成为美国首位穆斯林参议员。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/60b8/live/99ed9820-d795-11f1-801d-cf196dc7232c.jpg"
+            },
+            {
+              "title": "国务院关于金融工作情况的报告：实施好支持资本市场的货币政策工具 巩固完善资本市场稳市机制",
+              "lead": "十四届全国人大常委会第二十五次会议3日上午在北京人民大会堂举行第二次全体会议。赵乐际委员长出席。会议听取了中国人民 银行 行长潘功胜受国务院委托作的关于金融工作情况的报告。报告介绍了2025年10月以来金融工作主要进展及成效、当前经济金融形势和问题挑战，提出下一步工作考虑：继续实施好适度宽松的货币政策，为经济持续向新向优向好发展营造适宜的货币金融环境；进一步加强和完善金融监管，不断增强监管质效；",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://finance.eastmoney.com/news/1344,202611043921034226.html",
+              "category": "top",
+              "categoryLabel": "要闻"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "中国人民银行加力实施股票回购增持再贷款政策",
+              "lead": "中新网11月4日电 据中国人民银行网站消息，为维护资本市场平稳运行，中国人民银行加力实施股票回购增持再贷款政策。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-04/10725746.shtml",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "出海日报｜京东收购CECONOMY获欧盟附条件批准，云南锗业子公司与美国AOI签订长期供货协议",
+              "lead": "2026年11月3日，中国企业“出海”事件汇总，内容来自上市公司公告、企业披露、政府部门信息及公开媒体报道。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15290155.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "美国中期选举日，芯片股三日大跌后反弹，纳指涨0.83%，盘后AMD大涨近8%",
+              "lead": "美股在美国中期选举投票日迎来反弹，人工智能相关板块领涨，此前持续三日的科技股抛售势头得到遏制。与此同时，强于预期的就业数据推升国债收益率，美元走强，黄金承压回落。 周二标普500指数上涨0.4%，纳斯达克100指数收涨0.7%，道琼斯工业平均指数逆势下跌0.4%。芯片股全线回升，英伟达、美光科技均录得涨幅，费城半导体指数大幅跳升，部分抵消了苹果公司业绩不及预期所带来的拖累。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3785045",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "京东收购德国 CECONOMY 获欧盟委员会有条件批准，交易即将落地",
+              "lead": "IT之家 11 月 4 日消息，欧盟委员会当地时间本月 3 日宣布，有条件地批准京东收购 CECONOMY。这标志着该交易已迈过最后一道监管障碍，所有要约条件现已满足， 即将在数日内完成 。 京东与 CECONOMY 承诺在 10 年内按照市场条款进行包括融资的内部交易，京东将以向 CECONOMY 提供的相同条款向第三方提供其仓储物流和技术服务。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/021/920.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "SK海力士450亿美元纽约建厂计划遭遇阻碍 扩产融资陷入两难",
+              "lead": "韩国存储芯片巨头SK海力士计划在美国纽约州投资约450亿美元建设两座NAND闪存工厂，但这项庞大的投资计划如今遭遇新的障碍。路透社11月3日援引知情人士消息称， 美国商务部尚未批准SK海力士向中国大连工厂出口更多美国制造半导体设备的许可证，而SK海力士希望通过扩大中国工厂的生产规模获得额外收入，为美国新工厂建设提供资金支持。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1584930.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "15.98 万元起，东风奕派 M8 天元激光版上市，用自研智驾替换华为干昆",
+              "lead": "三个多月前，东风奕派 M8 上市，这是一台把宝全押在了华为身上的车型。 当时推出的五款配置，名字都带着「干昆版」后缀，华为干昆六件套就是整款车最醒目的身份标签。 但是醒目的标签并没有换来醒目的销量，根据乘联会的信息，奕派 M8 在 9 月的零售销量只有 401 台，对于一台价格并不算高的大六座来说，这个数据显然并不理想。 于是奕派准备给 M8「换个身份」，卸下华为干昆的招牌，带来了东风奕派 M8 天元激光版。",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1687538?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "叶玉如获得联合国教科文组织国际生命科学研究奖",
+              "lead": "中新社巴黎11月3日电 (记者 李洋)总部位于法国巴黎的联合国教科文组织当地时间3日公布2026年度联合国教科文组织-赤道几内亚国际生命科学研究奖获奖名单，共3人获奖，其中包括香港科技大学校长叶玉如。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-04/10725697.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "印尼有毒烟霾正令邻国陷入政治难题",
+              "lead": "新加坡和马来西亚政府正夹在焦虑不安的民众与脾气暴躁的邻国之间。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c91461p7mvv4o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/302a/live/febcfd60-d293-11f1-9453-5fe901b3e69e.jpg"
+            },
+            {
+              "title": "全球人工智能热潮中的“黑马”：马来西亚",
+              "lead": "得益于廉价土地和电力以及海底互联网电缆，中美科技巨头正向马来西亚投入数十亿美元，建设庞大的数据中心。马来西亚在中美AI竞争中没有选边站，而是对双方都敞开大门。 Ulet Ifansasti for The New York Times",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261103/malaysia-data-center-china/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "中国技术出口管制升级：利用工业优势构建经济武器库",
+              "lead": "北京近期实施多项技术出口管制措施，旨在限制其他国家在工业与技术领域与中国制造商竞争的能力。很多国家对中国的举措感到担忧，正努力降低这种依赖。 CHINATOPIX, via Associated Press 一台盾构机正在中国一家工厂组装。北京近期采取行动，管制数十项技术的出口，其中包括这类机器。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/china/20261103/chinas-message-to-its-rivals-you-need-what-we-make/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "为何美国中期选举对特朗普至关重要？",
+              "lead": "美国中期选举将决定国会控制权归属，进而影响华盛顿未来两年的权力格局。若民主党夺回众议院或参议院，可能制衡特朗普的施政议程。这场不见特朗普名字的选举，却可能深刻影响其总统任期后半程。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/watch/cqx2v747w8p1o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b685/live/86571d30-d769-11f1-93e1-3b657b665bcf.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "亚洲演出娱乐行业峰会2026春城启幕 400余名嘉宾共探演艺新局",
+              "lead": "中新网昆明11月3日电 (时文枝)3日，“声动亚太·春城花语”亚洲演出娱乐行业峰会2026在昆明启幕。两天时间，来自亚太地区演出行业、文旅产业、品牌方与投资机构的400余名嘉宾齐聚滇池畔，共话行业趋势，链接优质资源，探索亚太演艺产业发展新场景、新模式、新可能。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-03/10725684.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "Shein的巴黎败局：中国快时尚与欧洲百年商场的流量豪赌",
+              "lead": "编者按：创立于中国的快时尚电商Shein（希音），2024年全球营收约387亿美元，是当时法国人花钱最多的时尚品牌，拥有2500万法国顾客；它靠算法、超低价和TikTok，征服了欧洲的年轻人。 2025年11月，它把全球第一家常设实体店，开进巴黎市政厅对面拥有170年历史的BHV百货。仅仅七个月后，合作收场：约百个品牌出走，BHV易主，原东家倒贴钱才脱手；",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261104-international-shein-bhv-paris/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/RC25PHACMRKG.jpg"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "WTT法兰克福冠军赛：王楚钦复出迎来“开门红”",
+              "lead": "中新社德国法兰克福11月4日电 当地时间11月3日，2026年世界乒乓球职业大联盟(WTT)法兰克福冠军赛在德国开赛。中国选手王楚钦以3:0横扫丹麦选手林德，在复出后的首场比赛中取得“开门红”，顺利晋级男单16强。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-04/10725779.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "CBA常规赛：辽宁队险胜广州队 赢下第一阶段收官战",
+              "lead": "中新社沈阳11月4日电 (记者 韩宏)2026-2027赛季中国男子篮球职业联赛(CBA)常规赛第8轮，辽宁队3日晚主场迎战广州队，最终以100比93战胜对手，以三连胜结束常规赛第一阶段。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-04/10725704.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "冷空气侵袭北方 贵州湖南江西降雨较强",
+              "lead": "中新网11月4日电 据中央气象台网站消息，受冷空气影响，从今天开始，内蒙古、东北地区、华北、黄淮等地先后有大风降温天气，部分地区降温4~8℃，局地降温超过12℃。内蒙古、黑龙江等地将出现降雪，局地降雪量可达暴雪级别，黑龙江中东部局地有雨转冻雨。中央气象台今晨继续发布大风蓝色预警。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-04/10725741.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "APEC峰会前，美智库解析「技术民族主义」下的中俄军工合作细节与限度",
+          "lead": "深圳APEC前夕，中俄「无上限」合有任何挑战吗？北京对乌克兰停火兴趣如何？在APEC中美俄三方领袖会面能有所突破？",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c977pge1jkmdo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "央行今日开展2575亿元隔夜逆回购操作",
+          "lead": "操作利率为1.25%。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15290065.html"
+        },
+        {
+          "title": "一文读懂美国中期选举：两党各持何种立场，选情如何",
+          "lead": "受到伊朗战争和不断上涨的物价影响，特朗普支持率接近历史最低水平。这让民主党人燃起希望，他们有机会赢得目前由共和党控制的众议院。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/usa/20261103/midterms-election-2026-senate-house-congress/?utm_source=RSS"
+        },
+        {
+          "title": "AMD电话会：Q4 AI芯片收入将首次超越服务器CPU，明年数据中心收入占比将破80%",
+          "lead": "数据中心业务爆发式增长推动AMD业绩全面超预期，公司上调明年展望，预计服务器收入翻番、AI芯片收入增速更快。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785116"
+        },
+        {
+          "title": "预订价格 13.98 万-17.58 万元，奇瑞 iCAR V25 方盒子 SUV 上市定档 11 月 19 日",
+          "lead": "IT之家 11 月 4 日消息，今天（4 日）上午，奇瑞 iCAR 汽车官微宣布，方盒子 SUV 新车 iCAR V25 将于 11 月",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/021/949.htm"
+        },
+        {
+          "title": "数说科技：当「正向思考」的 AI 接管网路",
+          "lead": "编按：「 数说科技 」是端传媒的注册免费栏目，每周三更新。从一个数字出发，用1500字解析科技话题，追踪值得关注的 AI 趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261104-tech-in-numbers-ai-makes-internet-more-positive/"
+        },
+        {
+          "title": "黑客团队演示突破iPhone锁定模式 越狱状态甚至可在系统更新后保留",
+          "lead": "苹果面向高风险用户推出的“锁定模式”（Lockdown Mode）一直被视为iPhone最强等级的安全防护机制之一，但最新演示显示",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1584932.htm"
+        },
+        {
+          "title": "A股热点前瞻丨DeepSeek V5拟用升腾芯片预训练；超强厄尔尼诺预计秋末冬初达峰",
+          "lead": "①DeepSeek V5拟基于升腾芯片预训练，国产算力训练实现突破； ②超强厄尔尼诺预计秋末冬初达峰， 农业种植 链受关注；",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/11822,202611043920931856.html"
+        },
+        {
+          "title": "早报｜国行苹果AI开测，Siri接入千问/中兴否认出售手机业务传闻/多所高校免费发Token",
+          "lead": "国行 Apple 智能开启测试，Siri、写作工具与视觉智能接入千问 苹果天气出现数据异常",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1687477?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "科学家发现 1.15 亿年前的恐龙红细胞",
+          "lead": "血细胞并不容易形成化石。大多数血细胞在死亡后不久便会分解，这使得找到令人信服的、非常古老的血液痕迹非常困难。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85785"
+        },
+        {
+          "title": "[分享创造] 做了个开源工具：两台电脑共用显示器和键鼠，用快捷键切换输入源",
+          "lead": "我平时需要在 Mac 和 Windows 之间切换，两台电脑接着同一块显示器。键鼠可以通过 Deskflow 共享",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1254310#reply1"
+        },
+        {
+          "title": "2026年美国中期选举实时更新结果",
+          "lead": "美国国会由众议院和参议院组成。众议院全部435个议席都会改选，众议员任期固定为两年。与此同时，参议院100个议席中，有35席亦会进行改选。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c5rmyrm0n8k8o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "冒用“乡村振兴”等名义，8起涉农领域非法集资犯罪典型案例公布",
+          "lead": "近年来，按照公安部部署要求，全国公安经侦部门聚焦“云养经济”、农业项目投资、认养代种等重点领域",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15290132.html"
+        },
+        {
+          "title": "人工智能时代，美中关系将迎来重大变革",
+          "lead": "此次中国之行让我清楚地看到，人工智能已经在重塑美中关系。它正在地缘政治层面拉近两国的距离，与此同时也加剧了双方的贸易分歧。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/opinion/20261103/us-china-ai-manufacturing-exports-weapons/?utm_source=RSS"
+        },
+        {
+          "title": "未步英特尔后尘！AMD Q3营收超预期增45%，数据中心收入近翻倍，Q4指引提速又新高｜财报见闻",
+          "lead": "在AI交易情绪转冷、英特尔股价因疲弱指引遭重挫后，AMD财报交出了市场最想看到的答案：不仅三季度营收和利润全面超预期强劲",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785112"
+        },
+        {
+          "title": "在红州俄亥俄看中期选举：不能说的数据中心，最丑陋的州长选战",
+          "lead": "在曾被特朗普承诺打动的俄亥俄，生活未必好转，选战却愈发丑陋。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261103-international-midterms-in-ohio/"
+        }
+      ],
+      "supplement": {
+        "title": "【大阪线下活动招募】「一物一念」：十个故事，十种理解生活的方式",
+        "lead": "「 一物一念 」上线的一个月来，有许多人留下了自己的故事。 那些故事有的温暖，有的令人沉默。透过参与者的讲述，我们得以短暂地走进他们人生中的某个瞬间，触碰那些原本与我们毫无交集的记忆。 语言是我们理解和解释自身经历的工具，也承载著我们对事件的认识与判断。但随著语言的边界不断拓展，从阅读中获得的理论，到社会学、心理学的概念，再到日常生活中流行的网络用语，我们拥有了越来越多解释自己的方式。",
+        "body": [
+          "「 一物一念 」上线的一个月来，有许多人留下了自己的故事。那些故事有的温暖，有的令人沉默。透过参与者的讲述，我们得以短暂地走进他们人生中的某个瞬间，触碰那些原本与我们毫无交集的记忆。语言是我们理解和解释自身经历的工具，也承载著我们对事件的认识与判断。但随著语言的边界不断拓展，从阅读中获得的理论，到社会学、心理学的概念，再到日常生活中流行的网络用语，我们拥有了越来越多解释自己的方式。这些语言帮助我们辨认感受、理解处境，也让一些原本难以言说的体验有了表达的可能。但我也不禁好奇：当我们越来越习惯借助既有的词语理解自己，会不会也因此忽略了自身经历中那些尚未被概括、难以言说的细节？在收集到的故事中，有人记录了温馨的片刻，也有人讲述了深刻的经历。",
+          "即使只有短短几行字，很难完整呈现一件事的来龙去脉，也难以承载全部的情绪，但仍然能从那些简短的文字中，感受到讲述者当时的喜悦、遗憾，甚至失望。在游戏中，每个人都会得到一个由词语、感受和物件名称组合起来的「生活坐标」。如果把人生想像成一片辽阔的海洋，那么一个词语、一件物品，或许就像海面上的一枚浮标，帮助我们重新找到某段记忆的所在。但浮标标记的只是一个位置，而不是整片海域。它让我们得以回溯某段经历，却无法概括那段经历的全部。而当我真正读到故事时，最初标记在坐标上的词语，似乎又没有那么重要了。它们为叙述者提供了一个入口，却无法预告故事的走向。有些坐标，以完全意外的方式串联起来，读完背后的故事后，却觉得合情合理；",
+          "有些坐标的关联看似符合预期，背后的故事却带来预料之外的情绪。这次，我们从收集到的故事中精选了10个，邀请你走进10段不同的人生记忆。「一物一念」仍在继续。如果你也想从一件物品或一个词语出发，重新讲述自己的生活，欢迎点击 链接 ，留下你的故事。同时，我们也正在招募「一物一念」线下活动的参与者。我们希望让故事不只停留在文字里，也能透过讲述、分享与倾听，继续探索不同经验之间的联系与差异。为什么我们会选择某些词语或物件来表达自己的生活？它们如何帮助我们理解那些原本难以言说的经验？又在哪些时候足够、哪些时候与我们的感受相悖？"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/life-slices-osaka/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/cms_2.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "端傳媒×4",
+          "紐約時報×3",
+          "BBC×3",
+          "華爾街見聞×3",
+          "東方財富×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Spain’s Transport Minister Resigns After Deadly High-Speed Rail Crash",
+        "lead": "Nearly 70 people died in the crash, the second high-speed rail accident in less than a year.",
+        "body": [
+          "Nearly 70 people died in the crash, the second high-speed rail accident in less than a year."
+        ],
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/11/03/world/europe/spain-train-crash-transport-minister-resigns-oscar-puente.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-spain-train-crash-photo-gvlj/03int-spain-train-crash-photo-gvlj-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Graduates are managing AI - but are they learning much else?",
+        "lead": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+        "source": "BBC Business",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d9/live/cc0124d0-cd54-11f1-a64c-550be9e3c66b.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "A Test for Israeli Democracy: Should Jews Ask Arabs to Join the Government?",
+              "lead": "Arab lawmakers give opponents of Benjamin Netanyahu a clear majority in the Parliament. But many Jewish lawmakers are trying to avoid relying on them.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/03/world/middleeast/israel-coalition-arab-lawmakers.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-israel-assess01-photo-gqbw/03int-israel-assess01-photo-gqbw-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "King Charles addresses summit as demands for slavery apology grow",
+              "lead": "Speaking in Antigua, the king did not give explicit support for reparations but said he wanted to ‘address past wrongs’ King Charles has said that deepening his understanding of the horrors of slavery has made him more",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/uk-news/2026/nov/03/king-charles-commonwealth-summit-campaigners-apology-slavery",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/f13d813f4944225d9e3fdd9b53b81ee380e526e0/458_0_4585_3667/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=e3a274eb471db4c17ff19528c8c24639",
+              "consensus": 5
+            },
+            {
+              "title": "U.S. intelligence sharing has fractured under Trump, officials say",
+              "lead": "The disruptions to sharing risk leaving policymakers with an incomplete picture of threats facing the country.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/news/2026/11/04/world/politics/us-intelligence-sharing-trump/",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572168.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Democrats clinch battleground Senate races in Georgia and North Carolina",
+              "lead": "High-stakes midterm election doubles as referendum on Donald Trump’s presidency",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faf918e1d-91b8-46c9-9030-626ce0d158d6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+              "lead": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfad/live/fe845730-d7e3-11f1-8a01-8d54cbcf7487.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Midterm elections could jolt stocks if Democrats sweep Congress",
+              "lead": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Global markets were already fragile. Big AI bets could break them.",
+              "lead": "So far, the multitrillion-dollar spending splurge on artificial intelligence has propelled stock markets to record highs.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/business/2026/11/03/markets/global-markets-ai-bets/",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/03/572041.jpg"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Google will let schools skip AI tools, but they have to give up search, too",
+              "lead": "While Google is trying to move beyond Chromebooks , the ubiquity of these devices has made the company's education products huge in schools.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+              "lead": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "The biggest modding site in PC gaming is taking a stance on AI",
+              "lead": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Football world mourns Tenerife striker De Miguel",
+              "lead": "Tributes were paid across Tuesday's Champions League fixtures to Tenerife striker Jesus de Miguel, who died following collision on the pitch.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35ad/live/c4dd6bc0-d7d4-11f1-a701-fddedf244c16.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Raphinha, Lamal fire Barcelona to 3-0 Champions League win over Aston Villa",
+              "lead": "Barca took early lead through Lamine Yamal before Raphinha continued fine goal-scoring form with a second-half brace.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa?traffic_source=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "consensus": 2
+            },
+            {
+              "title": "Man Utd eye Man City's Ait-Nouri - Wednesday's gossip",
+              "lead": "Manchester City defender Rayan Ait-Nouri a surprise target for Manchester United, Crystal Palace could turn to England assistant boss Anthony Barry if they sack Pierre Sage",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48a5/live/464eefe0-d7ca-11f1-a719-bf3dc3a3d5b5.png"
+            },
+            {
+              "title": "Lionesses to face France and Portugal in Nations League",
+              "lead": "England have been drawn to face France, Austria and Portugal in next year's Women's Nations League.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qxge7zo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d2/live/417598b0-d799-11f1-801d-cf196dc7232c.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Weta FX and TAICCA Partner to Turn Taiwan Into an AI Screen Production Hub for Asia (EXCLUSIVE)",
+              "lead": "Weta FX, the New Zealand visual effects house behind “The Lord of the Rings” and “Avatar,” is teaming with the Taiwan Creative Content Agency (TAICCA) on a plan to turn Taiwan into a center for AI-driven screen",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/markets-festivals/weta-fx-taicca-partner-taiwan-ai-screen-production-hub-1236938968/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2024/05/Screen-Shot-2024-05-10-at-1.08.39-PM.png",
+              "consensus": 5
+            },
+            {
+              "title": "Lucy Liu’s ‘The Pirate Queen’ Expands With Graphic Novel, New Game and International Tour as Creator Eloise Singer Joins BAFTA Breakthrough Cohort (EXCLUSIVE)",
+              "lead": "Lucy Liu and Eloise Singer are preparing to take “The Pirate Queen: No Safe Waters,” their immersive experience about Chinese pirate leader Cheng Shih, on an international tour next year, Singer tells Variety.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/gaming/news/lucy-liu-pirate-queen-graphic-novel-game-tour-1236938962/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/Eloise-Singer-Lucy-Liu.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists discover a surprising clue to autism's origins hidden in the placenta",
+              "lead": "Scientists have uncovered an unexpected connection between inflammation during pregnancy, placental damage, and autism-like traits in male mice, while females appeared naturally protected.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261102202824.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists discover surprising heart benefits of eating avocado and mango every day",
+              "lead": "Eating an avocado and a cup of mango every day may provide surprising benefits for heart health, according to a new study involving adults with prediabetes.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/10/261031221215.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
+              "lead": "A surprising new discovery suggests that fear may cause the brain to blur the line between danger and safety rather than distinguish them more clearly.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "U.S. Assisted Venezuela in Deadly Drone Strike, Officials Say",
+          "lead": "The attack on a drug-trafficking group killed about two dozen people",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html"
+        },
+        {
+          "title": "Spanish transport minister resigns days after deadly train crash",
+          "lead": "At least 69 people were killed and dozens injured in the collision",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Reform UK councillor charged with 12 counts of rape and multiple other offences",
+          "lead": "George Madgwick, party leader on Hampshire county council",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/03/reform-uk-councillor-george-madgwick-charged-12-counts-rape"
+        },
+        {
+          "title": "US strikes Iran’s Qeshm Island on eve of election",
+          "lead": "Oil price steady as Washington says attacks were defensive measure",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Google responds to political backlash over removing search from schools that ban AI",
+          "lead": "After elected officials voiced outrage over Google turning off search",
+          "category": "society",
+          "categoryLabel": "Society",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html"
+        },
+        {
+          "title": "Google lets schools turn off Gemini, but not the AI in search",
+          "lead": "Alphabet, whose Chromebooks are the most widely used laptops in U.S.",
+          "category": "society",
+          "categoryLabel": "Society",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/business/2026/11/04/tech/google-schools-gemini-ai-search/"
+        },
+        {
+          "title": "Chinese scientists discover thickening ground ice in parts of warming Tibet",
+          "lead": "The Tibetan Plateau, home to the world’s largest expanse of alpine",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/china/science/article/3373097/chinese-scientists-discover-thickening-ground-ice-parts-warming-tibet"
+        },
+        {
+          "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+          "lead": "CrowdStrike said it will buy Fiddler AI, which makes AI agent",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/"
+        },
+        {
+          "title": "US Department of Justice expands its probe into Alaska’s US Senate election",
+          "lead": "The Trump administration is doubling down on allegations Democrats",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/4/us-department-of-justice-expands-its-probe-into-alaskas-us-senate-election?traffic_source=rss"
+        },
+        {
+          "title": "Election officials brace for possible Trump interference in the midterms",
+          "lead": "State officials who run US elections braced for possible intervention",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/americas/20261103-how-state-officials-prepared-for-possible-trump-interference-in-the-midterms"
+        },
+        {
+          "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+          "lead": "The l argest crypto theft to date was pulled off by combining some",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained"
+        },
+        {
+          "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+          "lead": "California is accepting $1.42 billion in broadband grant funding from",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/"
+        },
+        {
+          "title": "Park Hoon-jung’s Assassin Noir ‘Tristes Tropiques’ Sells to North America, France, Spain",
+          "lead": "“Tristes Tropiques,” the latest genre outing from “New World” and",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/news/park-hoon-jung-assassin-noir-tristes-tropiques-sales-1236938950/"
+        },
+        {
+          "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
+          "lead": "Europe’s Hera spacecraft has captured its first clear view of two",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm"
+        },
+        {
+          "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+          "lead": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Binance hackers used fake interviews and social media profiles in $6.3bn heist",
+          "lead": "Crypto exchange’s internal investigation reveals the role of human",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/1ed838c0-a525-49bb-b494-15e4d1296791?syn-25a6b1a6=1"
+        }
+      ],
+      "supplement": {
+        "title": "Jennifer Lawrence Quotes ‘The Hunger Games’ While Urging Fans to Vote on Election Day: ‘Don’t Forget Who Burns With Us’",
+        "lead": "Jennifer Lawrence encouraged her 8.7 million Instagram followers to vote on Election Day by channeling her iconic role of Katniss Everdeen from “The Hunter Games.",
+        "body": [
+          "Jennifer Lawrence encouraged her 8.7 million Instagram followers to vote on Election Day by channeling her iconic role of Katniss Everdeen from “The Hunter Games.” The Oscar winner posted a photo of herself on Instagram giving the franchise’s trademark three-finger salute along with the caption: “Midterms [baby].",
+          "Don’t forget who burns with us.",
+          "Go vote.” […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-election-day-voting-1236938876/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/11/MCDHUGA_EC091-1.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 13,
+        "categories": 8,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×4",
+          "Japan Times×3",
+          "紐約時報×2",
+          "Ars Technica×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-04T02:00:34.433Z",
+    "sources": {
+      "configured": 36,
+      "ok": 35,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "豆瓣",
+          "reason": "The operation was aborted due to timeout"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 780,
+        "lang": 435,
+        "fresh": 343,
+        "denoised": 343,
+        "deduped": 326
+      },
+      "en": {
+        "fetched": 780,
+        "lang": 345,
+        "fresh": 330,
+        "denoised": 325,
+        "deduped": 317
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "端傳媒×4",
+          "紐約時報×3",
+          "BBC×3",
+          "華爾街見聞×3",
+          "東方財富×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 13,
+        "categories": 8,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×4",
+          "Japan Times×3",
+          "紐約時報×2",
+          "Ars Technica×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

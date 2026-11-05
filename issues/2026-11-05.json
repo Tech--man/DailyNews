@@ -1,0 +1,912 @@
+{
+  "issue": 52,
+  "date": "2026-11-05",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月廿七 · 霜降",
+    "en": "27th day of the 9th lunar month · Frost's Descent"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "11月5日央行开展2630亿元隔夜逆回购操作",
+        "lead": "中新网11月5日电 据中国人民银行网站消息，2026年11月5日中国人民银行以固定利率、数量招标方式开展了2630亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+        "body": [
+          "中新网11月5日电 据中国人民银行网站消息，2026年11月5日中国人民银行以固定利率、数量招标方式开展了2630亿元隔夜逆回购操作，全额满足了一级交易商需求。",
+          "具体情况如下："
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-05/10726398.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "“特朗普全面惨败”上热搜，世界如何看待美国中期选举？",
+        "lead": "民主党大胜后，世界各地均出现了明显的庆祝情绪，但各国也在谨慎评估，美国的又一次政治剧变将如何影响与伊朗的战争、中美竞争，以及关税等国际事务中的紧迫议题。 Doug Mills/The New York Times 周日，堪萨斯州萨利纳的一场集会后，特朗普总统在走下舞台前向支持者道别。他所属的共和党在中期选举中表现不佳。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/usa/20261105/midterms-trump-foreign-policy-world/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "白宫发帖提示：特朗普仍是美国总统",
+              "lead": "中新网11月5日电 美国白宫官方账号当地时间11月4日在社交媒体发布一张美国总统特朗普的照片，并在照片上提示：“特朗普依然是你们的总统。”",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-05/10726395.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "美国中期选举结果对中国和世界各国意味着什么？",
+              "lead": "民主党在美国中期选举中取得胜利，将在特朗普总统余下的任期内掌控国会，标志着美国政治格局出现重大变化。从乌克兰和中东的冲突，到美国与中国的贸易关系，BBC记者分析这次选举结果对世界其他地区意味着什么。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/ckreyrxvg3xyo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/634f/live/515ba0a0-d887-11f1-ad49-25abedf165e8.jpg"
+            },
+            {
+              "title": "币安称黑客为63亿美元窃案筹备数月",
+              "lead": "币安关于此次攻击的初步报告显示，黑客自今年6月就开始筹备行动，随后利用虚假面试引诱一名币安员工，将被篡改的软件植入对方电脑，再利用人工智能工具侵入钱包系统。 Gabby Jones/Bloomberg 黑客利用一台电脑和一个内部人工智能工具控制了币安钱包团队两名工程师的电脑。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261104/binance-hack-report/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "楼市“银十”收官：京沪新房销售面积实现同比增长 18个重点城市二手房成交量同比增长17.5%",
+              "lead": "每经记者｜包晶晶",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-05/10726379.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "央行今日开展2630亿元隔夜逆回购操作",
+              "lead": "",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15295836.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "参议院易主，白宫无法再安插“自己人”，美联储独立性警报解除？",
+              "lead": "过去两年，美联储独立性承受了罕见压力。白宫曾尝试罢免一位在任美联储理事——这在美联储历史上尚属首次。但随着参议院控制权的更迭，这张牌的效力正在迅速消退。 据追风交易台消息，摩根大通首席经济学家Michael Feroli在11月4日发布的研究报告中指出，参议院的易主将显著降低上述风险。原因很简单： 美联储理事的任命须经参议院批准 ，而现在，白宫的提名必须找到民主党参议员能接受的人选，否则席位只能空置。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3785221",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "欧盟启动欧洲芯片设计平台，以 5.25 亿欧元支持中小型半导体业者发展",
+              "lead": "IT之家 11 月 5 日消息，欧盟委员会当地时间本月 4 日宣布正式启动欧洲芯片设计平台， 欧盟及其成员国将通过 5.25 亿欧元 （IT之家注：现汇率约合 39.39 亿元人民币） 的资金支持新一代欧洲芯片设计公司 。 这一平台将通过三方面支持芯片设计企业：提供芯片设计工具、设计支持服务、知识产权模块以及平台上的制造能力；给予资金支持（概念验证原型开发最高 10 万欧元，芯片开发商业化最高 1,600 万欧元）；",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/022/508.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "旅行者1号再创历史 即将成为首个距离地球“一光日”的人类航天器",
+              "lead": "美国国家航空航天局（NASA）的“旅行者1号”探测器即将迎来又一个历史性里程碑。这艘已经飞行近半个世纪的深空探测器，预计将在未来数周内达到距离地球一光日的位置，成为人类历史上首个与地球相隔整整一天光程的航天器。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/science/1585064.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "早报｜苹果收紧员工Token预算/手机越卖越贵，全球手机出货量降19%/雷军：小米机器人在工厂「实习」8小时",
+              "lead": "苹果收紧员工 AI 预算，部分工程师每日额度从 300 美元降至 200 美元 ChatGPT 新增 GIF 生成，可调播放速度、逐帧修改 彭博调查：69% 中国受访者至少等到明年才换手机 手机越卖越贵：第三季度出货量降 19%，营收反增 3% 校招 10 万起薪被嫌低，张雪：选择是双向的，不能逼我提到 20 万 宇树王兴兴：明年大概率是机器人行业或模型的临界点 雷军分享小米人形机器人「实习」新进展：工厂作业达 8 小时 5 分钟",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1687750?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "以色列中央选举委员会：议会选举不存在舞弊行为",
+              "lead": "中新社北京11月4日电 耶路撒冷消息：当地时间11月4日，以色列中央选举委员会表示，该国日前举行的议会选举中不存在舞弊行为，选举的公正性也未受到损害。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-04/10726163.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "共和党在美国中期选举中惨败的五大原因",
+              "lead": "从选民的不满情绪，到总统本人支持度低迷，本文分析为何传统共和党票仓的美国选民转而支持民主党。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cxyvrz6qrm2lo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af16/live/b7f5b9f0-d84a-11f1-b870-55415e6a9944.jpg"
+            },
+            {
+              "title": "美国中期选举：民主党赢得两院控制权，选民否决特朗普",
+              "lead": "民主党翻转了多个参议院席位，在得克萨斯、堪萨斯、南卡罗来纳等保守派堡垒州获胜，重夺参议院控制权。选民对特朗普的不满重塑了华盛顿的权力平衡。 注：截至北京时间11月4日16时。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261104/midterms-2026-election-day-trump/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 2
+            },
+            {
+              "title": "越来越多伊朗人呼吁发展核武器对抗美国",
+              "lead": "这一诉求过去被视为强硬派中的边缘立场，如今正逐渐进入主流公共讨论。而在民众要求发展核武器的呼声日益高涨之际，伊朗领导人正开展外交努力，以避免与美国重新开战。 Atta Kenare/Agence France-Presse — Getty Images 德黑兰街头的伊朗历任前最高领袖和现任最高领袖阿亚图拉穆杰塔巴·哈梅内伊的画像，摄于本月。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261104/iran-nuclear-weapons-war/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "人工智能时代，美中关系将迎来重大变革",
+              "lead": "此次中国之行让我清楚地看到，人工智能已经在重塑美中关系。它正在地缘政治层面拉近两国的距离，与此同时也加剧了双方的贸易分歧。 Jason Allen Lee",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/opinion/20261103/us-china-ai-manufacturing-exports-weapons/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "从计生到改革开放，中国跨国送养三十年：访国际儿福工作者张雯",
+              "lead": "「如果一个体系开始由成年人的收养需要推动，去寻找、分类甚至制造『可以被收养的孩子』，收养和伤害之间的距离就不远了。」",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261105-mainland-international-adoption-in-china/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/GettyImages-56452436.jpg"
+            },
+            {
+              "title": "北京电影学院院长：表演创作中情感的传递无法用AI替代",
+              "lead": "中新社北京11月4日电 (记者 高凯)2026中国广播电视精品创作大会4日在北京开幕。北京电影学院院长扈强现场受访时谈及影视中的AI创作表示，AI为创作提供新工具，却难以替代基于人与人情感的艺术表达。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-04/10726268.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "亚洲杯延期一年 中东紧张局势如何搅动全球体育赛历",
+              "lead": "亚足联近期正式宣布，原定于2027年1月至2月在沙特阿拉伯举办的亚洲杯，大幅推迟至2027年12月23日至2028年1月举行。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-04/10726332.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "青岛西海岸足球俱乐部辟谣：暂无变更队名、更换主场计划",
+              "lead": "中新网青岛11月4日电 (王禹)青岛西海岸足球俱乐部4日发表声明称，针对近期网络上部分自媒体账号发布的俱乐部将被收购、球队更名及更换主场等相关信息，均未经官方确认。截至目前，该俱乐部暂无变更队名、更换主场的相关计划。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-04/10726249.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "涉案超20亿元！特大养老集资诈骗案经抗诉改判",
+              "lead": "先以“养老基金会”圈钱 再借“预付费养老院”吸金",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-05/10726362.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "政策支持叠加国产替代预期，南方基金旗下恒生科技ETF南方(520570)关注半导体产业机遇",
+          "lead": "截至11月4日收盘，恒生科技指数报3936.02点，涨1.77％；港股通互联网指数报664.39点，涨1.45％；",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15295850.html"
+        },
+        {
+          "title": "聚焦美国中期选举：结果出炉后值得关注的六大问题",
+          "lead": "这场选举将成为对特朗普第二任期议程的全国性公投。民主党在众议院净增三个席位即可获得控制权，参议院的难度则大得多。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/usa/20261104/midterm-elections-trump-democrats-republicans-key-themes/?utm_source=RSS"
+        },
+        {
+          "title": "笃定成为首位穆斯林美国参议员，42岁的赛义德是谁？",
+          "lead": "在密歇根州，民主党候选人阿卜杜勒·赛义德如今将成为美国首位穆斯林联邦参议员。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "A股低开高走，创业板跌2%后拉升转涨1%，光伏、新能源电池爆发，油气股大跌，恒科指暴涨4%，科网股大涨",
+          "lead": "11月5日，A股低开之后高走，三大股指盘初回升，深成指、创业板纷纷翻红，科创综指、科创50亦低开高走，早盘涨幅超过2%。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785230"
+        },
+        {
+          "title": "启元 T1 机器人首次 OTA 明日推送：智能识别楼梯并自动变形、远程音视频通话",
+          "lead": "IT之家 11 月 5 日消息，启元 T1 机器人首次 OTA 将于明日开启推送，新增支持智能识别楼梯并自动变形、远程音视频通话等。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/022/530.htm"
+        },
+        {
+          "title": "DuckDuckGo借Google AI争议进军校园市场",
+          "lead": "在Google最新教育产品政策引发广泛争议后，主打隐私保护的搜索引擎DuckDuckGo迅速抓住机会，开始积极向美国各地学校推广自身服务",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1585062.htm"
+        },
+        {
+          "title": "【华尔街日报】中国一家地方银行如何成为伊朗俄罗斯的资金流转通道",
+          "lead": "编按：《华尔街日报》是全球最具影响力的财经媒体之一，每日产出大量深度报导，涵盖国际政治、商业财经与科技趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261105-wsj-china-bank-russia-iran-sanctions-evasion/"
+        },
+        {
+          "title": "A股热点前瞻丨20家单位联合发布智能体发展自律公约；王兴兴预判明年或是机器人行业临界点",
+          "lead": "①智能体发展自律公约发布，产业迈向规范化发展； ②王兴兴预判明年或是 机器人 行业临界点，具身智能打开AI新空间；",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/11874,202611053922636861.html"
+        },
+        {
+          "title": "Nexus Mods 公布 AI 生成内容政策",
+          "lead": "最大 PC 游戏 Mod 分享托管平台 Nexus Mods 公布了 AI 生成内容政策。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85794"
+        },
+        {
+          "title": "实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点",
+          "lead": "就在刚刚，随着 iOS 27.3 开发者测试版更新，我们苦等两年多的苹果智能，终于向国内用户开放测试了！",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1687733?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
+          "lead": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "少數派",
+          "link": "https://sspai.com/post/118498"
+        },
+        {
+          "title": "戏剧性与日常性之间——论杨德昌《一一》的生活真实感 (评论: 一一)",
+          "lead": "许鸟 评论: 一一 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17887826/"
+        },
+        {
+          "title": "半导体板块短线拉升，先导基电涨停",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15295995.html"
+        },
+        {
+          "title": "捕蛇但不杀蛇：曼谷头号捕蛇人的难题",
+          "lead": "曼谷的消防和救援人员每年约捕获3万条蛇，消防员抓蛇的时间远多于灭火。消防员宾约每个班次要抓捕20多条蛇，但他不会杀死它们。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/asia-pacific/20261104/snake-catcher-bangkok-thailand/?utm_source=RSS"
+        },
+        {
+          "title": "「我在横店当王妃」：中国兴起短剧体验游",
+          "lead": "穿上古装、化身皇帝或妃嫔，亲自出演一场宫廷大戏。在中国「好莱坞」，游客不再只是旁观者，而是能过一把当主角的瘾。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/watch/c6n9rwjvvggjo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "民主党横扫国会，科技巨头市值单日暴增近万亿美元",
+          "lead": "美国民主党在国会两院选举中取得压倒性胜利，市场随即将这一政治格局的转变解读为科技巨头疯狂AI军备竞赛走向终结的信号",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785229"
+        }
+      ],
+      "supplement": {
+        "title": "美国期中选举速览：民主党「蓝色浪潮」大胜，缔造多项历史｜Whatsnew",
+        "lead": "11月2日晚，美国期中选举前夕，纽约知名公共剧场（Public Theater）正上演一出发生在11月3日投票日晚上的话剧《We'll See》。剧中，一群好友试图在晚餐桌上避谈政治，却终究无法回避战争、总统特朗普与日益撕裂的美国社会。 在纽约生活了40多年的Jack看完戏后表示，这就是他如今真实的生活。",
+        "body": [
+          "11月2日晚，美国期中选举前夕，纽约知名公共剧场（Public Theater）正上演一出发生在11月3日投票日晚上的话剧《We'll See》。剧中，一群好友试图在晚餐桌上避谈政治，却终究无法回避战争、总统特朗普与日益撕裂的美国社会。在纽约生活了40多年的Jack看完戏后表示，这就是他如今真实的生活。",
+          "他已经受够了美国社会的政治分化，如果第二天民主党无法赢得选举，他便考虑搬离美国，因为他无法再忍受接下来的两年，「对社会分裂的焦虑、对自由价值的退让，已经太久了。」 然而，24小时后，美国选民交出了一份超乎预期的选举结果。11月3日美国期中选举，民主党掀起「蓝色海啸」，夺回国会两院控制权，更在德州、堪萨斯等传统共和党票仓接连翻转席位。",
+          "德州上一次选出民主党联邦参议员要追溯至1988年，堪萨斯州则是1932年，将近一个世纪以前。美国民主、共和两党在伊朗战争、社会福利、移民政策及性别权益等议题上，均存在明显分歧，这场选举将重新改写美国未来两年的政治局势，也为2028年总统大选埋下变数。从联邦国会到州长，「蓝色海啸击溃MAGA运动」"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261102-whatsnew-2026-us-midterm-election-results/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/RC2RGOAU1U5B.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "BBC×2",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "US midterm elections 2026 live: Democratic lead grows in Mississippi Senate race as Republican blame game begins",
+        "lead": "Scott Colom leads Republican Cindy Hyde-Smith by 1,138 votes with 96% of the vote counted – a small but growing margin Live results | Republican losses mapped",
+        "body": [
+          "Scott Colom leads Republican Cindy Hyde-Smith by 1,138 votes with 96% of the vote counted – a small but growing margin Live results | Republican losses mapped Tell us: how do you feel about the midterm results?",
+          "Sign up for Breaking News US email Wall Street surged at the open, after Democrats scored historic victories in midterm elections and secured control of US Congress. The Dow Jones rose 2%, while the tech-heavy Nasdaq and the benchmark S&P 500 both gained more than 1%.",
+          "That’s quite a reversal: Overnight, stock futures fell sharply as investors worried about the prospect of tougher regulation of the AI sector and the impact on economic growth. Continue reading..."
+        ],
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/4df18077e6ef6dbd140ed398cd00e92926713dc6/312_0_4859_3888/master/4859.jpg?width=140&quality=85&auto=format&fit=max&s=833f341739064bf50a2b68cc1d779bc5",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "US midterm results herald upheaval in Middle East policy",
+        "lead": "American voters — including vice-president JD Vance — want an end to Trump’s Iran war and Washington’s proximity to Israel",
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/3dee82bf-3bbe-4075-8bfd-4001ddb689ae?syn-25a6b1a6=1",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0f17344e-5547-40fb-a0e7-35ad6a65ed22.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Israel's president begins consultations with parties after election deadlock",
+              "lead": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
+              "source": "BBC News",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc51/live/4104b7f0-d869-11f1-93e1-3b657b665bcf.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Israel’s President Could Play Key Role in Breaking Post-Election Deadlock",
+              "lead": "President Isaac Herzog has tried to avoid controversy and heal rifts in his largely ceremonial role. But his skills as a savvy mediator could be instrumental after an inconclusive election.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-herzog-gbcw/04int-israel-herzog-gbcw-mediumSquareAt3X-v2.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Food grown in illegal West Bank settlements being sold in Australia as ‘produce of Israel’",
+              "lead": "Analysis by human rights organisation Global Echo shows 85 of 132 shipments over eight years contained more than US$5m of organic dates grown in settlements Get our breaking news email",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/be71b877cb2e8bb55e4cec8626f019ed8ed04805/3223_1601_4272_3418/master/4272.jpg?width=140&quality=85&auto=format&fit=max&s=c78e9f33cabf7e7c50d03b0b1ef6e9a8",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "US stocks post best day since August after Democrats sweep midterms",
+              "lead": "Hyperscalers surge and chipmakers fall as investors bet on winners and losers from expected backlash against the AI boom",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F95727e3e-c10e-46d8-9783-d35ab3fad80f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Interest rates expected to rise for first time in over three years",
+              "lead": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+              "lead": "The next debt-ceiling confrontation could reverse Washington's traditional political roles, raising the possibility of spending concessions, market volatility and a damaging default.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Japanese stocks sink as U.S. midterm results hit tech shares",
+              "lead": "The tech-heavy Nikkei 225 declined as much as 4.8%, with chip and AI-related shares slumping more than 13% and among the worst performers.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/business/2026/11/04/markets/japan-stocks-sink/",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572229.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+              "lead": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+              "lead": "For years, the AI industry's insatiable demand for memory and storage has had plenty of knock-on effects on the price and availability of PC components like RAM , SSDs , and GPUs .",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Nothing teases a screen-free AI device ahead of launch next month",
+              "lead": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Burrage receives support after online death threats",
+              "lead": "Britain's Jodie Burrage is receiving support from WTA staff at an event in India after being sent death threats on social media.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/tennis/articles/cw073lpllk43o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ec8/live/c1b3bb20-d879-11f1-a364-a1fce50dd192.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Champions League: Real Madrid seal late comeback as Liverpool lose to Fenerbahce",
+              "lead": "Real Madrid maintained their perfect Champions League record as Federico Valverde’s stoppage-time strike secured a 3-2 comeback win at AEK Athens on Wednesday.",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/sport/20261104-champions-league-real-madrid-comeback-liverpool-fenerbahce",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://s.france24.com/media/display/7394906c-d889-11f1-a2e1-d18c5759e759/w:1024/p:16x9/59cca8cf697732ef2e207385238d87640ec92383.jpg",
+              "consensus": 2
+            },
+            {
+              "title": "Why Iraola's Liverpool are still a work in progress",
+              "lead": "Champions League analyst Stephen Warnock and Guillem Balague believe Liverpool's defensive weaknesses combined with the experimentation of playing Bradley Barcola up front",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/c9rky37kx37lo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac7/live/f5f391e0-d8a5-11f1-a701-fddedf244c16.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Pixar Names Jonathan Garson as President; Jim Morris Moves to Emeritus Role",
+              "lead": "Pixar Animation Studios is set to undergo a leadership change, After serving as president for 12 of his 21 years at the studio, Jim Morris will transition to a president emeritus role.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/pixar-jim-morris-president-emeritus-jonathan-garson-president-1236939816/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/morris-garson.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "‘Sister Brother Manhole Cover’ wins top prize at Tokyo International Film Festival",
+              "lead": "Directed by Milcho Manchevski, the film took the Tokyo Grand Prix, earning top honors among 15 entries in the Competition section.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/culture/2026/11/04/entertainment-news/tiff-closing-film-tokyo/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572313.jpg"
+            },
+            {
+              "title": "UFC’s Event Sellout Spree Powers TKO Q3 Earnings",
+              "lead": "UFC had the wind at its back in the third quarter with a string of sellout events that pushed revenue and adjusted earnings for the league’s parent company, TKO, to new heights.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/biz/news/ufc-apex-tko-wwe-img-1236939730/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2296155260-e1793827320785.jpg"
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
+              "lead": "Stanford researchers have discovered an AI-identified natural molecule that dramatically suppresses appetite and promotes fat loss in animals",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Nasa’s 22-year-old Swift satellite telescope falls from orbit in fiery finale",
+              "lead": "Nasa’s Swift satellite ⁠telescope, which spent two decades studying the most powerful known blasts of energy in the cosmos, tumbled out of orbit as expected on Wednesday and burned up in Earth’s atmosphere over Indonesia",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/world/united-states-canada/article/3373323/nasas-22-year-old-swift-satellite-telescope-falls-orbit-fiery-finale",
+              "category": "science",
+              "categoryLabel": "Science",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/05/3172d4f3-36db-458d-95a9-e2423bdb6d31_c8681782.jpg?itok=lMxY5FdV&v=1793835983",
+              "consensus": 2
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Former police officer Beau Lamarre-Condon enters witness box in Sydney double murder trial",
+          "lead": "Lamarre-Condon gives evidence in court after pleading not guilty to",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb"
+        },
+        {
+          "title": "‘Cartwheels’ in Canada after Trump punished in US midterm elections",
+          "lead": "Voters’ repudiation of Republican agenda seen as a ‘victory’ for",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/026cf61a-3e15-4d0e-bdb5-050fe005b725?syn-25a6b1a6=1"
+        },
+        {
+          "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+          "lead": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "After 3 Months Lost at Sea, Five Survivors Are Rescued on Remote Island",
+          "lead": "A boat in Micronesia went missing in July. This weekend",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/04/world/asia/micronesia-boat-survivors-found.html"
+        },
+        {
+          "title": "Almost no one uses AI agents to book their Uber, company says",
+          "lead": "During its busiest week last quarter, Uber said only four people",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/"
+        },
+        {
+          "title": "Historic firsts redraw US political map in 2026 midterm elections",
+          "lead": "The 2026 US midterms delivered a wave of historic firsts for women",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/historic-firsts-redraw-us-political-map-in-2026-midterm-elections?traffic_source=rss"
+        },
+        {
+          "title": "US midterms: Iran's deputy parliament speaker reacts to Trump's elections setback",
+          "lead": "First Deputy Speaker of the Parliament of Iran Ali Nikzad on",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/video/20261104-us-midterms-iran-s-deputy-parliament-speaker-reacts-to-trump-s-elections-setback-1"
+        },
+        {
+          "title": "What the Democratic U.S. midterm sweep means for climate and clean energy",
+          "lead": "After a historic election win Tuesday, Democrats are expected to step",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/environment/2026/11/05/democrat-midterm-climate-clean-energy/"
+        },
+        {
+          "title": "Stocks making the biggest moves after hours: Coherent, AppLovin, Expedia, Qualcomm and more",
+          "lead": "These are the stocks posting the largest moves after hours.",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/04/stocks-making-the-biggest-moves-after-hours-cohr-app-expe-more.html"
+        },
+        {
+          "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+          "lead": "With smartphone sales tanking by around 20 percent compared to 2025",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
+        },
+        {
+          "title": "Hackers exploited iOS and Android flaws to infect phones",
+          "lead": "Hackers possibly linked to the Kremlin exploited previously patched",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/"
+        },
+        {
+          "title": "‘The Pitt’ and ‘ER’ Are Similar Enough to Allow Crichton Suit, Appeals Court Rules",
+          "lead": "An appeals court ruled on Wednesday that “The Pitt” is similar enough",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/tv/news/the-pitt-noah-wyle-crichton-lawsuit-1236939852/"
+        },
+        {
+          "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+          "lead": "For nearly 90 years, scientists believed magnetism fell into just two",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm"
+        },
+        {
+          "title": "Democratic wave keeps US wealth taxes on the agenda despite California setback",
+          "lead": "Proposition 40 billionaire tax set to be defeated in a rare victory",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/c701ac0d-0ef4-426f-a629-e38ed29d5260?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+          "lead": "Musk spent nearly $500m in the 2026 US midterm elections",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "BBC Business",
+          "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+          "lead": "AI industry PACs spent millions influencing the 2026 midterms",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/"
+        }
+      ],
+      "supplement": {
+        "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
+        "lead": "MIT scientists have challenged two decades of conventional thinking by discovering that flexible molecular connections, rather than rigid ones, can unlock entirely new ways to arrange nanoparticles.",
+        "body": [
+          "MIT scientists have challenged two decades of conventional thinking by discovering that flexible molecular connections, rather than rigid ones, can unlock entirely new ways to arrange nanoparticles.",
+          "The breakthrough could lead to a new generation of designer materials with unusual properties and applications in electronics, medicine, and energy."
+        ],
+        "source": "ScienceDaily",
+        "group": "ScienceDaily",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
+        "category": "science",
+        "categoryLabel": "Science",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 20,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Japan Times×3",
+          "TechCrunch×3",
+          "Variety×3",
+          "ScienceDaily×3",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-05T02:02:43.510Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 801,
+        "lang": 455,
+        "fresh": 369,
+        "denoised": 369,
+        "deduped": 356
+      },
+      "en": {
+        "fetched": 801,
+        "lang": 346,
+        "fresh": 321,
+        "denoised": 318,
+        "deduped": 317
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "BBC×2",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 20,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Japan Times×3",
+          "TechCrunch×3",
+          "Variety×3",
+          "ScienceDaily×3",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

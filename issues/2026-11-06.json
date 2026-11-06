@@ -1,0 +1,909 @@
+{
+  "issue": 53,
+  "date": "2026-11-06",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月廿八 · 霜降",
+    "en": "28th day of the 9th lunar month · Frost's Descent"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "工信部：加强智能体终端设备进网管理",
+        "lead": "中新网11月6日电 据工业和信息化部网站消息，工业和信息化部办公厅近日发布《关于加强智能体终端设备进网管理的通知》(以下简称通知)。通知要求，改进智能体终端进网管理。开展风险评估，完善电信设备进网检测机制，细化特别规定事项要求。预置智能体的手机、平板、可穿戴设备等智能体终端，须在进网检测中依据有关标准开展智能体适配验证；",
+        "body": [
+          "中新网11月6日电 据工业和信息化部网站消息，工业和信息化部办公厅近日发布《关于加强智能体终端设备进网管理的通知》(以下简称通知)。",
+          "通知要求，改进智能体终端进网管理。开展风险评估，完善电信设备进网检测机制，细化特别规定事项要求。",
+          "预置智能体的手机、平板、可穿戴设备等智能体终端，须在进网检测中依据有关标准开展智能体适配验证；依法开展智能体终端涉诈风险安全评估和反诈能力前置性评测，落实重要通信工作要求。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-06/10727035.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "中国阻止软银以54亿美元收购ABB机器人业务",
+        "lead": "瑞士-瑞典工业公司ABB表示，将其机器人部门出售给软银的交易遭到中国监管机构否决。此举表明中国正采取更为强硬的方式审查涉及关键技术和敏感行业的外国企业交易。 Moritz Hager/Reuters 中国是ABB最大的机器人业务市场，该公司为中国客户生产的机器绝大部分在当地制造。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/business/20261106/softbank-robotics-china-block/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "弘扬科学家精神·大家小事丨于敏：纸带上揪出的故障",
+              "lead": "科技日报记者 王迎霞",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-06/10727052.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "众议院领导人要求黄仁勋出席简报会，说明与中国高管往来",
+              "lead": "三名共和党领导人要求黄仁勋自愿出席闭门简报会，说明他与一名中国高管的往来。此前时报报道，黄仁勋与该高管关系密切，此人被认定向中国情报机构输送信息。 Manuel Orbegozo for The New York Times 要求英伟达首席执行官黄仁勋出席简报会标志着共和党国会领导层态度的转变——此前他们对科技行业大多采取放任态度。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261106/house-republicans-nvidia-jensen-huang-china/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "黄之锋勾结罪国安案：重判10年，料出狱已届40岁",
+              "lead": "香港民主派活动人士黄之锋原有望于数月内获释，但最新的10年判刑使他要继续服刑到2036年，出狱时或已年届40岁。法律学者分析，案件反映《香港国安法》或可被「反复动用」，令特定政治犯持续留在狱中。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cm5ynepe9578o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d27/live/882ecf10-d848-11f1-b870-55415e6a9944.jpg"
+            },
+            {
+              "title": "美国中期选举结果对中国和世界各国意味着什么？",
+              "lead": "民主党在美国中期选举中取得胜利，将在特朗普总统余下的任期内掌控国会，标志着美国政治格局出现重大变化。从乌克兰和中东的冲突，到美国与中国的贸易关系，BBC记者分析这次选举结果对世界其他地区意味着什么。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/ckreyrxvg3xyo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/634f/live/515ba0a0-d887-11f1-ad49-25abedf165e8.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "价格不再是壁垒，只是入场券？万元级人形机器人迎来“真交付”新竞赛",
+              "lead": "每经记者｜温梦华 温沐夏",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-06/10727016.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "美联储鹰声再起！Hammack称利率需升至限制性水平，倾向于更频繁、小幅加息",
+              "lead": "美联储官员释放鹰派信号，主张以更频繁的小幅加息对抗持续超标的价格压力。 克利夫兰联储主席Beth Hammack周四表示， 货币政策需要转向限制性立场，才能及时将通胀拉回2%目标。她同时指出，通胀已连续近六年高于目标，价格压力具有广泛基础，受供需双重因素驱动。 Hammack上周是两位在利率决议中投出异议票的联储官员之一。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3785299",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "韩国股市今年第11次触发熔断",
+              "lead": "韩国综合股价指数（KOSPI）今天（11月6日）暴跌，跌幅超过8%，触发熔断机制，暂停交易20分钟。这是韩国有价证券市场今年第11次触发熔断。熔断解除之后，有价证券市场触发暂停程序化交易卖单的临时停牌机制。KOSPI自今年2月6日以来再次失守5000点，据分析，在美国民主党赢得中期选举的背景下，市场担忧人工智能数据中心项目将面临监管风险，导致美国股市遭遇科技股大抛售，KOSPI受此影响大跌。（CCTV国际时讯）",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15301598.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "三星 SDS 龟尾 AI 数据中心动工，为三星系机器人业务提供算力支持",
+              "lead": "IT之家 11 月 6 日消息，三星系 IT 解决方案和服务提供商三星 SDS 当地时间本月 2 日宣布，其位于韩国庆尚北道龟尾市的 新 AI 数据中心项目破土动工 。 这座数据中心采用风冷 + 水冷混合散热布局， 支持新一代 GPU 服务器在内的各类 AI 系统 。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/023/080.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "芯片股惨遭重挫 华尔街迎来1896年以来中期选举后表现最差的第二个交易日",
+              "lead": "中期选举带来的美股狂欢仅维持了一天。周四芯片股遭到猛烈抛售；自 1896 年道指诞生至今的数据显示，道琼斯工业平均指数正迎来中期选举过后表现最差的第二个交易日。纳斯达克综合指数仅仅用时六分钟，就回吐了大选之后的全部涨幅，随后抛售进一步加剧。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1585174.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+              "lead": "首款触屏 MacBook Pro 今日发售，M6 款同步开卖 OpenAI 发布 GPT-6 Cyber，首批开放给获批的安全团队 DeepSeek Harness 单日活跃用户达 154 万，团队拟建官方插件市场 丰田将设立直属机器人部门，由首席生产官兼任负责人 Claude Code 前产品负责人加入 OpenAI，掌管核心产品 三季度全球 DRAM 营收逼近 2000 亿美元，价格上涨是主因 全球平板出货创近三年新低",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1688032?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "第十四届慕尼黑华语电影节开幕",
+              "lead": "中新社柏林11月5日电 慕尼黑消息：当地时间5日晚，由慕尼黑孔子学院主办的第十四届慕尼黑华语电影节在慕尼黑市立图书馆开幕。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-06/10726991.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "从蔡康永、《VIVANT》到姆巴佩：北京为何区别处理「辱华」事件？",
+              "lead": "最近几周，中国舆论场接连出现多宗被贴上「辱华」标签的争议事件：台湾艺人蔡康永、日本电视剧《VIVANT》以及法国球星姆巴佩。三宗事件看似性质相近，但官方反应与舆论热度却明显不同，多位分析人士对BBC中文指出：这些差异背后是当局对于每个事件的定性并不相同。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6gm0rdzm0rdo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/744d/live/a1131d00-d8e9-11f1-8a29-751f921d505b.jpg"
+            },
+            {
+              "title": "特朗普的新身份：跛脚鸭总统",
+              "lead": "特朗普称愿与民主党人合作，同时强调自己拥有否决权。民主党人誓言调查政府滥权行为及总统亲信涉嫌腐败等问题，这种政治压力可能让美国在未来两年中充满不可预测性。 Doug Mills/The New York Times 在共和党于中期选举中遭遇惨败后，特朗普总统是否会采取务实的谈判姿态与民主党达成协议，目前尚不得而知。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261105/trump-new-role-lame-duck/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "“特朗普全面惨败”上热搜，世界如何看待美国中期选举？",
+              "lead": "民主党大胜后，世界各地均出现了明显的庆祝情绪，但各国也在谨慎评估，美国的又一次政治剧变将如何影响与伊朗的战争、中美竞争，以及关税等国际事务中的紧迫议题。 Doug Mills/The New York Times 周日，堪萨斯州萨利纳的一场集会后，特朗普总统在走下舞台前向支持者道别。他所属的共和党在中期选举中表现不佳。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261105/midterms-trump-foreign-policy-world/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "何以中国｜红山曙光映照朝阳烟火日常",
+              "lead": "11月2日，由中央网信办网络传播局指导、辽宁省委网信办主办的“何以中国·对话红山”网上重大主题宣传引导活动在辽宁省朝阳市启动。在这几天的走访中，记者感受到，红山文化不仅陈列在博物馆的展柜里，也融入了朝阳的日常烟火中。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-06/10727054.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "台湾选举漫游录：非蓝非绿的政治是如何形成的？",
+              "lead": "编按：读者好，我是端传媒总编辑陈婉容。台湾九合一选举到来前的三个月，端编辑部一群同事聚在一起讨论今年的选举报道。作为工作小组中唯一的非台湾人，我在会上提出了一堆「局外人」问题：其实台湾的原乡为甚么这么「蓝」？花莲为甚么能让同一个家族长期执政？地方选举里，两岸和国家认同还重要吗？还是大家其实只关心垃圾车和道路上的坑坑洞洞？这才发现即使是台湾人，也不一定知道台湾地方政治的眉眉角角。 「台湾选举漫游录」系列，就是沿著这些朴素但认真的好奇展开的。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261106-taiwan-election-travelogue-meinong/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/2711_---------_------------_------.png"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "北京男女排新阵容出征新赛季排超联赛",
+              "lead": "中新网北京11月5日电(记者 国璇) 北京越野男排、北京北冰洋女排5日在北京市木樨园体育运动技术学校举行2026-2027中国排球超级联赛新赛季出征仪式。两支队伍均以年轻队员为主，并引入了多名新外援。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-05/10726946.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "第十届中国职工足球联赛总决赛柳州开赛 36支球队同场竞技",
+              "lead": "中新网柳州11月5日电 2026年第十届“中国足球发展基金会-上汽通用五菱杯”中国职工足球联赛(中国企超)全国总决赛4日在广西柳州拉开帷幕。这也是中国企超全国总决赛首次落户广西。揭幕战中，上汽通用五菱1:0战胜广西投资集团。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-05/10726509.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "微信群里，新就业群体的诉求被精准“打捞”、快速落实",
+              "lead": "让劳动者的声音被听见、难处有着落、价值被看见",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-06/10726983.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "共和党惨败之夜：美国中期选举结果八大要点",
+          "lead": "民主党在中期选举中取得压倒性胜利，不仅重夺两院控制权，还在一些深红选区取得突破。马斯克的巨额资金未能扭转局势。公众明确授权对总统权力进行制衡。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/usa/20261105/election-takeaways-democrats-win/?utm_source=RSS"
+        },
+        {
+          "title": "芯片股遭“血洗”：美股经历过山车式暴跌，纳指 6 分钟抹平 2026 中期选举选后涨幅",
+          "lead": "IT之家 11 月 6 日消息，雅虎财经今天（11 月 6 日）发布博文，报道称美国中期选举带来的美股狂欢仅维持了一天",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/023/061.htm"
+        },
+        {
+          "title": "政策强化债券发行定价监测治理，30年国债ETF鹏扬(511090)早盘拉升",
+          "lead": "2026年11月6日，截至09:48，30年国债ETF鹏扬(511090)上涨0.22%，规模方面",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15301561.html"
+        },
+        {
+          "title": "科技股“血洗”后，Anthropic IPO面临危机：还值1.5万亿美元吗？还应该此刻上市吗？",
+          "lead": "AI明星公司Anthropic正面临上市计划的重大考验。在中期选举后两天的科技股暴跌中，纳斯达克综合指数成分股单日蒸发2.5万亿美元市值",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785326"
+        },
+        {
+          "title": "白宫视频使用《塞尔达传说：时之笛》画面及实际音乐",
+          "lead": "白宫再次在政治传播内容中使用电子游戏素材，这次涉及《塞尔达传说：时之笛》。相关视频采用了游戏的实际音乐",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/game/1585214.htm"
+        },
+        {
+          "title": "前央视节目主讲人程万军在台寻求庇护未果 被送返泰国",
+          "lead": "程万军随后在网上发布影片，指控台湾执法人员在遣返过程中使用暴力。移民署则称，他在登机时激烈抗拒并有自伤行为",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/ck1l36yzrq75o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "总编周记：我们到底活在一个怎样的时代？",
+          "lead": "读者好： 不久前看到一个说法，觉得有点意思：在第一次世界大战时活著的人，全然不知自己身处「第一次世界大战」的时代。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261106-notes-from-eic-resident-columnist-phase-2/"
+        },
+        {
+          "title": "白宫网络监测到住宅代理活动",
+          "lead": "安全公司 Layer3 Intel 报告，他们在分配给白宫的自治系统 AS2650 中监测到住宅代理服务的活动。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85806"
+        },
+        {
+          "title": "通胀高烧不退！美联储两名官员力挺渐进式加息",
+          "lead": "美联储两名官员周四先后表示，面对持续高于目标水平的通胀，美联储应采取幅度较小、节奏平稳的加息路径。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://forex.eastmoney.com/news/1131,202611063923935216.html"
+        },
+        {
+          "title": "[分享创造] 经典电影台词，学英语， WEB 版已开源， docker 部署，即开即用！",
+          "lead": "在线体验直达地址： https://piclex.v2fy.com/piclex-web/#/deck/b33417a7-0f7e-4081",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1254876#reply1"
+        },
+        {
+          "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+          "lead": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。 查看全文",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "少數派",
+          "link": "https://sspai.com/post/118587"
+        },
+        {
+          "title": "如果苦难有一个轮廓 (评论: 可能的爱)",
+          "lead": "Darkbadlands 评论: 可能的爱 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17889754/"
+        },
+        {
+          "title": "特朗普如何将“一手好牌打得稀烂”",
+          "lead": "特朗普在2024年大获全胜，2025年仍保持着不错的支持率。但在今年，由于虚荣、不稳定和愚蠢的交织，他将胜利的果实变成了失败的苦酒。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/opinion/20261105/trump-midterms-republicans/?utm_source=RSS"
+        },
+        {
+          "title": "金饰克价调整节奏不一：周生生下调12元，老庙、周大福较昨日持平",
+          "lead": "11月6日，国内黄金饰品价格对比显示，多家黄金珠宝品牌公布的境内足金首饰价格较昨日有所调整，老庙黄金报价1225元/克，较昨日持平；",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15301597.html"
+        },
+        {
+          "title": "科技股抛售潮席卷亚太股市，韩股暴跌近9%触发熔断，日经跌破6万点、步入技术性熊市",
+          "lead": "美国中期选举民主党大胜引发人工智能监管收紧忧虑，科技股遭遇剧烈抛售，冲击波迅速蔓延至亚太市场。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785315"
+        },
+        {
+          "title": "他们在等西西弗斯：黄之锋身后，那些写信和探监的前战友",
+          "lead": "香港民主派活动人士黄之锋被控违反中国《香港国安法》下的「串谋勾结外国势力危害国家安全」罪，被判囚10年。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c6zxz94yzngpo/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "supplement": {
+        "title": "一年内两起重大事故，西班牙「高铁奇迹」为何失速？",
+        "lead": "10月28日早上，西班牙发生了本国历史上伤亡最惨重的高铁事故。 一列从马德里开往塞维亚的 Renfe AVE 2080 次高铁列车，在小镇乌尔达（Urda）附近，从后方撞上一列停在同一条轨道上的 Iryo 列车。Iryo 的最后两节车厢被撞出轨道，跌落路旁。据报导，Iryo 当时正因列车控制系统 LZB 故障而停车。截至10月30日，官方公布的死亡人数为69人，另有约70人被通报失踪。 这已经是西班牙今年第二场高铁悲剧。",
+        "body": [
+          "10月28日早上，西班牙发生了本国历史上伤亡最惨重的高铁事故。一列从马德里开往塞维亚的 Renfe AVE 2080 次高铁列车，在小镇乌尔达（Urda）附近，从后方撞上一列停在同一条轨道上的 Iryo 列车。Iryo 的最后两节车厢被撞出轨道，跌落路旁。据报导，Iryo 当时正因列车控制系统 LZB 故障而停车。截至10月30日，官方公布的死亡人数为69人，另有约70人被通报失踪。",
+          "这已经是西班牙今年第二场高铁悲剧。时间倒回1月，西班牙铁路经历了被称为「黑色一周」的一连串事故。首先是1月18日晚上，一列从马拉加开往马德里的 Iryo 列车，在科尔多瓦省阿达穆斯（Adamuz）车站入口处出轨，最后两节车厢侵入相邻轨道，与迎面驶来、开往韦尔瓦的 Renfe Alvia 列车相撞。Alvia 的车厢跌下约四公尺高的路堤，事故最终夺走46条人命。仅仅两天后，一列 Rodalies 通勤列车撞上一堵被暴雨冲垮、倒在轨道上的挡土墙，一名28岁的实习驾驶员丧生，数十人受伤。",
+          "同一天，加泰隆尼亚还有另一列 Rodalies 出轨。在今年之前，西班牙高铁几乎是安全与现代化的同义词。从1992年为塞维亚世博会开通第一条 AVE 起，三十多年来，西班牙建成了规模仅次于中国的高铁网，班次密、票价亲民，是西班牙人引以为傲的国家名片，也是不少国家取经的对象。不料仅仅在过去十个月中，同一条路线在一年内两度酿成惨剧，罹难者超过110人，还有数十人下落不明。这是偶发的故障？还是系统性的沉疴？"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261106-international-spain-high-speed-train-collision-explainer/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/AP26301648643253.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 17,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "BBC×3",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
+        "lead": "The president of the South American nation, Santiago Peña, has apologized for failing to prevent its worst financial crisis in decades.",
+        "body": [
+          "The president of the South American nation, Santiago Peña, has apologized for failing to prevent its worst financial crisis in decades."
+        ],
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-paraguay01-photo-lmhv/05int-paraguay01-photo-lmhv-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+        "lead": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/a77eebbaa9a34c6ba08a7521d0b9d7e55650da11/1666_5_3949_3159/master/3949.jpg?width=140&quality=85&auto=format&fit=max&s=e82620f109a326e6d5b5cff3740166e3",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+              "lead": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results | Q&A",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b74039ecbc2c295778c2b38eb576a99d",
+              "consensus": 5
+            },
+            {
+              "title": "Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition.",
+              "lead": "President Isaac Herzog wrapped up two days of talks with party leaders by saying he will ask one of them on Sunday to try to assemble a governing coalition.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-israel-party-vote-photo-hjzq/05int-israel-party-vote-photo-hjzq-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Bank collapse takes down a president and Trump ally in Paraguay",
+              "lead": "The turmoil marks a tectonic shift for the South American nation after projecting its stability to world leaders and foreign investors for years.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/news/2026/11/06/world/politics/paraguay-president-collapse/",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/572625.JPG",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Global stocks tumble as Democratic midterm sweep sparks AI rout",
+              "lead": "Investors fear newly elected US politicians will seek to slow data centre development in blow to tech stocks and AI boom",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe9415b57-2840-467d-a092-a77ba3cf3ce4.png?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Interest rates hiked to 4% in first increase in over three years",
+              "lead": "Most analysts expected the increase from 3.75% to 4%.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Banks are turning cautious on lending, according to the Fed. What it means for the economy",
+              "lead": "The Fed’s October bank lending survey shows tighter standards for small firms and commercial real estate, while subprime borrowers face tougher credit.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/05/fed-bank-lending-standards-small-business.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+              "lead": "Elon Musk's Tesla and SpaceX lose $420 billion in combined market cap after midterms",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+              "lead": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Salon is shutting down after 31 years",
+              "lead": "Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Statehouse wins give Democrats new power to push clean energy",
+              "lead": "Before Tuesday’s election, Republicans held more governorships and state legislative seats than Democrats, along with an advantage in state trifectas",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/science/2026/11/statehouse-wins-give-democrats-new-power-to-push-clean-energy/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1487351817-1152x648.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "LIV confirms intention to wind down after five years",
+              "lead": "LIV Golf confirms its intention to wind down because of a lack of financial support.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/golf/articles/cq70pdjjgy5no?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/241b/live/33625a90-d890-11f1-a701-fddedf244c16.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Players picked on form not club location - Tandy",
+              "lead": "With a record number of players based outside of Wales in his 23-man squad, head coach Steve Tandy says how they are playing is all that matters.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-union/articles/crjwe556538zo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4acd/live/52522670-d907-11f1-b72c-d16cdc75f35f.jpg"
+            },
+            {
+              "title": "WTA takes 'full responsibility' after Pegula calling Andreeva 'diva' aired",
+              "lead": "The WTA says it takes \"full responsibility\" after private comments Jessica Pegula made to her coach about Mirra Andreeva were live-streamed by a courtside microphone.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/tennis/articles/cm1dwll642ngo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01bb/live/71a39df0-d908-11f1-93e1-3b657b665bcf.png"
+            },
+            {
+              "title": "Russell to have 'deep, deep look in mirror'",
+              "lead": "Mercedes' George Russell speaks about his season after team-mate Kimi Antonelli won the championship",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/formula1/articles/cr3wvvpxnx1wo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d596/live/aca0e540-d951-11f1-b2ee-87d22b17ac74.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Salon.com Shuts Down Cultural and Political Site After 31 Years",
+              "lead": "Salon.com, the website that became popular in the early days of the internet offering cultural commentary, progressive political analysis, lifestyle content and more, is shutting down, the company announced Thursday.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/digital/news/salon-com-shuts-down-site-31-years-1236940936/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/Salon-Logos-Background-2.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Foot Fetish Encounter Leaves a Body in the Freezer in Singapore Dark Comedy Taiwan Creative Content Fest Project ‘Build to Order’",
+              "lead": "A young Singaporean couple who sell pictures of the wife’s feet online end up with a corpse in their freezer in “Build to Order,” the debut feature from director Huang Junxiang",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/markets-festivals/foot-fetish-dark-comedy-build-to-order-taiwan-creative-content-fest-1236940233/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/Build-to-Order-concept-art.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists discover mysterious “lonely” brain waves linked to memory loss",
+              "lead": "Scientists have uncovered a surprising link between Alzheimer’s-related protein buildup, disrupted brain waves during deep sleep, and fading memory.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261101010556.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists solve 30-year-old mystery and discover a hidden defense against inflammation",
+              "lead": "Scientists have solved a decades-old mystery and uncovered a hidden immune system defense that protects healthy cells from the very inflammation meant to fight infections.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261101010554.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Paraguay President Santiago Peña resigns after bank collapse",
+          "lead": "The move follows a bank collapse and after the lower house of",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Fox News suffers ratings drop on bleak election night for Republicans",
+          "lead": "News channel trailed NBC and ABC, but edged out CNN",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/media/2026/nov/04/fox-news-midterm-ratings"
+        },
+        {
+          "title": "Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests",
+          "lead": "Hundreds of garment factories were shut down this week as workers in",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/05/world/asia/bangladesh-garment-workers-protest-wage.html"
+        },
+        {
+          "title": "AI backlash threatens trillion-dollar data centre boom, say tech leaders",
+          "lead": "Executives at FT’s Future of AI summit admit tech industry has",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/32fd4450-5880-437d-9bd9-df13289ada24?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Investors wipe US$2.5 trillion off Nasdaq as Democratic sweep prompts AI fears",
+          "lead": "Tech-led Nasdaq notched its deepest one-day drop since ‘Liberation",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3373465/ai-storm-dooms-tech-stocks-us2-trillion-decline-darkest-day-2025"
+        },
+        {
+          "title": "Pressure mounts on U.S. defense chief after Republican election rout",
+          "lead": "U.S. President Donald Trump and Vice President JD Vance have blamed",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/06/world/politics/pete-hegseth-election-pressure/"
+        },
+        {
+          "title": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+          "lead": "The Dow Industrials tumbled more than 1,800 points, or 3.",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/05/fridays-big-stock-stories-whats-likely-to-move-the-market.html"
+        },
+        {
+          "title": "Paraguay President Pena resigns in wake of bank collapse",
+          "lead": "President Pena, a Trump ally, had faced an impeachment motion and",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse?traffic_source=rss"
+        },
+        {
+          "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+          "lead": "ElevenLabs said more than 25 million tracks have been generated using",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/"
+        },
+        {
+          "title": "Amnesiac Surgeon Confronts His Organ-Trafficking Past in Taiwan Creative Content Fest Series ‘Hannibal Inside’",
+          "lead": "An amnesiac sashimi chef learns he was once the star surgeon of an",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/tv/spotlight/amnesiac-surgeon-thriller-taiwan-creative-content-fest-1236940903/"
+        },
+        {
+          "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
+          "lead": "Motorola is patching a hole in its US lineup with a non-folding",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/"
+        },
+        {
+          "title": "A tiny supercurrent could unlock quantum information without destroying it",
+          "lead": "Researchers have proposed a breakthrough technique for reading",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm"
+        },
+        {
+          "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
+          "lead": "Letterboxd’s homepage. The New York Times Company is in",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report"
+        },
+        {
+          "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
+          "lead": "New Zealanders will head to the polls on 7 November to elect a new",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Los Angeles elects democratic socialist Nithya Raman as mayor",
+          "lead": "Win follows Zohran Mamdani’s rise in New York and resounding",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/888315a5-9fff-43df-83d9-eb066799a9d7?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Here's what the Democratic election rout could mean for the U.S. economy",
+          "lead": "The biggest forces shaping the economy aren't going to change just",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html"
+        }
+      ],
+      "supplement": {
+        "title": "Gay Influencer Famed for Dancing in High Heels Faces Middle Age in Nine-Year Taiwan Creative Content Fest Documentary ‘My Silly Flirty Boys’",
+        "lead": "A gay influencer in Taiwan who became famous dancing in high heels, and the filmmaker who trained his camera on him for nine years, both stare down middle age in “My Silly Flirty Boys.",
+        "body": [
+          "A gay influencer in Taiwan who became famous dancing in high heels, and the filmmaker who trained his camera on him for nine years, both stare down middle age in “My Silly Flirty Boys.” The documentary from Taiwan-based Hong Kong filmmaker Frankie Sin is at the Taiwan Creative Content Fest (TCCF) in Taipei.",
+          "Sin followed […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/markets-festivals/high-heeled-gay-influencer-doc-taiwan-creative-content-fest-1236940913/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/11/My-Silly-Flirty-Boys-concept-art.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×3",
+          "紐約時報×2",
+          "Guardian×2",
+          "Japan Times×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-06T02:04:38.420Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 796,
+        "lang": 455,
+        "fresh": 370,
+        "denoised": 370,
+        "deduped": 351
+      },
+      "en": {
+        "fetched": 796,
+        "lang": 341,
+        "fresh": 317,
+        "denoised": 314,
+        "deduped": 309
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 17,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "BBC×3",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×3",
+          "紐約時報×2",
+          "Guardian×2",
+          "Japan Times×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

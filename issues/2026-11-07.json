@@ -1,0 +1,923 @@
+{
+  "issue": 54,
+  "date": "2026-11-07",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月廿九 · 立冬",
+    "en": "29th day of the 9th lunar month · Start of Winter"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "学习贯彻党的二十届五中全会精神｜学习贯彻党的二十届五中全会精神中央宣讲团在重庆宣讲",
+        "lead": "新华社重庆11月6日电(记者周文冲)学习贯彻党的二十届五中全会精神中央宣讲团11月6日在重庆宣讲。中央宣讲团成员、中共中央政治局委员、重庆市委书记袁家军作宣讲报告。",
+        "body": [
+          "新华社重庆11月6日电(记者周文冲)学习贯彻党的二十届五中全会精神中央宣讲团11月6日在重庆宣讲。",
+          "中央宣讲团成员、中共中央政治局委员、重庆市委书记袁家军作宣讲报告。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-07/10727761.shtml",
+        "category": "top",
+        "categoryLabel": "要闻"
+      },
+      "secondary": {
+        "title": "中期选举结果引发对人工智能监管焦虑，美股暴跌",
+        "lead": "民主党获胜后，投资人担心人工智能行业可能面临更严格监管，这加剧了此前已有的对科技企业支出失控、债务攀升的忧虑。美股遭遇近两年来最惨重单日跌幅。 By The New York Times 标准普尔500指数每日变化。数据来源：LSEG。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/business/20261106/stocks-midterms-artificial-intelligence/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "美国10月非农就业新增16.5万 失业率4.1%",
+              "lead": "中新社华盛顿11月6日电 美国劳工部6日发布数据显示，美国10月非农就业岗位增加16.5万个，失业率为4.1%。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727739.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "澳门国安首案宣判：区锦新囚12年半，妻子斥「莫须有迫害」",
+              "lead": "这是澳门首宗国安案，案件过程并不公开，区锦新由「指派律师」辩护，审理法官及律师身份不明。从预审、开审到宣判，外界只能从政府新闻稿得知消息。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cw62yyejjrlro/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8f03/live/0c223c70-d999-11f1-b614-f344ce7a9035.jpg",
+              "consensus": 2
+            },
+            {
+              "title": "众议院领导人要求黄仁勋出席简报会，说明与中国高管往来",
+              "lead": "三名共和党领导人要求黄仁勋自愿出席闭门简报会，说明他与一名中国高管的往来。此前时报报道，黄仁勋与该高管关系密切，此人被认定向中国情报机构输送信息。 Manuel Orbegozo for The New York Times 要求英伟达首席执行官黄仁勋出席简报会标志着共和党国会领导层态度的转变——此前他们对科技行业大多采取放任态度。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261106/house-republicans-nvidia-jensen-huang-china/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "政治人物「大改造」？从台湾「九合一」选举看候选人「形象工程」",
+              "lead": "在现代选举中，形象经营已是不可或缺的一环。随台湾「九合一」地方选举将登场，台北市长候选人沈伯洋与蒋万安的个人形象与公众人设，也成为选战攻防话题。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/watch/c9rkyyzgmy3eo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a7bb/live/8dd61df0-d9d4-11f1-a701-fddedf244c16.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "台企在江苏无锡开建AI算力高端电子基板材料研发制造总部",
+              "lead": "中新网无锡11月6日电 (孙权 唐娟)总投资8亿美元的联茂电子AI算力高端电子基板材料研发制造总部项目(简称“项目”)，6日在无锡锡山经济技术开发区开工。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-06/10727708.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "美国10月非农就业激增16.5万，远超预期！失业率意外降至4.1%，12月加息预期升温",
+              "lead": "美国10月非农就业数据全面超预期，劳动力市场展现出强劲韧性，令市场对美联储12月再度加息的押注骤然升温。 美国劳工统计局周五公布数据显示， 10月非农就业人数增加16.5万，是2026年第三高读数，不仅远超华尔街65,000人的预期中值，更超出所有机构预测区间上限，构成约5个标准差的超强偏差。 与此同时， 失业率意外从4.2%回落至4.1%，平均时薪同比增速也加速至3.1%。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3785395",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "（第九届进博会）拓展合作、深耕中国 跨国企业进博会上签约忙",
+              "lead": "中新网上海11月6日电 (记者 姜煜)跨国医药公司赛诺菲与上药控股有限公司6日在第九届进博会现场举行深化战略合作签约仪式，双方将在长期合作基础上，进一步发挥各自在全球创新与本土产业资源方面的优势，携手提升药品可及性，推动更多创新成果惠及中国患者。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-06/10727712.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "刷新算力巅峰：IBM 在美国芝加哥揭幕其最强量子计算机",
+              "lead": "IT之家 11 月 7 日消息，IBM 昨日（11 月 6 日）发布联合公告，宣布携手芝加哥大学、美国伊利诺伊州政府、以及伊利诺伊量子与微电子园（IQMP）， 已在芝加哥海德公园实验室投运 IBM Quantum System Two 量子计算机。 这是 IBM 在伊利诺伊州部署的首台量子计算机，也是该公司当前最先进的量子计算系统，其核心为 IBM Quantum Nighthawk 芯片，被 IBM 称为迄今打造的最强大量子芯片。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/023/635.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "苹果宣布超10万款应用已适配iPhone Duo 折叠屏生态加速成熟",
+              "lead": "苹果宣布自折叠屏手机iPhone Duo上市以来，开发者已迅速推进应用适配工作。目前，App Store中已有超过10万款应用针对iPhone Duo完成优化，并且每天仍有数千款新应用加入适配行列。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1585330.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "特斯拉将停产 Cyber​​truck",
+              "lead": "特斯拉 CEO 马斯克（Elon Musk）宣布将于 2027 年年中停产电动皮卡 Cyber​​truck。生产电动皮卡的工厂很可能转为生产电动出租车 Cybercabs。马斯克于 2019 年末宣布了外形奇特的 Cyber​​truck，预计售价低于 4 万美元，宣称它会和其主力电动汽车 Model 3 和 Model Y 一样随处可见。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85819",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "特朗普任命新白宫办公厅主任 美副总统、国务卿、国防部长等人表态",
+              "lead": "中新网11月7日电 据白宫官网当地时间6日声明，美国总统特朗普当日宣布，白宫办公厅副主任斯蒂芬·米勒将接替苏茜·怀尔斯，出任白宫办公厅主任。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-07/10727754.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "美国中期选举：共和党失去两院，对华政策与对台军售会转向吗？",
+              "lead": "美国期中选举民主党取得两院多数后，专家普遍认为，特朗普（川普）以个人外交主导的中国政策与对台军售节奏将面临国会更多监督与拉锯，但总统仍掌握主要决策权。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cqr7ydkrnpxno/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f64c/live/aa7ca7c0-b8ba-11f1-b6e4-571e60ca6955.jpg"
+            },
+            {
+              "title": "中国阻止软银以54亿美元收购ABB机器人业务",
+              "lead": "瑞士-瑞典工业公司ABB表示，将其机器人部门出售给软银的交易遭到中国监管机构否决。此举表明中国正采取更为强硬的方式审查涉及关键技术和敏感行业的外国企业交易。 Moritz Hager/Reuters 中国是ABB最大的机器人业务市场，该公司为中国客户生产的机器绝大部分在当地制造。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261106/softbank-robotics-china-block/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "从蔡康永、《VIVANT》到姆巴佩：北京为何区别处理「辱华」事件？",
+              "lead": "最近几周，中国舆论场接连出现多宗被贴上「辱华」标签的争议事件：台湾艺人蔡康永、日本电视剧《VIVANT》以及法国球星姆巴佩。三宗事件看似性质相近，但官方反应与舆论热度却明显不同，多位分析人士对BBC中文指出：这些差异背后是当局对于每个事件的定性并不相同。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6gm0rdzm0rdo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/744d/live/a1131d00-d8e9-11f1-8a29-751f921d505b.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "从姆巴佩风波看中国式封杀",
+              "lead": "姆巴佩在中国「塌房」了。 几个月前的一场访谈，将这位法国球星拖入前所未有的舆论风暴。在访谈里，基利安·姆巴佩（Kylian Mbappé）谈到一个把自己头像和「某个中国独裁者」合成起来的网络迷因。在相关视频被重新翻出后，这个「独裁者」被认为是指毛泽东，从而在中国互联网掀起轩然大波。「引发众怒」的惩罚来得非常迅猛：媒体发表声明、品牌终止合作、宣传内容被撤、平台禁言账号、赛事停止转播、官方下场定性……",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261107-opinion-mbappe-and-chinas-cancel-machine/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/GettyImages-2285016935-W.jpg"
+            },
+            {
+              "title": "2026年中国金鸡百花电影节在厦门开幕",
+              "lead": "中新社厦门11月6日电 (吴冠标)2026年中国金鸡百花电影节6日晚在厦门闽南大戏院开幕。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-06/10727662.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "直播海报：谁是舞王？国际街舞联赛全球总决赛热血开跳",
+              "lead": "",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727735.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "《英雄联盟》2026 全球总决赛 1/4 决赛：T1 3:1 战胜 KC 晋级半决赛",
+              "lead": "IT之家 11 月 7 日消息，《英雄联盟》2026 全球总决赛淘汰赛 1/4 决赛落幕，最终 lCK 三号种子 T1 以 3:1 的成绩战胜 LEC 三号种子 KC 成功晋级 2026 全球总决赛淘汰赛半决赛。 第一局赛事简介： 【T1 1:0 KC】 【本局 MVP】T1 战队下路选手 Peyz 【本局比赛战报】 10 分钟，上路对拼中，Canna 兰博对奥恩完成对位单杀拿到一血，随后 Oner 嘉文四世赶到留住并击败兰博",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/023/642.htm",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "中央气象台发布暴雪黄色预警 京津冀等局地有大到暴雪",
+              "lead": "中央气象台11月7日06时发布暴雪黄色预警：",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-07/10727734.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "10月非农重燃12月加息预期！华尔街押注概率超八成，“新美联储通讯社”：AI抛售或成政策变量",
+          "lead": "美国10月非农就业数据强于预期，重新点燃华尔街押注美联储12月加息的热情。交易员在报告公布后预计",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785400"
+        },
+        {
+          "title": "美国中期选举掀「蓝色浪潮」 将怎样影响世界",
+          "lead": "在刚刚结束的美国中期选举中，多个支持共和党的州「翻蓝」，民主党夺得国会参众两院控制权。这次选举结果为何具有重大意义？",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/watch/c5vgjjr77wvxo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "首飞失利 9 个半月后，谷神星二号遥三运载火箭发射成功",
+          "lead": "IT之家 11 月 7 日消息，今日 7 时 37 分，谷神星二号遥三运载火箭在酒泉卫星发射中心发射升空，将搭载的观澜试验星",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/023/621.htm"
+        },
+        {
+          "title": "NASA发布X-70“分形”实验飞机 推动下一代飞行技术研究",
+          "lead": "美国国家航空航天局（NASA）于11月4日在佛罗里达州肯尼迪航天中心举行的UP.Summit活动上正式发布最新实验飞机X-70",
+          "category": "science",
+          "categoryLabel": "科学",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1585290.htm"
+        },
+        {
+          "title": "剥削与掌控：NewJeans秘密合同揭露K-pop阴暗面",
+          "lead": "长期以来，K-pop一直受到剥削艺人的指控。NewJeans与公司签署的秘密合同表明，尽管多年来业界不断承诺改革，政府也出手干预",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/culture/20261106/kpop-newjeans-contract/?utm_source=RSS"
+        },
+        {
+          "title": "早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
+          "lead": "周末也值得一看的新闻 触屏 MacBook Pro 开卖首日，部分渠道缺货，部分渠道发券 苹果向部分 iPhone Duo 买家发问卷",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1688251?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "从 Linux 到维基百科：志愿者如何构建互联网",
+          "lead": "Linux 和维基百科代表了一种被称为同侪生产（Peer Production）的模式—",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85820"
+        },
+        {
+          "title": "澳门国安法首案：区锦新涉颠覆判囚12年半，妻回应指「莫须有」｜Whatsnew",
+          "lead": "2026年11月6日，澳门初级法院刑事法院宣读裁决，裁定区锦新「颠覆国家政权罪」、两项「与澳门特别行政区以外的组织",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261106-whatsnew-macau-nsl-trial-au-kam-san-sentence/"
+        },
+        {
+          "title": "[程序员] 原来达里奥切除过睾丸，很少有人知道",
+          "lead": "Anthropic 的达里曾经得过睾丸癌。2014 年，他确诊后接受化疗，最终完全康复。这段经历此前鲜为人知。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1255134#reply2"
+        },
+        {
+          "title": "2026 开源行业解决方案创新赛「开源基础软件与解决方案赛道」决赛名单公布",
+          "lead": "第四届开放原子大赛 · 2026 开源行业解决方案创新赛「开源基础软件与解决方案赛道」决赛入围名单今日公布，以下 10 支队伍成功晋级",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/503457"
+        },
+        {
+          "title": "浅谈《可能的爱》 (评论: 可能的爱)",
+          "lead": "Frost 评论: 可能的爱 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17891034/"
+        },
+        {
+          "title": "科技股大跌次日，美国白宫突然取消顶级科技顾问会议",
+          "lead": "科技股大跌与政策不确定性叠加，美国白宫取消了一场原定于周五举行的高层科技顾问会议。 11月6日据路透社报道，美国能源部发言人证实",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785414"
+        },
+        {
+          "title": "美国中期选举后，AI放缓忧虑重创全球大型科技股，韩国股市熔断",
+          "lead": "市场正对美国期中选举后可能加强审查数据中心建设及人工智慧产业的前景作出反应。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cqlyeen0z8x2o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "“敌人是我们自己”：揭秘特朗普团队的历史性溃败",
+          "lead": "特朗普在经济等诸多问题上失去了公众信任。时报采访了多名内部人士，详细解释了一位不受欢迎的总统和一场不受欢迎的战争如何为民主党的中期选举中全面",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/usa/20261106/trump-midterms-losses-republicans/?utm_source=RSS"
+        },
+        {
+          "title": "美国中期选举：共和党为何遭遇全面溃败？｜端闻 Podcast",
+          "lead": "https://open.acast.com/public/streams/66b07190af99592b5329f43a/episode",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261105-initium-audio-international-post-us-midterm-analysis/"
+        },
+        {
+          "title": "可能的爱 (评论: 可能的爱)",
+          "lead": "LoveOrtodie 评论: 可能的爱 评价:",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17890982/"
+        }
+      ],
+      "supplement": {
+        "title": "影音笔记：台湾选举漫游",
+        "lead": "临近台湾地方大选，我们制作了一部《台湾选举漫游录》，走访台北、高雄、花莲和新竹，看看这些地方的政治，和选举版图背后没说的故事。 高雄美浓和台北大稻埕，一个是南部的客家庄，一个是台北最老的街区之一。如果只看选举结果，这两个地方几乎站在光谱的两端：美浓常被说是蓝绿五五波，或稍微偏向国民党（蓝营）的地方；大稻埕所在的大同区，则是不少人口中的民进党（绿营）大本营。",
+        "body": [
+          "临近台湾地方大选，我们制作了一部《台湾选举漫游录》，走访台北、高雄、花莲和新竹，看看这些地方的政治，和选举版图背后没说的故事。高雄美浓和台北大稻埕，一个是南部的客家庄，一个是台北最老的街区之一。如果只看选举结果，这两个地方几乎站在光谱的两端：美浓常被说是蓝绿五五波，或稍微偏向国民党（蓝营）的地方；大稻埕所在的大同区，则是不少人口中的民进党（绿营）大本营。整理影片素材时，我发现这些散落的访谈片段，好像都在绕著同一个问题打转：一个人，是怎么开始在乎一个地方的？2026年10月22日，高雄美浓。摄：陈焯煇/端传媒 读报的人 在美浓，几乎每位受访者都不约而同提到一件事：这里的书香气息。返乡青年小汶记得，每天都会有一份报纸送到家，爷爷看完不多说什么，但都整整齐齐地把报纸叠好；",
+          "在美浓国中教了二十多年书的橘子老师则说，她刚嫁来时最惊讶的，是眼睛已经看不太清楚的老阿伯，还每天在看报纸。「他们都建构了一段自己的中心思想。」橘子老师说，即使是农民，对农业也有自己的见解。也难怪美浓的协会多得惊人，有脚踏车协会、八色鸟协会、各地的同乡会，还有能展现在地文化气质的「博士学人会」。在橘子老师的故乡，大家遇到困难，常常是抱怨完就结束了，但美浓不一样，抱怨完会开会，开完会就行动。听到这里，我忍不住想：蓝绿能在这里打成平盘，会不会就是这样来的？一个大家都读、都想、都能独立思考的地方，本来就很难被一种声音带著走。小汶说，长辈在三合院里聊政治，从来不赶小孩走，也不搞一言堂。",
+          "自己家里多是支持民进党的声音，但她能在国中同学口中听到「家里要投马英九」，理由是「因为他比较帅」。小汶回家转述，大人也只是笑一笑，没有人说谁对谁错。那是她第一次意识到，原来投票不一定要跟著政党走，也可以是因为「这个人」。这种选人不选党的习惯，到现在也没变。小汶说，对美浓人而言，重点往往不是你代表哪一党，而是你的政见里有没有美浓。想出来选里长？你得先问问左右五户邻居认不认识你。当然，这只是我的假设，五五波的背后还有人口结构、产业、地方派系等许多成因。但「读得多、想得多」这件事，或许让这里的政治分歧相对健康，而不针锋相对。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261107-videonotes-taiwan-election-tour/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/IMGL4978-copy.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 21,
+        "categories": 8,
+        "topGroups": [
+          "中新社×8",
+          "BBC×4",
+          "端傳媒×4",
+          "紐約時報×3",
+          "華爾街見聞×3",
+          "IT之家×3"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "After Israel’s Election, Who Will Get the First Chance to Form a Government?",
+        "lead": "President Isaac Herzog is set to task a candidate with trying to form a government, following two days of talks with party leaders and officials after an",
+        "body": [
+          "President Isaac Herzog is set to task a candidate with trying to form a government, following two days of talks with party leaders and officials after an inconclusive election."
+        ],
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-16-israel-election-live-index/2026-10-16-israel-election-live-index-mediumSquareAt3X-v7.png",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+        "lead": "Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come European and Asian stock markets fell sharply on",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=140&quality=85&auto=format&fit=max&s=89a44d686b06b49ef9bf9404d834f126",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
+              "lead": "Santiago Peña was impeached, removed from office and placed under house arrest after a bank with close ties to his administration went under.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-Paraguay-WTK-glwt/06int-Paraguay-WTK-glwt-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "When a single vowel stands in the path to victory, the stakes could not be higher for these spelling bee champions",
+              "lead": "Primary school students bested 200,000 competitors across New South Wales to reach the Premier’s Spelling Bee finals in Sydney Get our breaking news email",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/australia-news/2026/nov/07/when-a-single-vowel-stands-in-the-path-to-victory-the-stakes-could-not-be-higher-for-these-spelling-bee-champions",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/ff549a712a3bdd87712f2192da48624a1c4eaad6/610_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=62d76cdd7c679f83d7d358febc8c544c",
+              "consensus": 5
+            },
+            {
+              "title": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen",
+              "lead": "US Treasury Secretary Scott Bessent and Trade Representative Jamieson Greer held a video call with Chinese Vice-Premier He Lifeng on Friday",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/us/economy-trade-business/article/3373616/us-china-trade-chiefs-hold-call-ahead-trump-xi-summit-shenzhen",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/78eb5b10-430b-4c12-a731-df7aae51de4d_df6b9090.jpg?itok=uwBbl4fV&v=1794004899",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal",
+              "lead": "Washington says Beijing is not fulfilling commitments to increase supply of rare earths and other critical products",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb9a6dc5c-b18f-4c9f-88a7-7d19051d5618.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Why the US midterms sparked an AI stock selloff",
+              "lead": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f055/live/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "AI stocks hammered by midterm shock as data center buildout becomes a 'war of attrition'",
+              "lead": "The election rout landed on an AI trade already under pressure from high interest rates, heavy capital spending and questions about returns.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Democratic sweep gives markets a reason to rethink path of interest rates",
+              "lead": "Rate hikes could be curbed by an Iran war resolution, slower U.S. growth and fresh fiscal policy — but none are set in stone.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/06/oil-prices-interest-rates-midterms.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "You know the launch market is tough when satellite companies start building rockets",
+              "lead": "There are optimistic plans for spaceflight, and then there are optimistic plans. AST SpaceMobile is a Texas-based, publicly traded company building very large satellites to provide direct-to-cell communications on Earth.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Abel__Jason-1152x648.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Crusoe sells troubled Wyoming data center project to Google",
+              "lead": "The deal highlights the challenges of developing massive AI data centers.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+              "lead": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Bristol Rovers shock Cambridge United to reach round two",
+              "lead": "League Two side Bristol Rovers end a run of six matches without a win, as they shock League One side Cambridge United, beating them 2-0 at the Memorial Stadium, to reach the second round of the FA Cup.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/cxdd88g97lm7o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7858/live/c81678b0-da2f-11f1-a701-fddedf244c16.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Barry scores twice as Everton fight back to beat Coventry",
+              "lead": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e94/live/6dde44f0-da2e-11f1-a701-fddedf244c16.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Raith Rovers go top with Dunfermline draw",
+              "lead": "Watch highlights as Raith Rovers take over at the top of the Scottish Championship from Partick Thistle on goal difference, with visitors Dunfermline Athletic third on the same points as the Fife derby ends goalless.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a43/live/23d437d0-da2d-11f1-b441-2b33b063138f.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "AI’s Hidden Footprint, From Quartz Mines to Kenyan Click-Workers, Bared in Taiwan Creative Content Fest Doc ‘The Technological Sublime’",
+              "lead": "Talk of artificial intelligence tends to float somewhere up in the cloud. “The Technological Sublime,” a documentary from director Jannes Callens that heads to the Taiwan Creative Content Fest (TCCF) in Taipei",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/markets-festivals/ai-hidden-supply-chain-doc-taiwan-creative-content-fest-1236941783/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/The-Technological-Sublime-concept-art.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "‘The Remarried Empress’ Becomes Most-Viewed Local Original Premiere Ever on Disney+ and Hulu",
+              "lead": "Korean fantasy romance “The Remarried Empress” has set a new high for Disney+ and Hulu. Based on views across the three days after its Nov.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/news/remarried-empress-disney-hulu-biggest-local-premiere-ever-1236941857/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/The-Remarried-Empress1.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
+              "lead": "After nearly 22 years of exploring the universe’s most violent explosions, NASA’s Swift Observatory has re-entered Earth’s atmosphere over Indonesia.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists discover that a clogged filter could revolutionize oil refining",
+              "lead": "Scientists have developed a remarkable new membrane that separates crude oil at room temperature, using the oil itself to create microscopic filtration channels.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Dead stars could break one of physics' most famous limits",
+              "lead": "A surprising new discovery suggests that some dead stars can grow far more massive than scientists once thought possible. Computer simulations show that powerful magnetic fields could allow white dwarfs to reach 2.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261102202835.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "US economy outstrips forecasts to add 165,000 jobs in October",
+          "lead": "Hiring rebound reinforces expectations Federal Reserve will raise",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Cornell faculty declares ‘no confidence’ in school leaders in fallout from alleged gang-rape",
+          "lead": "Faculty senate passed resolution expressing deep discontent with",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/us-news/2026/nov/06/cornell-faculty-declares-no-confidence-school-leaders"
+        },
+        {
+          "title": "Nigerian court rules opposition candidate cannot stand in elections",
+          "lead": "The high court has sacked the leadership of the opposition ADC party",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Meghan Markle’s Father Is Arrested on Child Sex Abuse Material Charges",
+          "lead": "Thomas Markle Sr., Meghan’s estranged father",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html"
+        },
+        {
+          "title": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections",
+          "lead": "Oil prices fell Friday as investors weighed the risk of renewed Iran",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html"
+        },
+        {
+          "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+          "lead": "The sudden leadership change comes as Paraguay reels from the",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss"
+        },
+        {
+          "title": "Paraguay’s President Pena impeached over Ueno banking crisis, placed under house arrest",
+          "lead": "Paraguayan President Santiago Pena was placed under house arrest on",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/americas/article/3373623/paraguays-president-pena-impeached-over-ueno-banking-crisis-placed-under-house-arrest"
+        },
+        {
+          "title": "After the midterms, is the AI industry in for a rough two years?",
+          "lead": "Democrats’ historic victories in this week’s U.S.",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/"
+        },
+        {
+          "title": "Pressure mounts on US Defence chief Hegseth after Republican election rout",
+          "lead": "US Defence Secretary Pete Hegseth is under growing pressure",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/video/20261106-pressure-mounts-on-us-defence-chief-hegseth-after-republican-election-rout"
+        },
+        {
+          "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+          "lead": "OpenAI is now valued at $1.25 trillion in a new round of funding that",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+        },
+        {
+          "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+          "lead": "Several tanker ships linked to Iran have been loitering over subsea",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/"
+        },
+        {
+          "title": "Cannes, Annecy-Winning ‘Iron Boy’ Producer Eddy Cinema Backs Memory-Erasure Animation ‘Wilderness of the Greenriver’ at Taiwan Creative Content Fest",
+          "lead": "A man who has no memory of his past finds out that a patient is the",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/markets-festivals/iron-boy-producer-memory-animation-taiwan-creative-content-fest-1236941811/"
+        },
+        {
+          "title": "Scientists just found dinosaur blood that survived 115 million years",
+          "lead": "Scientists have discovered chemically confirmed traces of ancient",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm"
+        },
+        {
+          "title": "Trump taps immigration hardliner Stephen Miller as chief of staff",
+          "lead": "Decision to replace Susie Wiles comes days after Republican Party’s",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1"
+        },
+        {
+          "title": "What to know about the presidential wiretapping scandal rocking Indonesia",
+          "lead": "The scandal involves senior members of President Prabowo Subianto's",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cwkg55155mrro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
+          "lead": "Anthropic could list below a $1.5 trillion valuation",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html"
+        }
+      ],
+      "supplement": {
+        "title": "Swiss Labor Exploitation Drama ‘Enjoy Your Stay’ Lands in Indonesia, Directors Hope It Speaks for Migrant Workers",
+        "lead": "“Enjoy Your Stay,” the Berlin Film Festival drama from “Goliath” director Dominik Locher and Filipino filmmaker Honeylyn Joy Alipio, has been acquired by Indonesian distributor Falcon and has its Indonesian premiere at",
+        "body": [
+          "“Enjoy Your Stay,” the Berlin Film Festival drama from “Goliath” director Dominik Locher and Filipino filmmaker Honeylyn Joy Alipio, has been acquired by Indonesian distributor Falcon and has its Indonesian premiere at Jakarta World Cinema.",
+          "The film follows Luz, an undocumented Filipina cleaner at a Swiss luxury ski resort.",
+          "“We heard about [stories of] Indonesian […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/festivals/swiss-labor-drama-enjoy-your-stay-indonesia-1236941824/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/11/Enjoy-Your-Stay.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "ScienceDaily×4",
+          "紐約時報×2",
+          "Guardian×2",
+          "SCMP×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-07T01:42:54.214Z",
+    "sources": {
+      "configured": 36,
+      "ok": 34,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "界面新聞",
+          "reason": "fetch failed"
+        },
+        {
+          "name": "東方財富",
+          "reason": "fetch failed"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 750,
+        "lang": 405,
+        "fresh": 309,
+        "denoised": 309,
+        "deduped": 289
+      },
+      "en": {
+        "fetched": 750,
+        "lang": 345,
+        "fresh": 321,
+        "denoised": 319,
+        "deduped": 312
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 21,
+        "categories": 8,
+        "topGroups": [
+          "中新社×8",
+          "BBC×4",
+          "端傳媒×4",
+          "紐約時報×3",
+          "華爾街見聞×3",
+          "IT之家×3"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "ScienceDaily×4",
+          "紐約時報×2",
+          "Guardian×2",
+          "SCMP×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "generatedAt": "2026-11-07T01:42:54.214Z",
+  "sources": {
+    "configured": 36,
+    "ok": 34,
+    "zhSources": 20,
+    "enSources": 16,
+    "failed": [
+      {
+        "name": "界面新聞",
+        "reason": "fetch failed"
+      },
+      {
+        "name": "東方財富",
+        "reason": "fetch failed"
+      }
+    ]
+  },
+  "funnels": {
+    "zh": {
+      "fetched": 750,
+      "lang": 405,
+      "fresh": 309,
+      "denoised": 309,
+      "deduped": 289
+    },
+    "en": {
+      "fetched": 750,
+      "lang": 345,
+      "fresh": 321,
+      "denoised": 319,
+      "deduped": 312
+    }
+  },
+  "layout": {
+    "zh": {
+      "visible": 38,
+      "sections": 7,
+      "briefs": 16,
+      "groups": 14,
+      "maxGroupShare": 21,
+      "categories": 8,
+      "topGroups": [
+        "中新社×8",
+        "BBC×4",
+        "端傳媒×4",
+        "紐約時報×3",
+        "華爾街見聞×3",
+        "IT之家×3"
+      ],
+      "headlineTier": "lead",
+      "headlineConsensus": 1,
+      "groupCap": 8
+    },
+    "en": {
+      "visible": 37,
+      "sections": 6,
+      "briefs": 16,
+      "groups": 18,
+      "maxGroupShare": 11,
+      "categories": 7,
+      "topGroups": [
+        "BBC×4",
+        "Variety×4",
+        "ScienceDaily×4",
+        "紐約時報×2",
+        "Guardian×2",
+        "SCMP×2"
+      ],
+      "headlineTier": "consensus+lead",
+      "headlineConsensus": 5,
+      "groupCap": 7
+    }
+  }
+}

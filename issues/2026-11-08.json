@@ -1,0 +1,841 @@
+{
+  "issue": 55,
+  "date": "2026-11-08",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历九月三十 · 立冬",
+    "en": "30th day of the 9th lunar month · Start of Winter"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "北京今天雨雪逐渐结束 气温继续下降将创下半年来新低",
+        "lead": "今天(11月8日)，北京雨雪天气将逐渐结束，但气温还会进一步下滑，最高气温将降至6℃，最低气温也会跌至零下3℃，将度过下半年来最冷的一天。明后两天，北京晴朗回归，最高气温将明显回升，早晚时段依然寒冷，公众外出需注意保暖。",
+        "body": [
+          "今天(11月8日)，北京雨雪天气将逐渐结束，但气温还会进一步下滑，最高气温将降至6℃，最低气温也会跌至零下3℃，将度过下半年来最冷的一天。",
+          "明后两天，北京晴朗回归，最高气温将明显回升，早晚时段依然寒冷，公众外出需注意保暖。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728232.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "法国血库冷藏设备遭骇客攻击 幕后黑手众说纷纭",
+        "lead": "法国血库冷藏设备遭骇客攻击调高温度，但未造成血液损失。专家怀疑俄罗斯、伊朗骇客或青少年所为，攻击具高度规划性，目前尚无正式归因。",
+        "source": "BBC中文",
+        "group": "BBC",
+        "link": "https://www.bbc.com/zhongwen/articles/c6d7qqe9ngeyo/trad?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "categoryLabel": "国际",
+        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3538/live/e551bd50-d862-11f1-85ab-b3cc3b5498c6.jpg"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "雨雪降温来袭 天津部分高速封闭限行",
+              "lead": "受冷空气影响，天津市迎来一轮雨雪降温天气过程，北部区域降雪强度大，多地先后发布道路结冰、暴雪预警，受雨雪、大雾影响，天津辖区多条高速采取封闭、限行管制措施。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-08/10728231.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "美国中期选举掀「蓝色浪潮」 将怎样影响世界",
+              "lead": "在刚刚结束的美国中期选举中，多个支持共和党的州「翻蓝」，民主党夺得国会参众两院控制权。这次选举结果为何具有重大意义？又将如何影响美国与世界其他国家的关系？",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/watch/c5vgjjr77wvxo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9773/live/5ebf89c0-d9f2-11f1-b441-2b33b063138f.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "（第九届进博会）中欧商界寻找合作共振点",
+              "lead": "中新网上海11月8日电 (陶思阅)第九届中国国际进口博览会正在上海举行。作为进博会和虹桥国际经济论坛的延伸和补充，2026进博会上海会议活动于6日至9日在上海举办。在“中欧合作发展交流会——高水平开放下的中欧投资与贸易新机遇”分论坛中，跨国公司、多国商会代表齐聚交流合作机遇。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-08/10728205.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "UFC总裁出任白宫新闻秘书？白大拿拒绝了特朗普邀请",
+              "lead": "特朗普称美国需要这些强悍的斗士来抵御疯狂的左翼势力。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15307428.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "CoreWeave致信得州当选州长，寻求“数据中心磋商”",
+              "lead": "AI基础设施公司CoreWeave正面回应得克萨斯州政策转向，主动寻求与新任州长展开对话。 据彭博社11月8日报道，CoreWeave联合创始人兼首席执行官Michael Intrator致信得州当选州长Gina Hinojosa，表示 欢迎与其过渡团队就“已获批项目的负责任推进”及“未来开发的清晰、持久标准”展开合作 。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3785464",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "苹果研究团队披露机器人“大脑”进展 调用千问模型在宇树G1上验证",
+              "lead": "苹果研究团队披露机器人“大脑”研究进展。当地时间11月4日，苹果研究团队在预印本平台arXiv提交论文《Perceptive Humanoid Motion from Simulation》，披露了人形机器人自主控制系统HALO。研究团队将该系统部署在宇树科技的G1人形机器人上进行验证，让机器人将在仿真环境中学到的动作，带到陌生的现实房间中执行。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1585390.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "芝加哥大学教授：AI 时代数学人才招聘将更看重研究愿景与表达能力",
+              "lead": "IT之家 11 月 8 日消息，人工智能正在降低数学研究取得突破的门槛，但这也意味着，学术界可能需要重新审视人才招聘方式。芝加哥大学一位知名数学教授认为，未来招聘数学研究人员时，个人交流能力和清晰表达研究构想的能力将变得更加重要。 芝加哥大学数学领域的杰出学者弗兰克 · 卡莱加里（Frank Calegari）近日在一篇文章中谈到了自己对研究人员的招聘标准。他写道：“我想了解你希望数学走向何方，也需要具备能解释这为何可能实现的专业能力。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/023/859.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "ESA Hera 探测器发回 DART 撞击的小行星照片",
+              "lead": "ESA Hera 探测器拍下了 Didymos 双小行星系统的首张近距离照片。这个系统由两颗小行星组成，直径 780 米的 Didymos 是主星，直径 151 米的 Dimorphos 则绕着它运行。2022 年 9 月 26 日，NASA DART 探测器直接撞上较小的 Dimorphos，再测量它绕行主星 Didymos 的时间改变了多少。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85825",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "胡塞武装称沙特空袭萨那周边 已致27人死亡",
+              "lead": "也门胡塞武装卫生部门7日晚间发布消息称，沙特主导的联军当天针对也门萨那省巴尼哈希什地区的空袭已造成27人死亡、36人受伤。伤亡者中包括妇女儿童和民防救援人员。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728199.shtml",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 2
+            },
+            {
+              "title": "伊朗解除导弹射程限制 美军组特遣部队防伊“跨境运武”",
+              "lead": "伊朗伊斯兰革命卫队发言人7日说，伊朗已解除导弹射程限制，将打击敌人预想不到的地点。并警告称，如果美国再次出现误判，伊朗下一次的打击将更加沉重。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728198.shtml",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 2
+            },
+            {
+              "title": "伊朗南部多地接连传出类似爆炸巨响",
+              "lead": "总台记者自伊朗方面获悉，当地时间7日晚，该国格什姆岛、锡里克、贾斯克和阿巴斯港等地均听到类似爆炸的巨响。巨响的原因尚不清楚。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-08/10728194.shtml",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "年轻人为何爱看“古人开演唱会”",
+              "lead": "当杜甫“亲口”唱起为租房搬家奔波的中年困境、苏轼唱起43岁被贬黄州的经历、刘邦唱出自己起步晚却不服输的精神……一场跨越千年的共情正在年轻群体中发生。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-08/10728202.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "从姆巴佩风波看中国式封杀",
+              "lead": "姆巴佩在中国「塌房」了。 几个月前的一场访谈，将这位法国球星拖入前所未有的舆论风暴。在访谈里，基利安·姆巴佩（Kylian Mbappé）谈到一个把自己头像和「某个中国独裁者」合成起来的网络迷因。在相关视频被重新翻出后，这个「独裁者」被认为是指毛泽东，从而在中国互联网掀起轩然大波。「引发众怒」的惩罚来得非常迅猛：媒体发表声明、品牌终止合作、宣传内容被撤、平台禁言账号、赛事停止转播、官方下场定性……",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261107-opinion-mbappe-and-chinas-cancel-machine/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/GettyImages-2285016935-W.jpg"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "中国女排超级联赛开赛 天津队胜北京队迎“开门红”",
+              "lead": "中新社北京11月7日电 (记者 国璇)2026-2027赛季中国女子排球超级联赛7日在北京揭幕。客场作战的天津渤海银行女排在A级常规赛首轮以大比分3:1战胜北京北冰洋女排，收获新赛季“开门红”。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-07/10728122.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "​AI设计基因编辑工具取得突破 科学家培育出可抵御致命病害的新型水稻",
+          "lead": "美国密苏里大学研究团队近日宣布，他们成功培育出能够抵御细菌性枯萎病（水稻白叶枯病）的水稻植株。",
+          "category": "science",
+          "categoryLabel": "科学",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/science/1585412.htm"
+        },
+        {
+          "title": "围绕三大核心主线，一周逾550家上市公司迎来投资者调研",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15307421.html"
+        },
+        {
+          "title": "消息称 Anthropic 仍在推进上市：最多募资 1000 亿美元，“史上最大 IPO”或有变数",
+          "lead": "IT之家 11 月 8 日消息，据《金融时报》昨天报道，尽管美国科技股近期遭遇剧烈波动，Anthropic 仍在推进上市计划。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/023/854.htm"
+        },
+        {
+          "title": "伯克希尔Q3净利润大降28%，投资收益缩水近半，回购创年内单季新高，现金升至3774亿美元 | 财报见闻",
+          "lead": "伯克希尔·哈撒韦三季度净利润大幅下滑，保险业务承压与投资收益减少成为主要拖累。不过，公司在本季度显著加大股票回购力度，单季回购规模创年内新高",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785460"
+        },
+        {
+          "title": "苹果研究团队披露机器人“大脑”研究进展 多家公司已布局机器人大脑领域",
+          "lead": "苹果 研究团队披露 机器人 “大脑”研究进展。当地时间11月4日， 苹果 研究团队在预印本平台arXiv提交论文《Perceptive",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1354,202611073925551457.html"
+        },
+        {
+          "title": "FAA 计划到 2028 年淘汰软盘",
+          "lead": "FAA 计划到到 2028 年底前更换全美逾 400 个空管设施使用的软盘。新系统 Enterprise Information",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85824"
+        },
+        {
+          "title": "最贵比亚迪来了！仰望鼎曜亮相中东，「山河鼎韵」限量版定金 30 万元",
+          "lead": "阿布扎比文华东方酋长皇宫酒店的门口，大概是全世界最不缺顶级豪车的地方。 在这里，劳斯莱斯幻影、宾利慕尚和各种定制版的迈巴赫",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1688312?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "[分享创造] 我把 slimppt 开源了，支持 skill 生成，并计划做整套 office，目前文档和表格还在规划中",
+          "lead": "一款浏览器端的 Office 套件。你可以在任何平台上使用相同的 Office 体验。开源。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1255283#reply1"
+        },
+        {
+          "title": "内娱校园爱情剧还得看猫的树 (评论: 今天是太阳雨)",
+          "lead": "恩格尔系数极低 评论: 今天是太阳雨 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17891745/"
+        },
+        {
+          "title": ":fire: xbatis 1.10.15 正式发版，mybatis 系列最好用最简单最方便的 ORM !!",
+          "lead": "推荐理由： 强、强、强 ，单表？连表？不想连表？让你直接少写 1/3 甚至 2/3 的持久层代码；",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/503464"
+        },
+        {
+          "title": "卡塔尔首相称美伊之间斡旋仍在继续",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15307411.html"
+        },
+        {
+          "title": "马斯克再抛惊人目标：明年SpaceX年化收入5000亿美、星链计算机同步上天，Terafab芯片产能瞄准一太瓦",
+          "lead": "马斯克又给AI产业描绘了一幅惊人的增长蓝图。 当地时间周五，第33届Baron Investment",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785451"
+        },
+        {
+          "title": "可以瞒天过海，不能顺水推舟吧 (评论: 八仙！)",
+          "lead": "Protostell_ 评论: 八仙！ 评价: 还行",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17892180/"
+        },
+        {
+          "title": "新片评论丨十年之前是《心迷宫》，十年之后是剧本杀 (评论: 心迷宫之三重罪)",
+          "lead": "福雷斯特·冈普 评论: 心迷宫之三重罪 评价: 较差",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17892114/"
+        },
+        {
+          "title": "《可能的爱情》：以为是靠近光，实际是彻底的榨干 (评论: 可能的爱)",
+          "lead": "淡淡的电影心法 评论: 可能的爱 评价:",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17892034/"
+        },
+        {
+          "title": "林卡，林卡 | 鲜活、日常、正在发生的人生的盛夏 (评论: 一个夜晚与三个夏天)",
+          "lead": "噗子 评论: 一个夜晚与三个夏天 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17891831/"
+        }
+      ],
+      "supplement": {
+        "title": "影音笔记：台湾选举漫游",
+        "lead": "临近台湾地方大选，我们制作了一部《台湾选举漫游录》，走访台北、高雄、花莲和新竹，看看这些地方的政治，和选举版图背后没说的故事。 高雄美浓和台北大稻埕，一个是南部的客家庄，一个是台北最老的街区之一。如果只看选举结果，这两个地方几乎站在光谱的两端：美浓常被说是蓝绿五五波，或稍微偏向国民党（蓝营）的地方；大稻埕所在的大同区，则是不少人口中的民进党（绿营）大本营。",
+        "body": [
+          "临近台湾地方大选，我们制作了一部《台湾选举漫游录》，走访台北、高雄、花莲和新竹，看看这些地方的政治，和选举版图背后没说的故事。高雄美浓和台北大稻埕，一个是南部的客家庄，一个是台北最老的街区之一。如果只看选举结果，这两个地方几乎站在光谱的两端：美浓常被说是蓝绿五五波，或稍微偏向国民党（蓝营）的地方；大稻埕所在的大同区，则是不少人口中的民进党（绿营）大本营。整理影片素材时，我发现这些散落的访谈片段，好像都在绕著同一个问题打转：一个人，是怎么开始在乎一个地方的？2026年10月22日，高雄美浓。摄：陈焯煇/端传媒 读报的人 在美浓，几乎每位受访者都不约而同提到一件事：这里的书香气息。返乡青年小汶记得，每天都会有一份报纸送到家，爷爷看完不多说什么，但都整整齐齐地把报纸叠好；",
+          "在美浓国中教了二十多年书的橘子老师则说，她刚嫁来时最惊讶的，是眼睛已经看不太清楚的老阿伯，还每天在看报纸。「他们都建构了一段自己的中心思想。」橘子老师说，即使是农民，对农业也有自己的见解。也难怪美浓的协会多得惊人，有脚踏车协会、八色鸟协会、各地的同乡会，还有能展现在地文化气质的「博士学人会」。在橘子老师的故乡，大家遇到困难，常常是抱怨完就结束了，但美浓不一样，抱怨完会开会，开完会就行动。听到这里，我忍不住想：蓝绿能在这里打成平盘，会不会就是这样来的？一个大家都读、都想、都能独立思考的地方，本来就很难被一种声音带著走。小汶说，长辈在三合院里聊政治，从来不赶小孩走，也不搞一言堂。",
+          "自己家里多是支持民进党的声音，但她能在国中同学口中听到「家里要投马英九」，理由是「因为他比较帅」。小汶回家转述，大人也只是笑一笑，没有人说谁对谁错。那是她第一次意识到，原来投票不一定要跟著政党走，也可以是因为「这个人」。这种选人不选党的习惯，到现在也没变。小汶说，对美浓人而言，重点往往不是你代表哪一党，而是你的政见里有没有美浓。想出来选里长？你得先问问左右五户邻居认不认识你。当然，这只是我的假设，五五波的背后还有人口结构、产业、地方派系等许多成因。但「读得多、想得多」这件事，或许让这里的政治分歧相对健康，而不针锋相对。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261107-videonotes-taiwan-election-tour/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/IMGL4978-copy.jpg"
+      },
+      "stats": {
+        "visible": 33,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 24,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "豆瓣×5",
+          "華爾街見聞×3",
+          "BBC×2",
+          "cnBeta×2",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+        "lead": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+        "body": [
+          "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
+        ],
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Israel’s president gives Gadi Eisenkot first chance at forming a government",
+        "lead": "Isaac Herzog’s decision means opposition politician has 28 days to attempt to put together a ruling coalition",
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F69d4d3cb-e587-4b42-9e85-1739ab0deb7f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+              "lead": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, prime minister Benjamin Netanyahu’s ⁠strongest rival",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/7eec88b1e0176fdcaf9916606ea9a1c049ff2da6/552_347_2266_1813/master/2266.jpg?width=140&quality=85&auto=format&fit=max&s=a900eb5d96def2c3cc51c767660e3a47",
+              "consensus": 5
+            },
+            {
+              "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
+              "lead": "Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-politics-eisenkot-HFO-vbtf/08int-israel-politics-eisenkot-HFO-vbtf-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+              "lead": "Isaac Herzog formally gives Gadi Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as prime minister.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+              "lead": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "French far-left presidential hopeful pledges ‘revolutionary’ remaking of society",
+              "lead": "Jean-Luc Mélenchon stages show of force with 20,000-strong rally as widespread protests boost his momentum",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/5cb562ec-5493-4ff3-bd2d-99cc9cacfa73?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe4df9e7c-d462-4348-bc85-1f624da13e59.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+              "lead": "Eisenkot, who ran as the main challenger to Prime Minister Benjamin Netanyahu, is now a step closer to ousting Israel's longest-serving premier.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/07/israel-eisenkot-netanyahu.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+              "lead": "Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+              "lead": "On Equity, we unpacked what the midterms mean for the tech industry.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+              "lead": "Several tanker ships linked to Iran have been loitering over subsea Internet cables in the Gulf of Oman near the Strait of Hormuz—a possible indication that the Iranian government is preparing to attack such undersea",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Iranian-oil-tanker-and-flag-1152x648.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+              "lead": "It was unclear whether the president's public job offer was genuine, although White said later on Saturday: \"I got a lot of jobs already.\"",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8536/live/2fdfe760-dafd-11f1-b441-2b33b063138f.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Substitutes inspire Barnet to late win over Tranmere Rovers",
+              "lead": "Barnet score three goals in the final 15 minutes of the match to beat Tranmere Rovers 3-0 in the first round of the FA Cup.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/cqd091gjpj4zo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c20f/live/ea4fddc0-db08-11f1-a701-fddedf244c16.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Liverpool considering Verbruggen move - Sunday's gossip",
+              "lead": "Liverpool consider move for Brighton keeper Bart Verbruggen, Bayern Munich remain in talks with Rio Ngumoha's camp, Tottenham midfielder Conor Gallagher monitored by rival Premier League clubs, plus more.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c54g1nepgr28o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c1f/live/461973d0-daf2-11f1-b441-2b33b063138f.png"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "‘Pokemon’ Anime Studio OLM Trains AI Coloring Tool on Just Three Frames in Japan Government-Backed Project",
+              "lead": "OLM, the Japanese animation group behind the “Pokemon” anime series and films, has developed an AI coloring tool that picks up a show’s look from just three hand-painted frames",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/markets-festivals/pokemon-anime-studio-olm-ai-coloring-tool-three-frames-1236942198/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/TCCF-AI-animation.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "French Cinema Is Thriving at Festivals but Facing an Uphill Battle in U.S. Theaters as Distributors Navigate a Shrinking Market",
+              "lead": "French cinema may be enjoying a golden run on the festival circuit and in the awards race, but getting those films into U.S. theaters, and persuading American audiences to buy tickets",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/global/french-cinema-festivals-uphill-battle-u-s-theaters-1236942099/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/05/G75FOJT7HNGEVLHLFM5CHOM6MA.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists discover Europe's ancient forests were nothing like we imagined",
+              "lead": "Scientists have uncovered evidence that Europe was dominated for more than 20 million years by open woodlands, colorful meadows, and large grazing animals, not the dense forests long considered its natural state.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Rubin Observatory discovers two hidden companions of the Milky Way. Hundreds more may be waiting",
+              "lead": "The Vera C. Rubin Observatory has already uncovered two previously unknown companions of the Milky Way using preliminary observations covering just 7% of the night sky.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261104012252.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Paraguay's former president charged after bank collapse",
+          "lead": "Santiago Peña was ousted due to a banking crisis which left millions",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
+          "lead": "Gadi Eisenkot gets the chance to form a new government",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html"
+        },
+        {
+          "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
+          "lead": "Suspect was influenced by far-right ideology and held",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+        },
+        {
+          "title": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
+          "lead": "American intelligence warned the tech boss was involved with",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Israel’s president taps Eisenkot to form government, in setback for Netanyahu",
+          "lead": "Israel’s president announced on Saturday he would task Gadi Eisenkot",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3373671/israels-president-taps-eisenkot-form-government-setback-netanyahu"
+        },
+        {
+          "title": "🔴 Israeli president picks Netanyahu's rival Eisenkot to try to form government",
+          "lead": "",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government"
+        },
+        {
+          "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+          "lead": "Israel's president asked opposition leader Gadi Eisenkot to form the",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss"
+        },
+        {
+          "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+          "lead": "Healthcare stocks may struggle to find momentum as the Democrats get",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html"
+        },
+        {
+          "title": "‘Club Kid’ Scene-Stealer Kirby Howell-Baptiste on Playing a Drugged-Up Party Girl Who Turns Jordan Firstman’s World Upside Down: She’s ‘A Complete Tornado’",
+          "lead": "“Should we do a bump?” It’s a line said, in various forms",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/global/club-kid-star-kirby-howell-baptiste-edison-party-girl-1236914502/"
+        },
+        {
+          "title": "Parents want safer phones for kids. These companies are answering the call.",
+          "lead": "As parents look for alternatives to unrestricted smartphones",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/"
+        },
+        {
+          "title": "Scientists accidentally solve a chemistry mystery that lasted 60 years",
+          "lead": "After more than 60 years of unsuccessful attempts",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261103003205.htm"
+        },
+        {
+          "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+          "lead": "OpenAI is now valued at $1.25 trillion in a new round of funding that",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+        },
+        {
+          "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+          "lead": "Blockchain analysis firm Chainalysis said that hackers have obtained",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
+        },
+        {
+          "title": "Italian foreign minister says hackers leaked his personal data",
+          "lead": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
+          "lead": "Insurance slowdown drags on performance, with quarterly operating",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Paraguay's former president faces prosecutors after his removal over bank collapse",
+          "lead": "Prosecutors ordered the arrest of Peña as part of a criminal",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/07/paraguays-former-president-faces-prosecutors-over-bank-collapse.html"
+        }
+      ],
+      "supplement": {
+        "title": "AI Could Make Filmmaking Costlier Than the 35mm Era, Korean Pioneers Warn at Taiwan Creative Content Fest",
+        "lead": "AI is already slashing the cost of commercials, but runaway token fees and piecemeal revisions could leave feature producers paying more than in the days of 35mm film",
+        "body": [
+          "AI is already slashing the cost of commercials, but runaway token fees and piecemeal revisions could leave feature producers paying more than in the days of 35mm film, a Korean AI production pioneer told Taiwan Creative Content Fest (TCCF) in Taipei.",
+          "Kim Kwang-jib, founder and CEO of AI content studio Studio Meta-K, said that with […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/markets-festivals/ai-films-costlier-35mm-era-korean-pioneers-warn-1236942217/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 35,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×3",
+          "FT×2",
+          "Al Jazeera×2",
+          "The Verge×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-08T01:12:10.866Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 797,
+        "lang": 455,
+        "fresh": 319,
+        "denoised": 319,
+        "deduped": 293
+      },
+      "en": {
+        "fetched": 797,
+        "lang": 342,
+        "fresh": 301,
+        "denoised": 298,
+        "deduped": 295
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 33,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 24,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "豆瓣×5",
+          "華爾街見聞×3",
+          "BBC×2",
+          "cnBeta×2",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 35,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×3",
+          "FT×2",
+          "Al Jazeera×2",
+          "The Verge×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

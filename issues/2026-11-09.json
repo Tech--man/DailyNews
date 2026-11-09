@@ -1,0 +1,923 @@
+{
+  "issue": 56,
+  "date": "2026-11-09",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历十月初一 · 立冬",
+    "en": "1st day of the 10th lunar month · Start of Winter"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "特朗普：美伊谈判若取得进展 “极不可能”再对伊动武",
+        "lead": "中新网11月9日电 据美国有线电视新闻网(CNN)报道，当地时间8日，美国总统特朗普表示，只要围绕伊朗核计划及重新开放霍尔木兹海峡的谈判取得进展，美国“极不可能”恢复对伊朗的大规模军事行动。",
+        "body": [
+          "中新网11月9日电 据美国有线电视新闻网(CNN)报道，当地时间8日，美国总统特朗普表示，只要围绕伊朗核计划及重新开放霍尔木兹海峡的谈判取得进展，美国“极不可能”恢复对伊朗的大规模军事行动。"
+        ],
+        "source": "中新網國際",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728581.shtml",
+        "category": "world",
+        "categoryLabel": "国际",
+        "consensus": 3
+      },
+      "secondary": {
+        "title": "美、中、俄三国首脑在深圳会晤？习近平的雄心与顾虑",
+        "lead": "举办三国首脑峰会可以彰显中国想成为与美国平起平坐的全球大国的雄心，但对习近平而言，主办会晤存在风险，乌克兰战争与无核化谈判都是他不愿面对的议题。 Haiyun Jiang/The New York Times 今年9月，中国领导人习近平与美国总统特朗普在华盛顿的美国国家档案馆。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/world/20261109/china-trump-putin-xi-summit/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "全国大部进入晴朗模式 寒潮核心降温区域转移至南方",
+              "lead": "中国天气网讯 未来三天(11月9日至11日)，全国大部将进入降水稀少时段，晴天居多，但云南、贵州一带仍有频繁降雨。随着寒潮南下，降温核心区域向南推进，长江中下游等地最高气温将降至10℃出头，凉意十足，华南也会退去炎热转为凉爽。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-09/10728606.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "中式微短剧浪潮席卷英国：为滑动时代而生的「碎片化」剧集",
+              "lead": "这些节奏明快、张力十足的短篇剧集透过手机观看，在中国大受欢迎，在英国也正迅速兴起。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c50med2zn8dno/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b15/live/9cf3fa20-d9e1-11f1-a701-fddedf244c16.png"
+            },
+            {
+              "title": "法国血库冷藏设备遭骇客攻击 幕后黑手众说纷纭",
+              "lead": "法国血库冷藏设备遭骇客攻击调高温度，但未造成血液损失。专家怀疑俄罗斯、伊朗骇客或青少年所为，攻击具高度规划性，目前尚无正式归因。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6d7qqe9ngeyo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3538/live/e551bd50-d862-11f1-85ab-b3cc3b5498c6.jpg"
+            },
+            {
+              "title": "波兰克拉科夫「极右翼」枪击案致六人死亡 我们所知多少",
+              "lead": "六人在波兰第二大城市克拉科夫主要广场发生的一宗随机枪击案中丧生，其后警方在袭击者家中发现另外三具遗体。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c64g1n74j259o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d77/live/6acdd880-db5e-11f1-b441-2b33b063138f.jpg"
+            },
+            {
+              "title": "波兰克拉科夫「极右翼」枪击案致六人死亡",
+              "lead": "一名据信受极右翼意识形态启发的枪手在波兰第二大城市克拉科夫（Krakow）繁忙的市中心发动袭击，造成六人死亡、十多人受伤。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/watch/c8p3gvxdygvzo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a7e/live/53f46df0-db3a-11f1-a701-fddedf244c16.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "畅通教育科技人才良性循环 为新质生产力蓄势赋能",
+              "lead": "编者按： 发展新质生产力是推动高质量发展的内在要求和重要着力点。近日，中共中央、国务院印发《关于发展新质生产力的意见》，为加快发展新质生产力作出系统部署。三里河推出权威专家系列解读，阐释政策内涵、洞察发展大势。今日刊发国家发展改革委国际合作中心处长、研究员鲍淑君的署名文章《得打好这三张牌》。 发展新质生产力，关键靠什么？",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-08/10728567.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "“铁门”封锁陆路！特朗普称“目前几乎没有物资能够进出伊朗”，若谈判取得进展，再次发动打击可能性极低",
+              "lead": "特朗普称“铁门”特遣行动正全面展开，几乎没有物资能进出伊朗 当地时间11月8日，美国总统特朗普在社交媒体“真实社交”上发文表示，针对伊朗的“铁门”特遣行动正在全面展开。再加上他所称的“历史上规模最大的海上封锁”，目前几乎没有物资能够进出伊朗。 当地时间11月7日，美军中央司令部司令库珀下令成立一支名为“铁门”（Task Force Iron Gate）的特遣队，旨在配合美国政府正在开展的相关行动，阻止伊朗通过陆路运输先进武器及其他物资。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3785498",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 3
+            },
+            {
+              "title": "AI早报 | Anthropic斥资34亿美元采购天然气发电设备，为数据中心供电；上纬新材旗下启元机器人第10000台个人机器人下线",
+              "lead": "中国移动云公司与北京智谱华章科技股份有限公司签署合作协议；拓斯达发布工业双足人形机器人Star，双臂负载能力达10公斤。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15308219.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "黄仁勋道歉信全文：我对妻子不忠，伤害了家人，没有任何借口",
+              "lead": "英伟达CEO黄仁勋近日向公司员工发出一封道歉信，承认自己对妻子不忠，并就此向家人、公司员工、董事会及股东公开道歉 。黄仁勋在信中表示，自己的行为伤害了妻子和孩子，没有任何借口。他愿意承担全部责任，并希望能够逐渐重新赢得家人和同事的信任。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1585520.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            },
+            {
+              "title": "英伟达黄仁勋承认出轨道歉信全文：“我对妻子不忠，伤害了家人，没有任何借口”",
+              "lead": "IT之家 11 月 9 日消息， 英伟达 CEO 黄仁勋最近向公司员工发出一封道歉信，承认自己的出轨行为，并向家人、公司员工、董事会及股东公开道歉 。 黄仁勋表示，他的行为伤害了妻儿，没有任何借口。 他深知道歉无法弥补错误 ，并希望重新赢得家人和同事的信任。 IT之家附黄仁勋信件核心内容如下： 致英伟达的各位同事： 我欠我的家人，以及你们所有人一个道歉。 我对妻子不忠。我的行为伤害了她和我们的孩子。我所做的一切都没有任何借口。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/024/031.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            },
+            {
+              "title": "早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元",
+              "lead": "曝特努斯要求加快 AI 研发，推动 Siri 主动处理任务 苹果称超 10 万款应用已适配 iPhone Duo 英伟达 1140 万美元货物被盗 Anthropic 拟于本周启动 IPO 路演 马斯克：SpaceX 明年 12 月年化营收或超 5000 亿美元 Meta 首席战略官将离职，出任 Fireworks 首席财务官 比亚迪李柯回应玛莎拉蒂收购传闻 成都一男子戴 AI 眼镜考驾照作弊",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1688379?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "特朗普称“铁门”特遣行动正全面展开 几乎没有物资能进出伊朗",
+              "lead": "当地时间11月8日，美国总统特朗普在社交媒体“真实社交”上发文表示，针对伊朗的“铁门”特遣行动正在全面展开。再加上他所称的“历史上规模最大的海上封锁”，目前几乎没有物资能够进出伊朗。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728573.shtml",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 2
+            },
+            {
+              "title": "间谍、线人与秘密警察：匈牙利公开共产统治时期档案",
+              "lead": "匈牙利正将其完整的国家安全纪录档案库上载至网上，这些档案可能揭示在1989年前长达40年的共产主义统治期间，谁曾监视邻居、同事、朋友和亲属。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c61kd9gnge0ro/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/57da/live/1d6c20c0-d77f-11f1-a391-ad4d37bef273.jpg"
+            },
+            {
+              "title": "美国一大学校园发生两起枪击事件 致1死3伤",
+              "lead": "据美国方面当地时间8日消息，美国北卡罗来纳州温斯顿-塞勒姆州立大学校园内7日晚间发生两起枪击事件，造成1人死亡、3人受伤。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-09/10728580.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "原欧盟脱欧谈判代表巴尼耶：英国不能「挑肥拣瘦」",
+              "lead": "这位前脱欧谈判代表表示，欧盟国家将拒绝英国任何「单点」选择遵守经济规则的企图。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c9rkyg7728vxo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg"
+            },
+            {
+              "title": "销量急挫，Labubu热潮正在退烧吗？",
+              "lead": "随著人们对这些收藏玩具的兴趣减弱，其母公司泡泡玛特（Pop Mart）的收入也随之下降。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6r7yg9xkdy8o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/79bc/live/19d4a530-d90b-11f1-93e1-3b657b665bcf.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "当阿拉伯人成为「犹太国家」的关键少数：以色列大选后的组阁困局",
+              "lead": "10月27日晚上十点，以色列的投票站关门。午夜过后，前国防军总参谋长艾森科特（Gadi Eisenkot）走上台， 宣告 反对派阵营的胜利：「我们创造了历史，⋯⋯以色列公众已经投票反对内塔尼亚胡继续担任以色列总理。」 当时，第12频道的数字 显示 ，艾森科特领衔的反对派阵营以52席对50席领先内塔尼亚胡（Benjamin Netanyahu）阵营。此外，两个阿拉伯政党也创造了历史，预估将获得史无前例的18席。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261109-international-israel-election-arab-parties-coalition-deadlock/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/AP26298641579305.jpg"
+            },
+            {
+              "title": "“00后”接棒非遗传承：传统技艺碰撞青春表达",
+              "lead": "中新社重庆11月8日电 (记者 钟旖 应妮)11月6日至10日，第九届中国非物质文化遗产博览会在重庆举行。中新社记者走访看到，一批“00后”传承人一边恪守古法匠心，一边活用新媒体、视觉设计、AI工具等，为老技艺注入新表达。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-08/10728429.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "2026赛季中国足球超级联赛收官 大连英博夺冠",
+              "lead": "中新社大连11月8日电 (记者 杨毅)2026赛季中国足球超级联赛8日迎来收官之战，大连英博主场以3比1战胜天津津门虎，成都蓉城客场2比3不敌山东泰山。最终，大连英博与成都蓉城同积52分，前者凭借相互战绩优势夺得中超冠军。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-08/10728519.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "中超末轮综述：英博大逆转夺冠 蓉城不敌泰山功亏一篑",
+              "lead": "中新社北京11月8日电 (刘梦青)2026赛季中超联赛末轮比赛8日全部战罢。成都蓉城2:3不敌山东泰山，大连英博3:1轻取天津津门虎。两队最终同积52分，英博凭两回合双杀蓉城的相互战绩优势，夺得本赛季中超联赛冠军，蓉城屈居亚军。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-08/10728562.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "广发证券：美国中期选举加剧算力建设约束，国产算力链有望破局",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15308656.html"
+        },
+        {
+          "title": "消息称三大存储器原厂与 SEMI 磋商机器人充电标准化，提升晶圆厂自动化水平",
+          "lead": "IT之家 11 月 9 日消息，韩媒《首尔经济日报》当地时间本月 8 日报道称，三大存储器原厂（三星电子、SK 海力士",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/024/046.htm"
+        },
+        {
+          "title": "调查发现美国批准向中国空壳企业供应英伟达H200芯片 注册地址空无一人",
+          "lead": "美国政府批准向中国企业供应英伟达H200人工智能加速器的决定，正在引发新的国家安全争议。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1585514.htm"
+        },
+        {
+          "title": "见闻历11.11限时大促！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”",
+          "lead": "本文来自华尔街见闻，欢迎下载APP查看更多",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782813"
+        },
+        {
+          "title": "A娃、AI与迷思中的家长：中国在家上学现状",
+          "lead": "「让孩子认识到，不管是父母、老师，还是AI，他们都是自己的『军师』，自己才是这个世界的主人。」",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261109-mainland-homeschooling-and-ai/"
+        },
+        {
+          "title": "特朗普：若美伊谈判取得进展 再次发动打击可能性极低",
+          "lead": "当前，中东局势依旧高度紧张！ 北京时间11月9日清晨，美股 期货 剧烈波动：纳指 期货 一度跌近1%，随后迅速拉升转涨。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1344,202611093925748192.html"
+        },
+        {
+          "title": "LG 因其智能电视监视用户面临法律诉讼",
+          "lead": "今年 9 月，研究人员报告 LG 智能电视会在屏幕关闭但没有断电的待机状态下扫描家庭网络，寻找手机和智能手表等设备和记录麦克风音频。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85829"
+        },
+        {
+          "title": "[Local LLM] 腾讯开源的 DSpine 推测解码挺有意思，但什么时候能在 Mac 上支持 Qwen3.8-27B？",
+          "lead": "最近一直在研究 Apple Silicon 本地运行大模型的性能，发现腾讯开源了一个推测解码项目 DSpine 。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1255433#reply0"
+        },
+        {
+          "title": "派早报：特斯拉将停产 Cybertruck",
+          "lead": "特斯拉将停产 Cybertruck 深圳在 APEC 前夕整顿非法市场 美国数据中心股持续遭抛售",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "少數派",
+          "link": "https://sspai.com/post/118805"
+        },
+        {
+          "title": "21世纪电影艺术最高杰作！ (评论: 都灵之马)",
+          "lead": "Devin 评论: 都灵之马 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17893485/"
+        },
+        {
+          "title": "涌入半导体的年轻人：四年一套房的红利，早已标好了价格",
+          "lead": "长坡厚雪，做时间的朋友。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15308358.html"
+        },
+        {
+          "title": "AI交易“风向标”：Meta发债“一波三折”",
+          "lead": "Meta Platforms在美国中选日当天完成了一笔规模庞大的债券发行，这一非常规操作折射出科技巨头为AI融资所面临的日益复杂的市场环境。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785501"
+        },
+        {
+          "title": "不要为了媚俗而去改变你的灵魂 (评论: 汉娜·阿伦特)",
+          "lead": "一斤诗夏🍃 评论: 汉娜·阿伦特 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17893978/"
+        },
+        {
+          "title": "十诫 (评论: 可能的爱)",
+          "lead": "香象渡河 评论: 可能的爱 评价:",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17893849/"
+        },
+        {
+          "title": "对理查阿滕滤镜太厚话有些多所以短评装不下 (评论: 卓别林)",
+          "lead": "泡土豆 评论: 卓别林 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17893766/"
+        }
+      ],
+      "supplement": {
+        "title": "她们只有星期日：菲律宾外佣政治组织，一段海外延续革命的抗争史",
+        "lead": "2026年9月20日上午11时许，烈日当空。香港，花园道，美国驻港澳总领事馆入口处，不少菲律宾外佣聚集。约七、八名警察和便衣，用雪糕筒和红色隔离带划定示威区，并向集会申请者宣读现场指示。随著预定示威时间11点整邻近，在组织者和警察的指引下，外佣示威者逐一步入示威区，「一个、两个、三个⋯⋯」报数，直至50人，示威区关闭。 这50人拿出准备好的英语和他加禄语标语和横幅，接受警察检查，内容是否与集会申报内容一致。确定一切无误后，示威正式开始。",
+        "body": [
+          "2026年9月20日上午11时许，烈日当空。香港，花园道，美国驻港澳总领事馆入口处，不少菲律宾外佣聚集。",
+          "约七、八名警察和便衣，用雪糕筒和红色隔离带划定示威区，并向集会申请者宣读现场指示。随著预定示威时间11点整邻近，在组织者和警察的指引下，外佣示威者逐一步入示威区，「一个、两个、三个⋯⋯」报数，直至50人，示威区关闭。这50人拿出准备好的英语和他加禄语标语和横幅，接受警察检查，内容是否与集会申报内容一致。",
+          "确定一切无误后，示威正式开始。花园道对面的圣若瑟堂刚结束一场弥撒，菲律宾外佣鱼贯而出，行过梅夫人妇女会，向遮打花园走去。听到一街之隔传来母语，不少好奇驻足，有的打量一阵继续前行，有的掏出手机拍摄，有的高举V字手势，大喊支持菲律宾总统小马可斯和副总统莎拉杜特尔特的名字，以示反对。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261108-hongkong-filipino-domestic-helper-political-organization/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/TKH20260222W721-W-W-1.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 15,
+        "groups": 15,
+        "maxGroupShare": 21,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×7",
+          "豆瓣×4",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 3,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
+        "lead": "The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice.",
+        "body": [
+          "The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice."
+        ],
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-pope-milei-jcpf/08int-pope-milei-jcpf-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+        "lead": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/3fc6a5d68684a58fece0294bce9094ed76072ecd/2488_14_5430_4347/master/5430.jpg?width=140&quality=85&auto=format&fit=max&s=57b1a4b39c9e4d81da1942f21f2da458",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+              "lead": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, the prime minister Benjamin Netanyahu’s ⁠strongest rival",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/7eec88b1e0176fdcaf9916606ea9a1c049ff2da6/552_347_2266_1813/master/2266.jpg?width=140&quality=85&auto=format&fit=max&s=a900eb5d96def2c3cc51c767660e3a47",
+              "consensus": 5
+            },
+            {
+              "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
+              "lead": "Mr. Eisenkot, a career general and the leading rival of Prime Minister Benjamin Netanyahu of Israel, will now have up to six weeks to form a coalition.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-eisenkot-wtk-cpvh/08int-israel-eisenkot-wtk-cpvh-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Israel’s President Herzog gives Gadi Eisenkot the first chance to form the next government",
+              "lead": "Israeli President Isaac Herzog formally gave opposition politician Gadi Eisenkot the first chance to form the next government on Sunday evening.",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/world/middle-east/article/3373722/israels-president-herzog-gives-gadi-eisenkot-first-chance-form-next-government",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/09/8b8051f7-ffab-4fdb-89a9-262167fc0730_fac2a613.jpg?itok=KW7Z96BC&v=1794178017",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Democrats vow to impeach Trump officials and investigate Republican donors",
+              "lead": "Pete Hegseth, Elon Musk and Venezuelan oil deals are early targets for Congressional probes by incoming lawmakers",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe5d2199f-53e4-4bda-97fe-8111d67a3533.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+              "lead": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4981/live/81f74f50-dbb8-11f1-86cb-c1d83392da32.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+              "lead": "Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Ipswich Town's new club shop 'here to stay'",
+              "lead": "Fans and players are delighted at the new \"activation space\" in the town centre.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7ba/live/5fa987d0-daf3-11f1-827e-c7e7ee102257.jpg"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+              "lead": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+              "lead": "Jensen Huang, chief executive officer of Nvidia Corp., attends a media briefing following the company's \"Japan AI Ecosystem\" reception in Tokyo, Japan, on Thursday, July 16, 2026.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+              "lead": "Superconductors carry electricity without resistance, but most only work a few degrees above absolute zero. In the late 1980s, copper-based materials called cuprates were found to superconduct at higher temperatures",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-90737843-884x648.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "The week in pictures: US midterms 'Blue Wave', French protests and Dakar Youth Olympics",
+              "lead": "From the Democratic Party's big wins in the US midterm elections to France's ongoing student-led protests and the first Olympic sports event held on African soil",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/europe/20261108-the-week-in-pictures-trump-midterms-debacle-french-protests-dakar-youth-olympics",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://s.france24.com/media/display/32d96078-db74-11f1-b6c9-bf1914cabd52/w:1024/p:16x9/AP26310471490191.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Barcelona fight back to beat Atleti as Fermin scores twice",
+              "lead": "Fermin Lopez scores twice as Barcelona come from behind to claim a gritty win over Atletico Madrid and maintain their advantage at the top of La Liga.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d549/live/c3231170-dbcd-11f1-93e1-3b657b665bcf.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Al Jazeera tries Baseball5 at Youth Olympics",
+              "lead": "Al Jazeera tries Baseball5 at Youth Olympics",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/al-jazeera-tries-baseball5-at-youth-olympics?traffic_source=rss",
+              "category": "sport",
+              "categoryLabel": "Sport"
+            },
+            {
+              "title": "Are 'outstanding' Brighton now Arsenal's main title challengers?",
+              "lead": "After moving up to second in the Premier League, could Brighton really be Arsenal's main title challengers?",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de0/live/2f31e2f0-db93-11f1-9029-d35c55297624.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "How African philosophies inspired a new approach to staging film festivals in Manchester",
+              "lead": "See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creatives African philosophies including exploring how lessons from the past can",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://i.guim.co.uk/img/media/bcb07f839060d7b54330feb02b27ea2cae25f696/62_0_2371_1897/master/2371.jpg?width=140&quality=85&auto=format&fit=max&s=aac1a0e90bbdcc40e6993511572b0f95",
+              "consensus": 5
+            },
+            {
+              "title": "‘Cheers,’ ‘Taxi’ Showrunner Ken Estin and Mentalist Banachek Take Psychic Fraud Series ‘Psychic Predators’ From Taiwan Creative Content Fest to American Film Market (EXCLUSIVE)",
+              "lead": "Two-time Emmy winner Ken Estin, showrunner of “Taxi” and “Cheers,” is steering “Psychic Predators,” a paranormal dramatic comedy starring mentalist Banachek as himself.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/markets-festivals/cheers-showrunner-estin-banachek-psychic-predators-afm-1236941946/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/Psychic-Predators-Banacheck.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "MIT scientists turn immune cells into cancer killers inside the body",
+              "lead": "MIT scientists have developed nanoparticles that reprogram immune cells directly inside the body to attack cancer and harmful immune cells, eliminating tumors and reversing liver damage in mouse experiments.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261104084015.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists discover hidden brain changes linked to common sleep disorders",
+              "lead": "Scientists have discovered that sleep disorders are associated with structural changes in brain regions that control attention, decision-making, and emotions",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261104012303.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Stronger flu shot linked to nearly 55% lower Alzheimer's risk",
+              "lead": "A surprising new study suggests that a stronger flu shot could offer older adults significantly greater protection against Alzheimer's disease.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+          "lead": "Further details have emerged about two police officers hailed for",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
+          "lead": "Exclusive: Head of IFPI says allowing AI companies access to online",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia"
+        },
+        {
+          "title": "Trump says he was ‘only kidding’ about asking UFC boss to be spokesman",
+          "lead": "US president caused a media flurry by announcing he had invited Dana",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/b3acb746-76c0-46de-879a-990602b27a6a?syn-25a6b1a6=1"
+        },
+        {
+          "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
+          "lead": "Strikes show the heavy toll since fighting between the Houthis and",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html"
+        },
+        {
+          "title": "Israeli president officially tasks Eisenkot with forming government",
+          "lead": "Israeli President Isaac Herzog on Sunday officially tasked",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections"
+        },
+        {
+          "title": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
+          "lead": "Ilse Aigner, speaker of the Bavarian state parliament",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president?traffic_source=rss"
+        },
+        {
+          "title": "Nicolas Cage Calls ‘Spider-Noir’ Season 1 ‘Perfect’ and Says He Felt Relieved When It Was Canceled: ‘You Never Wanna Get Stuck Repeating a Character’",
+          "lead": "Prime Video canceled “Spider-Noir” after just one season",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/tv/news/nicolas-cage-spider-noir-cancellation-1236942808/"
+        },
+        {
+          "title": "Hacked records show 400,000 Russians killed in war on Ukraine",
+          "lead": "The material, obtained by a Belarusian pro-opposition group and a",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/09/world/hacked-russians-killed-ukraine/"
+        },
+        {
+          "title": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
+          "lead": "Trump tied avoiding renewed U.S. strikes to progress in talks over",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html"
+        },
+        {
+          "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+          "lead": "Snap's Specs, which have been in development for many years now",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/"
+        },
+        {
+          "title": "Epic Games Launcher is coming to SteamOS",
+          "lead": "In October, Epic Games said that it was \" investigating \" making",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos"
+        },
+        {
+          "title": "A 24-hour fast triggers a surprising repair response in the gut",
+          "lead": "Scientists have discovered that fasting for just 24 hours increases a",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm"
+        },
+        {
+          "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+          "lead": "Two doctors were eating near the city's Main Market Square when a",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+          "lead": "Silicon Valley chipmaker opens investigation into chief executive as",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Korea Box Office: Anime Phenomenon ‘Chiikawa’ Staves Off Corporate Thriller ‘Final Interview’ to Retain Top Spot",
+          "lead": "Japanese animated phenomenon “Chiikawa the Movie",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/box-office/korea-box-office-chiikawa-final-interview-1236942770/"
+        },
+        {
+          "title": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
+          "lead": "Three dividend-paying stocks that are highlighted by Wall Street’s",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/08/top-analysts-like-these-3-dividend-stocks-for-consistent-income.html"
+        }
+      ],
+      "supplement": {
+        "title": "K-Pop Concert Film ‘Twice: This Is For… You’ Acquired by Bleecker Street’s Crosswalk and Universal Pictures International",
+        "lead": "Bleecker Street’s event cinema division Crosswalk and Universal Pictures Content Group have acquired North American and international rights, respectively, to “Twice: This Is For… You.",
+        "body": [
+          "Bleecker Street’s event cinema division Crosswalk and Universal Pictures Content Group have acquired North American and international rights, respectively, to “Twice: This Is For… You.” The film captures K-pop phenomenon Twice at London’s O2 Arena during their “This Is For” world tour.",
+          "It features concert footage and exclusive behind-the-scenes access to the group.",
+          "“Twice are […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/news/twice-this-is-for-you-bleecker-street-crosswalk-upcg-1236942090/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2024/03/Unknown-8.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "ScienceDaily×4",
+          "Guardian×3",
+          "紐約時報×2",
+          "TechCrunch×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-09T01:30:34.603Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 799,
+        "lang": 455,
+        "fresh": 327,
+        "denoised": 327,
+        "deduped": 306
+      },
+      "en": {
+        "fetched": 799,
+        "lang": 344,
+        "fresh": 277,
+        "denoised": 275,
+        "deduped": 267
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 15,
+        "groups": 15,
+        "maxGroupShare": 21,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×7",
+          "豆瓣×4",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 3,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "ScienceDaily×4",
+          "Guardian×3",
+          "紐約時報×2",
+          "TechCrunch×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

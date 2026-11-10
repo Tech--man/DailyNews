@@ -1,0 +1,902 @@
+{
+  "issue": 57,
+  "date": "2026-11-10",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历十月初二 · 立冬",
+    "en": "2nd day of the 10th lunar month · Start of Winter"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "海关总署：今年前10个月我国货物贸易进出口同比增长20%",
+        "lead": "中新网11月10日电 据海关总署网站消息，据海关统计，2026年前10个月，我国货物贸易进出口总值44.81万亿元人民币，同比(下同)增长20%。其中，出口25.99万亿元，增长17.6%；进口18.82万亿元，增长23.6%。10月份，我国货物贸易进出口总值4.87万亿元，增长31.2%。",
+        "body": [
+          "中新网11月10日电 据海关总署网站消息，据海关统计，2026年前10个月，我国货物贸易进出口总值44.81万亿元人民币，同比(下同)增长20%。其中，出口25.99万亿元，增长17.6%；",
+          "进口18.82万亿元，增长23.6%。10月份，我国货物贸易进出口总值4.87万亿元，增长31.2%。",
+          "其中，出口2.79万亿元，增长28.7%；进口2.08万亿元，增长34.7%。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-10/10729298.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "美国商务部就芯片展开的调查在英伟达介入后中止",
+        "lead": "商务部此前曾深入调查新加坡Megaspeed公司，怀疑该公司将英伟达人工智能芯片走私到中国。但在调查人员收到英伟达法律顾问的问询邮件后，这起案件被移交至司法部。 Manuel Orbegozo for The New York Times 英伟达周日表示，已对黄仁勋展开调查。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/usa/20261110/nvidia-megaspeed-investigation-huang/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "A股午评：超3800只个股飘红，三大指数集体收涨",
+              "lead": "A股午评：超3800只个股飘红，三大指数集体收涨；通信设备、传媒、半导体上涨；CPO、人形机器人、光通信走高；煤炭、保险、酒类下跌",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-10/10729332.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "美国防长海格塞斯面临弹劾动议，这里是需要了解的信息",
+              "lead": "共和党众议员马西牵头提出决议，指控海格塞斯违反联邦法律和宪法，并在多个方面滥用职权。民主党人已表示广泛支持这一行动。特朗普则表态支持海格塞斯。 Kenny Holston/The New York Times 众议员托马斯·马西提出了一项决议，指责国防部长皮特·海格塞斯，称“若允许其继续留任，将对宪法构成威胁”。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261110/hegseth-impeachment-massie/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "黄仁勋涉与中国间谍外遇：为何婚外情升温至国安争议？",
+              "lead": "辉达（英伟达，Nvidia）执行长黄仁勋承认婚外情，正接受公司董事会调查，期间维持职务。《纽约时报》报导，美国情报官员认为，与黄仁勋有亲密关系的中国商人黄乐（Alice Huang）是中国间谍。美中科技竞争升温之际，美国对人工智能晶片出口、国家安全及企业管治的讨论将更加激烈。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/watch/cvwy7ygyw12po/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f711/live/f473b480-dc1a-11f1-93e1-3b657b665bcf.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "11月10日央行开展1900亿元隔夜逆回购操作",
+              "lead": "中新网11月10日电 据中国人民银行网站消息，2026年11月10日中国人民银行以固定利率、数量招标方式开展了1900亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-10/10729227.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "创业板盘初涨超2%，AI硬件反弹、“易中天”拉升，机器人爆发、宇树市值重回3000亿，恒科指涨1%",
+              "lead": "隔夜美股科技股大涨，纳斯达克100指数涨3.4%，芯片股指数单日飙升近7%。亚太股市周二跟随上涨，韩国KOSPI指数盘初大涨，韩国交易所对KOSPI指数启动程序化交易暂停机制，暂停程序化买盘。芯片巨头SK海力士和三星电子亦拉升，A股和港股的AI硬件普遍反弹。 11月10日，A股早盘集体高开，三大股指盘初上涨，创业板涨超2%，AI应用、机器人再度爆发，宇树科技涨超8%。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3785617",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "宝马与三星SDI、LG新能源达成电池电芯供应合作",
+              "lead": "",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15315282.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "科创50ETF鹏华(588040)、科创50增强ETF鹏华(588460)标的指数涨超1.4%，AI算力加速扩张叠加商业航天催化板块行情",
+              "lead": "光通信、卫星盘中活跃，消息面上，在全球AI算力产业高速扩张的大背景下，AI集群向十万卡级快速升级，高速光互连刚需持续释放。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15315190.html",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "曾号称订单超百万，累计仅卖 6.3 万辆，量产不到四年的特斯拉 Cybertruck 官宣停产",
+              "lead": "11 月 6 日，马斯克在 X 上正式确认，特斯拉将于 2027 年年中彻底关停得州超级工厂的 Cybertruck 生产线，把产线空间全部腾给自动驾驶出租车 Cybercab。 说实话，这一天本该来得更早一些。 在生命周期的尾声，这台纯电皮卡其实已经失去了真实的消费市场，全靠马斯克的另一家公司 SpaceX 强行输血续命。",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1688639?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            },
+            {
+              "title": "消息称 Pro 和 Ultra 版占据三星 Galaxy S27 系列智能手机七成规划出货量",
+              "lead": "IT之家 11 月 10 日消息，韩媒 ETNEWS 当地时间昨日报道称，在三星电子 MX（移动体验）业务的规划中， Pro 和 Ultra 两个高阶版本将 Galaxy S27 系列智能手机整体出货量的七成左右 。 三星电子的 Galaxy S 系列旗舰手机年产能通常在 3500 万部上下，今年的情况也是如此。其中，高端的 Ultra 系列约占 1800 万部，略微超过半数。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/024/741.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "加拿大延长对部分美国进口商品的关税减免至2028年",
+              "lead": "中新社北京11月10日电 渥太华消息：加拿大财政部9日发布消息称，调整对部分美国进口商品的关税减免措施，将减免期限延长一年至2028年6月30日，并扩大适用范围。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-10/10729222.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "黄仁勋对英伟达的全面控制是否意味着他难以被惩罚",
+              "lead": "黄仁勋是英伟达日常运营的中心，在硅谷和全世界都有极大的影响力。这给英伟达董事会带来了挑战，董事会正在调查他与一名被认定是中国间谍的女子之间的婚外情。 Eric Lee for The New York Times 黄仁勋是英伟达的最大个人股东，他的子女也是公司的高管。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261110/jensen-huang-affair-nvidia/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "黄仁勋与疑似中国间谍婚外情风波：特朗普称FBI已介入调查",
+              "lead": "美国总统特朗普表示，他周一曾与黄仁勋通话，并向他询问与被指是间谍的女子之间的婚外情。特朗普说黄仁勋向自己表示：「完全不知道她是间谍。」",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cmx2q2pn5nv8o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9ed/live/459f3140-dc93-11f1-b244-e54544344237.jpg"
+            },
+            {
+              "title": "黄仁勋对特朗普称自己不知婚外情对象疑似中国间谍",
+              "lead": "特朗普称自己已就此事询问黄仁勋，对方称“我完全不知道她是间谍”。特朗普表示他相信黄仁勋的说法，并称自己主要关注的是黄仁勋在这场丑闻中的状态如何。 Manuel Orbegozo for The New York Times 英伟达首席执行官黄仁勋，摄于今年早些时候。他与一名疑似中国间谍的关系震动了他的公司，这家强大的芯片制造商正驱动着支撑美国经济的数据中心繁荣。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261110/trump-jensen-huang-spy/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "2026年中国金鸡百花电影节：电影人探讨AI浪潮",
+              "lead": "中新社厦门11月10日电 (吴冠标)2026年中国金鸡百花电影节11月6日至10日在福建厦门举办。电影节期间，人们谈论的已不只是人工智能(AI)能做什么，还在于它做不了什么，该怎么用好它。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-10/10729281.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "从台北市长选举的「黄金交叉」说起：到底如何看民调？",
+              "lead": "不要说民调机构，就连神仙都很难预测最后谁会出来投票，毕竟选民自己经常也都不知道。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261110-taiwan-how-to-understand-polls/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/IMGL1255-copy-2-1.jpg"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "中国乒协公布混团世界杯国乒参赛名单",
+              "lead": "2026年国际乒联混合团体世界杯将于11月29日至12月6日在四川成都举办。今天，中国乒协公布混团世界杯国乒参赛名单：",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-10/10729293.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "银川五人制足球国际邀请赛男足赛事收官 中国队全胜夺冠",
+              "lead": "中新社银川11月9日电 (记者 杨迪)2026CFA中国之队·银川五人制足球国际邀请赛男子组赛事9日晚迎来收官之战，中国队8:3战胜马尔代夫队，三战全胜夺得男子组冠军。韩国选拔队、马尔代夫队分获第二、三名，中国香港队获颁纪念奖。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-10/10729160.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "西藏日喀则：消防宣传进校园 3000余名师生同上“安全课”",
+              "lead": "中新网拉萨11月10日电 (洛桑顿珠 贡桑拉姆)11月9日，日喀则消防救援机动大队走进日喀则市职业技术学校，启动2026年“119”消防宣传月活动。围绕“全民消防、生命至上”主题，消防员把疏散演练、灭火实操、急救教学和装备展示搬进校园，3000余名师生同上了一堂“安全课”。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-10/10729275.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "北京否认与黄仁勋有亲密关系的女性为中国间谍",
+          "lead": "中国官员否认黄乐为间谍，外交部驳斥相关报道“污蔑抹黑”。而在中国社交媒体上，公众似乎乐于看到黄仁勋这位长期在亚洲广受钦佩的科技界名人的形象崩",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/china/20261110/jensen-huang-china-spying/?utm_source=RSS"
+        },
+        {
+          "title": "黄仁勋与疑似中国间谍婚外情：目前我们知道什么？",
+          "lead": "这名科技业亿万富豪高层陷入一场涉及私人生活与国家安全的丑闻。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cw8dzd17n70no/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "欲摘通用量子计算下一个“皇冠”：正元量子完成天使轮融资",
+          "lead": "IT之家 11 月 10 日消息，新浪科技今天（11 月 10 日）发布博文，报道称正元量子完成天使轮融资",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/024/740.htm"
+        },
+        {
+          "title": "两位美联储官员放鹰：Barkin称加息方向明确，节奏需审慎，Goolsbee称必须直面\"通胀失控\"",
+          "lead": "两位美联储官员相继发出鹰派信号，强调通胀压力持续，货币政策收紧方向明确，但执行节奏仍需谨慎权衡。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785604"
+        },
+        {
+          "title": "午间涨跌停股分析：53只涨停股、0只跌停股，影视院线板块活跃，慈文传媒4天2板，上海电影3天2板",
+          "lead": "11月10日午间，A股半日下来共有53只涨停股、0只跌停股。影视院线板块活跃，慈文传媒4天2板，上海电影3天2板，文投控股2连板",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15315374.html"
+        },
+        {
+          "title": "特斯拉将停止生产Cybertruck 马斯克称部分预订用户可获退款",
+          "lead": "特斯拉首席执行官埃隆·马斯克近日就公司停产Cybertruck的决定作出回应，强调这款备受争议的不锈钢电动皮卡并非因为亏损而停产，同时表示",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1585642.htm"
+        },
+        {
+          "title": "Anthropic 发布 Fable 5.2 与 Mythos 5.2，声称“8 天写出一个能开机的操作系统”",
+          "lead": "Anthropic 在 11 月 9 日发布了 Claude Fable 5.2 和 Claude Mythos 5.2。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/503499/claude-fable-and-mythos-5-2"
+        },
+        {
+          "title": "【华尔街日报】英伟达董事会调查有关黄仁勋婚外情后成为间谍活动目标的报道",
+          "lead": "编按：《华尔街日报》是全球最具影响力的财经媒体之一，每日产出大量深度报导，涵盖国际政治、商业财经与科技趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261110-wsj-nvidia-jensen-huang-affair-china-espionage-investigation/"
+        },
+        {
+          "title": "火星发现存在活火山的证据",
+          "lead": "科学家将通常由岩浆产生的气体证据与在火星表面新发现的裂缝联系起来，指出火星可能存在火山活动。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85841"
+        },
+        {
+          "title": "Codex 游戏掌机突然开卖，网友却在催更 GPT-6.2",
+          "lead": "小时候想拥有一台 Game Boy，长大后想自己做一款 Game Boy 游戏，没想到 OpenAI 准备把这两个愿望一起实现。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1688678?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "前10个月我国货物贸易进出口44.81万亿元 同比增长20%",
+          "lead": "据海关统计，今年前10个月，我国货物贸易进出口总值44.81万亿元，同比增长20%，保持了强劲增长态势。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1345,202611103927151963.html"
+        },
+        {
+          "title": "全网好像没几个真正看懂《可能的爱》的嘛…… (评论: 可能的爱)",
+          "lead": "淘金汉 评论: 可能的爱 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17895590/"
+        },
+        {
+          "title": "接近黄仁勋的女间谍由中国国安部招募",
+          "lead": "一份在特朗普政府高级决策官员之间传阅的备忘录援引情报称，与黄仁勋关系密切的黄乐由中国国家安全部招募",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/usa/20261109/chinese-spy-agency-nvidia-jensen-huang/?utm_source=RSS"
+        },
+        {
+          "title": "白金汉宫幕僚：英王查尔斯「会考虑访华」",
+          "lead": "白金汉宫一名幕僚表示，若贝安德首相向王室提议查尔斯三世访华，国王将「小心考虑」。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cj20v0x3ze2no/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Anthropic招股文件刚发就撤！693亿美元融资细节意外泄露，英伟达、微软、台积电等集体押注260亿",
+          "lead": "Anthropic在首次公开募股进程中出现信息披露失误。据路透社报道，这家人工智能公司向承销银行发送了一份包含IPO定价细节的文件",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785616"
+        },
+        {
+          "title": "A股午评：创业板指半日涨1.49%，AI语料、短剧、影视院线等概念走强",
+          "lead": "11月10日，A股三大指数早盘集体上涨，截至午间收盘，上证指数涨0.06%，深证成指涨0.76%，创业板指涨1.49%；北证50涨0.5%。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15315334.html"
+        }
+      ],
+      "supplement": {
+        "title": "中期选举「蓝潮」背后：美国政治没有新多数，只有旧钟摆",
+        "lead": "11月3日的美国中期选举，民主党大胜，夺回国会参众两院的控制权。截至美东时间11月9日凌晨，民主党已在众议院拿下254席，共和党拿下163席。参议院方面，民主党已取得54席，跨过过半门槛，并从共和党手中翻转至少6席，包括堪萨斯州和南卡罗莱纳州等共和党票仓。民主党上一次在这两州赢得联邦参议院选举，已是数十年前。在德克萨斯州，共和党更在全州改选的8个职位中全数落败，从联邦参议员、州长到铁路专员，悉数由民主党拿下。",
+        "body": [
+          "11月3日的美国中期选举，民主党大胜，夺回国会参众两院的控制权。截至美东时间11月9日凌晨，民主党已在众议院拿下254席，共和党拿下163席。参议院方面，民主党已取得54席，跨过过半门槛，并从共和党手中翻转至少6席，包括堪萨斯州和南卡罗莱纳州等共和党票仓。",
+          "民主党上一次在这两州赢得联邦参议院选举，已是数十年前。在德克萨斯州，共和党更在全州改选的8个职位中全数落败，从联邦参议员、州长到铁路专员，悉数由民主党拿下。回望2024年，特朗普第二次颠覆民调预测、成功当选总统，当时的政界和新闻界不乏「右翼新多数」之说，认为特朗普已经成功地实现了美国政治板块的重组，基于全球化、社会文化等议题整合了一个多种族的、持久的选民联盟，民主党的士气也因此一度十分低落。",
+          "然而仅仅两年之后，民主党就在没有明确领导人、没有统一纲领的情况下获得了半个世纪以来中期选举的最大胜利。这说明，特朗普对美国政治的改变并非颠覆性的，美国政治中的普遍规律——诸如中期选举的「钟摆效应」——仍旧发挥著作用，甚至比从前更加机械。古老的经济议题也仍然是美国选举中举足轻重的议题。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261110-international-the-old-pendulum-of-midterms/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/RC21KOAR3ZZX.jpg"
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 22,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "BBC×2",
+          "界面×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+        "lead": "Government flags criminal law changes to ensure companies can’t argue in future ‘that someone didn’t know the computer was loaded’ OpenAI won’t face criminal",
+        "body": [
+          "Government flags criminal law changes to ensure companies can’t argue in future ‘that someone didn’t know the computer was loaded’ OpenAI won’t face criminal penalties over the Medicare hack but the prime minister has flagged changes to Australia’s criminal law to crack down on future breaches by artificial intelligence companies.",
+          "Anthony Albanese on Tuesday released the recommendations of a “rapid review” into the June breach but not the findings or the report itself.",
+          "maintaining security controls across all stages of development and deployment; identify and manage serious risks associated with their models; provide mandatory notification of incidents to the Australian government rapidly; allow independent evaluation of their models; maintain and publish safety and security frameworks to ensure good governance, risk management, and transparency;"
+        ],
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
+        "category": "tech",
+        "categoryLabel": "Technology",
+        "image": "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8860562d2849d1681cc78614e56d9f4f",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors",
+        "lead": "Alice Huang boasted of having access to Nvidia GPUs and her connection to Alibaba",
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?syn-25a6b1a6=1",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faee6c8cb-ba0d-44ec-93aa-b6686ff18f55.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "A Country’s President Led to a Bank’s Stunning Rise, and Its Fall",
+              "lead": "Prosecutors accused President Santiago Peña of Paraguay of funneling nearly a billion dollars of government funds to the Ueno bank as its executives made reckless insider loans.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-paraguay-zjft/08int-paraguay-zjft-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "One Nation dumps Victorian election candidate who praised Adolf Hitler as ‘GOAT’",
+              "lead": "Party disendorses Preston candidate Franco Guardiani after social media posts emerge One Nation Victoria has disendorsed a candidate whose private social media account described Adolf Hitler as the “GOAT” and claimed",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/australia-news/2026/nov/10/one-nation-dumps-franco-guardiani-praised-hitler-victoria-elections-ntwnfb",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/ffd2084856240a692fa1884c87559b8ff08d3986/329_0_3288_2631/master/3288.jpg?width=140&quality=85&auto=format&fit=max&s=7961765fc52974fa23d75a5acda4119f",
+              "consensus": 5
+            },
+            {
+              "title": "French judo star Teddy Riner announces 2027 presidential run",
+              "lead": "France’s five-time Olympic judo champion Teddy Riner announced on Monday he would run in next year’s presidential election, after expressing concern about the “rise of the far-right”.",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/world/europe/article/3373852/frances-macron-welcomes-judo-star-teddy-riners-entrance-2027-presidential-race",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/10/fdb27c45-cf14-4d2c-b5fb-75400a259f79_d3eebdd4.jpg?itok=gTSwC1zQ&v=1794275739",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "China’s trade surplus exceeds $1tn for first 10 months of year",
+              "lead": "Balance is on course for new annual record that would intensify tensions with trade partners",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/a267d321-a489-4426-940e-1e4be712dc09?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F598dee19-183c-4732-81ee-f6230530b24d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Headteachers say families will struggle after another rise in school dinner prices",
+              "lead": "The price of a school dinner in a primary school will have risen from £2.60 to £3.40 since the start of 2026.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ca3/live/100121b0-dc75-11f1-bbe9-83c09cc9b23f.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "SoftBank Group shares surge 13% as Asian tech stocks track Wall Street rebound",
+              "lead": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "How a civil servant got away with juggling five jobs for so long",
+              "lead": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d7c/live/f86c8280-db55-11f1-b441-2b33b063138f.jpg"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+              "lead": "During Paramount Skydance's latest earnings call , CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+              "lead": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Pentagon mulls placing fleet of military satellites around the Moon",
+              "lead": "The US military has published a Request for Information on a federal procurement website signaling interest in deploying a \"proliferated cislunar constellation\" consisting of an unspecified number of satellites",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/55199774765_6e77d97b51_o-1152x648.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "People don't know full story behind England exile - White",
+              "lead": "Arsenal defender Ben White says people don't know the \"full story\" behind his decision to previously make himself unavailable for England selection - but says he would make the same decision again.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ef/live/13e8f0c0-dc55-11f1-8fe6-5becaee5408f.jpg",
+              "consensus": 3
+            },
+            {
+              "title": "NI's O'Neill ruled out of Nations League matches",
+              "lead": "Arsenal forward Ceadach O'Neill is ruled out of Northern Ireland's final two Nations League fixtures against Ukraine in Belfast and Hungary in Budapest.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynylnd71yo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e548/live/515bf500-dc88-11f1-851a-19e868620cad.jpg"
+            },
+            {
+              "title": "Initiative launched to make UK world leader in women's sport",
+              "lead": "The FA, Team GB and England Netball are among major organisations to back the Equal Sport Project - a new initiative aimed at improving equality and making the UK world leaders for women and girls' sport.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/articles/crp3g3l2wew3o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc28/live/84fcf9b0-dc72-11f1-92b6-7dd459918707.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "How the American French Film Festival Is Bringing French Cinema to 3,000 Los Angeles High School Students With Packed Screenings of ‘In Waves’",
+              "lead": "The American French Film Festival, which celebrated its 30th anniversary this year, has been on a journey to cultivate a new generation of French movie lovers for two decades with its educational program for Los Angeles",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/global/american-french-film-festival-high-school-students-in-waves-1236943707/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/TAFFF2026_Day3_004-1.jpeg",
+              "consensus": 5
+            },
+            {
+              "title": "French Judo Legend Teddy Riner Announces 2027 Presidential Bid, Drawing Praise From Emmanuel Macron",
+              "lead": "French judo superstar Teddy Riner, a five-time Olympic gold medalist and multiple world champion, has announced that he is running for president of France in 2027 in a fiery speech posted on social media.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/global/french-judo-legend-teddy-riner-2027-presidential-bid-macron-1236943664/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2022/02/Teddy-Riner.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+              "lead": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Common supplement could help fight psoriasis, scientists discover",
+              "lead": "Scientists have discovered that pantethine, a readily available vitamin B5 derivative, can calm overactive immune cells and may help fight psoriasis.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261108233057.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "A simple supplement may help clear brain fog after cancer",
+              "lead": "A surprising new study from UCLA suggests that a naturally occurring molecule could help breast cancer survivors overcome the frustrating brain fog and exhaustion that can linger long after treatment ends.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261104084013.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
+          "lead": "China’s exports exceeded imports by $1 trillion in the first 10",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html"
+        },
+        {
+          "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+          "lead": "Kyiv, Washington and Moscow are all sending delegation to the United",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Cyber-attack on French supermarket freezers has geopolitical context",
+          "lead": "‘Not particularly complex’ defrosting hack has been attributed to Iran",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe"
+        },
+        {
+          "title": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
+          "lead": "US company has been rocked by allegations its chief executive had an",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Millions of dollars poured into prediction markets on election night, trading on Democratic control of Congress and Texas governor's race",
+          "lead": "Election night showed how traders reacted in real time to midterm",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/09/millions-of-dollars-poured-into-prediction-markets-on-election-night.html"
+        },
+        {
+          "title": "Nvidia shares tumble after spy probe announced",
+          "lead": "Shares of artificial intelligence leader Nvidia tumbled early Monday",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "France24",
+          "link": "https://www.france24.com/en/video/20261109-nvidia-shares-tumble-after-spy-probe-announced"
+        },
+        {
+          "title": "Israel’s Shin Bet finds no evidence of foreign election interference",
+          "lead": "Israel's internal security service has found no evidence of foreign",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference?traffic_source=rss"
+        },
+        {
+          "title": "French officials blame Iran for refrigerator hacks and vow retaliation",
+          "lead": "A joint report issued by French spy and cyber agencies accused a",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/10/world/crime-legal/iran-french-refrigerator-hacks/"
+        },
+        {
+          "title": "‘Ramayana’ Makes History as First Indian Film to Top U.K., Ireland Box Office as ‘Godzilla Minus Zero’ Debuts in Third",
+          "lead": "Sony’s animated mythological adventure “Ramayana",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/box-office/ramayana-godzilla-minus-zero-uk-ireland-box-office-1236943753/"
+        },
+        {
+          "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+          "lead": "France's foreign minister blamed Iran for launching at least two",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/"
+        },
+        {
+          "title": "Odyssey cruise ship’s voyage ends in Singapore arrest after owner goes bust",
+          "lead": "A cruise ship left stranded in Southeast Asia after its US-based",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/asia/southeast-asia/article/3373862/odyssey-cruise-ships-voyage-ends-singapore-arrest-after-owner-goes-bust"
+        },
+        {
+          "title": "Here’s what Trump said he knew about Jensen Huang",
+          "lead": "Jensen Huang and President Trump. | Getty Images President Trump held",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference"
+        },
+        {
+          "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+          "lead": "For a long time, SpaceX has been synonymous with the development of",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/"
+        },
+        {
+          "title": "Scientists discover a surprising link between acorns and lyme disease",
+          "lead": "After more than 35 years of research, scientists have uncovered",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261106174518.htm"
+        },
+        {
+          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+          "lead": "The US president said he spoke with Jensen Huang on Monday and asked",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russian strikes aim to cut Ukraine in half, Zelenskyy warns",
+          "lead": "Moscow’s strikes on the bridges across the Dnipro river could sever",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/efc3048c-c614-4d71-bf1b-e8cdce40722f?syn-25a6b1a6=1"
+        }
+      ],
+      "supplement": {
+        "title": "Johnny Depp Premieres ‘Ebenezer’ in London, Kim Kardashian Wears Gucci to LACMA Art+Film and More Celeb Red Carpet Photos: November 2026",
+        "lead": "November began with a slew of award season FYC screenings and Q&As in Los Angeles, including a round of appearances from Jordan Firstman in support of his feature “Club Kid” and an Angelina Jolie-hosted “Wild Horse",
+        "body": [
+          "November began with a slew of award season FYC screenings and Q&As in Los Angeles, including a round of appearances from Jordan Firstman in support of his feature “Club Kid” and an Angelina Jolie-hosted “Wild Horse Nine” premiere in Los Angeles.",
+          "In New York City, Kim Kardashian, Sarah Paulson, Teyana Taylor, Niecy Nash-Betts and Glenn […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/gallery/jceleb-red-carpet-photos-november-2026/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/11/Ebenezer-Global-Premiere-1000.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×4",
+          "Guardian×2",
+          "FT×2",
+          "SCMP×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-10T03:59:26.243Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 801,
+        "lang": 455,
+        "fresh": 378,
+        "denoised": 378,
+        "deduped": 363
+      },
+      "en": {
+        "fetched": 801,
+        "lang": 346,
+        "fresh": 320,
+        "denoised": 318,
+        "deduped": 305
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 37,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 22,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "BBC×2",
+          "界面×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×4",
+          "Guardian×2",
+          "FT×2",
+          "SCMP×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

@@ -1,0 +1,923 @@
+{
+  "issue": 58,
+  "date": "2026-11-11",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历十月初三 · 立冬",
+    "en": "3rd day of the 10th lunar month · Start of Winter"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "英国央行副行长警示通胀有持续风险 释放进一步加息信号",
+        "lead": "中新社伦敦11月10日电 (记者 欧阳开宇)英国央行负责货币政策的副行长克莱尔·隆巴代利10日在一场央行会议上表示，英国通胀持续风险正在显现，若无通胀降温的明确证据，短期内大概率需要再度加息。",
+        "body": [
+          "中新社伦敦11月10日电 (记者 欧阳开宇)英国央行负责货币政策的副行长克莱尔·隆巴代利10日在一场央行会议上表示，英国通胀持续风险正在显现，若无通胀降温的明确证据，短期内大概率需要再度加息。"
+        ],
+        "source": "中新網國際",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729870.shtml",
+        "category": "business",
+        "categoryLabel": "财经"
+      },
+      "secondary": {
+        "title": "顺从的董事会：黄仁勋危机考验英伟达公司治理",
+        "lead": "在黄仁勋领导下，英伟达已成为全球最有价值的公司之一。黄仁勋似乎对继任者没有规划，公司董事会则一贯对其表现出忠诚和顺从。危机爆发后，公司治理面临考验。 Mike Kai Chen for The New York Times 公司治理专家担心，英伟达董事会已让公司变得过于依赖黄仁勋。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/technology/20261111/jensen-huang-nvidia-board/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "11月11日央行开展1870亿元隔夜逆回购操作",
+              "lead": "中新网11月11日电 据中国人民银行网站消息，2026年11月11日中国人民银行以固定利率、数量招标方式开展了1870亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-11/10729915.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "从局长下台到议会「沉默」 宏福苑大火后的政治问责与维稳逻辑",
+              "lead": "BBC中文采访多名政治分析人士，拆解这场善后操作背后所反映的维稳管治逻辑，以及又与即将举行的选委会及特首选举有何深层连结。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cm0e0e7d7qv4o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/657d/live/f4c76600-dd1b-11f1-a701-fddedf244c16.jpg"
+            },
+            {
+              "title": "黄仁勋对特朗普称自己不知婚外情对象疑似中国间谍",
+              "lead": "特朗普称自己已就此事询问黄仁勋，对方称“我完全不知道她是间谍”。特朗普表示他相信黄仁勋的说法，并称自己主要关注的是黄仁勋在这场丑闻中的状态如何。 Manuel Orbegozo for The New York Times 英伟达首席执行官黄仁勋，摄于今年早些时候。他与一名疑似中国间谍的关系震动了他的公司，这家强大的芯片制造商正驱动着支撑美国经济的数据中心繁荣。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261110/trump-jensen-huang-spy/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "黄仁勋何以成为硅谷的“摇滚明星”",
+              "lead": "随着芯片成为人工智能的关键组件，黄仁勋这样的企业高管的个人财富和声望也以前所未有的速度飙升。随之而来的是华盛顿权势人物的关注，以及卷入某些纠葛的可能性。 Manuel Orbegozo for The New York Times 英伟达首席执行官黄仁勋今年3月在圣何塞举行的公司年度大会上。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261110/jensen-huang-nvidia-ai-chips-scandal/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "马龙：应对气候变化不是少数国家的选择题",
+              "lead": "中新网安塔利亚11月10日电(记者 魏园)当地时间11月10日，普华永道中国税收政策服务主管合伙人马龙在土耳其安塔利亚表示，中国近年来的一系列财税政策，正用税收杠杆推动绿色承诺转化为企业的实际行动。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-10/10729802.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "美CPI超预期叠加美联储放鹰，美债重挫，美股指承压，英伟达两日跌10%，黄金大跌",
+              "lead": "超预期的美国通胀数据与多位联储官员的鹰派信号共振，令市场对美联储更激进加息的押注骤然升温，债市首当其冲，科技股大幅回调，美元走强压制避险资产。 美国10月CPI环比涨幅超出预期，联储理事Christopher Waller随即警告若通胀数据偏强，12月会议上可能需要考虑加息50个基点，随后达拉斯联储主席Logan和堪萨斯城联储主席Jeff Schmid相继发表鹰派言论，市场对12月大幅加息的定价大幅重新调整。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3785613",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "阿里巴巴已申请平头哥赴港独立上市 IPO具体规模尚未最终确定",
+              "lead": "11月10日晚， 阿里巴巴 集团发布公告称，已向香港联交所提交分拆旗下全资子公司平头哥独立上市的申请。待上市完成后，预期平头哥仍将是 阿里巴巴 子公司。 公告显示，今年9月11日，平头哥已向香港联交所递交上市申请，拟通过H股在香港联交所主板独立上市。据悉，IPO具体规模尚未最终确定。 已递交上市申请 具体来看，此次独立上市，拟通过全球发售平头哥H股的方式进行。",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://finance.eastmoney.com/news/1354,202611103927672314.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "索尼12月10日起停止提供PC版PlayStation Plus应用",
+              "lead": "索尼互动娱乐宣布，将从12月10日起停止向PC用户提供PlayStation Plus应用。该应用面向符合资格的PlayStation Plus Premium会员，但实际使用人数不足合资格会员的0.4%。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/game/1585854.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "使用者过少，索尼将于 12 月 10 日下线 PC 版 PlayStation Plus 云游戏应用程序",
+              "lead": "IT之家 11 月 11 日消息，Sony（索尼）PlayStation 官方当地时间 10 日宣布， PC 版 PlayStation Plus 云游戏应用程序将于 12 月 10 日下线 。此次变更不会影响 PS5 和 PS4 主机上的 PlayStation Plus 会员资格或权益。 PlayStation 表示，其会定期评估服务内容，确保专注于会员最重视的游戏体验。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/025/237.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "波士顿动力为其人形机器人加入了轮子",
+              "lead": "波士顿动力通过官方 YouTube 频道公布了一则新视频，展示了其人形机器人 Atlas 改用轮子在地面上移动。视频展示了 Atlas 能通过足部的轮子用脚尖旋转，以及做出其它高强度的动作。Atlas 能在平坦地面上的快速滚动与应对障碍物或不规则地面的关节式腿部运动之间实现平滑切换。Atlas 项目控制工程师 Andy Wu 称，系统在模拟环境中进行了训练，在模拟环境中学会所有动作后能在现实世界中以高准确度执行出来。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85849",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "2026年全球健康峰会在泰国普吉岛举行",
+              "lead": "中新社曼谷11月10日电 (王茜 李映民)2026年全球健康峰会10日至13日在泰国普吉岛举行，约600名代表参会。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-11/10729872.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "为何晚上睡前总是想吃零食？可以怎么办？",
+              "lead": "你在睡前吃甜食是有生物学原因的，但你可以改变这个习惯。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cwly3ynk2rx1o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4c01/live/8242d1d0-d9f8-11f1-b441-2b33b063138f.jpg"
+            },
+            {
+              "title": "美国商务部就芯片展开的调查在英伟达介入后中止",
+              "lead": "商务部此前曾深入调查新加坡Megaspeed公司，怀疑该公司将英伟达人工智能芯片走私到中国。但在调查人员收到英伟达法律顾问的问询邮件后，这起案件被移交至司法部。 Manuel Orbegozo for The New York Times 英伟达周日表示，已对黄仁勋展开调查。此前，他承认曾与一家涉嫌向中国走私芯片的新加坡公司的高管有过亲密关系。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261110/nvidia-megaspeed-investigation-huang/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "北京否认与黄仁勋有亲密关系的女性为中国间谍",
+              "lead": "中国官员否认黄乐为间谍，外交部驳斥相关报道“污蔑抹黑”。而在中国社交媒体上，公众似乎乐于看到黄仁勋这位长期在亚洲广受钦佩的科技界名人的形象崩塌。 Demetrius Freeman for The New York Times 英伟达首席执行官黄仁勋10月在华盛顿。黄仁勋承认与一名商界高管有亲密关系，美国官员怀疑该高管向中国情报部门提供情报。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/china/20261110/jensen-huang-china-spying/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "科技赋能解码西阴文化 200余件（组）文物回望中国考古学百年历程",
+              "lead": "中新社太原11月10日电 (记者 杨静 胡健)1926年，中国考古学家李济、袁复礼在山西夏县西阴村掘下中国人独立主持现代田野考古的第一铲。100年后，“重读西阴——中国考古学本土化与科学化100周年特展”10日在山西博物院开展，以200余件(组)展品回望中国现代考古学的百年历程。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-10/10729618.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "中国如何成为「水电国家」？专访环境史学者丁祥利",
+              "lead": "近年，中国因太阳能和风能等新能源发展备受瞩目，光环背后，中国是全球最大的水力发电国，水力发电总量接近全球的三分之一。 从雅鲁藏布江上的墨脱超级水电站，到广西暴雨中险象环生的毛时代老旧水库，这些不同时空的水电工程揭示了复杂的现实：水电不仅是中国当下的能源支柱，也是「双碳」（碳达峰与碳中和）愿景下能源转型的核心；与此同时，水电依然深深印刻著毛时代的历史遗产与政治基因。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261111-question-in-china-interview-with-xiangli-ding/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/GettyImages-1353546935.jpg"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "“北京双奥中的中华传统文化”主题展览亮相北京奥运博物馆",
+              "lead": "中新网北京11月10日电 (记者 吕少威)“北京双奥中的中华传统文化”主题展览10日在北京奥运博物馆正式开启，面向社会公众免费开放。本次展览由北京奥运城市发展促进会策划推出，系统梳理两届奥运会筹办举办过程中，中华优秀传统文化实现创造性转化、创新性发展的生动实践，探寻中华文明与奥林匹克文化交融共生的深厚故事。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-10/10729655.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "银川五人制足球国际邀请赛收官 伊朗女队夺冠",
+              "lead": "中新社银川11月11日电 (记者 杨迪)2026CFA中国之队·银川五人制足球国际邀请赛10日落幕，女子组赛事中，伊朗队夺冠，中国队获得亚军，中国香港队获得季军。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-11/10729869.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "第一批新车次列车车票 今起陆续发售",
+              "lead": "全国铁路列车车次编排改革顺利推进，11月25日0时起始发开行的普速旅客列车、11月24日18时起始发开行的货物列车将正式使用新车次。第一批实行新车次的列车车票，今日起陆续发售。动车组列车车次此次变更暂时保持不变，将于12月下旬实施变更。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-11/10729887.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "一名公务员如何长期瞒天过海，身兼五职？",
+          "lead": "卡西姆·乔杜里（Kashim Chowdhury）在三年内将纳税人的钱挪用28.4万英镑后，被判犯有欺诈罪。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c933x388j116o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "美联储理事鲍曼警告：若AI押注落空，股市或将大幅回调",
+          "lead": "美联储官员就金融市场风险发出警示，直指人工智能热潮可能埋下的系统性隐患，并暗示年内仍有加息空间。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785680"
+        },
+        {
+          "title": "中国前10个月贸易顺差突破1万亿美元",
+          "lead": "中国从全球对绿色能源产品的强劲需求和人工智能数据中心的繁荣中获利，出口持续急剧攀升，前10个月贸易顺差达到1.04万亿美元",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/business/20261110/china-trade-surplus-trillion/?utm_source=RSS"
+        },
+        {
+          "title": "阿里巴巴：拟分拆平头哥赴港独立上市",
+          "lead": "11月10日，阿里巴巴公告称，拟分拆全资子公司平头哥（上海）技术股份有限公司赴香港联交所主板独立上市。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1585818.htm"
+        },
+        {
+          "title": "尚界 Z7T 星野套装官宣 11 月 20 日上市，配有车顶行李箱",
+          "lead": "IT之家 11 月 11 日消息，尚界汽车今日宣布， 尚界 Z7T 星野套装即将上市",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/025/243.htm"
+        },
+        {
+          "title": "水貂养殖禁止终落锤，丹麦的皮草行业如何走完百年历程？",
+          "lead": "（作者为北京清华大学科技哲学博士、动物保护学者） 「没有痛苦。」水貂养殖业者对我说。「到了取皮季节，我们就把水貂一只只放到里面去",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261111-international-denmark-ban-mink-farming/"
+        },
+        {
+          "title": "今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上",
+          "lead": "AI 大模型的发布节奏已经快到让人应接不暇。 就在刚刚，Google DeepMind 正式宣布",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1688883?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "微软宣布 .NET 11",
+          "lead": "微软宣布了 .NET 11。该版本是标准支持版本 STS，提供两年支持，上个版本 .NET 10 则是长期支持版本 LTS。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85851"
+        },
+        {
+          "title": "全球市场：美股三大指数收跌 芯片股走势分化 英伟达跌超5%",
+          "lead": "美股市场： 美股三大指数11月10日收盘全线下跌。截至收盘，道琼斯工业平均指数比前一交易日下跌157.86点，收于52231.89点",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://stock.eastmoney.com/news/11784,202611113927736276.html"
+        },
+        {
+          "title": "[开源软件] 自己二开了一个 Mac 剪切板",
+          "lead": "复制过的文字、图片和链接，会变成池里一个个小物件。需要时点选复用、按空格展开预览，常用的拖到右侧留住，也能直接拖进支持的编辑器。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1256033#reply0"
+        },
+        {
+          "title": "大卫芬奇的电影像是用一根细冷铁丝穿起来的 (评论: 消失的爱人)",
+          "lead": "顾得猫 评论: 消失的爱人 评价: 还行",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17896799/"
+        },
+        {
+          "title": "英国笑匠布兰德强奸案判刑 为何BBC和贝安德均作表态？",
+          "lead": "这名声名狼藉的艺人被判监禁十年半。英国首相贝安德表示，十年前曾与这名喜剧演员交往的工党政治人物当时并不知道他的罪行。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cqly0yemem08o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "美联储再次放鹰！今年票委Logan：至少还需加息两次，步伐或将加快",
+          "lead": "美联储官员对通胀的担忧情绪明显升温，鹰派立场趋于强化。 今年FOMC轮值票委，达拉斯联储主席Lorie Logan周二表示",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785671"
+        },
+        {
+          "title": "美国防长海格塞斯面临弹劾动议，这里是需要了解的信息",
+          "lead": "共和党众议员马西牵头提出决议，指控海格塞斯违反联邦法律和宪法，并在多个方面滥用职权。民主党人已表示广泛支持这一行动。特朗普则表态支持海格塞斯。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/usa/20261110/hegseth-impeachment-massie/?utm_source=RSS"
+        },
+        {
+          "title": "数说科技：蓝色海啸后，美国数据中心何去何从？",
+          "lead": "编按：「 数说科技 」是端传媒的注册免费栏目，每周三更新。从一个数字出发，用1500字解析科技话题，追踪值得关注的 AI 趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261111-tech-in-numbers-2026-us-midterms-data-center-backlash/"
+        },
+        {
+          "title": "微软股价应声跳水 Anthropic上市前夕推出AI办公套件",
+          "lead": "当地时间周二，美国科技巨头 微软 的投资者，又一次面对“AI开发商抢饭碗”的波动。 具体来说",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1354,202611113927721341.html"
+        }
+      ],
+      "supplement": {
+        "title": "北京未宣布演习，逾百艘中国舰船为何出现在西太平洋？｜Whatsnew",
+        "lead": "11月3日晚间，台湾国家安全会议秘书长吴钊燮在社群平台 X 贴出 一张舰船分布图：逾百艘中国海军与海警船从东海延伸到南海，较大的几群停在台湾以东的菲律宾海，分属解放军东部、北部、南部三个战区的海军，辽宁号航舰打击群也在内。这几支编队从10月中旬起陆续穿过日本周边的海峡出海，不过北京始终没有以演习名义对外宣布消息。",
+        "body": [
+          "11月3日晚间，台湾国家安全会议秘书长吴钊燮在社群平台 X 贴出 一张舰船分布图：逾百艘中国海军与海警船从东海延伸到南海，较大的几群停在台湾以东的菲律宾海，分属解放军东部、北部、南部三个战区的海军，辽宁号航舰打击群也在内。这几支编队从10月中旬起陆续穿过日本周边的海峡出海，不过北京始终没有以演习名义对外宣布消息。",
+          "三天后，美国智库战争研究所（ISW）与美国企业研究所（AEI）在 报告 中研判，解放军可能正在举行一场未宣布的大规模演习，模拟包围并孤立台湾，动用的舰船数量与部署范围，都超过去年底的「正义使命－2025」。不到一年前，「正义使命」登场当天，东部战区就 公布 了代号，并在上午预告隔天的实弹射击时段；",
+          "这一次，北京对外把辽宁号出海定调为年度例行训练，海警在台湾以东的航行则称为「例行执法巡查」。ISW 指出，北京最近四次对台大型军演都有宣布并命名，这次却一反惯例。​ ​ ​ ​ ​ ​ ​ (function(){ var isMobile = window.innerWidth 航舰打击群', lat: 19.91, lng: 129.09, type: 'fleet', side: 'right', gap: 16, num: 3 }, { text: '南部战区海军', lat: 18.38, lng: 126.93, type: 'fleet', side: 'right', gap: 16, num: 4 } ] }; // 中国省界线（Natural Earth admin-1 lines，仅取中国"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261111-whatsnew-taiwan-china-pla-unannounced-drill-west-pacific/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/2018-04-24T000000Z_1982020106_RC19BCE38300_RTRMADP_3_CHINA-MILITARY-W.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "端傳媒×4",
+          "華爾街見聞×3",
+          "東方財富×3",
+          "BBC×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
+        "lead": "Thinktank Niesr says timid rate rise last week likely to make inflation more persistent feature of UK economy The Bank of England is risking higher interest",
+        "body": [
+          "Thinktank Niesr says timid rate rise last week likely to make inflation more persistent feature of UK economy The Bank of England is risking higher interest rates for longer after a hesitant response to rising inflation , according to leading thinktank.",
+          "In a searing critique of the central bank’s tactics, the National Institute of Economic and Social Research (Niesr) said a timid increase in interest rates last week was likely to mean inflation staying above the Bank’s 2% target until at least 2030.",
+          "Continue reading..."
+        ],
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://i.guim.co.uk/img/media/d95248c61fe05660dc1c266c9aace74161f87b00/900_676_4076_3263/master/4076.jpg?width=140&quality=85&auto=format&fit=max&s=8271e3ea2f195dd766eb365a89f9373a",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+        "lead": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
+        "source": "BBC Business",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Macquarie Bank to pay $14m penalty after confusing ‘welcome rate’ promotion",
+              "lead": "Asic says customers should not have to check every transaction to ensure they receive the correct interest Macquarie Bank is set to pay a $14m court-imposed penalty after it admitted to breaking the Corporations Act",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/australia-news/2026/nov/11/macquarie-bank-14m-penalty-welcome-rate-savings-account",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/2d7d4fe9a9ff386b2d6db98fac5bdfdd4a1d1043/500_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=fed891b8a173d335cbfd14e3bb99a109",
+              "consensus": 5
+            },
+            {
+              "title": "Israeli Opposition Pushes for Oct. 7 Inquiry at First Session of New Parliament",
+              "lead": "Dozens of first-time lawmakers were sworn into the Knesset, where the opposition, led by Gadi Eisenkot, now has a majority.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-israel-knesset-bqlk/10int-israel-knesset-bqlk-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "West Bank: Population and healthcare actors, such as MSF, 'still facing movement restrictions'",
+              "lead": "Eve Irvine is pleased to welcome Frederica Venturi of Doctors Without Borders (MSF). The withdrawal of Israeli forces from Hebron has not brought an end to the humanitarian crisis.",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/video/20261110-west-bank-population-and-healthcare-actors-such-as-msf-still-facing-movement-restrictions",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://s.france24.com/media/display/ff25b17a-dd51-11f1-8efc-f71d22e7fea9/w:1024/p:16x9/EN-20261110-070625-071226-CS-01.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
+              "lead": "Claude maker’s listing price expected to rise after strong demand from investors",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6eda46fd-c331-430a-b4ed-bec84714d6ff.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+              "lead": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Stocks moving the most after hours: Neocloud company CoreWeave shares swing after quarterly report",
+              "lead": "Follow below as CNBC breaks down the biggest stock market moves of the day.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/10/stock-market-movers-live-updates.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
+              "lead": "Business executives warned at a Washington summit of rising costs and shifting supply chains as polls showed growing opposition to Trump's tariffs.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+              "lead": "Amazon is betting that many Ring customers will also want an AI-powered security drone and robot patrolling their homes or offices. But the company’s upcoming Ring Robotic products are also certain to intensify privacy",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg",
+              "consensus": 5
+            },
+            {
+              "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+              "lead": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+              "lead": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year .",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "England hammer Australia to reach final",
+              "lead": "Rob Hawkins scores five tries as England hammer Australia 86-18 to reach the Wheelchair Rugby League World Cup final.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-league/videos/cm5ynyez127xo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fe6/live/f6faf460-dd06-11f1-b441-2b33b063138f.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Who are the main candidates for the Aberdeen job?",
+              "lead": "Two domestic names stand out, while there is also the possibility of a foreign appointment following Stephen Robinson's departure.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c3rryr85v874o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c41a/live/882b2a90-dcf3-11f1-a701-fddedf244c16.png",
+              "consensus": 5
+            },
+            {
+              "title": "Arsenal eye Real's Endrick - Wednesday's gossip",
+              "lead": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed for the Anfield exit door, Newcastle and Sunderland among the clubs interested in Croatian striker Dion Beljo",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad9/live/ac0a3550-dd48-11f1-aeb2-6bd34b8670af.png"
+            },
+            {
+              "title": "Khawaja alleges racial abuse by MCC member",
+              "lead": "Australia batter Usman Khawaja alleges he was racially abused by an MCC member during the Ashes Test at Lord's in 2023.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/cricket/articles/cmwy9y0r1gp3o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22ec/live/eddc1330-dcf4-11f1-9ef0-4b5930e2f80e.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Elliot Frances Flynn and Michael Paré to Star in Indie Supernatural Horror ‘Not Herself’ (EXCLUSIVE)",
+              "lead": "Elliot Frances Flynn (“Peacemaker”) will star alongside Michael Paré (“Streets of Fire”) in Jon Russell Cring and Tracy Nichole Cring’s supernatural horror film “Not Herself",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/elliot-frances-flynn-michael-pare-indie-horror-not-herself-1236944287/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/MixCollage-10-Nov-2026-02-11-PM-4842.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "‘Risa and the Wind Phone’ Wins Audience Award at Miami Film Festival Gems – Film News in Brief",
+              "lead": "“Risa and the Wind Phone” is the winner of the Miami Film Festival Gems 2026 Audience Award Directed by Juan Cabral, the film follows Risa",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/film-news-in-brief-nov-9-2026-1236943218/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/attl8fTDhXaHbHxrM_xxl.webp"
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists finally discover why we learn to love bitter coffee",
+              "lead": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            },
+            {
+              "title": "Alzheimer’s may have early warning signs outside the brain",
+              "lead": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            },
+            {
+              "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+              "lead": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Israel's new parliament sworn in as leaders compete to form government",
+          "lead": "Benjamin Netanyahu's main political rival, Gadi Eisenkot",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Suspect in Mass Shooting in Krakow, Poland, Dies in Hospital. Here’s What to Know.",
+          "lead": "Nine people were dead after shootings in Krakow and another town.",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html"
+        },
+        {
+          "title": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – US politics live",
+          "lead": "Republicans secure majority of votes to send articles introduced by",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates"
+        },
+        {
+          "title": "House blocks impeachment of US defence secretary Pete Hegseth",
+          "lead": "Congressional effort to unseat incumbent over conduct of Iran war",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/38100c3c-af0d-440b-8350-823c5e8c80d9?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Netanyahu and Eisenkot push for new government after election deadlock",
+          "lead": "Netanyahu and Eisenkot push for new government after election deadlock",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss"
+        },
+        {
+          "title": "Anthopic opens Australian retail IPO offering as AI scrutiny intensifies",
+          "lead": "Anthropic opened its Australia retail IPO offering on Wednesday",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html"
+        },
+        {
+          "title": "China, Russia and US try to nail down AI nuclear agenda in time for Apec talks",
+          "lead": "Talks between China, the US and Russia could yield a commitment to",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3374003/china-russia-and-us-try-nail-down-ai-nuclear-agenda-time-apec-talks"
+        },
+        {
+          "title": "France supermarket hack marks new phase in Iran’s shadow war",
+          "lead": "Cyberattacks hit French supermarkets last month",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/11/world/crime-legal/france-supermarket-hack-iran-war/"
+        },
+        {
+          "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+          "lead": "PSI used an unreleased Anthropic model to answer a fundamental",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
+        },
+        {
+          "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+          "lead": "Impervious to battlefield jamming, drones physically connected to",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/"
+        },
+        {
+          "title": "Google’s Pixel Tag tracker is now available",
+          "lead": "After years of third-party Android trackers from companies like",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding"
+        },
+        {
+          "title": "DC Studios Exit: James Gunn and Peter Safran Spent Big, Lost Money and Didn’t Hook Audiences",
+          "lead": "After “Superman” landed in theaters last summer, former Warner Bros.",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/news/james-gunn-exits-dc-studios-losing-money-1236944392/"
+        },
+        {
+          "title": "Senior US soldier arrested in UK on suspicion of spying for Russia",
+          "lead": "British Counter Terrorism Policing’s investigation involves the FBI",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/94aa4846-58c6-4c17-b25a-095f122b4809?syn-25a6b1a6=1"
+        },
+        {
+          "title": "There's a trade developing in energy stocks you should 'attack' now, says Jay Woods",
+          "lead": "As brent crude drops below $90 and energy stocks pull back",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/10/theres-a-trade-developing-in-energy-stocks-you-should-attack-now-says-jay-woods.html"
+        },
+        {
+          "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
+          "lead": "Sundrop is a new iPhone app that uses Apple's on-device AI to help",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/"
+        },
+        {
+          "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
+          "lead": "The investigation of Jensen Huang by Nvidia’s board threatens the",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/"
+        }
+      ],
+      "supplement": {
+        "title": "Is ‘I Play Rocky’ Original or Adapted? Stallone’s ‘Rocky’ Origin Story Faces a ‘Barbie’-Style Oscar Dilemma (EXCLUSIVE)",
+        "lead": "Sylvester Stallone wrote “Rocky” in three days. Figuring out which Oscar screenplay category the movie about him writing it belongs in is taking a lot longer.",
+        "body": [
+          "Sylvester Stallone wrote “Rocky” in three days.",
+          "Figuring out which Oscar screenplay category the movie about him writing it belongs in is taking a lot longer.",
+          "Amazon MGM Studios’ “I Play Rocky” has been the subject of multiple conversations among the studio, the Writers Guild of America, the Academy of Motion Picture Arts and Sciences […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/awards/i-play-rocky-oscars-original-adapted-screenplay-1236944423/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/11/I-PLAY-ROCKY-2026-1000.jpg",
+        "consensus": 2
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 16,
+        "categories": 7,
+        "topGroups": [
+          "BBC×6",
+          "Variety×4",
+          "Ars Technica×3",
+          "TechCrunch×3",
+          "ScienceDaily×3",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-11T01:45:30.463Z",
+    "sources": {
+      "configured": 36,
+      "ok": 35,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "界面新聞",
+          "reason": "fetch failed"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 775,
+        "lang": 430,
+        "fresh": 338,
+        "denoised": 338,
+        "deduped": 325
+      },
+      "en": {
+        "fetched": 775,
+        "lang": 345,
+        "fresh": 323,
+        "denoised": 321,
+        "deduped": 312
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "端傳媒×4",
+          "華爾街見聞×3",
+          "東方財富×3",
+          "BBC×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 16,
+        "categories": 7,
+        "topGroups": [
+          "BBC×6",
+          "Variety×4",
+          "Ars Technica×3",
+          "TechCrunch×3",
+          "ScienceDaily×3",
+          "Guardian×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

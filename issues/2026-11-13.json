@@ -1,0 +1,922 @@
+{
+  "issue": 60,
+  "date": "2026-11-13",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历十月初五 · 立冬",
+    "en": "5th day of the 10th lunar month · Start of Winter"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "黄仁勋下台会成为人工智能泡沫破裂的开端吗",
+        "lead": "英伟达不仅是占据主导地位的芯片制造商，它还为整个行业的发展提供融资支持；黄仁勋则是英伟达的中心。他的离职给本已处于敏感时期的人工智能产业带来了新的不确定性。 Callaghan O'Hare for The New York Times 在其他行业陷入困境之际，数据中心建设热潮成为美国经济增长的重要推动力",
+        "body": [
+          "英伟达不仅是占据主导地位的芯片制造商，它还为整个行业的发展提供融资支持；",
+          "黄仁勋则是英伟达的中心。",
+          "他的离职给本已处于敏感时期的人工智能产业带来了新的不确定性。Callaghan O'Hare for The New York Times 在其他行业陷入困境之际，数据中心建设热潮成为美国经济增长的重要推动力，而英伟达一直在为这股建设热潮提供融资支持。"
+        ],
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/business/20261113/jensen-huang-economy-nvidia-ai/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "secondary": {
+        "title": "英伟达宣布黄仁勋辞职 将遴选新CEO",
+        "lead": "中新社旧金山11月12日电 英伟达公司12日宣布，黄仁勋已辞去英伟达总裁、首席执行官(CEO)及董事会成员职务，公司董事会已启动新任CEO的遴选工作。",
+        "source": "中新網財經",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-13/10731235.shtml",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 4
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "英伟达宣布黄仁勋辞职",
+              "lead": "中新网11月12日电 英伟达官网11月12日发布声明称，黄仁勋已辞去总裁、首席执行官及董事会成员职务，即刻生效。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-12/10731222.shtml",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 4
+            },
+            {
+              "title": "黄仁勋辞任英伟达CEO，公司首席财务官克雷斯临时接任",
+              "lead": "随着丑闻发酵，黄仁勋在周四英伟达董事会会议结束后辞职。公司首席财务官将临时接任。黄仁勋的离任让英伟达的未来充满不确定性，也在全球经济中引发震动。 Manuel Orbegozo for The New York Times 在硅谷，很少有高管像英伟达联合创始人兼首席执行官黄仁勋那样，与自己所在的公司如此密不可分。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/technology/20261113/heres-the-latest/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "黄仁勋婚外情：黄乐据称身在北京，台湾废止其入境许可证",
+              "lead": "据报导，卷入婚外情、被指涉入中国间谍活动的女子黄乐（Alice Huang Le）已经返回中国。近年来，她曾十次入境美国、八次入境台湾。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cje391ee1xvlo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4b86/live/13384200-de50-11f1-b0c0-99d486f024fd.png"
+            },
+            {
+              "title": "特朗普政府官员就英伟达事件发生冲突",
+              "lead": "财政部长贝森特质问商务部长卢特尼克为何Megaspeed未被禁止购买先进芯片。冲突凸显出白宫内部在对英伟达的态度和整体人工智能政策上存在日益紧张的对峙。 The New York Times 左为斯科特·贝森特，右为霍华德·卢特尼克。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261112/nvidia-affair-spy-bessent-lutnick/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "11月13日央行开展3640亿元隔夜逆回购操作",
+              "lead": "中新网11月13日电 据中国人民银行网站消息，2026年11月13日中国人民银行以固定利率、数量招标方式开展了3640亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-13/10731291.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "4连涨！短期美债收益率创2022年以来最快涨幅，市场押注美联储加息",
+              "lead": "美国短期国债收益率在四个交易日内完成了自2022年加息周期以来最大幅度的跳升，市场正在重新定价美联储政策预期——押注利率将更高、更持久。 周四，对美联储政策最为敏感的2年期美债收益率升至4.862%，过去四个交易日（不计周三退伍军人节休市）累计上行38.8个基点，创下自2022年6月15日以来最大四交易日涨幅。 与此同时，10年期美债收益率也突破5.10%，刷新心理关键阈值，对美股构成压力。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3785847",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "婚外情风波以来 黄仁勋持股市值缩水超2700亿元",
+              "lead": "11月12日晚间，英伟达创始人黄仁勋因婚外情风波辞去公司CEO、总裁及董事职务。与此同时，英伟达股价持续承压。按最新公开持股数据估算，自10月29日相关事件首次曝光以来，黄仁勋及其关联实体所持英伟达股票的账面市值已缩水约407亿美元，折合人民币约2717亿元。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1586122.htm",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "黄仁勋辞职后，英伟达总部外出现鲜花和蜡烛",
+              "lead": "IT之家 11 月 13 日消息，科技媒体 Business Insider 昨日（11 月 12 日）发布博文，报道称在美国加州圣克拉拉的英伟达总部外， 有人于公司标志前摆放多束鲜花，并放置了一支装在玻璃罐中的白色蜡烛，被外界视为致敬黄仁勋这位 AI 时代标志性人物。 现场画面显示，一名路人将玻璃罐装蜡烛放在“NVIDIA”标志前；鲜花则整齐靠在标志下方。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/026/492.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 4
+            },
+            {
+              "title": "天文学家发现罕见双星系统 一颗白矮星每隔8分钟发射一次无线电脉冲",
+              "lead": "澳大利亚科廷大学的天文学家发现了一个极其罕见的双星系统，其中一颗已经死亡的恒星——白矮星，每隔约8分钟便会发射一次规律的无线电脉冲。它的伴星则是一颗与太阳相似的恒星。这是科学家首次在白矮星与类太阳恒星组成的双星系统中探测到这种周期性无线电信号，为理解银河系中一类神秘天体提供了新的线索。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/science/1586128.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            },
+            {
+              "title": "黄仁勋辞职",
+              "lead": "英伟达宣布，黄仁勋即日起辞去公司总裁、CEO 及董事会成员职务；Colette Kress 被任命为临时 CEO。在确定正式继任者之前，Colette Kress 将继续担任执行副总裁兼首席财务官。董事会已启动继任者遴选程序，将同时考虑内部和外部候选人。Harvey C. Jones 被任命为董事会首任主席。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85872",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 4
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "黄仁勋“闪辞”，英伟达市值蒸发超1.2万亿元人民币",
+              "lead": "原标题：黄仁勋“闪辞”，英伟达市值蒸发超1.2万亿元人民币，“后黄仁勋时代”面临多重考验 | 国际早察",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-13/10731272.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "关于英伟达临时CEO克雷斯，我们知道些什么",
+              "lead": "克雷斯于2013年加入英伟达，任公司首席财务官。她熟悉公司内部运营，在华尔街有广泛人脉，但她缺乏黄仁勋与英伟达庞大的供应链或与华盛顿方面建立的关系。 Nvidia, via Reuters 英伟达于周四发布首席财务官科莱特·克雷斯的照片。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/technology/20261113/nvidia-colette-kress-jensen-huang/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "从科技巨星到跌落神坛——黄仁勋如何深陷丑闻漩涡？",
+              "lead": "短短几天内，黄仁勋作为全球科技竞赛领军人物、看似无可撼动的地位便迅速崩塌。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cm3wgp60p952o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg"
+            },
+            {
+              "title": "新加坡政府：在调查黄乐公司时美国几乎未予协助",
+              "lead": "新加坡政府表示，由于黄乐在该国注册的公司涉嫌“虚假申报”问题，该国自去年6月至今年2月扣留了她的护照。在此期间，新加坡曾向美国寻求协助，但美国几乎未予理会。 Taryn Ng/Agence France-Presse — Getty Images Megaspeed位于新加坡的办公室。该公司由黄乐掌管，她是涉及英伟达首席执行官黄仁勋间谍案的核心人物。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261113/nvidia-megaspeed-alice-huang/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "“日新万象”展览在港开幕 逾80件文物呈现孙中山多重形象",
+              "lead": "中新网香港11月13日电 (记者 张语洽)为纪念孙中山先生诞辰160周年，香港孙中山纪念馆12日举办“日新万象——孙中山形象的塑造与呈现”展览开幕典礼。展览汇集逾80件(套)珍贵文物，分别呈现孙中山先生在晚清、民初、身后以及公共空间中的多重形象，勾勒他从香港医学生、革命先行者到备受国际尊崇的历史人物的人生历程。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/dwq/2026/11-13/10731280.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "黄仁勋落马，谁还挡得住反AI大军？",
+              "lead": "黄仁勋承认婚外情，对象据报被美国情报机构怀疑是中国间谍，事件在一星期内升级为国安风暴。事件发生在美国反AI情绪高涨、新国会即将上路的时刻，也发生在中美晶片战的关键节点。 端传媒下周将陆续推出相关报道，关心的问题包括：辉达失去主帅之后何去何从，出口管制在川普时代还能否靠盟友合作守住，以及「中国间谍」的指控从何而来、如何调查、被指控的人又会面对甚么。敬请留意。 黄仁勋可能是到最近才突然发现，自己是在错的时间遇到了错的人。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261113-international-what-happens-after-jensen-huang/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/GettyImages-2278513437.jpg"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "洛杉矶奥运会女足亚预赛抽签揭晓 中国女足与朝鲜、韩国队同组",
+              "lead": "中新社吉隆坡11月12日电 2028年洛杉矶奥运会女足项目亚洲区预选赛抽签仪式12日在马来西亚吉隆坡的亚足联总部举行。中国女足以第三档球队身份被分入B组，同组对手为朝鲜、韩国和菲律宾队。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-12/10731145.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "速度滑冰世界杯北京站将启 冬奥冠军宁忠岩、高亭宇新周期轻松上阵",
+              "lead": "中新网北京11月12日电(记者 国璇) 2026-2027赛季国际滑联速度滑冰世界杯北京站将于11月13日至15日在国家速滑馆“冰丝带”举行。在12日于“冰丝带”举行的赛前运动员见面会上，冬奥冠军宁忠岩、高亭宇和中国女子速滑中长距离名将韩梅表示，期待以轻松的心态参加新冬奥周期的首场比赛，在家门口展现好状态。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-12/10731131.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "南方大范围降雨持续部分地区有暴雨 明起两股冷空气接连来袭",
+              "lead": "中国天气网讯 今天(11月13日)南方大范围降雨持续，华南部分地区将有大到暴雨，其中广东、广西局地降雨强度或为同期少见。同时，华北、黄淮等地大气扩散条件转差，将有雾和霾天气。明天开始，两股冷空气接连影响我国，气温逐步下跌，15日起中东部还将迎来新一轮大范围雨雪天气。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731276.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "“美人计”：中国间谍机构如何利用亲密关系套取情报",
+          "lead": "黄仁勋事件引发人们对中国情报部门如何利用亲密关系从事间谍活动的关注。情报专家表示，在间谍活动中利用美色并不新鲜",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/china/20261113/china-spy-espionage-romance/?utm_source=RSS"
+        },
+        {
+          "title": "天文学家发现一个恒星系统每八分钟发射一次射电信号",
+          "lead": "天文学家发现一个不同寻常的双星系统 GPM J071507−114153，由一颗白矮星——一颗恒星死亡后留下的致密核心—",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85870"
+        },
+        {
+          "title": "黄仁勋辞职：暂时接掌Nvidia的克雷斯是谁？还有哪些正式接班人选？",
+          "lead": "财务长科莱特·克雷斯将暂时接替黄仁勋，但另有数人被视为可能的正式接班人。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cm894lw1925eo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "罕见双星系统被发现：每隔约 8 分钟向地球方向发出规律无线电脉冲",
+          "lead": "IT之家 11 月 13 日消息，澳大利亚科廷大学及国际射电天文学研究中心（ICRAR）的研究团队宣布",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/026/484.htm"
+        },
+        {
+          "title": "黄仁勋辞职叠加油价走强，美股承压，英伟达市值一度跌破4万亿，美债、黄金遭抛售",
+          "lead": "英伟达掌门人突然出局，叠加油价走强推高通胀预期，美国股市、债市、黄金和比特币同步承压，美元三连涨。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785806"
+        },
+        {
+          "title": "马斯克回应黄仁勋辞职：创始人很难被取代",
+          "lead": "英伟达创始人黄仁勋周四宣布辞去CEO职位，引发网友热议，特斯拉和SpaceX首席执行官埃隆·马斯克也参与了相关讨论。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586154.htm"
+        },
+        {
+          "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+          "lead": "2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。 查看全文",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "少數派",
+          "link": "https://sspai.com/post/118966"
+        },
+        {
+          "title": "香港，华语世界窗口的消逝？在中港台边界，「禁书」和人的流动",
+          "lead": "「禁书」一词有双向的作用力：一方面警醒了边界里的人，另一方面，仍想追寻的读者会跨越边界。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261113-hongkong-political-books-in-hongkong-taiwan-china/"
+        },
+        {
+          "title": "早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口",
+          "lead": "黄仁勋辞去英伟达 CEO，特朗普推荐库克接任 谷歌发布 Gemini 4 Hydrogen",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1689292?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "聪明的李沧东，站到了更安全的位置上 (评论: 可能的爱)",
+          "lead": "阿泽 评论: 可能的爱 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17899574/"
+        },
+        {
+          "title": "马斯克等硅谷盟友力挺黄仁勋，称其“不可替代”",
+          "lead": "一些硅谷投资人认为，黄仁勋与一名被美国官员认定为中国间谍的女子有染是个人过失；没有黄仁勋美国就无法赢得人工智能竞赛。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/business/20261112/jensen-huang-affair-nvidia-support/?utm_source=RSS"
+        },
+        {
+          "title": "Nvidia董事会宣布黄仁勋辞任执行长",
+          "lead": "Nvidia董事会宣布，黄仁勋已辞去公司执行长一职，原任公司执行副总裁兼财务长的科莱特·克雷斯（Colette",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c63egjy85wq8o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "SpaceX与特斯拉世纪合并谈判提速，最快12月宣布交易",
+          "lead": "SpaceX与特斯拉的合并谈判正在加速推进，这笔交易一旦落地，将成为全球有史以来规模最大的并购案，彻底重塑全球交易市场的边界。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785849"
+        },
+        {
+          "title": "超市冷柜一夜变烤箱：法国控伊朗发动「纯破坏」黑客攻击｜Whatsnew",
+          "lead": "一个月前的周日深夜，法国约700个大型零售网点的冷柜被远程「加热」到50摄氏度，成吨的生鲜食品在一夜之间报废，并引发了至少15处起火。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261113-whatsnew-france-iran-irgc-supermarket-cyberattack/"
+        },
+        {
+          "title": "致命的吸引力法则，禁欲，克制，情欲，互相缠绕 (评论: 青春共体)",
+          "lead": "岛屿 评论: 青春共体 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17899558/"
+        },
+        {
+          "title": "黄仁勋婚外情丑闻将其妻子置于聚光灯下",
+          "lead": "40多年来，黄仁勋将英伟达打造成全球最具价值的企业，洛丽·黄全程陪伴在他身边。黄仁勋的婚外情丑闻对美国国家安全和经济产生了影响",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/technology/20261112/jensen-huang-affair-lori-huang/?utm_source=RSS"
+        }
+      ],
+      "supplement": {
+        "title": "中国科学家最新研究：诊断肥胖不能单凭 BMI，5.2~8.6% 的人被低估以及 1.2~3.1% 被高估",
+        "lead": "IT之家 11 月 13 日消息，据新华社昨日报道，华中科技大学公共卫生学院院长潘安教授团队联合多国专家完成了一项研究，已于 11 月 12 日发表在《自然》上。 该研究基于中国、英国、美国、西班牙四国四大队列、共计 84.4 万余名成年人的数据，系统验证了《柳叶刀-糖尿病与内分泌学》委员会 2025 年提出的精细化肥胖诊断框架。结论明确：仅凭 BMI 诊断肥胖，会造成相当比例的漏诊与误诊。",
+        "body": [
+          "IT之家 11 月 13 日消息，据新华社昨日报道，华中科技大学公共卫生学院院长潘安教授团队联合多国专家完成了一项研究，已于 11 月 12 日发表在《自然》上。该研究基于中国、英国、美国、西班牙四国四大队列、共计 84.4 万余名成年人的数据，系统验证了《柳叶刀-糖尿病与内分泌学》委员会 2025 年提出的精细化肥胖诊断框架。结论明确：仅凭 BMI 诊断肥胖，会造成相当比例的漏诊与误诊。BMI 长期被用作肥胖筛查的核心指标，但它只能反映体重与身高的比例关系，无法区分增加的体重来自脂肪还是肌肉，也无法判断脂肪是否已对器官功能造成损害。潘安在研究中指出，这一“天然缺陷”在临床中直接表现为两类错误：一部分体脂过多、已出现器官功能受损的人，因 BMI 未达到肥胖阈值而被漏诊；",
+          "另一部分 BMI 超标但体脂并未过多的人，则被误判为肥胖。研究数据显示，与精细化框架相比，单纯依据 BMI 会使 5.2% 至 8.6% 的参与者肥胖程度被低估，同时使 1.2% 至 3.1% 的参与者被高估。论文共同作者、伦敦国王学院教授弗朗切斯科 · 鲁比诺表示，更准确地识别和定义肥胖病例，有助于改善患者结局。《柳叶刀》委员会提出的框架将体脂过多人群区分为“临床肥胖”与“临床前肥胖”。临床肥胖要求存在由肥胖导致的器官功能受损或日常活动受限；",
+          "临床前肥胖则指体脂超标但器官功能尚未受损的状态。在体脂过多者中，仅 22.7% 至 31.3% 达到临床肥胖标准，其余大多数处于临床前阶段。两类状态对应的健康风险差异显著。在超过 10 年的追踪随访中，临床前肥胖者的全因死亡风险较健康人群增加 19%，而临床肥胖者的死亡风险则上升至 69%。研究同时发现，约 77% 至 91% 的临床前肥胖者并未在随访期内进展为临床肥胖，提示在器官功能尚未受损的阶段进行干预，存在阻断病情发展的窗口。该研究采用的四国队列设计，使结论在不同人群和医疗体系中得到了交叉检验。"
+        ],
+        "source": "IT之家",
+        "group": "IT之家",
+        "link": "https://www.ithome.com/1/026/480.htm",
+        "category": "science",
+        "categoryLabel": "科学"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 13,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "華爾街見聞×3",
+          "cnBeta×3",
+          "IT之家×3",
+          "端傳媒×3"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "AI boom will lift Nvidia even after Huang’s exit, investors say",
+        "lead": "Shares largely recovered by close of market Thursday as shareholders bought the dip and looked to group’s future without CEO",
+        "body": [
+          "Shares largely recovered by close of market Thursday as shareholders bought the dip and looked to group’s future without CEO"
+        ],
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/ecb2b4ed-1b61-4c8a-a2e7-a6f9c85a59ff?syn-25a6b1a6=1",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F60e500e7-b200-458b-a43d-51e5cc557d54.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
+        "lead": "Huang’s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/183_0_3766_3013/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=0384771ac2fd3f4624a2aac79960f682",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Indonesia’s Vice President, Gibran, Resigns",
+              "lead": "Gibran Rakabuming Raka, who is stepping down amid a scandal over his academic credentials, was a symbol of the partnership that elevated President Prabowo Subianto into office.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-indonesia-vp-mgpj/12int-indonesia-vp-mgpj-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Aukus deal is ‘living a lie’: Australia will never get nuclear submarines from US and both sides know it, Bob Carr says",
+              "lead": "Exclusive: Former Labor foreign affairs minister says $368bn deal has been reduced to a diplomatic joke Get our daily political email",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/australia-news/2026/nov/13/bob-carr-aukus-deal-living-a-lie-australia-us",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/3c18595b1495154f84615f03de3fe39cefa0c44c/200_0_2406_1925/master/2406.jpg?width=140&quality=85&auto=format&fit=max&s=a858bbb46ef2cd0faac140168efdf3cf",
+              "consensus": 5
+            },
+            {
+              "title": "Nvidia’s Huang ousted by board in move that roils AI economy",
+              "lead": "Longtime CFO Colette Kress is taking the job of interim CEO, Nvidia said, and Huang will no longer have ties with the chipmaker.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/business/2026/11/13/companies/nvidia-huang-ousted/",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573770.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Trump signals end to vice-president’s Iran peace deal push",
+              "lead": "President says US does not need an agreement with Tehran as he directs JD Vance to focus on domestic concerns",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/3c1727bb-2966-4e5c-808b-873d14854fa2?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdb7792cd-fa17-48f2-a38d-c9a9c531df80.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+              "lead": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28a7/live/2a181e50-defa-11f1-b877-3169a3b63f2c.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+              "lead": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "The yen is becoming too difficult for some investors to trade",
+              "lead": "Traditional signals such as interest-rate differentials have become less reliable guides for the currency.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/business/2026/11/13/markets/yen-moves-hard-to-anticipate/",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573781.jpg"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Jensen Huang’s departure may signal tighter US controls on AI chip exports to China",
+              "lead": "Nvidia chief executive Jensen Huang’s abrupt departure has raised fresh questions about the future of US-China technology ties, as observers weigh the potential fallout from Washington’s policy on advanced AI chip",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/china/diplomacy/article/3374270/jensen-huangs-departure-may-signal-tighter-us-controls-ai-chip-exports-china",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/13/3909e480-46a0-4e1a-9f4f-ec8778ebdbc8_c3ed0146.jpg?itok=AMA0F6Uy&v=1794525048",
+              "consensus": 5
+            },
+            {
+              "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+              "lead": "The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Google’s new Gemini model is better at understanding complicated questions",
+              "lead": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Senegal’s wrestlers turn tradition into gold at Dakar Youth Olympics",
+              "lead": "Senegal’s young wrestlers thrive as they adapt skills from their traditional sport to beach wrestling at Youth Olympics.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/sports/2026/11/12/senegals-wrestlers-turn-tradition-into-gold-at-dakar-youth-olympics?traffic_source=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "consensus": 5
+            },
+            {
+              "title": "Lawes recovering after hospital stay with infection",
+              "lead": "Courtney Lawes says he spent 10 days in hospital after doctors found his infection markers were \"through the roof\" as he battled a serious illness.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cjn50zrl5de7o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/338d/live/1df37c30-deb1-11f1-8fb5-a771a656a227.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "South Korea captain Son says players have resolved their differences",
+              "lead": "Reports of a rift in the dressing room began after the team's early exit at this year's World Cup, which led to the departure of coach Hong Myung-bo.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/sports/2026/11/12/soccer/son-korea-team-rift/",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573681.JPG"
+            },
+            {
+              "title": "On Dakar’s Packed Beaches, Africa Welcomes Its First Youth Olympics",
+              "lead": "The 2026 Youth Olympic Games are taking place in Senegal, where the beaches and streets are teeming with sports fans and fitness fanatics.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/11/world/africa/youth-olympics-senegal-dakar.html",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00int-senegal-sports-promo/00int-senegal-sports-6-wpvh-mediumSquareAt3X.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "How to Watch ‘Southern Charm’ Season 12 Online: The Bravo Reality Series Returns Tonight",
+              "lead": "Bravo is heading back to Charleston. “Southern Charm” returns for its 12th season on Thursday, Nov. 12, bringing another round of romantic entanglements, fractured friendships and Southern social drama.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/shopping/news/how-to-watch-southern-charm-season-12-online-free-1236946634/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-at-5.06.47-PM.png",
+              "consensus": 5
+            },
+            {
+              "title": "Documentaries at the Oscars: A History of Breaking Out of Their Category — and What It Means for ‘You Can See Everything’",
+              "lead": "A documentary is a film, too. But at the Oscars, it still hasn’t been fully embraced as one. One of the breakout hits of the awards season is A24’s insanely entertaining “You Can See Everything” from directors Nathan",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/awards/you-can-see-everything-documentary-oscars-history-1236946588/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/03/You-Can-See-Everything-1000.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Inside this quantum computer, memory vibrates like a guitar string",
+              "lead": "Researchers have created a quantum computer that stores information in microscopic vibrations, potentially making quantum machines smaller, more powerful, and better at preserving information.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Common forever chemicals linked to nearly double the rate of aggressive breast cancer",
+              "lead": "An NIH study found that women with high levels of two common “forever chemicals” had up to 93% higher rates of an aggressive form of breast cancer.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261112025527.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Israeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say",
+          "lead": "The Israeli authorities said that Hamas had established a command",
+          "category": "society",
+          "categoryLabel": "Society",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html"
+        },
+        {
+          "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+          "lead": "Witnesses say a missile hit a building containing the surgical wards",
+          "category": "society",
+          "categoryLabel": "Society",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Israel strikes Gaza hospital despite ceasefire",
+          "lead": "Doctor and patients among six killed in attack on Nasser medical",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/2a3d0391-c4d9-4195-af36-b5ee66415cd9?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Calls grow for release of beloved California nurse detained by ICE: ‘We want her home’",
+          "lead": "Ann Lawani was taken from her home, sparking a huge outcry among",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/us-news/2026/nov/12/california-nurse-release-ice-custody"
+        },
+        {
+          "title": "Israeli strike on Gaza hospital kills 11 in deadliest attack since election",
+          "lead": "Israeli fire killed 11 people in Gaza on Thursday",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/middle-east/article/3374264/israeli-strike-gaza-hospital-kills-11-deadliest-attack-election"
+        },
+        {
+          "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
+          "lead": "Saudi-led coalition intercepts flurry of suspected Houthi drones",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss"
+        },
+        {
+          "title": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation",
+          "lead": "Chief Financial Officer Colette Kress will serve as interim CEO until",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
+        },
+        {
+          "title": "Israeli strike on Gaza hospital kills six, including surgeon, medics say",
+          "lead": "Israeli fire killed 11 people in Gaza on Thursday",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/israeli-strike-on-gaza-hospital-kills-six-including-surgeon-medics-say"
+        },
+        {
+          "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+          "lead": "Nectar's new AI agent automates influencer marketing",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
+        },
+        {
+          "title": "White House weighs Lutnick’s ouster amid Nvidia export concerns, sources say",
+          "lead": "A growing number of lawmakers criticized Lutnick for the",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/business/2026/11/13/economy/lutnick-future-white-house-nvidia/"
+        },
+        {
+          "title": "Humble Bundle redesign removes two-factor verification from settings",
+          "lead": "The Humble Bundle storefront for buying games and other software",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings"
+        },
+        {
+          "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
+          "lead": "Ukraine President Volodymyr Zelenskyy said today that Starshield has",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/"
+        },
+        {
+          "title": "‘Oh, Mary!’ Mania Takes Over L.A.: Director Sam Pinkleton on Bringing the Unruly Broadway Comedy Phenomenon to Full Houses at the Ahmanson",
+          "lead": "As most theater fans already know, “Oh, Mary!",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/legit/news/oh-mary-ahmanson-director-sam-pinkleton-theater-interview-1236946678/"
+        },
+        {
+          "title": "Scientists discover that necks didn't evolve for the reason we thought",
+          "lead": "Scientists have discovered that the first animals to venture onto",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261108233101.htm"
+        },
+        {
+          "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+          "lead": "US lawmakers now want to question him over whether one of his alleged",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "The Silicon Valley veterans now steering Nvidia",
+          "lead": "New chair Harvey Jones and CEO Colette Kress need to steady the chip",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/74e95e42-3f1d-4128-98ef-9ce4c160b077?syn-25a6b1a6=1"
+        }
+      ],
+      "supplement": {
+        "title": "Chase Infiniti Coming-of-Age Drama ‘The Julia Set’ Sells Out for HanWay (EXCLUSIVE)",
+        "lead": "HanWay Films has sold out all territories globally for coming-of-age drama “The Julia Set,” starring “One Battle After Another” breakout Chase Infiniti, following its premiere in Toronto earlier this year.",
+        "body": [
+          "HanWay Films has sold out all territories globally for coming-of-age drama “The Julia Set,” starring “One Battle After Another” breakout Chase Infiniti, following its premiere in Toronto earlier this year.",
+          "As previously announced, Sony Pictures Classics acquired U.S.",
+          "and key international territories including Benelux, Switzerland, Italy, Scandinavia, Spain, the U.K., Eastern Europe (excluding Poland), Australia, […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/global/chase-infiniti-movie-the-julia-set-sells-out-hanway-1236946566/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2294791533.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 8,
+        "topGroups": [
+          "Japan Times×4",
+          "Variety×4",
+          "ScienceDaily×3",
+          "FT×2",
+          "Guardian×2",
+          "紐約時報×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-13T02:28:22.235Z",
+    "sources": {
+      "configured": 36,
+      "ok": 34,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "界面新聞",
+          "reason": "fetch failed"
+        },
+        {
+          "name": "東方財富",
+          "reason": "fetch failed"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 750,
+        "lang": 405,
+        "fresh": 317,
+        "denoised": 316,
+        "deduped": 298
+      },
+      "en": {
+        "fetched": 750,
+        "lang": 345,
+        "fresh": 323,
+        "denoised": 318,
+        "deduped": 309
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 13,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "華爾街見聞×3",
+          "cnBeta×3",
+          "IT之家×3",
+          "端傳媒×3"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 8,
+        "topGroups": [
+          "Japan Times×4",
+          "Variety×4",
+          "ScienceDaily×3",
+          "FT×2",
+          "Guardian×2",
+          "紐約時報×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

@@ -1,0 +1,905 @@
+{
+  "issue": 61,
+  "date": "2026-11-14",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历十月初六 · 立冬",
+    "en": "6th day of the 10th lunar month · Start of Winter"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "今年1至10月全国铁路发送旅客41.3亿人次 创历史同期新高",
+        "lead": "中新网11月14日电 据“中国铁路”微信公众号消息，今年以来，中国国家铁路集团有限公司坚持以人民为中心的发展思想，精心组织旅客运输，统筹安排运力资源，优化客运产品供给，提升旅客服务品质，1至10月全国铁路累计发送旅客41.3亿人次，同比增长4.7%，创历史同期新高，全国铁路运输安全平稳有序。",
+        "body": [
+          "中新网11月14日电 据“中国铁路”微信公众号消息，今年以来，中国国家铁路集团有限公司坚持以人民为中心的发展思想，精心组织旅客运输，统筹安排运力资源，优化客运产品供给，提升旅客服务品质，1至10月全国铁路累计发送旅客41.3亿人次，同比增长4.7%，创历史同期新高，全国铁路运输安全平稳有序。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-14/10731881.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 3
+      },
+      "secondary": {
+        "title": "黄仁勋辞任英伟达CEO，公司首席财务官克雷斯临时接任",
+        "lead": "随着丑闻发酵，黄仁勋在周四英伟达董事会会议结束后辞职。公司首席财务官将临时接任。黄仁勋的离任让英伟达的未来充满不确定性，也在全球经济中引发震动。 Manuel Orbegozo for The New York Times 在硅谷，很少有高管像英伟达联合创始人兼首席执行官黄仁勋那样，与自己所在的公司如此密不可分。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/technology/20261113/heres-the-latest/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际",
+        "consensus": 3
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "美国联邦航空管理局：地面停飞令已解除",
+              "lead": "当地时间11月13日，美国联邦航空管理局(FAA)宣布，地面停飞指令已取消。但是预计今明两天仍会出现大范围的航班取消或后续延误状况。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-14/10731903.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "黄仁勋下台会成为人工智能泡沫破裂的开端吗",
+              "lead": "英伟达不仅是占据主导地位的芯片制造商，它还为整个行业的发展提供融资支持；黄仁勋则是英伟达的中心。他的离职给本已处于敏感时期的人工智能产业带来了新的不确定性。 Callaghan O'Hare for The New York Times 在其他行业陷入困境之际，数据中心建设热潮成为美国经济增长的重要推动力，而英伟达一直在为这股建设热潮提供融资支持。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261113/jensen-huang-economy-nvidia-ai/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "黄仁勋辞职余波：中国舆论场上的「间谍」迷因、选举猜想与股价「黑天鹅」",
+              "lead": "接连被揭发两段婚外情后，黄仁勋于周四（11月12日）辞职。事件曝光后的一个礼拜内，全球媒体、社交软体全部卷入这次事件，民众对于「中国间谍」展开讨论，股民亦为黄仁勋事件买单，舆论依然持续发酵，且没有停下的趋势。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8b6c/live/40d273e0-df39-11f1-86fa-cbe84eade4f1.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "广旅养老集团揭牌成立 聚力打造广西养老第一品牌",
+              "lead": "中新网南宁11月13日电 (张广权 陈家怡)11月13日，广西旅发养老集团有限公司(以下简称：广旅养老集团)在南宁揭牌，标志着广西首家自治区级国有专业化养老平台正式成立，广西养老产业规模化、专业化、品牌化发展迈上新台阶。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-13/10731768.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "今年1至10月全国铁路发送旅客41.3亿人次",
+              "lead": "“中国铁路”消息，今年1至10月全国铁路累计发送旅客41.3亿人次，同比增长4.7%，创历史同期新高，全国铁路运输安全平稳有序。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15332818.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 3
+            },
+            {
+              "title": "贝森特与美联储高官交锋：通胀源于能源冲击还是需求过热，美联储加息路径争论升温",
+              "lead": "美国财政部长与芝加哥联储主席就当前通胀根源公开交锋，折射出华盛顿与美联储之间日益加深的政策分歧，并为美联储12月议息会议蒙上更多不确定性。 美财政部长Scott Bessent（贝森特） 周五接受CNBC采访时呼吁美联储不应因伊朗战争引发的\"能源供应冲击\"而激进加息。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3785917",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“物理AI”，无需专用模型",
+              "lead": "OpenAI解散独立机器人团队，押注通用模型直驱具身智能。 11月13日，据《财富》杂志报道， OpenAI已解散独立运营的机器人团队，将相关研究人员分拨至其他部门 。公司表示，此举的直接导火索是GPT-6 Astra等通用前沿模型的意外突破。 研究人员发现，这些模型可被直接应用于机器人控制任务，无需为机器人单独开发专用模型。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3785914",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "1 至 10 月全国铁路发送旅客 41.3 亿人次创历史同期新高，同比增长 4.7%",
+              "lead": "IT之家 11 月 14 日消息，国铁集团今日公布数据，1 至 10 月全国铁路累计发送旅客 41.3 亿人次，同比增长 4.7%，创历史同期新高。 今年 1 至 10 月，全国铁路日均安排开行旅客列车 11670 列，同比增长 5.0%， 其中 10 月 1 日发送旅客 2520.4 万人次 、开行旅客列车 14885 列，单日旅客发送量、单日客运能力投放均创历史新高。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/027/039.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            },
+            {
+              "title": "OpenAI推出ChatGPT Wallet：AI代理可代替用户完成在线支付",
+              "lead": "OpenAI宣布推出全新的支付功能ChatGPT Wallet，允许AI代理在获得授权后代表用户完成在线购物和付款流程。为实现这一功能，OpenAI与美国运通（American Express）、万事达卡（Mastercard）和Visa等主流支付网络展开合作，希望进一步推动AI代理从信息助手向实际执行任务工具转变。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1586304.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "美国联邦航空管理局发布全国范围地面停飞指令",
+              "lead": "当地时间11月13日，美国联邦航空管理局发布全国性地面停飞指令。该机构表示，因出现特殊情况及安全原因，全国范围实施地面停飞。所有出港航班继续停飞，直至另行通知；入境国际航班将视具体情况逐一处理。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-14/10731872.shtml",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 2
+            },
+            {
+              "title": "后黄仁勋时代：谁是Nvidia下任掌门人？晶片竞赛走向何方",
+              "lead": "仅仅五天内，AI晶片界巨头黄仁勋被私生活风波拉下台，宣布辞任辉达（英伟达/Nvidia）执行长一职。外界焦点放眼至他的接班人，以至辉达作为AI晶片业领头的未来。分析指，这场风波有可能冲撃整个人工智能市场和晶片供应链。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/ck9d7y92yvg1o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0d41/live/d7b50280-df5e-11f1-a701-fddedf244c16.jpg"
+            },
+            {
+              "title": "特朗普曾敦促黄仁勋为保住英伟达CEO职位而战",
+              "lead": "特朗普曾在黄仁勋辞职前与他通话，敦促他为保住职位而抗争。黄仁勋是总统在人工智能领域的重要顾问，此前特朗普至少两次被告知黄仁勋存在国安风险，仍邀其陪同访华。 Demetrius Freeman for The New York Times 特朗普总统与黄仁勋上个月在华盛顿的一场峰会期间。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261113/trump-jensen-huang-nvidia/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "新加坡政府：在调查黄乐公司时美国几乎未予协助",
+              "lead": "新加坡政府表示，由于黄乐在该国注册的公司涉嫌“虚假申报”问题，该国自去年6月至今年2月扣留了她的护照。在此期间，新加坡曾向美国寻求协助，但美国几乎未予理会。 Taryn Ng/Agence France-Presse — Getty Images Megaspeed位于新加坡的办公室。该公司由黄乐掌管，她是涉及英伟达首席执行官黄仁勋间谍案的核心人物。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261113/nvidia-megaspeed-alice-huang/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "「中年拉拉恨海情天」：我嗑过的超级女声CP，我的酷儿启蒙与书写",
+              "lead": "编按：近日，随著芒果TV综艺《后会友期》的热播，一句「我画地为牢啊，厉娜」在全网病毒式传播。梗来自节目中的一对嘉宾。2006年《超级女声》选手许飞和厉娜，曾一度是最红的初代选秀女女CP。因为一场疑似误解，而在十五年里近乎一别两宽。两人在这档有著友情版《再见爱人》之称的节目中，首次公开对峙。 节目上线后，两人被戏称为「中年拉拉恨海情天」的互动，迅速成为现象级的网络文化事件。 特约撰稿人火虫子是这对CP的初代粉丝。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261114-love-and-desire-queer-reading/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/10134044-2_cover_1600x892-2.jpg"
+            },
+            {
+              "title": "《惊天魔盗团·魔幻现场秀》登陆纽约百老汇",
+              "lead": "中新社纽约11月13日电 (记者 王帆)曾在中国举行全球首演的《惊天魔盗团·魔幻现场秀》近日登陆纽约百老汇。该剧创意制作人赛蒙·潘特(Simon Painter)13日在一场媒体活动上表示，此轮演出是该魔术舞台秀的全新制作版本，希望能赢得更多观众的喜爱。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-14/10731871.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "速度滑冰世界杯北京站开赛 宁忠岩男子1000米破场地纪录夺冠",
+              "lead": "中新社北京11月13日电 （刘梦青）2026-2027赛季国际滑联速度滑冰世界杯北京站比赛13日在北京国家速滑馆“冰丝带”拉开帷幕。在男子1000米比赛中，米兰冬奥会冠军宁忠岩以1分07秒43的成绩获得金牌，取得新赛季开门红，并刷新由美国名将乔丹·斯托尔兹保持的场地纪录。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-13/10731865.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "常卫魏出任中国国家女子足球队主教练",
+              "lead": "中新社北京11月13日电 中国足球协会13日宣布，常卫魏出任中国国家女子足球队主教练，王军出任中国国家女子足球队第一助理教练。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-13/10731806.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "湖南举办家政养老零工招聘会 为灵活就业搭建供需对接平台",
+              "lead": "中新网长沙11月13日电 (唐小晴 赵梦龙 汤俏)13日，“‘湘’聚零工 业兴三湘”2026年灵活就业人员专场招聘第二场——家政养老与社区生活服务专场，在湖南省零工之家招聘大厅举办。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-13/10731775.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "黄金或创六月来最大单周跌幅，美联储加息押注升温施压贵金属",
+          "lead": "黄金本周遭遇重挫，受通胀顽固与美联储紧缩预期升温双重打压，势将创下自六月以来最大单周跌幅。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785918"
+        },
+        {
+          "title": "目标替代微软 Office：欧洲开源办公软件 Euro-Office 桌面版上线，断网也能办公",
+          "lead": "IT之家 11 月 14 日消息，欧洲开源办公软件 Euro-Office 正式走出浏览器",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/027/013.htm"
+        },
+        {
+          "title": "OpenAI撤销独立机器人研究团队 人员并入核心研究与应用部门",
+          "lead": "11月14日，OpenAI确认，已撤销独立机器人研究团队，并将相关人员重新分配至核心研究和应用业务部门。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586318.htm"
+        },
+        {
+          "title": "进出美国及美国内已有近1.5万架次航班延误或取消",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15332852.html"
+        },
+        {
+          "title": "深陷丑闻的黄仁勋辞职，AI芯片巨头Nvidia陷入动荡",
+          "lead": "美国议员现在想就他被指控的其中一段关系是否与中国间谍有关对他进行质询。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cmn80j4vnj1jo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "谁能接替黄仁勋？英伟达可以考虑这些人",
+          "lead": "特朗普建议苹果前CEO库克接替黄仁勋执掌英伟达，猎头和分析人士则提供了一些其他人选。但预计很少有候选人能够维持黄仁勋在英伟达推行的超扁平化组",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/business/20261113/jensen-huang-nvidia-successor/?utm_source=RSS"
+        },
+        {
+          "title": "余承东公布华为问界新合作模式！新 M8 同步上市，起售价 37.98 万元",
+          "lead": "2025 年 4 月，初代问界 M8 正式推向市场，它填补了 M7 与 M9 之间的价格空白，在过去 19 个月里累计交付超过 19 万辆。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1689432?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "黄仁勋闪辞是否冲击AI产业链？多家A股上市公司回应",
+          "lead": "从发布道歉声明到辞职， 英伟达 创始人黄仁勋在一周内从掌管了33年的芯片帝国迅速卸任，引发资本市场动荡与AI产业链担忧。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1344,202611143931283092.html"
+        },
+        {
+          "title": "旅行者 1 号距离地球的距离达到一光日",
+          "lead": "北京时间 11 月 18 日 18 时 16 分 07 秒，旅行者 1 号与地球的距离将达到约 259 亿公里",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85883"
+        },
+        {
+          "title": "这一周，不漏读：银行风暴拖垮总统",
+          "lead": "这一周，台湾在南美唯一的友邦巴拉圭爆发金融风暴，总统潘尼亚卷入争议被弹劾；美国期中选举落幕，华尔街却未能平静",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261113-weekly/"
+        },
+        {
+          "title": "黄仁勋辞任英伟达 CEO，CFO 接任临时掌门",
+          "lead": "英伟达 11 月 12 日宣布，联合创始人黄仁勋辞去 CEO 职务。CFO 科莱特·克雷斯（Colette Kress）出任临时 CEO。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/503568/nvidia-announces-ceo-transition"
+        },
+        {
+          "title": "这个《恋爱博士》挺神奇 (评论: 恋爱博士)",
+          "lead": "joni 评论: 恋爱博士 评价: 还行",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17900916/"
+        },
+        {
+          "title": "OpenAI推出ChatGPT钱包，AI智能体可代表用户购物付款",
+          "lead": "OpenAI正在将ChatGPT的能力进一步延伸至支付和商业交易领域。 该公司推出ChatGPT Wallet（ChatGPT钱包）",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785909"
+        },
+        {
+          "title": "美媒称全美航班停飞调查指向软件更新",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15332816.html"
+        },
+        {
+          "title": "九合一前夕：台湾几乎年年选举，会引起「投票疲劳」吗？",
+          "lead": "台湾在过去七年间，几乎每年都有大型选举、罢免或公投。有学者形容台湾政治人物常处于「选举模式」，在面对不同议题时往往急于回应。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c63egjkzqpz2o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "关于英伟达临时CEO克雷斯，我们知道些什么",
+          "lead": "克雷斯于2013年加入英伟达，任公司首席财务官。她熟悉公司内部运营，在华尔街有广泛人脉",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/technology/20261113/nvidia-colette-kress-jensen-huang/?utm_source=RSS"
+        }
+      ],
+      "supplement": {
+        "title": "专访乌克兰导演Alisa Kovalenko：战争性暴力的证言，「任何关于我们的事，都不能没有我们」",
+        "lead": "在乌克兰顿巴斯（Donbas）地区的一片荒地上，一棵树正在燃烧。 白烟随风飘散，干枯的树皮间，橙黄色的火苗窜动不止，劈里啪啦的声响在死寂的战区显得格外刺耳。纪录片导演Alisa Kovalenko在这棵树前停下了脚步。 「我觉得它就像我们。」Alisa后来回忆，那棵燃烧的树让她想到自己，也想到那些和她一样，在战争中遭受过性暴力的女性。战争在人的身体和记忆里留下伤口，就像火在土地、房屋和树木上留下痕迹。有些清晰可见，有些藏在表面之下。",
+        "body": [
+          "在乌克兰顿巴斯（Donbas）地区的一片荒地上，一棵树正在燃烧。白烟随风飘散，干枯的树皮间，橙黄色的火苗窜动不止，劈里啪啦的声响在死寂的战区显得格外刺耳。纪录片导演Alisa Kovalenko在这棵树前停下了脚步。「我觉得它就像我们。」Alisa后来回忆，那棵燃烧的树让她想到自己，也想到那些和她一样，在战争中遭受过性暴力的女性。战争在人的身体和记忆里留下伤口，就像火在土地、房屋和树木上留下痕迹。有些清晰可见，有些藏在表面之下。",
+          "这棵树后来出现在她的纪录片《TRACES》（《痕迹》）的开头。影片跟随一群在俄罗斯对乌克兰的战争中，经历「冲突相关性暴力」（Conflict-Related Sexual Violence，指与武装冲突有关联的强奸及其他形式的性暴力）与酷刑的乌克兰女性。她们拒绝继续沉默，开始讲述自己的经历，也在彼此的陪伴中面对创伤、重建自己的生活。拍摄这部电影的想法，来自一群幸存者。2019年，Alisa加入了关注冲突相关性暴力的非政府组织SEMA。2023年春天，她和SEMA的成员们共同投票决定：拍摄一部关于这些女性的纪录片。「这是一部从社群内部生长出来的影片。」Alisa如此形容。",
+          "影片里，自然一再出现：被战火破坏的土地、燃烧的树木、重新长出的枝叶，以及女性亲手种下的花草。拍摄过程中，Alisa渐渐发现，人的身体与自然似乎留下了相似的痕迹：它们都曾遭受暴力和破坏，伤痕不会因此消失，生命却仍在其中继续生长。和影片中的女性们一样，Alisa也经历过漫长的自我修复。2014年，她在顿巴斯拍摄战争时遭到囚禁，期间经历酷刑与性暴力。在获释后将近两年的时间里，她从未跟任何人讲述自己遭受性暴力的经历。对她来说，这是一段羞于提及的遭遇，也是一块不知道该如何命名的伤疤。《TRACES》剧照。图：受访者提供"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261114-international-interview-with-ukrainian-director-alisa-kovalenko/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/front_2022_Kharkiv_regopn_may-1.jpg"
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 22,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "華爾街見聞×4",
+          "端傳媒×3",
+          "BBC×2",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 3,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Trump will not raise Nvidia spy issue with Xi at summit, officials say",
+        "lead": "US president will hold trilateral meeting with Chinese president and Russia’s Vladimir Putin next week",
+        "body": [
+          "US president will hold trilateral meeting with Chinese president and Russia’s Vladimir Putin next week"
+        ],
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd?syn-25a6b1a6=1",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd2fdc827-ad0a-4d64-835a-969dd30920eb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+        "lead": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company",
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-nvidia-memes-1-hwzb/12int-nvidia-memes-1-hwzb-mediumSquareAt3X-v2.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Families clear homes of David Walliams books after sexual offence allegations",
+              "lead": "Parents take action while several independent bookshops say they had already stopped stocking his titles In Sarah’s house, David Walliams has been a bedtime staple for years.",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/uk-news/2026/nov/13/families-clear-homes-of-david-walliams-books-after-sexual-offence-allegations",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/a29ed4693a342a6cd38c082c316edb7ccaf79f78/1192_157_6213_4970/master/6213.jpg?width=140&quality=85&auto=format&fit=max&s=81a585c2b13265920736ce27d26c8c70",
+              "consensus": 5
+            },
+            {
+              "title": "Europe Agrees on a Team to Represent It in Talks With Russia",
+              "lead": "After coveting a seat in the Ukraine war discussions, Europe is poised to get one. The continent wants to fill it with a six-member team.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13int-europe-ukraine-01-jlht/13int-europe-ukraine-01-jlht-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "US-China Board of Trade holds first meeting days before Trump-Xi summit",
+              "lead": "The United States and China held the inaugural meeting of their bilateral Board of Trade on Friday, just days before US President Donald Trump is set to meet Chinese leader Xi Jinping in Shenzhen.",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/china/diplomacy/article/3374407/us-china-board-trade-holds-first-meeting-days-trump-xi-summit",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/8a5a75a9-6b6e-40e2-a1ec-020843399685_4f9253bd.jpg?itok=4c4n-JM8&v=1794595134",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "US aviation regulator grounds flights across the country",
+              "lead": "Airports ordered by Federal Aviation Administration to halt take-offs because of ‘telecommunications outage’",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F741e2378-1f87-42ec-ad78-8d0b9cdae260.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+              "lead": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+              "lead": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "The Nvidia affair: Are markets about to fall out of love with AI?",
+              "lead": "Jensen Huang’s departure from Nvidia exposes the vulnerabilities behind the AI boom. As equities reel in response to his resignation following extramarital affairs",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/americas/20261113-the-nvidia-affair-are-markets-about-to-fall-out-of-love-with-ai",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://s.france24.com/media/display/f641d4de-deb5-11f1-8acd-5f54d898a954/w:1024/p:16x9/6bb584644ef73cfa0c9ff3548f3f68f8f5d99d1a.jpg"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+              "lead": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+              "lead": "The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+              "lead": "A view of an information board at the Chicago O'Hare International Airport, filled with waiting passengers on November 13, 2026. Photo by Jacek Boczarski/Anadolu via Getty Images) | Anadolu via Getty Images Takeoffs",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "France edge past South Africa after thriller in Nations Championship",
+              "lead": "France hold their nerve to beat South Africa by just two points, winning 21-19 at the Stade de France, to make it four wins from five in the Nations Championship and putting the home side in a strong position to top the",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-union/videos/c6eq4npqy7e0o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a01/live/d41f1040-dfbb-11f1-93e1-3b657b665bcf.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "France hold nerve to edge past South Africa in thriller",
+              "lead": "France hold on to end their five-match losing run against South Africa at Stade de France with an enthralling 21-19 victory in Paris.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63fc/live/fe60f040-dfb0-11f1-be1f-9dae57fabf82.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Sharks, ladders and a four-year plan - how England won World Cup",
+              "lead": "England's triumph at the Wheelchair Rugby League World Cup was built on an aggressive approach by head coach Tom Coyd - which included encouraging his players to see themselves like sharks.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-league/articles/crly54evvvv4o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cec/live/f72f4470-df6f-11f1-8112-6b9154c79b48.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "JB Smoove Talks Creativity and Fighting AI Fears, Evan Shapiro Breaks Down the Digital Entertainment Economy at Variety’s Business Managers Breakfast",
+              "lead": "JB Smoove brought his signature creative swagger and Evan Shapiro broke down the digital entertainment economy during lively conversations held as part of Variety‘s annual Business Managers Breakfast presented by City",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/biz/news/business-managers-variety-jb-smoove-shapiro-arnie-herrmann-1236947175/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/JC2_5659.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "AFM Dealmakers, Talent Agents and Hollywood Stars Left Stranded by Nationwide Flight Stoppage",
+              "lead": "The Federal Aviation Administration issued a halt on all U.S. flights on Friday at around 1 p.m. PT and didn’t lift the order until approximately four hours later.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/agents-stars-stranded-flight-stoppage-afm-governors-awards-1236947477/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2295492926.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
+              "lead": "ANTALYA, Turkey—Amid upbeat green-tech pep talks and notices for happy hours at the annual United Nations COP31 climate change conference on Thursday",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
+              "category": "science",
+              "categoryLabel": "Science",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1024x648.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
+              "lead": "A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Superheated magma could fuel towering lava fountains",
+              "lead": "Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly? Scientists have discovered that a hidden effect of extreme heat inside magma may help explain the difference.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+          "lead": "The 52-year-old general’s provocative posts and military threats have",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
+          "lead": "No passengers or crew were killed or critically hurt after a tanker",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans"
+        },
+        {
+          "title": "Microsoft’s Global Outage and Fixes: What We Know",
+          "lead": "The company described “encouraging” progress on efforts to overcome a",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html"
+        },
+        {
+          "title": "Arm boss Rene Haas approached in Nvidia CEO search",
+          "lead": "Head of SoftBank-owned UK semiconductor group sounded out after",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Nvidia crisis spurs scrutiny of agency that oversees chip curbs",
+          "lead": "Congress is demanding answers about whether the Bureau of Industry",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/business/2026/11/14/companies/nvidia-crisis-scrutiny-agency/"
+        },
+        {
+          "title": "32 passengers taken to hospital after tanker hits river cruise boat in US",
+          "lead": "American Heritage paddleboat with 129 passengers on board is",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss"
+        },
+        {
+          "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "lead": "Nvidia poured tens of billions into AI startups under Huang.",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+        },
+        {
+          "title": "US Congress widens Nvidia probe, seeking testimony from Jensen Huang and Trump officials",
+          "lead": "US lawmakers have been demanding answers about potential national",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/china/diplomacy/article/3374412/us-congress-widens-nvidia-probe-seeking-testimony-jensen-huang-and-trump-officials"
+        },
+        {
+          "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
+          "lead": "The report comes with Wall Street on edge over high-flying AI",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html"
+        },
+        {
+          "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+          "lead": "STARBASE, Texas—Starship lifted off right on schedule Friday from",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
+        },
+        {
+          "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+          "lead": "After launching its Dots AI agents platform earlier this year",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+        },
+        {
+          "title": "Gambit Gets Serious: Channing Tatum’s Superhero Is ‘Not All Laughs’ in ‘Avengers: Doomsday’ as Kevin Feige Promises Fans a ‘Fully-Rounded Character’",
+          "lead": "When Channing Tatum returns as Gambit in “Avengers: Doomsday",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/news/gambit-avengers-doomsday-kevin-feige-not-laughs-1236947232/"
+        },
+        {
+          "title": "Without this protein, damaged muscle fills with fat and scar tissue",
+          "lead": "Researchers have uncovered a surprising hidden function of a protein",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261111221643.htm"
+        },
+        {
+          "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+          "lead": "Scott Bessent suggests Howard Lutnick’s commerce department failed to",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Bessent blames Lutnick’s commerce department for failure to blacklist Megaspeed",
+          "lead": "Salvo from US Treasury secretary risks stoking tensions within Trump",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/ce6d292e-eaaa-4c23-b909-34276e1a1e8d?syn-25a6b1a6=1"
+        },
+        {
+          "title": "China stages unannounced Pacific drills in ‘silent intimidation’ push: Taiwan officials",
+          "lead": "Beijing has stepped up its military pressure over the past five years",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/13/asia-pacific/politics/china-silent-intimidation/"
+        }
+      ],
+      "supplement": {
+        "title": "Hollywood Still Faces Weekend Disruptions After FAA Lifts Flight Ground Stop",
+        "lead": "UPDATED: After a four-hour long flight ground stop, Hollywood still expects a weekend of disruptions after the Federal Aviation Administration lifted the shutdown Friday evening.",
+        "body": [
+          "UPDATED: After a four-hour long flight ground stop, Hollywood still expects a weekend of disruptions after the Federal Aviation Administration lifted the shutdown Friday evening.",
+          "Travel plans were thrown into question for talent, executives and buyers headed to and from Los Angeles and New York for one of the busiest stretches on the industry calendar.",
+          "[…]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/news/faa-flights-ground-stop-hollywood-weekend-disruptions-1236947370/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2304485743.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "Ars Technica×3",
+          "ScienceDaily×3",
+          "FT×2",
+          "紐約時報×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-14T02:02:25.919Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 799,
+        "lang": 455,
+        "fresh": 364,
+        "denoised": 363,
+        "deduped": 347
+      },
+      "en": {
+        "fetched": 799,
+        "lang": 344,
+        "fresh": 324,
+        "denoised": 320,
+        "deduped": 313
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 37,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 22,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "華爾街見聞×4",
+          "端傳媒×3",
+          "BBC×2",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 3,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "Ars Technica×3",
+          "ScienceDaily×3",
+          "FT×2",
+          "紐約時報×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

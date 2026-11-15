@@ -1,0 +1,880 @@
+{
+  "issue": 62,
+  "date": "2026-11-15",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历十月初七 · 立冬",
+    "en": "7th day of the 10th lunar month · Start of Winter"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "金融机构外汇存款准备金率今起提高至6%",
+        "lead": "今天，中国人民银行上调金融机构外汇存款准备金率正式生效，外汇存款准备金率由现行的4%提高到6%。本次上调有助于促进外汇市场供求平衡，打破人民币升值预期的自我实现。",
+        "body": [
+          "今天，中国人民银行上调金融机构外汇存款准备金率正式生效，外汇存款准备金率由现行的4%提高到6%。",
+          "本次上调有助于促进外汇市场供求平衡，打破人民币升值预期的自我实现。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-15/10732240.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "黎巴嫩总统与联合国副秘书长举行会见，讨论联黎部队未来安排",
+        "lead": "当地时间11月14日，黎巴嫩总统约瑟夫·奥恩与联合国常务副秘书长阿明娜·穆罕默德举行会见，双方就黎巴嫩南部局势及联合国驻黎巴嫩临时部队（联黎部队）的未来安排等问题进行了讨论。（央视新闻）",
+        "source": "界面新聞",
+        "group": "界面",
+        "link": "https://www.jiemian.com/article/15333772.html",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "北交所开市五周年 总市值约8000亿元",
+              "lead": "今天(15日)，北京证券交易所迎来开市五周年。截至目前，北交所有上市公司355家，总市值约8000亿元。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-15/10732225.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "台湾村里长：最基层的民选公职，如何牵动选举动员与两岸关系？",
+              "lead": "村里长是台湾最基层的民选公职，因为掌握地方人脉，在社区服务与选举动员中扮演重要角色。近年部分里长赴中国交流，引发北京透过基层网络影响台湾政治的疑虑。BBC中文走访台湾多个县市，访问三位不同世代、不同政治背景的里长，探讨地方政治、两岸交流与统战之间的界线。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6kg7mdzj12no/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d897/live/da442b20-df59-11f1-93e1-3b657b665bcf.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "WWF气候负责人：气候行动走向落实 中国发挥关键桥梁作用",
+              "lead": "中新社土耳其安塔利亚11月14日电 (记者 陈溯 王高飞)世界自然基金会(WWF)气候与能源议题全球负责人、秘鲁前环境部长曼努埃尔·普尔加·维达尔当地时间14日在土耳其安塔利亚接受中新社记者专访时表示，全球气候行动正从谈判走向落实，迫切需要加快能源转型、强化气候适应、释放资金支持。在这一进程中，中国持续发挥引领作用，并成为连接各方的关键桥梁。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-14/10732198.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "旗下战队BLG夺冠，B站宣布大会员免费送",
+              "lead": "",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15333841.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "成功回收星舰上级，SpaceX首现“筷子夹飞船”，分析师：支撑万亿估值最关键一步",
+              "lead": "SpaceX首次成功用发射塔机械臂在空中接住星舰（Starship）的上级飞船，这是全球航天史上第一次从轨道返回的飞船被塔架“夹”住回收 ，也让马斯克公司距离“快速复用”的目标近了一大步，而分析师认为，这正是支撑其数万亿美元估值叙事的关键一环。 北京时间11月15日周日，星舰上级在完成14圈绕地飞行后重返大气层，被得克萨斯州 Starbase 基地发射塔上“Mechazilla”巨型机械臂稳稳夹住。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3785950",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "创造历史：美国 SpaceX 首次实现筷子夹星舰飞船",
+              "lead": "IT之家 11 月 15 日消息，当地时间今日，美国太空探索技术公司（SpaceX）在星舰第 15 次试飞任务中， 首次成功利用发射塔“筷子”机械臂 ， 捕获从地球轨道返回的星舰上面级飞船。这是历史上首家公司 ，成功将轨道级火箭的上面级（Upper Stage）送回发射场，并通过发射塔完成捕获。 当地时间周五晚间，第 15 次试飞任务的 Ship 42 搭乘助推器 B22 升空，进入轨道后顺利完成任务。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/027/248.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "台积电确认员工个人信息遭泄露 问题指向第三方云服务商",
+              "lead": "全球最大晶圆代工企业台积电（TSMC）近日确认，部分现任及前任员工的个人信息未经授权出现在外部网站上。台积电表示，初步调查没有发现公司自身的信息系统遭到入侵的证据，涉事数据与一家第三方云服务提供商系统中保存的信息相吻合，但不涉及台积电的生产运营、商业机密以及客户相关数据。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1586436.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "美国失去麻疹消除地位",
+              "lead": "受益于疫苗接种，美国自 2000 年起被认定“消灭”了麻疹。但最近几年疫苗接种率持续下降，麻疹卷土重来在美国多地再次流行。如果由同一毒株引起的感染在同一国家内持续发生人际传播，且时间至少达到一年，那么该感染即被视为“地方性流行”，即失去消除地位。犹他州的研究人员今年 8 月报告，麻疹同一毒株引起的感染在该州持续传播超过一年。今年美国已报告逾 5400 例麻疹病例，创下自 1991 年以来的最高纪录。",
+              "source": "Solidot",
+              "group": "Solidot",
+              "link": "https://www.solidot.org/story?sid=85889",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "联合国警告：也门塔伊兹省面临人道主义危机",
+              "lead": "中新网北京11月14日电 综合消息：联合国人道主义事务协调厅、世界粮食计划署等14日警告称，长时间被围困的也门塔伊兹省面临食物短缺、疾病传播等人道主义危机。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-14/10732148.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "黄仁勋辞职风波：从「中国间谍」热议到资本市场「冷热分化」",
+              "lead": "中国官方否认相关指控，批评所谓「中国间谍」的论调纯属污蔑，但并未全面封杀讨论，相关词条仍频频登上微博热搜和小红书热帖。而在互联网防火墙的内外，舆论正朝著截然不同的方向发酵。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8b6c/live/40d273e0-df39-11f1-86fa-cbe84eade4f1.jpg"
+            },
+            {
+              "title": "伊朗通报4艘油轮触雷起火 联合国通报134起商船袭击事件",
+              "lead": "中新社北京11月14日电 综合消息：伊朗伊斯兰革命卫队14日通报称，几小时内，至少有4艘油轮在霍尔木兹海峡触雷起火。联合国方面13日通报称，霍尔木兹海峡及更广泛的中东海域已发生134起商船袭击事件，造成25名海员死亡。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-14/10732056.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "NVIDIA DLSS 5争议：当AI接管游戏画面，中国厂商为何争抢「真实」？",
+              "lead": "「 AI在生成 」是端传媒的新系列，追踪生成式AI如何改变影视与游戏等文化内容工业的生产。我们关注「看」到了什么，也关注那些最终看到的内容由谁来决定？这些变化或许来自创作者、平台、厂商、模型，抑或是我们观众自己？本文是系列第二篇。系列第一篇：《 当Google投资A24：科技巨头要在「独立」电影厂牌中得到甚么？ 》。 本文关注的DLSS 5，是NVIDIA今年推出的AI画质技术。多数玩家暂时用不上它，也未必感兴趣。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261115-opinion-nvidia-dlss5-race-for-realism/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/this-is-horrifying-nvidias-controversial-dlss-5-ai-filter-v0-xVnfsv0I8b7drnuUOWGrlemGtniFCZBTQNiCzYjUs70-W.jpg"
+            },
+            {
+              "title": "期待！总台《非遗里的中国》特展即将亮相深圳",
+              "lead": "由中央广播电视总台、广东省人民政府联合主办的《非遗里的中国》特展已完成布展，11月15日起将在深圳平安金融中心开展。特展将展出中国画、书法、雕塑、瓷器、锦绣、青铜器等两百余件精品力作。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-14/10732202.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "英雄联盟全球总决赛中国战队夺冠",
+              "lead": "",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15333829.html",
+              "category": "sport",
+              "categoryLabel": "体育",
+              "consensus": 2
+            },
+            {
+              "title": "B站宣布免费送所有人大会员，英雄联盟 S16 全球总决赛中国战队 BLG 夺冠",
+              "lead": "IT之家 11 月 15 日消息，《英雄联盟》2026 全球总决赛（S16）冠亚军决赛刚刚结束， 来自 LPL 赛区的 BLG 战队以 3:1 的比分力克韩国 LCK 赛区的 GEN 战队 ，“一穿四”LCK 赛区，勇夺《英雄联盟》S16 冠军。 IT之家注意到，B站官方今日宣布，为了和大家一起分享这份喜悦， 哔哩哔哩为所有人送大会员 。今日中午 12 点起登录B站，搜索“大会员”即可免费领取， 站内直接到账 。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/027/260.htm",
+              "category": "sport",
+              "categoryLabel": "体育",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "第五届“陈伯吹新儿童文学创作大赛”获奖名单揭晓",
+              "lead": "中新网上海11月14日电 (记者 王笈)第五届“陈伯吹新儿童文学创作大赛”颁奖典礼14日在上海举行，《闪闪发光的故事》获桂冠奖，《树洞来信》《爷爷的月球基地》《一碗冬去春来饭》《望归泉》获佳作奖。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-14/10732146.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            },
+            {
+              "title": "鼎州窑博物馆16件瓷器亮相2026中意陶瓷艺术展",
+              "lead": "中新网北京11月14日电 (记者 应妮)“瓷韵无界：从佩鲁贾到北京——2026中意陶瓷艺术展”13日在北京中华世纪坛开幕，鼎州窑博物馆精选16件瓷器参展，包含5件唐代鼎州窑古瓷与11件清乾隆时期郎世宁风格珐琅彩瓷绘作品。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-14/10732101.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "美联邦航空局局长：全美航空运输预计15日晚恢复正常",
+          "lead": "美国联邦航空局局长布赖恩·贝德福德11月14日说，全美航空运输预计15日晚能恢复正常。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15333804.html"
+        },
+        {
+          "title": "IT早报 1115：SpaceX 首次完成“筷子夹星舰飞船”；百万级 CAR-T 抗癌药首次进医保；古尔曼重申苹果 iPhone 18 明年春发布；比亚迪辟谣收购某数字能源...",
+          "lead": "“IT早报”时间，大家好，现在是 2026 年 11 月 15 日星期日，今天的重要科技资讯有： 1. 创造历史",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/027/257.htm"
+        },
+        {
+          "title": "Windows 11启动界面大翻新 首个被淘汰的是沿用多年的设备连接弹窗",
+          "lead": "微软已经开始向用户推送Windows 11新一轮界面现代化改造，而最先发生变化的并非开始菜单或任务栏",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586434.htm"
+        },
+        {
+          "title": "华尔街与硅谷强推Anthropic上市：一场“大而不能败”的AI保卫战",
+          "lead": "Anthropic正在冲刺一场可能创下史上最大规模IPO纪录的资本市场盛事，而推动这场上市的，不仅是华尔街的逐利本能",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785948"
+        },
+        {
+          "title": "环球下周看点：英伟达迎财报日大考 Anthropic、GTA VI同日上市",
+          "lead": "刚刚过去的一周，环球市场在算力龙头的人事巨震与通胀压力中寻找方向。虽然 英伟达 遭遇重挫，但标普500指数和纳指仍终结了骇人的连续四周下跌",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://forex.eastmoney.com/news/1131,202611153931387581.html"
+        },
+        {
+          "title": "天问四号将尝试登陆木卫四",
+          "lead": "11 月 13 日，探月与航天工程中心发布通知，天问四号有效载荷研制方案开展征集。天问四号任务将执行环绕木星、环绕木卫四、着陆木卫四三大任务。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85887"
+        },
+        {
+          "title": "[生活] BLG 夺冠，B 站给所有人送大会员！定好闹钟今天 12 点！",
+          "lead": "BLG 3:1 拿下 S16 冠军，LPL 时隔五年再捧杯。B 站当场宣布：给所有人送大会员！",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1257151#reply0"
+        },
+        {
+          "title": "专访乌克兰导演Alisa Kovalenko：战争性暴力的证言，「任何关于我们的事，都不能没有我们」",
+          "lead": "在乌克兰顿巴斯（Donbas）地区的一片荒地上，一棵树正在燃烧。 白烟随风飘散，干枯的树皮间，橙黄色的火苗窜动不止",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261114-international-interview-with-ukrainian-director-alisa-kovalenko/"
+        },
+        {
+          "title": "余承东公布华为问界新合作模式！新 M8 同步上市，起售价 37.98 万元",
+          "lead": "2025 年 4 月，初代问界 M8 正式推向市场，它填补了 M7 与 M9 之间的价格空白，在过去 19 个月里累计交付超过 19 万辆。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1689432?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "它得首先是一部好电影... (评论: 哥斯拉-0.0)",
+          "lead": "up&update 评论: 哥斯拉-0.0 评价: 较差",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17901757/"
+        },
+        {
+          "title": "中央气象台继续发布大雾橙色预警",
+          "lead": "预计，11月15日早晨至上午，北京中南部、天津、河北中南部和东部、山东中北部和西部、河南大部、安徽中北部、江苏西部、吉林中部、辽宁中部",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15333817.html"
+        },
+        {
+          "title": "英伟达财报、Anthropic万亿IPO接连登场！AI交易更大的考验在下周",
+          "lead": "英伟达CEO离职风波尚未平息，华尔街已将目光投向下周——英伟达季报与Anthropic上市将接连登场",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785944"
+        },
+        {
+          "title": "拾论：「如果连这里都无法继续向前，我还能凭什么确认自己正在好好生活？」",
+          "lead": "💡 一直以来，我们十分重视与读者和受众的交流，也深信即使资讯环境变幻无定，只要找到方法看见彼此，始终有谁共鸣。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261113-decalogues-words-as-anchors/"
+        },
+        {
+          "title": "两次举枪之间 (评论: 子弹横飞百老汇)",
+          "lead": "一介凡人 评论: 子弹横飞百老汇 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17902281/"
+        },
+        {
+          "title": "这一周，不漏读：银行风暴拖垮总统",
+          "lead": "这一周，台湾在南美唯一的友邦巴拉圭爆发金融风暴，总统潘尼亚卷入争议被弹劾；美国期中选举落幕，华尔街却未能平静",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261113-weekly/"
+        }
+      ],
+      "supplement": {
+        "title": "「中年拉拉恨海情天」：我嗑过的超级女声CP，我的酷儿启蒙与书写",
+        "lead": "编按：近日，随著芒果TV综艺《后会友期》的热播，一句「我画地为牢啊，厉娜」在全网病毒式传播。梗来自节目中的一对嘉宾。2006年《超级女声》选手许飞和厉娜，曾一度是最红的初代选秀女女CP。因为一场疑似误解，而在十五年里近乎一别两宽。两人在这档有著友情版《再见爱人》之称的节目中，首次公开对峙。 节目上线后，两人被戏称为「中年拉拉恨海情天」的互动，迅速成为现象级的网络文化事件。 特约撰稿人火虫子是这对CP的初代粉丝。",
+        "body": [
+          "编按：近日，随著芒果TV综艺《后会友期》的热播，一句「我画地为牢啊，厉娜」在全网病毒式传播。梗来自节目中的一对嘉宾。2006年《超级女声》选手许飞和厉娜，曾一度是最红的初代选秀女女CP。因为一场疑似误解，而在十五年里近乎一别两宽。两人在这档有著友情版《再见爱人》之称的节目中，首次公开对峙。节目上线后，两人被戏称为「中年拉拉恨海情天」的互动，迅速成为现象级的网络文化事件。",
+          "特约撰稿人火虫子是这对CP的初代粉丝。本文将以自传体评论的形式，通过「酷儿阅读」（queer reading）的视角，走进近日的时事热点，回溯电视文化的性别生产，以及嗑文化背后一代人的酷儿记忆与情感认同。天哪，一觉醒来，全网都在嗑我的童年至爱CP，这是真的吗？《后会友期》播出一周多，许飞和厉娜的恨海情天，让广大网友半夜不睡，嗑生嗑死。直女戏说被许飞掰弯，男同戏说被她掰直。在同期新上线综艺中，该节目的市场占有率从首播起便稳居第一。芒果超媒股价一度涨停。",
+          "资本纷纷下场，名创优品、伊利、淘宝等多家品牌在社交媒体，多座城市的商场在户外大屏，加入了「厉娜，原谅许飞吧」集体喊话。而我也一钻进被窝，就掉进那个小世界，嗑到飞蚊症加重也浑然不觉，又哭又笑好几个夜。就好像掉进了童年的被窝。儿时的我，便是在被窝里打著手电筒，如痴如梦地写著她们的故事。她们是我嗑过的唯一一对真人CP，人生中写过的第一部同人文的女主角。2006年《超级女声》全国总决赛6进5开场秀。影片截图"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261114-love-and-desire-queer-reading/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/10134044-2_cover_1600x892-2.jpg"
+      },
+      "stats": {
+        "visible": 35,
+        "sections": 7,
+        "briefs": 15,
+        "groups": 13,
+        "maxGroupShare": 23,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "端傳媒×5",
+          "界面×3",
+          "華爾街見聞×3",
+          "IT之家×3",
+          "BBC×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
+        "lead": "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily",
+        "body": [
+          "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment Get our daily political email , free app or daily news podcast The outspoken Liberal senator Andrew McLachlan has raised the alarm about the approach of his party and the Labor government to AI, saying artists’ copyright must not be “sacrificed” for investment and building new datacentres must not be prioritised above environmental concerns.",
+          "As Labor considers copyright changes in an AI policy suite including datacentres, online safety, energy resources and economic benefits, the South Australian backbencher added weight to mooted constitutional challenges as to whether watering down copyright law would be an illegal acquisition of property .",
+          "Sign up for Guardian Australia’s Politics, really newsletter here Continue reading..."
+        ],
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/bb100c4ad17c64282442b40c27895d51765e32dd/0_0_3485_2789/master/3485.jpg?width=140&quality=85&auto=format&fit=max&s=d72d9f2961e3b70e5c920ce9fd1fa088",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "lead": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc82/live/f8afbeb0-e087-11f1-b780-31cc9daf154a.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "UK government to consider changing age of consent after allegations against Russell Brand",
+              "lead": "Deputy prime minister says change would be a massive step but ‘deserves proper consideration and scrutiny’ The government has said it will consider calls to change the age of consent after a woman waived her right to",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/36adee7d1aea2fce8a66550d02c86c4385f1808c/238_0_2742_2194/master/2742.jpg?width=140&quality=85&auto=format&fit=max&s=924936c31699e9137998e6737a4e0404",
+              "consensus": 5
+            },
+            {
+              "title": "Asia’s Eurovision Contest Is Missing China, India, Pakistan, Indonesia and Japan",
+              "lead": "China, India, Pakistan, Indonesia and Japan aren’t joining the singing contest. That leaves some of the region’s best-known musical cultures out of the mix.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-china-japan.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/11/14/multimedia/14asia-eurovision-no-shows-01-cfgk/14asia-eurovision-no-shows-01-cfgk-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
+              "lead": "Rasmus Hojlund stars with brace as Denmark close in on a spot in the Nations League quarterfinals.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Passengers face widespread disruption after US air traffic control outage",
+              "lead": "Thousands of flights delayed or cancelled as political blame game mounts",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F237e7b4c-4ae9-4f88-abe8-538e54503f75.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+              "lead": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+              "lead": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+              "lead": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+              "lead": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Winemakers are learning that conservation can be good for business",
+              "lead": "More than 500 vineyards are scattered across the slopes and valleys of South Africa’s Western Cape , one of the world’s most biologically diverse landscapes.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/savineyard1-1152x640.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
+              "lead": "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a93/live/1896ea50-e038-11f1-9ca9-b3b288fceb81.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
+              "lead": "Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\".",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf4/live/14e20490-e078-11f1-9ec0-713bf094c3d1.jpg",
+              "consensus": 3
+            },
+            {
+              "title": "Le Tissier stars as Man Utd beat Crystal Palace to extend unbeaten run",
+              "lead": "Maya le Tissier scores a stunning strike on her 150th appearance for Manchester United to help her side beat Crystal Palace 2-0 in the WSL, as the home side extend their unbeaten run in all competitions to 12 matches.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/cqglrkk7gr1xo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/276e/live/9e2ede40-e03b-11f1-93e1-3b657b665bcf.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Inside the First AI Music Awards, a Chaotic Evening Attempting to Normalize Tech-Assisted Tunes",
+              "lead": "I knew things were a little off when the first thing I heard on my walk to the AI Music Awards was “the winner…” followed by the sweet voice of Kelly Clarkson.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/7R6A5866-1.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Journey Announces Drummer Deen Castronovo Is Exiting Band, Days After Another Health Scare Forced His Second Mid-Show Departure",
+              "lead": "Journey drummer Deen Castronovo is out of the band, the group announced Friday, due to health issues that caused him to have to drop out of two shows mid-concert in the space of just over a month",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/music/news/journey-drummer-deen-castronovo-exits-band-health-scare-1236947754/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-1247424881.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Chinese scientists fired after child dies in world’s first brain gene-editing attempt",
+              "lead": "The world’s first attempt to edit genes inside a child’s brain, which killed a six-year-old girl in Shanghai last year, has led to the firing of scientists following an official investigation that found they had broken",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/china/science/article/3374429/chinese-scientists-fired-after-child-dies-worlds-first-brain-gene-editing-attempt",
+              "category": "science",
+              "categoryLabel": "Science",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/4b48b62f-7dbd-4377-9e67-5e39386b1357_a6a3d865.jpg?itok=3HkcREAa&v=1794637392",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists find a simple daily routine linked to less pain and depression",
+              "lead": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
+              "lead": "ANTALYA, Turkey—Amid upbeat green-tech pep talks and notices for happy hours at the annual United Nations COP31 climate change conference on Thursday",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
+              "category": "science",
+              "categoryLabel": "Science",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1024x648.jpg"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+          "lead": "The US government is trying to find out whether the chaos was caused",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues",
+          "lead": "Thousands of flights still canceled as officials blamed ageing air",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos"
+        },
+        {
+          "title": "US air travel chaos exposes system held together by ‘string and duct tape’",
+          "lead": "Decades of bipartisan neglect have left America’s aviation",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1"
+        },
+        {
+          "title": "‘Get Focused on London’: How Iran’s Agents Attacked European Targets",
+          "lead": "A wave of assaults in Britain and elsewhere in the spring sowed fear",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/13/world/europe/iran-attacks-europe-britain.html"
+        },
+        {
+          "title": "U.S. floated idea of Ukraine ceding Donbas for NATO membership",
+          "lead": "This is the first time the question of linking NATO membership to",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/15/world/us-ukraine-ceding-donbas-nato/"
+        },
+        {
+          "title": "Asean’s neutrality set to be tested as Philippines welcomes world leaders",
+          "lead": "World leaders converged in Manila for the Asean summit on Sunday",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/week-asia/politics/article/3374395/aseans-neutrality-set-be-tested-philippines-welcomes-world-leaders"
+        },
+        {
+          "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+          "lead": "Two Nvidia investors with about $2.13 billion of stock disclosed as",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"
+        },
+        {
+          "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+          "lead": "SpaceX officials say catch by mechanical arms shows Starship's full",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss"
+        },
+        {
+          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+          "lead": "The petition had attracted more than 115,000 signatures as of",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+        },
+        {
+          "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+          "lead": "Stanford researchers have discovered that hidden patterns of brain",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm"
+        },
+        {
+          "title": "Philippines Wins Inaugural Eurovision Song Contest Asia in Thailand",
+          "lead": "The Philippines has won the first ever Eurovision Song Contest Asia.",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/tv/global/philippines-wins-eurovision-song-contest-asia-carmelle-1236947812/"
+        },
+        {
+          "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+          "lead": "The US government has expanded the use of an AI tool for advising air",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+        },
+        {
+          "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+          "lead": "A view of an information board at the Chicago O'Hare International",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/news/1033489/faa-ground-stop"
+        },
+        {
+          "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+          "lead": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says",
+          "lead": "President says he will take proposal to Ukrainian people as",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/24319e2d-1a34-4a72-8c91-008d974234f9?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
+          "lead": "The FAA ground stop came after updates to an older communication",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
+        }
+      ],
+      "supplement": {
+        "title": "Oak Ridge Boys’ Richard Sterban, Whose Distinctive Bass Voice Powered ‘Elvira’ and Other Country Smashes, Dies at 83",
+        "lead": "Richard Sterban, the bass vocalist of the Oak Ridge Boys, died Saturday in Hendersonville, Tenn., following complications from bronchitis and pneumonia after a battle with cancer. He was 83.",
+        "body": [
+          "Richard Sterban, the bass vocalist of the Oak Ridge Boys, died Saturday in Hendersonville, Tenn., following complications from bronchitis and pneumonia after a battle with cancer.",
+          "He was 83. Both his family and the band announced his death.",
+          "“We appreciate all of your love, support, and prayers. Please continue to lift us up in this […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/music/people-news/richard-sterban-dead-oak-ridge-boys-bass-vocalist-1236947870/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-1851305302.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "Ars Technica×3",
+          "Guardian×2",
+          "Al Jazeera×2",
+          "TechCrunch×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-15T01:35:12.907Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 795,
+        "lang": 455,
+        "fresh": 322,
+        "denoised": 321,
+        "deduped": 302
+      },
+      "en": {
+        "fetched": 795,
+        "lang": 340,
+        "fresh": 302,
+        "denoised": 300,
+        "deduped": 294
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 35,
+        "sections": 7,
+        "briefs": 15,
+        "groups": 13,
+        "maxGroupShare": 23,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "端傳媒×5",
+          "界面×3",
+          "華爾街見聞×3",
+          "IT之家×3",
+          "BBC×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "Ars Technica×3",
+          "Guardian×2",
+          "Al Jazeera×2",
+          "TechCrunch×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

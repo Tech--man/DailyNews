@@ -1,0 +1,899 @@
+{
+  "issue": 63,
+  "date": "2026-11-16",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历十月初八 · 立冬",
+    "en": "8th day of the 10th lunar month · Start of Winter"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "国家医保局：各地医保持续调整优化医疗服务价格",
+        "lead": "中新网11月16日电 据国家医保局微信公众号消息，医疗服务价格是人民群众最关心最直接最现实的利益问题。国家医保局深入推进医疗服务价格改革和治理，指导各地全面建立医疗服务价格动态调整机制，结合经济社会发展、医院运行状态、群众负担水平、医保基金收支等因素，持续调整优化医疗服务价格，协同推进基金安全运行、医院良性运转",
+        "body": [
+          "中新网11月16日电 据国家医保局微信公众号消息，医疗服务价格是人民群众最关心最直接最现实的利益问题。",
+          "国家医保局深入推进医疗服务价格改革和治理，指导各地全面建立医疗服务价格动态调整机制，结合经济社会发展、医院运行状态、群众负担水平、医保基金收支等因素，持续调整优化医疗服务价格，协同推进基金安全运行、医院良性运转、群众负担合理。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-16/10732574.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "特朗普、习近平和普京将在中国举行三方会晤",
+        "lead": "这将是三国首脑首次举行三方会晤，也是特朗普今年第三次与习近平面对面会谈。特朗普计划讨论伊朗战争和核扩散，但预计不会谈及乌克兰战争与黄仁勋事件。 Maxim Shemetov/Reuters 特朗普总统将于本周在中国举行的峰会期间与中国领导人习近平和俄罗斯总统普京举行三方会晤。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/world/20261115/trump-putin-xi-china-nuclear-proliferation/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
+              "lead": "新华社快讯：外交部发言人11月16日宣布：11月19日，国家主席习近平将同俄罗斯总统普京、美国总统特朗普在深圳举行中俄美元首会晤。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gn/2026/11-16/10732571.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 3
+            },
+            {
+              "title": "无法复制的奇迹？深圳如何从改革开放样板变为「中国矽谷」",
+              "lead": "深圳首次主办亚太经济合作组织（APEC）领导人峰会，成为中国的第三座主办城市。深圳的崛起往往被视为中国改革开放最成功的一场实验。而在中国和世界变幻莫测的今天，这个高速发展的奇迹还能延续吗？",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cmg46q2nl5n2o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0fff/live/97a75100-df3d-11f1-b441-2b33b063138f.jpg"
+            },
+            {
+              "title": "APEC深圳峰会前瞻：美中俄三边会谈悬念 高市早苗面临「握手」考验",
+              "lead": "深圳APEC2026到来，特朗普（川普）称将与中俄领袖在深圳会面，中俄确认正协调三方会晤。BBC中文专访APEC执行秘书长讨论敏感议，称对领导人出席保持乐观。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6wy4373q50go/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f0ac/live/5861faf0-df50-11f1-8364-2717a13d3b08.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "“政策落地相当实惠”——居民购房贷款贴息政策落地满月观察",
+              "lead": "“政策落地相当实惠”(财经深一度)",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-16/10732553.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "闲鱼：已起诉“拐卖儿童暗语”谣言造谣者并索赔100万元",
+              "lead": "",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15334839.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "银行理财利率高达近10%，散户抛弃越南股市",
+              "lead": "越南散户正在用脚投票——卖出股票，转而追逐接近10%的银行存款利率。 据彭博报道，越南各银行近几个月持续上调存款利率以争夺资金，吸引了该国约1400万散户投资者中的大批人转向这一长期被视为\"过时\"的理财方式。与此同时，规模约3920亿美元的越南股市2026年累计下跌约3%，有望录得四年来首次年度亏损。 外资持续净卖出与散户资金加速撤离，令越南基准股指市盈率较过去五年均值低约24%。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3785979",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "尚界 Z7T 星野套装展车陆续到店，11 月 20 日华为星芒品牌发布会上市",
+              "lead": "IT之家 11 月 16 日消息，尚界汽车今日宣布，尚界 Z7T 星野套装全国首批展车已陆续到店（文末附门店信息），将于 11 月 20 日 14:30 鸿蒙智行享界 V8 及星芒品牌发布会正式上市。 参考IT之家此前报道， 尚界 Z7T 是一款猎装车型 ，于今年 4 月上市，售价 22.98 万元起。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/027/481.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "1250万美国人计划在《GTA6》发售日请假或缺课",
+              "lead": "PCMag的一项大规模调查显示，约有1250万美国人计划在《GTA6》11月19日发售当天请假或缺课，留在家中第一时间体验游戏。这一人数约占美国成年玩家的8%。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/game/1586532.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "超 16 万人请愿，黄仁勋准备「回宫」",
+              "lead": "辞职仅仅三天，黄仁勋已经开始考虑重返英伟达。 刚刚，据《金融时报》报道， 黄仁勋已与多名亲信讨论重新担任英伟达 CEO 的可能性。 与此同时，他在硅谷的支持者也开始行动，试图说服董事会，让这位带领英伟达走过 33 年的联合创始人重新掌舵。 一位黄仁勋的盟友透露，他们正在召集硅谷科技企业高管，组建一个专门推动黄仁勋回归的「作战室」（war room）。除了游说英伟达董事会，他们还准备争取白宫的支持。",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1689559?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "伊朗外交部：伊朗“不会等待任何人”，将继续回应任何军事侵略",
+              "lead": "中新网11月16日电 据英国《卫报》当地时间15日报道，伊朗外交部发言人巴加埃在新闻发布会上表示，伊朗未来将继续对美国或其他国家的任何军事侵略予以回应。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732541.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "法国总统大选：五届奥运柔道冠军意外参选，搅动选情",
+              "lead": "超过2,800万人在Instagram和X上观看了他的竞选宣传片，该片以书籍和法国国旗为背景，展现出应有的总统威仪。在随后24小时内进行的法国舆论研究所（Ifop）民调中，约22%的受访者表示「可能」会投票给他。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cwj3kmyk8ne1o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d041/live/ac0f3570-df58-11f1-9172-871e44a840d8.jpg"
+            },
+            {
+              "title": "停飞影响持续 美航空运输预计16日全面恢复 空管老旧问题再受关注",
+              "lead": "当地时间15日，美国交通部长达菲表示，美国航空运输预计当天逐步恢复正常，受飞机和机组人员不在预定执勤位置影响，可能到16日才能全面恢复。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-16/10732550.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "台湾村里长：最基层的民选公职，如何牵动选举动员与两岸关系？",
+              "lead": "村里长是台湾最基层的民选公职，因为掌握地方人脉，在社区服务与选举动员中扮演重要角色。近年部分里长赴中国交流，引发北京透过基层网络影响台湾政治的疑虑。BBC中文走访台湾多个县市，访问三位不同世代、不同政治背景的里长，探讨地方政治、两岸交流与统战之间的界线。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6kg7mdzj12no/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d897/live/da442b20-df59-11f1-93e1-3b657b665bcf.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "刘震云与汉学家对谈中国文学的世界表达：寻常日子里 无声洪流中",
+              "lead": "中新社北京11月15日电 题：刘震云与汉学家对谈中国文学的世界表达：寻常日子里 无声洪流中",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-15/10732505.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "黄仁勋时代终结，谁是接班人？",
+              "lead": "11月12日，在承认一段婚外情、传出两段与下属的婚外情，并因中国间谍疑云面临国会与董事会调查及投资人诉讼后，黄仁勋宣布辞去辉达执行长职务。辉达于1993年由黄仁勋共同创办，此后他一直担任执行长，长达33年。很长一段时间里，辉达以游戏晶片为主要业务，在2022年底 ChatGPT 问世后，一跃成为全球 AI 产业最重要的晶片供应商，市值一度突破4兆美元。黄仁勋也成为这场 AI 浪潮最具代表性的人物之一。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261116-international-nvidia-post-jensen-huang-era/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/IMGL4925-copy-2.jpg"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "重返“冰丝带”，北京冬奥会冠军高亭宇速滑世界杯夺金",
+              "lead": "新华社北京11月15日电(记者李春宇、王镜宇)15日，2026-2027赛季速度滑冰世界杯北京站结束最后一日争夺。北京冬奥会冠军高亭宇在主场国家速滑馆“冰丝带”夺得男子500米第二次比赛冠军。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-15/10732528.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "辽宁女足夺得2026赛季中国女超冠军",
+              "lead": "中新社沈阳11月15日电 (记者 韩宏)辽宁沈北禾丰女足15日坐镇主场，以1比1战平北京女足，提前一轮夺得2026赛季中国足球女子超级联赛(下称“女超”)冠军。这是球队队史首个女超联赛冠军，也是职业化以来辽宁足球首次在同一赛季将男子、女子足球顶级联赛冠军双双收入囊中。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-15/10732491.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "习近平、特朗普与普京历史性会晤，将对世界意味什么？",
+          "lead": "中国、俄罗斯和美国领导人正筹备首次三方会晤，引发欧洲忧虑。一些人认为，这令人联想到第二次世界大战后，大国将世界划分为不同势力范围的历史。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cwe85djzkkv5o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "【11.16盘前哨】10月经济数据今公布，APEC会议周启幕，SpaceX首现\"筷子夹飞船\"",
+          "lead": "上周五上证指数收报3634.35点、跌0.59%，深证成指报10968.79点、跌2.05%，创业板指报2426.08点、跌3.32%",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15334842.html"
+        },
+        {
+          "title": "本周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报",
+          "lead": "11月16日 - 11月22日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒本周重点关注： 首先，关注APEC领导人非正式会议。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785932"
+        },
+        {
+          "title": "Xbox计划用神经渲染降低Project Helix算力与内存压力",
+          "lead": "Xbox正为下一代主机Project Helix探索神经渲染技术，希望通过新的画面帧生成方式缓解算力和额外内存需求",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/game/1586530.htm"
+        },
+        {
+          "title": "PC Mag 调查：约 1250 万美国人计划在《GTA6》发售日请假或缺课",
+          "lead": "IT之家 11 月 16 日消息，科技媒体 PC Mag 近日发布调查报告，显示上千万美国人计划在《GTA6》11 月 19",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/027/486.htm"
+        },
+        {
+          "title": "前维权律师伍雷谈中国出入境新规，出国如何变成一种「特权」？",
+          "lead": "2026 年 7 月发布、9 月 15 日起正式施行的《 国务院关于出境入境管理的规定 》，是中国出入境管理法 2013 年实施以来",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261113-mainland-china-tighten-exit-ban/"
+        },
+        {
+          "title": "美联储真会连续加息吗？华尔街聚焦今晚沃什讲话！",
+          "lead": "在刚经历了惨痛的一周后，华尔街债券交易员正将目光投向美联储密集的官员讲话以及最新的会议纪要，以期从中寻找未来的利率路径线索。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1344,202611163931576869.html"
+        },
+        {
+          "title": "反转！黄仁勋考虑重返英伟达，科技大佬连夜组建「作战室」",
+          "lead": "前两天大伙还在替 63 岁的黄仁勋唏嘘，觉得这位干了三十三年的皮衣刀客算是彻底告别历史舞台了。 结果周末刚过完，事情突然迎来了戏剧性的新动向。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1689549?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "SpaceX 成功回收火箭上面级",
+          "lead": "SpaceX 再次创造了历史，首次成功回收 Starship 火箭的上面级，此前它已经成功回收了 Starship 的推进器。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85893"
+        },
+        {
+          "title": "[分享创造] Story Timeline：把小说的设定和时间线存进 SQLite，让 AI 智能体通过 GraphQL 读写",
+          "lead": "写长篇的时候，我经常记不清谁在什么时候知道了什么。让 AI 帮忙续写，它更容易写出前后矛盾的情节：人物提前知道了秘密，或者同时出现在两个地方。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1257277#reply1"
+        },
+        {
+          "title": "短评写不下 (评论: 扯淡电影史)",
+          "lead": "冰冷脆脆鲨 评论: 扯淡电影史 评价: 很差",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17904044/"
+        },
+        {
+          "title": "黄仁勋被召出席参议院听证 商务部长卢特尼克受波及同须作证",
+          "lead": "在被揭露婚外情后，黄仁勋于周四突然辞去了全球最有价值的公司之一的总裁职务。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c9j3km83x5z2o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "两市融资余额减少165.44亿元",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15334836.html"
+        },
+        {
+          "title": "“保守”下调2028增速、但维持增持--大摩解读“后黄仁勋时代的英伟达”",
+          "lead": "黄仁勋辞任英伟达CEO后，摩根士丹利发布更新报告，将此次事件定性为\"重大挫折\"。同时将目标价从300美元下调至267美元，但维持\"增持\"评级。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3785982"
+        },
+        {
+          "title": "一次失败的救赎：一个知识分子的画地为牢 (评论: 我们的救赎)",
+          "lead": "氕氘氚 评论: 我们的救赎 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17904126/"
+        },
+        {
+          "title": "泽连斯基：美国提出乌克兰让出顿巴斯以换取加入北约",
+          "lead": "美国尚未证实乌克兰总统的言论——一位美国官员告诉BBC，「许多想法仍在讨论中」。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cqgm3vnx3zx3o/trad?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "supplement": {
+        "title": "英伟达DLSS 5争议：当AI接管游戏画面，中国厂商为何争抢「真实」？",
+        "lead": "「 AI在生成 」是端传媒的新系列，追踪生成式AI如何改变影视与游戏等文化内容工业的生产。我们关注「看」到了什么，也关注那些最终看到的内容由谁来决定？这些变化或许来自创作者、平台、厂商、模型，抑或是我们观众自己？本文是系列第二篇。系列第一篇：《 当Google投资A24：科技巨头要在「独立」电影厂牌中得到甚么？ 》。 本文关注的DLSS 5，是NVIDIA今年推出的AI画质技术。多数玩家暂时用不上它，也未必感兴趣。",
+        "body": [
+          "「 AI在生成 」是端传媒的新系列，追踪生成式AI如何改变影视与游戏等文化内容工业的生产。我们关注「看」到了什么，也关注那些最终看到的内容由谁来决定？这些变化或许来自创作者、平台、厂商、模型，抑或是我们观众自己？本文是系列第二篇。系列第一篇：《 当Google投资A24：科技巨头要在「独立」电影厂牌中得到甚么？》。",
+          "本文关注的DLSS 5，是NVIDIA今年推出的AI画质技术。多数玩家暂时用不上它，也未必感兴趣。但当最大的游戏显卡厂商和一批头部游戏公司开始用AI决定画面该有多「真」，它影响的或许不只是几款游戏，而是未来我们在屏幕上看到的「真实」，究竟由谁来定义。2026年11月5日，《霍格沃茨之遗》在发售三年多之后推送了一个免费更新，正式支持英伟达（又称辉达）的DLSS 5技术，全称Deep Learning Super Sampling（深度学习超级采样）。这项技术诞生于2018年，当时英伟达推出第一代RTX显卡，主打实时光线追踪，即让游戏里的光影、反射、阴影遵循真实的物理规律。但问题在于光追极其消耗算力，开了之后帧数会跟着大幅下降。DLSS就是为了解决这种问题而生的。",
+          "其初衷，是用技术帮助玩家弥补损失的性能。而到了2026年，DLSS 5开始利用AI直接改写画面的光照和材质，使其呈现「好莱坞视效级别」的写实效果。英伟达创始人黄仁勋将这项技术称之为「图形领域的GPT时刻」。不过，英国游戏月刊PC Gamer在9月的一次读者投票却显示，约65%的回答者表示对尝试DLSS 5并不感兴趣。由于支持的游戏较少，且想要在本地运行这项技术，只能用价格昂贵、一度被炒到接近翻倍的RTX 50系显卡，这些限制已经把大部分玩家挡在了门外。所以，自今年三月DLSS 5公布以来的这大半年间，围绕它的讨论，从最初海外玩家对AI改脸的争议，逐渐转为对技术整体的冷淡观望。而就在《霍格沃茨之遗》更新的同一天，中国游戏公司网易旗下的两款热门网络游戏却为了这一项技术吵了起来。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261115-opinion-nvidia-dlss5-race-for-realism/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/this-is-horrifying-nvidias-controversial-dlss-5-ai-filter-v0-xVnfsv0I8b7drnuUOWGrlemGtniFCZBTQNiCzYjUs70-W.jpg"
+      },
+      "stats": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 22,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×4",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "BBC中文×3",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "US officials recover audio from ‘Mississippi miracle’ cruise ship and tanker crash",
+        "lead": "Tank vessel suffered sudden steering failure two minutes before slamming into docked riverboat near New Orleans Federal safety investigators with the National",
+        "body": [
+          "Tank vessel suffered sudden steering failure two minutes before slamming into docked riverboat near New Orleans Federal safety investigators with the National Transportation Safety Board (NTSB) recovered audio and released a preliminary timeline on Sunday of a collision between a cruise ship and a tanker vessel in the Mississippi River on Friday.",
+          "The data was retrieved after more than 30 people were injured when a tanker collided with a docked cruise ship – American Cruise Lines’ American Heritage riverboat – near the port of New Orleans on Friday at about 12.30pm.",
+          "All passengers aboard the cruise ship have been accounted for, officials said. Continue reading..."
+        ],
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/us-news/2026/nov/15/audio-new-orleans-mississippi-river-cruise-tanker-crash",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/d2467769f6573bcc5af9cc096d4dd2ddf63e656a/716_76_3340_2673/master/3340.jpg?width=140&quality=85&auto=format&fit=max&s=23d73927b0c7cec06a1991569a41f332",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
+        "lead": "Jensen Huang’s alleged affair with Chinese spy ‘increases momentum’ to crack down on US hardware reaching China",
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
+        "category": "tech",
+        "categoryLabel": "Technology",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F97aedcac-5972-4bd6-a1ef-e01686398dfa.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
+              "lead": "Company insists Alice Huang, accused of being a Chinese spy, left business in late 2025 Get our breaking news email , free app or daily news podcast Megaspeed International",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/2c2f610959bc39253f07a4995c553a3099e2c600/203_0_4826_3863/master/4826.jpg?width=140&quality=85&auto=format&fit=max&s=cfd4682eae9415da0b32b4c20bfbe26a",
+              "consensus": 5
+            },
+            {
+              "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
+              "lead": "Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/10/29/multimedia/00int-venezuela-oil-pqfl/00int-venezuela-oil-pqfl-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Japan’s biggest banks raise profit targets, announce buybacks",
+              "lead": "Cashing in on rising interest rates and robust loan demand has put banks on course for another record year.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/business/2026/11/16/companies/japan-megabanks-profit-up/",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/16/574190.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+              "lead": "Tech supporters lobby chipmaker’s board to reinstate former CEO after he resigned following affair with alleged Chinese spy",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4147425d-589e-4196-83a7-198e7fdd797d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+              "lead": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+              "lead": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad4a/live/a30d20c0-e117-11f1-a7db-d90284d21c62.png",
+              "consensus": 2
+            },
+            {
+              "title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
+              "lead": "Shares in AI ‘picks and shovels’ companies hit hard by tech sell-off",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F044b8747-69c4-4c6d-8d75-7b7d71dfa730.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+              "lead": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+              "lead": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+              "lead": "United Launch Alliance's Vulcan rocket and 40 Amazon Leo broadband satellites fell back to Earth minutes after liftoff Sunday, a crushing setback that will ripple across all sectors of the US space industry.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
+              "consensus": 3
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Aberdeen appoint Liechtenstein's Frick as head coach",
+              "lead": "Former Liechtenstein striker Mario Frick is announced as the new head coach of Aberdeen.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d041/live/dc9e92f0-e127-11f1-9d32-63e01ae9cf36.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Brawl erupts in Brazil’s Women’s League final",
+              "lead": "A fist fight erupted between opposing players during the final of Brazil's under-20 Women’s League.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/brawl-erupts-in-brazils-womens-league-final?traffic_source=rss",
+              "category": "sport",
+              "categoryLabel": "Sport"
+            },
+            {
+              "title": "'They reign supreme!' - Australia beat NZ to lift World Cup again",
+              "lead": "Australia run in six tries as they beat New Zealand 32-12 in the final of the men's rugby league World Cup, securing the title for a fourth time in a row, and for a ninth time out of the last ten tournaments.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-league/videos/cw07492d8gv3o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9be8/live/db3a97f0-e0ec-11f1-93e1-3b657b665bcf.jpg"
+            },
+            {
+              "title": "Tenerife return to action after death of De Miguel",
+              "lead": "Tenerife play their first game since the death of striker Jesus de Miguel on an emotional day at the Heliodoro Rodriguez Lopez stadium.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cqx2xn535yj8o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e2a/live/47c33310-e10f-11f1-b3df-4961589d9b68.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "‘Slow Horses’ Will End With Season 8, Says Olivia Cooke: ‘We’re All Melancholy… The Show’s Been a Shining Light’",
+              "lead": "Bad news for “Slow Horses” fans: star Olivia Cooke recently told The Times that the eighth season will be the show’s last. “I am shooting the last season!” she said, before adding: “Never say never!",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/news/slow-horses-end-season-8-olivia-cooke-1236948306/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/10/Slow_Horses_Photo_060302.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Phil Collins Says He’s a ‘Well Man’ Now and Hints at the ‘Possibility of Doing Some Shows’ Amid Health Battle: ‘You Haven’t Heard the Last of Me’",
+              "lead": "Phil Collins made a rare public appearance to accept his induction into the Rock & Roll Hall of Fame at the ceremony in Los Angeles on Saturday, where he addressed his health, calling himself “a well man now.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/music/news/phil-collins-rock-roll-hall-of-fame-induction-health-1236948171/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2304672686.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
+              "lead": "Scientists have discovered a strange stellar pair more than 5,000 light-years away, where a dead star spinning every eight minutes produces mysterious radio pulses while orbiting a Sun-like star.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+              "lead": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old mystery about how the material behaves.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 4
+            },
+            {
+              "title": "Dinosaurs may have been eating seaweed 100 million years ago",
+              "lead": "Dinosaurs may have been snacking on seaweed and other ocean foods more than 100 million years ago, according to surprising new evidence hidden in their fossilized teeth.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
+          "lead": "Pontiff delivers forceful speech on final day in Peru as he travels",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment"
+        },
+        {
+          "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+          "lead": "The US transport secretary says that normal air-traffic operations",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
+          "lead": "The Jordanian military said that the men, who were arrested after a",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html"
+        },
+        {
+          "title": "Kroupi on target as France beat Turkey to reach Nations League quarters",
+          "lead": "Eli Junior Kroupi scored his maiden goal for France as Les Bleus beat",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/sport/20261115-kroupi-on-target-as-france-beat-turkey-to-reach-nations-league-quarters"
+        },
+        {
+          "title": "Nato to skip 2027 Albania leaders’ summit as high-level meetings are scaled back",
+          "lead": "Nato is scaling back its high-level meetings and will not hold a",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/europe/article/3374517/nato-skip-leaders-summit-albania-next-year-high-level-meetings-are-scaled-back"
+        },
+        {
+          "title": "Riots in France: How anti-government protests spiraled out of control",
+          "lead": "A movement that began in September with small protests over",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/16/world/riots-france-anti-government-protests/"
+        },
+        {
+          "title": "The tech products we enthusiastically recommend this holiday season",
+          "lead": "We've been reviewing a bunch of new gadgets at TechCrunch this year",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/"
+        },
+        {
+          "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+          "lead": "The drama around Nvidia co-founder and former CEO Jensen Huang is",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed"
+        },
+        {
+          "title": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain in attack on U.S. base",
+          "lead": "Iranian attacks on Bahrain, headquarters of the U.S.",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html"
+        },
+        {
+          "title": "Nathan Fielder Wasn’t ‘Infatuated’ With Elizabeth Holmes While Filming ‘You Can See Everything,’ Says Billy Evans: ‘I Didn’t Get The Impression for One Minute That It Was Romantic’",
+          "lead": "Although some audiences might have walked out of their “You Can See",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/tv/news/nathan-fielder-elizabeth-holmes-billy-evans-1236948256/"
+        },
+        {
+          "title": "US and allies sign accord to protect AI supply chains from China",
+          "lead": "Pact comes ahead of Donald Trump’s meeting with Xi Jinping at the",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
+          "lead": "Scientists have discovered that vitamin C may help prevent",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm"
+        },
+        {
+          "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+          "lead": "STARBASE, Texas —The black and silver ship fell out of the sky",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
+        },
+        {
+          "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+          "lead": "Preliminary findings by National Transportation Safety Board",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+          "lead": "While awkward, creepy tech executives have become a recurring theme",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/"
+        },
+        {
+          "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+          "lead": "Apple announced a new study today with the goal of better",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
+        }
+      ],
+      "supplement": {
+        "title": "Phoebe Bridgers’ Skeletal Transformation on ‘SNL’ Wasn’t Just a Startling Special Effect — It Emotionally Elevated One of the Best Pop Songs Ever Written About Death",
+        "lead": "On her first appearance as a solo artist on “Saturday Night Live” since 2021. Phoebe Bridgers didn’t break any guitars this time. But maybe some hearts. Or perhaps the impact was felt more as a chill down the spine.",
+        "body": [
+          "On her first appearance as a solo artist on “Saturday Night Live” since 2021.",
+          "Phoebe Bridgers didn’t break any guitars this time. But maybe some hearts.",
+          "Or perhaps the impact was felt more as a chill down the spine. However it was received, Bridgers’ performance of “Still Standing” turned out to be a spooky stunner, […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/music/columns/phoebe-bridgers-snl-still-standing-skull-skeleta-1236948223/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/11/1910_Phoebe_Bridgers_Still_Standing_WH_0177-e1794781523688.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "ScienceDaily×4",
+          "FT×3",
+          "The Verge×3",
+          "TechCrunch×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-16T01:39:22.184Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 792,
+        "lang": 452,
+        "fresh": 313,
+        "denoised": 311,
+        "deduped": 292
+      },
+      "en": {
+        "fetched": 792,
+        "lang": 340,
+        "fresh": 274,
+        "denoised": 271,
+        "deduped": 266
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 22,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×4",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "BBC中文×3",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "BBC×4",
+          "Variety×4",
+          "ScienceDaily×4",
+          "FT×3",
+          "The Verge×3",
+          "TechCrunch×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

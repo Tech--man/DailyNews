@@ -1,0 +1,912 @@
+{
+  "issue": 64,
+  "date": "2026-11-17",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历十月初九 · 立冬",
+    "en": "9th day of the 10th lunar month · Start of Winter"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "TOP500、HPCG双榜第一！“灵晟”蝉联全球超算榜首",
+        "lead": "当地时间11月17日，在美国芝加哥举行的SC26国际超级计算大会期间，新一期全球超算TOP500榜单正式发布：国家超级计算深圳中心“灵晟”E级超算以2.198EFlops(每秒219.8亿亿次)的Linpack双精度实测性能蝉联世界第一，领先第二名美国“El Capitan”(1.809EFlops)约21%",
+        "body": [
+          "当地时间11月17日，在美国芝加哥举行的SC26国际超级计算大会期间，新一期全球超算TOP500榜单正式发布：国家超级计算深圳中心“灵晟”E级超算以2.198EFlops(每秒219.8亿亿次)的Linpack双精度实测性能蝉联世界第一，领先第二名美国“El Capitan”(1.809EFlops)约21%，并以22PFlops继续保持HPCG榜单榜首。"
+        ],
+        "source": "中新網財經",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-17/10733254.shtml",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "白宫内部对华政策分歧公开化，贝森特日趋鹰派",
+        "lead": "随着关于中美人工智能竞赛以及中国人工智能技术可能对美国经济构成的风险的担忧日益加剧，贝森特的立场变得更加鹰派。他与商务部长卢特尼克就此产生的摩擦也公开化。 Haiyun Jiang for The New York Times",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/usa/20261117/bessent-lutnick-china/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "A股午评：超3500只个股飘红，沪指微跌，深指、创业板指收涨",
+              "lead": "A股午评：超3500只个股飘红，沪指微跌，深指、创业板指收涨；半导体低开高走大涨，光刻机概念股爆发；文化传媒大跌，油气、煤炭下跌",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-17/10733323.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "特朗普访华前，美国推进新规封堵芯片出口漏洞",
+              "lead": "新规旨在使中国企业更难远程访问英伟达等公司制造的先进芯片。此前，中国企业一直通过东南亚数据中心来租用芯片，相关政策曾在特朗普政府内部引发争论。 Ulet Ifansasti for The New York Times 位于马来西亚柔佛州的一座正在建设中的Megaspeed数据中心。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261117/trump-china-ai-chip-loophole/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "法国总统大选：五届奥运柔道冠军意外参选，搅动选情",
+              "lead": "超过2,800万人在Instagram和X上观看了他的竞选宣传片，该片以书籍和法国国旗为背景，展现出应有的总统威仪。在随后24小时内进行的法国舆论研究所（Ifop）民调中，约22%的受访者表示「可能」会投票给他。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cwj3kmyk8ne1o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d041/live/ac0f3570-df58-11f1-9172-871e44a840d8.jpg"
+            },
+            {
+              "title": "Megaspeed称黄乐已于去年8月离职",
+              "lead": "这是自黄乐因与黄仁勋的关系受到密切关注以来，Megaspeed首次直接回应她在公司的任职情况。该公司在声明中称，将配合美国政府及相关部门进行调查。 Taryn Ng/Agence France-Presse — Getty Images Megaspeed位于新加坡的办公室。该公司表示，前高管黄乐目前在公司没有担任任何职务。美国官员指控她为中国从事间谍活动。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261116/megaspeed-alice-huang-nvidia-china/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "政策红利“落地成景” 海南前10月入境游客同比增43.2%",
+              "lead": "中新网海口11月17日电 (记者 张茜翼)一次免签入境、一单离岛免税购物、一趟医疗康养之旅，正将海南自贸港的政策红利转化为境外游客可感可及的便利。今年1-10月，海南接待入境游客161.97万人次，同比增长43.2%，入境游成为最亮眼增量。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-17/10733270.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "与高盛唱反调？大摩展望2027中国股市：A股优于离岸，港股面临流动性挑战",
+              "lead": "摩根士丹利对2027年中国股市的判断，与高盛形成鲜明对照。 11月15日，据追风交易台消息，摩根士丹利发布的2027年中国股票策略展望报告，该行维持MSCI中国等权重评级，同时明确偏好A股优于港股等离岸市场，理由是A股在新兴前沿产业的代表性更强，且有资金支撑。与此同时， 高盛于11月16日发布的同期报告则将港股上调至超配、A股下调至中性 ，两家机构在A/H股相对配置上的判断方向截然相反。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3786078",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "特斯拉30亿欧元扩建Cybercab工厂 智能驾驶景气升温 多股获融资客逆势加仓(名单)",
+              "lead": "11月17日， 特斯拉 宣布投资 30亿欧元 扩建德国工厂，布局Cybercab百万辆年产能。 智能驾驶 赛道再获重磅催化，产业与资本加速卡位。 特斯拉 加码欧洲Robotaxi产能布局 当地时间周一， 特斯拉 计划投资30亿欧元，扩建位于德国柏林附近格伦海德的超级工厂，为在欧洲生产无人驾驶出租车Cybercab布局生产设施。",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://stock.eastmoney.com/news/11791,202611173932263846.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "加州起诉OpenAI：指控AI智能体多次失控攻击网络平台 构成公共妨害",
+              "lead": "加利福尼亚州总检察长罗布·邦塔当地时间11月16日宣布，已在旧金山高等法院起诉OpenAI，指控其在缺乏必要安全防护与监控的情况下开发、测试先进人工智能模型，误导并危害公众。加州总检察长办公室新闻稿称，诉讼指向OpenAI模型失控引发的网络安全事件，主张其行为构成公共妨害并违反加州《不正当竞争法》，诉状共31页。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1586680.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "华为麒麟 9050 系列芯片配备新一代显示 DPU，支持全彩 AI-HDR2020",
+              "lead": "IT之家 11 月 17 日消息，华为官方今日继续发文，揭秘首款「逻辑折叠」技术 τ 芯片麒麟 9050 系列的详细配置信息。据官方介绍，该系列芯片配备 新一代显示 DPU（数据处理单元），支持全彩 AI-HDR2020，让普通 SDR 内容呈现更丰富的明暗层次与色彩表现。 据介绍，新一代显示 DPU 让麒麟 9050 系列能够实现高精度像素级显示控制。协同终端显示技术，实现防窥模式快速切换与画质优化。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/028/159.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」",
+              "lead": "11 月 12 日，北汽星钽 5X 上市后，其外观设计很快引发了海外媒体关注。 专门报道中国车市的 CarNewsChina 将它称为「穷人版卫士」，Autoblog 则用了「人民的卫士」这一说法。博主 Tim Oldland 在社交平台 X 上发布了一组对比图，将灰绿色的星钽 5X 与路虎卫士 110 拼在一起，并配文吐槽道： 又一款公然抄袭卫士的中国车……荒谬 这条推文随后在海外迅速发酵，获得二十多万次浏览和上千次点赞。",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1689792?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "黄仁勋骤然离场，亚洲失去驻美“AI大使”",
+              "lead": "黄仁勋频繁前往亚洲各国，与商界领袖建立密切联系，并争取当地政府官员的支持。他在丑闻爆发后突然离职，令亚洲科技行业、人工智能热潮以及中美关系都蒙上阴影。 Tomohiro Ohsumi/Getty Images 7月，黄仁勋在东京一家餐厅外参加完晚宴活动后，向记者们分发了零食。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261117/jensen-huang-nvidia-china-asia/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "英国首相伯纳姆直言“脱欧”弊大于利",
+              "lead": "中新社伦敦11月16日电 (记者 欧阳开宇)当地时间11月16日，英国首相伯纳姆在伦敦发表公开讲话，首次明确评价“脱欧”成效，直言英国实施“脱欧”多年来整体弊大于利。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-17/10733171.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "罗伯·派汀森：《暮光之城》男主角如何成为007",
+              "lead": "罗伯·派汀森（Robert Pattinson）早已在《暮光之城》系列、《蝙蝠侠》和《奥德赛》等电影，奠定了自己作为男主角、动作明星及演员的地位。如今，他接下詹姆士·庞德（James Bond；占士邦）一角，将使他的知名度更上一层楼。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c893rgw9zrxqo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f95/live/31a7c6d0-e1e7-11f1-9f14-b33806cfd783.jpg"
+            },
+            {
+              "title": "关于特朗普访华及中美俄首脑会晤，你应该了解的",
+              "lead": "特朗普亚洲之行的重头戏是在深圳与习近平及普京会晤。这将是三位掌握全球最大核武库的领导人首次坐在一起。预计他们将讨论核扩散和伊朗问题，但不会谈及黄仁勋事件。 Andrei Bok/Reuters 俄罗斯艺术家阿列克谢·谢尔吉延科创作的绘画作品，描绘了美国、俄罗斯和中国的领导人。这幅画于周四在俄罗斯圣彼得堡首次亮相。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261117/trump-asia-china-xi-putin/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "（寻味中华丨艺林）白纸坊太狮：狮头七铃响 坊间京韵长",
+              "lead": "中新社北京11月17日电 题：白纸坊太狮：狮头七铃响 坊间京韵长",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-17/10733189.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "科韵路上，没有第二个网易",
+              "lead": "科韵路被称作广州的「游戏第一街」，网易游戏当年就是从这里起步。但这条街上更多的，是做换皮买量手游的小公司。作者2023年入行，经历了通宵发版、遥遥无期的版号和一再推迟的薪水，最后等来的是公司解散的通知。这是一名普通从业者的亲历记录，写那些快速诞生又快速消失的小公司，和在里面来来去去的人。 「 21世纪青年图鉴 」栏目由此开篇，分享身为青年的处境。除了每月的固定文章外，我们也即将开启读者征稿。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261117-mainland-no-second-netease-on-keyun-road/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/GettyImages-2271800442.jpg"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "2026北京朝阳区新就业群体运动会开幕",
+              "lead": "中新网北京11月16日电 2026北京朝阳区新就业群体运动会16日开幕。活动以“奔忙有力量，运动暖朝阳”为主题，面向外卖骑手、快递员、网约车司机、网约家政、网络主播等新就业形态劳动者。赛事将持续至12月5日，线上线下预计将有3500人参与其中。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-16/10733013.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "全国羽毛球团体锦标赛落幕：浙江男队卫冕 江苏女队夺冠",
+              "lead": "中新网湖北宜昌11月16日电 “李宁·小糊涂仙杯”2026年全国羽毛球团体锦标赛15日在宜昌奥体中心综合馆收官。浙江男队、江苏女队分获男、女团体冠军。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-16/10732625.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "福建君子峰保护区再添4种大型真菌新种 累计发现8种新种",
+              "lead": "中新网福建明溪11月17日电 (雷朝良)近日，国际真菌学知名期刊《Journal of Fungi》发布一项重要成果：福建君子峰国家级自然保护区发现近黄蜡鹅膏、中黑条纹粉褶蕈、浅褐乳菇、黄小乳菇4种大型真菌新种。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-17/10733282.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "卡尼再次访华，中国会是加拿大摆脱美国依赖的答案吗？",
+          "lead": "卡尼上任以来一直致力于推动加拿大经济和政治多元化，减少对美国的依赖。专家表示，比起欧洲，亚洲将提供更大的经济机遇。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/world/20261117/carney-china-xi-trump-putin-trade/?utm_source=RSS"
+        },
+        {
+          "title": "APEC深圳观察：习近平想告诉世界，中国掌握著未来",
+          "lead": "当世界领导人本周齐聚深圳，他们将看到一座代表中国未来的科技之城：机器人、AI、摩天大楼，处处展现蓬勃的创新活力。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c893rg46x0ygo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "黄仁勋离职震荡蔓延：“AI央行”紧缩，新云公司融资危险了",
+          "lead": "英伟达董事长黄仁勋的离职，正在动摇整个新云行业赖以生存的信用根基。 11月16日周一科技股领跌美股，其中新云服务公司跌幅居前。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3786063"
+        },
+        {
+          "title": "赛昉 RISC-V 服务器 BMC 芯片昉 · 惊鸿-B100 实现量产交付",
+          "lead": "IT之家 11 月 17 日消息，赛昉科技 (StarFive) 今日，宣布，其基于 RISC-V 指令集的 BMC（IT之家注",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/028/156.htm"
+        },
+        {
+          "title": "OpenAI曾洽谈以超50亿美元收购一家解析AI“思考”机制的初创公司",
+          "lead": "今年夏天，OpenAI 内部团队急于搞清楚自家 AI 为何会在公司内外引发安全漏洞。在此期间，包括 CEO 山姆・奥特曼在内的多位高层",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1586660.htm"
+        },
+        {
+          "title": "【华尔街日报】中国挖走这位哈佛顶尖教授，如今他希望更多同行加入",
+          "lead": "编按：《华尔街日报》是全球最具影响力的财经媒体之一，每日产出大量深度报导，涵盖国际政治、商业财经与科技趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261117-wsj-china-recruits-harvard-statistician-jun-liu/"
+        },
+        {
+          "title": "微软全球大宕机，AI 怎么又成了背锅侠",
+          "lead": "德国一家酒店泳池氯含量超标，15 名住客受伤。而原本可以提醒工作人员的警报邮件，竟然因为 Outlook 宕机没能及时送达。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1689638?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "通胀压力仍在扩散！美联储哈马克“放鹰”：倾向缓慢、稳步加息",
+          "lead": "克利夫兰联储主席贝丝·哈马克（Beth Hammack）周一重申， 她倾向于缓慢、稳步加息，以应对她认为正在向更广泛经济领域扩散的通胀压力 。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1344,202611173932500255.html"
+        },
+        {
+          "title": "Robert Pattinson 成为第七任 007",
+          "lead": "英国演员 Robert Pattinson 成为继 Daniel Craig 之后的第七任 007，将出演首部由亚马逊制作的 007 电影。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85905"
+        },
+        {
+          "title": "DeepSeek 悄悄收紧免费额度，或因算力资源紧张所致",
+          "lead": "11 月 16 日，「DeepSeek 使用额度已达上限」冲上热搜。多名用户反馈，App 和网页端同时收紧了限制，而且一次收了三条。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/503610"
+        },
+        {
+          "title": "抗拒：柳宽顺的故事|怀疑不是相信的反义词 (评论: 抗拒：柳宽顺的故事)",
+          "lead": "eflysky 评论: 抗拒：柳宽顺的故事 评价: 还行",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17905684/"
+        },
+        {
+          "title": "特朗普、习近平和普京将在中国举行三方会晤",
+          "lead": "这将是三国首脑首次举行三方会晤，也是特朗普今年第三次与习近平面对面会谈。特朗普计划讨论伊朗战争和核扩散，但预计不会谈及乌克兰战争与黄仁勋事件。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/world/20261115/trump-putin-xi-china-nuclear-proliferation/?utm_source=RSS"
+        },
+        {
+          "title": "俄罗斯超级富豪们已经在设想一个「后普京时代」",
+          "lead": "一些俄罗斯富豪渴望回到90年代的寡头政治体制，当时商人掌握著权力。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cmx27v835864o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "大摩高喊“拥抱风险”！AI算力开支“只会迟到，不会缩水”，顶格超配全球股市",
+          "lead": "过去12个月，除大宗商品外，几乎所有主要资产类别的估值都已回落。 据追风交易台消息，11月16日",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3786068"
+        },
+        {
+          "title": "补看周末：美中俄三巨头将在深圳同框",
+          "lead": "这一周，美国航管的AI系统、乌军赖以作战的卫星网路，到香港街头的人脸识别镜头，科技嵌入日常与战场，掌握开关的权力亦随之扩张。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261116-weekly/"
+        },
+        {
+          "title": "市场焦点转向“加息节奏”：德银高喊美联储恐要“三连加”！",
+          "lead": "上周，一份超出预期的CPI报告又让华尔街“炸了锅”。 德意志银行 因此上调了对美联储紧缩政策的预期",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://futures.eastmoney.com/news/1765,202611173932475528.html"
+        }
+      ],
+      "supplement": {
+        "title": "「民间检测」爆红：如何分辨检测是否可靠？",
+        "lead": "（作者为遗传学博士，科普作者，播客《说医解药》主理人） 每年的「618」是中国母婴产品的电商促销高峰，但2026年的「618」却迎来「至暗时刻」：央媒《经济参考报》当天刊发报道称，多款婴儿纸尿裤被检出有毒物质甲酰胺，记者本人穿戴纸尿裤10小时后血液中的甲酰胺含量就「翻了一倍」。各纸尿裤品牌的直播间迅速被「有没有甲酰胺」的追问冲垮。",
+        "body": [
+          "（作者为遗传学博士，科普作者，播客《说医解药》主理人） 每年的「618」是中国母婴产品的电商促销高峰，但2026年的「618」却迎来「至暗时刻」：央媒《经济参考报》当天刊发报道称，多款婴儿纸尿裤被检出有毒物质甲酰胺，记者本人穿戴纸尿裤10小时后血液中的甲酰胺含量就「翻了一倍」。各纸尿裤品牌的直播间迅速被「有没有甲酰胺」的追问冲垮。面对质疑，多家纸尿裤厂商纷纷出示第三方检测报告以自证清白，报道的记者此后多次在网上发声，坚称大量孩童血液中检测出甲酰胺，纸尿裤厂家给出的检测结果不可靠，要求政府部门展开联合调查。面对挥之不去的甲酰胺疑云，纸尿裤厂商也不得不感慨这已经不是一个企业或一个行业能自证清白的问题，同样恳请政府部门出面。近4个月后，10月15日，市场监管总局等四部门组成的联合调查组公布结论：对全国168家纸尿裤生产企业、180个品牌的368批次成品全面抽检，全部未检出甲酰胺；",
+          "原报道所依据的检测则被认定「无法得出检出甲酰胺的结论」。就在「有毒纸尿裤」事件被证明检测乌龙的前一周，10月8日，另一个检测结果冲上热搜。抖音旗下的汽车平台懂车帝发布实测视频，称三台全新的尊界V800在封闭场地做时速100公里至静止的紧急制动试验时，刹车踏板支架先后断裂。车企回应称这属于非标准的极端工况，并公布了符合行业标准的第三方检测报告。但懂车帝立刻反击，称自己的检测反映的是日常驾车会遇到的情况，并不极端，反倒是车企给出的合格检测报告，选取的标准不恰当。",
+          "类似有毒纸尿裤风波，双方在网上就谁的检测准确争执不下后，10月15日，工业和信息化部、中央网信办、市场监管总局宣布成立联合调查组。两起事件有着相似的轨迹：都是出自官方体系之外的民间检测，经过拥有广泛影响力的媒体平台扩散后，迅速引爆舆论，但接下来各种不同的检测互相矛盾，又将官方推到台前。近年来，民间检测在消费品领域日益增多。消费者为何如此信赖它们？它们的价值与局限分别在哪里？面对一份检测报告或一段测试视频，公众又该如何分辨可靠与否？"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261117-mainland-testing-conducted-by-non-governmental-organizations/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/GettyImages-1187270129.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "端傳媒×4",
+          "華爾街見聞×3",
+          "東方財富×3",
+          "BBC×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+        "lead": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced",
+        "body": [
+          "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral failing”.",
+          "The five countries – Germany, Austria, the Netherlands, Denmark and Greece – are the first to seek to use the EU’s newly agreed returns law that allows people who have exhausted all avenues of appeal against their removal from Europe to be sent to a third country.",
+          "Continue reading..."
+        ],
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/d668e44ea9f6f3fb2d88cfee76bb772cccada10f/456_0_4053_3243/master/4053.jpg?width=140&quality=85&auto=format&fit=max&s=7839a06430930a2378822738556852d7",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Russia aims for ‘joint statement’ from trilateral summit with US and China",
+        "lead": "Thursday’s unprecedented meeting of Donald Trump, Xi Jinping and Vladimir Putin has drawn intense international attention",
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/e567ba7d-c53a-47a2-a361-3b8a107fcdef?syn-25a6b1a6=1",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6e6c186f-172b-4d89-9a67-ccc793f879a3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "‘Let me talk to Snez’: court hears recording of Sam Wood saying wife Snezana could recant domestic violence allegations",
+              "lead": "Fitness influencer’s lawyer calls comment during taped conversation between client and his father ‘ill-judged’ but denies it amounts to a suggestion of interfering with a witness Get our breaking news email",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/australia-news/2026/nov/17/sam-wood-snezana-bail-domestic-violence-allegations-ntwnfb",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/1d82fb024ed7d912bb4fc5f2d3293dc1ca863ebc/0_0_1333_1065/master/1333.jpg?width=140&quality=85&auto=format&fit=max&s=8a763c9c758960a86a5c958e048f1254",
+              "consensus": 5
+            },
+            {
+              "title": "Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
+              "lead": "President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-trump-summit-wtk-qjkm/16int-trump-summit-wtk-qjkm-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Royal row claims Malaysian chief minister as Umno hunts a successor",
+              "lead": "The chief minister of Malaysia’s Negeri Sembilan state has submitted his resignation, less than four months into the job, after backing an attempt to depose the state’s ruler – opening up a succession contest within Umno.",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/week-asia/politics/article/3374671/royal-row-claims-malaysian-chief-minister-umno-hunts-successor",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/eb0ef5df-716f-4627-a0dc-bfb7ffabb36e_3d9d3883.jpg?itok=mBeIEz-M&v=1794886248",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "California sues OpenAI over Hugging Face attack",
+              "lead": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "OpenAI sued by California over 80 ‘loss of control’ incidents",
+              "lead": "State’s attorney-general claims hacking by rogue AI models is the ‘predictable result of an internal culture that prioritises growth over safety’",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/1e18af77-d434-4871-81cc-b0e74a0e97bd?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7bad1a7f-59b6-418a-aaba-d67813460285.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
+              "lead": "",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
+              "lead": "There's one formula for success behind the rise of trendy new Chinese fashion brands, according to Euromonitor International.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
+              "category": "business",
+              "categoryLabel": "Business"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+              "lead": "The Trump administration introduces export licence requirement for Malaysia, Thailand, Indonesia, Singapore and Brazil.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Singapore seeks US talks on AI chip export rules amid Nvidia fallout, Megaspeed probe",
+              "lead": "Singapore has been engaging with the United States to explore ways to facilitate “trusted access” for local firms after Washington announced a new measure that would restrict exports of artificial intelligence chips to",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/week-asia/economics/article/3374665/singapore-seeks-us-talks-ai-chip-export-rules-amid-nvidia-fallout-megaspeed-probe",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/f3fef289-6517-4223-ae92-3432b4294bda_aa5bbd91.jpg?itok=gnuUI_5q&v=1794883186",
+              "consensus": 5
+            },
+            {
+              "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
+              "lead": "Two OpenAI models in July gained unauthorized access to Hugging Face's internal systems to find information for use in cheating on an evaluation.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Senegal hosted a successful Youth Olympics. What’s next for its athletes?",
+              "lead": "Senegal will need to do more, experts say, if it hopes to maintain the momentum and create Olympians at the main Games.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/sports/2026/11/17/more-sports/senegal-youth-olympics/",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/17/574476.JPG"
+            },
+            {
+              "title": "'Is that not match-fixing?' - Erasmus questions officiating",
+              "lead": "South Africa head coach Rassie Erasmus predicts Ireland fly-half Sam Prendergast will not face a ban after being cited, and questions standards in officiating.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ck0jx1dnd38go?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e0/live/84fc2000-e1fc-11f1-ba8d-01314a590f72.jpg"
+            },
+            {
+              "title": "Pocognoli wants patience but Scotland 'don't have time' says Robertson",
+              "lead": "Angry captain Andy Robertson says Scotland do not have time to turn things around after a brutal 4-0 defeat by Switzerland consigns them to a third-place finish in their Nations League group.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cwnv432qy0l1o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cdd/live/1fc24180-e20e-11f1-99b6-a35a62fa4264.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Wondermind Investor Lawsuit Against Selena Gomez and Co-Founders Dismissed",
+              "lead": "A federal lawsuit against Selena Gomez and fellow Wondermind co-founders Mandy Teefey and Daniella Pierson has been dismissed, the star’s litigator Mathew S. Rosengart confirmed Monday.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/biz/news/wondermind-lawsuit-selena-gomez-dismissed-1236949959/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2202517874.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "London Palestine Film Festival returns for 27th year",
+              "lead": "Since 1999, the London Palestine Film Festival has brought Palestinian stories to the big screen.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss",
+              "category": "culture",
+              "categoryLabel": "Culture"
+            },
+            {
+              "title": "CAA and Hybe Launch Strategic Partnership",
+              "lead": "Entertainment and sports agency Creative Artists Agency and music behemoth/lifestyle platform Hybe launched a partnership to grow Hybe’s creative and commercial opportunities.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/biz/news/caa-hybe-strategic-partnership-1236949852/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2025/12/1405689461.jpg"
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists discover that the heart doesn't age the way we thought",
+              "lead": "Scientists have discovered that the heart ages unevenly, with surprising hotspots of inflammation and scarring concentrated in the valves and major blood vessels rather than the heart muscle.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261115085550.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Hidden ecosystem: Scientists discover 245 animals living inside a single deep-sea rock",
+              "lead": "Deep beneath the Pacific Ocean, scientists have discovered tiny hidden ecosystems inside metal-rich rocks that take millions of years to form.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261114202133.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Five EU countries announce migrant deportation centre in Rwanda",
+          "lead": "Germany, Denmark, Austria, Greece and the Netherlands have announced",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "United Airlines says ‘widespread’ system outage resolved",
+          "lead": "Airline acknowledges ‘technology issue that delayed flight",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage"
+        },
+        {
+          "title": "Canada’s Leader, Once a Curiosity at Asia Summits, Is Now a Star",
+          "lead": "Prime Minister Mark Carney is courting Europe",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html"
+        },
+        {
+          "title": "Nvidia board not considering reinstating Jensen Huang as chief executive",
+          "lead": "Co-founder of chipmaker resigned following extramarital affair with",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+          "lead": "Kevin Warsh sees AI at a turning point. He faces tough questions on",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html"
+        },
+        {
+          "title": "US agency’s rare AI chip disclaimer exposes rift in Trump administration: experts",
+          "lead": "A US agency’s unusual decision to distance itself from new",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/us/article/3374656/us-agencys-rare-ai-chip-disclaimer-exposes-rift-trump-administration-experts"
+        },
+        {
+          "title": "US moves to cut China’s remote access to AI chips",
+          "lead": "On the heels of the Nvidia scandal , the Trump administration is",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
+        },
+        {
+          "title": "Trump departs for ASEAN on summit with Xi and Putin",
+          "lead": "Donald Trump is heading to the Philippines where he’s scheduled to",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss"
+        },
+        {
+          "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+          "lead": "Three months since introducing its product",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+        },
+        {
+          "title": "Rogue AI: California sues OpenAI over \"Hugging Face\" and other cyberattacks",
+          "lead": "The US state of California has filed a lawsuit against OpenAI over",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/tv-shows/business/20261116-rogue-ai-california-sues-openai-over-hugging-face-and-other-cyberattacks"
+        },
+        {
+          "title": "California sues OpenAI over rogue AI hacking incidents",
+          "lead": "California is suing OpenAI after its AI agents broke out of their",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+        },
+        {
+          "title": "Germany, Denmark, Austria, Greece and the Netherlands plan Rwanda migrant hub",
+          "lead": "The move came despite protests from human rights groups and a warning",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/17/world/politics/european-nations-rwanda-hub-migrants/"
+        },
+        {
+          "title": "Zendaya Felt ‘Incredibly Nervous’ While Shooting ‘The Odyssey’ but Credits Tom Holland for Supporting Her: He Was ‘in the Corner Like, “You Got This”’",
+          "lead": "Zendaya might be one of Gen Z’s definitive leading ladies",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/news/zendaya-tom-holland-the-odyssey-1236949899/"
+        },
+        {
+          "title": "MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system",
+          "lead": "MIT scientists discovered that carefully timed bursts of gentle pink",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261115085533.htm"
+        },
+        {
+          "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+          "lead": "A number of tech figures have backed an effort asking the AI chip",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Why Putin, Trump and Xi cannot be the new ‘big three’",
+          "lead": "The leaders of the US, China and Russia cannot carve up the world",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/f87fc05f-6689-4051-9d6b-40754315355f?syn-25a6b1a6=1"
+        }
+      ],
+      "supplement": {
+        "title": "Elizabeth Debicki Says ‘Tenet’ Co-Star Robert Pattinson Will Be the ‘Perfect’ James Bond: ‘I’m So Thrilled’",
+        "lead": "Elizabeth Debicki is weighing in on her “Tenet” co-star Robert Pattinson becoming the next James Bond. “I’m so happy for Rob,” said Debicki at the Los Angeles premiere of “The Further Mis-Adventures of Cliff Booth.",
+        "body": [
+          "Elizabeth Debicki is weighing in on her “Tenet” co-star Robert Pattinson becoming the next James Bond.",
+          "“I’m so happy for Rob,” said Debicki at the Los Angeles premiere of “The Further Mis-Adventures of Cliff Booth.” When asked why Pattinson will make the perfect Bond, she responded: “He is an enigma himself.",
+          "He’s beautiful, and he’s […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/columns/elizabeth-debicki-tenet-co-star-robert-pattinson-james-bond-1236949754/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/11/17th-Governors-Awards-New-York-Special-Screening-of-The-Drama-1000.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "Variety×4",
+          "SCMP×3",
+          "BBC×3",
+          "CNBC×3",
+          "Al Jazeera×3",
+          "ScienceDaily×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-17T04:22:07.879Z",
+    "sources": {
+      "configured": 36,
+      "ok": 35,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "界面新聞",
+          "reason": "fetch failed"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 769,
+        "lang": 430,
+        "fresh": 352,
+        "denoised": 351,
+        "deduped": 336
+      },
+      "en": {
+        "fetched": 769,
+        "lang": 339,
+        "fresh": 309,
+        "denoised": 306,
+        "deduped": 297
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "端傳媒×4",
+          "華爾街見聞×3",
+          "東方財富×3",
+          "BBC×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "Variety×4",
+          "SCMP×3",
+          "BBC×3",
+          "CNBC×3",
+          "Al Jazeera×3",
+          "ScienceDaily×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

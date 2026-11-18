@@ -1,0 +1,903 @@
+{
+  "issue": 65,
+  "date": "2026-11-18",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历十月初十 · 立冬",
+    "en": "10th day of the 10th lunar month · Start of Winter"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "习近平出席亚太经合组织工商领导人峰会开幕式并发表主旨演讲",
+        "lead": "新华社深圳11月18日电(记者肖文峰、韩洁)11月18日上午，国家主席习近平在深圳前海国际会议中心出席2026年亚太经合组织工商领导人峰会开幕式，并发表题为《坚定信心，勇毅前行 共创亚太光明未来》的主旨演讲。",
+        "body": [
+          "新华社深圳11月18日电(记者肖文峰、韩洁)11月18日上午，国家主席习近平在深圳前海国际会议中心出席2026年亚太经合组织工商领导人峰会开幕式，并发表题为《坚定信心，勇毅前行 共创亚太光明未来》的主旨演讲。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733950.shtml",
+        "category": "top",
+        "categoryLabel": "要闻"
+      },
+      "secondary": {
+        "title": "中加达成贸易协议进一步削减关税，两国关系升温",
+        "lead": "协议以及中加两国领导人展现出的友好关系与目前的加美关系形成鲜明对比。加拿大总理卡尼上任以来一直致力于使加拿大的经济和政治关系多元化，减少对美国的依赖。 Adrian Wyld/The Canadian Press, via Associated Press 加拿大总理马克·卡尼与中国领导人习近平周二在深圳会晤。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/world/20261118/carney-china-xi-trade-apec/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "习近平会见韩国总统李在明",
+              "lead": "新华社快讯：11月18日，国家主席习近平在深圳会见韩国总统李在明。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gn/2026/11-18/10733949.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "习近平与特朗普“友谊”表象下，中美经济裂痕扩大",
+              "lead": "特朗普与习近平公开的友好姿态掩盖了另一种现实，两国政府正在强化经济防御，设置新的贸易和投资壁垒，日益增多的限制凸显出中美经济日益扩大的裂痕。 Haiyun Jiang/The New York Times 9月，特朗普总统和第一夫人梅拉尼娅在白宫欢迎中国国家主席习近平和夫人彭丽媛。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/china/20261118/trump-xi-meeting-tensions/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "特朗普访华之际 美国封堵中国公司在东南亚租用AI算力的「后门」",
+              "lead": "在美国限制最先进英伟达芯片直接销往中国的背景下，中国大型互联网公司和AI实验室逐渐转向「只租算力、不买硬件」的模式。芯片部署在第三国数据中心，中国企业再通过互联网远程调用算力训练模型，而无须把相关硬件运入中国。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cmpdwn010nyvo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f965/live/d542c590-e275-11f1-b639-73d1df360b76.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "11月18日央行开展7002亿元隔夜逆回购操作",
+              "lead": "中新网11月18日电 据中国人民银行网站消息，2026年11月18日中国人民银行以固定利率、数量招标方式开展了7002亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-18/10733885.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "韩国总统李在明抵达会见现场",
+              "lead": "",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15345021.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 2
+            },
+            {
+              "title": "美联储库克律师：库克不会出席白宫听证，特朗普已作出开除决定，委员会是“幌子”",
+              "lead": "美联储理事Lisa Cook（丽莎·库克）的代理律师发出迄今最强硬的信号，表示 其当事人将不会出席白宫\"调查委员会\"听证 ，双方围绕这一程序的分歧已公开激化。 律师Abbe Lowell在一封日期为本周一、周二对外公开的信函中写道， 特朗普总统\"开除Cook理事的决定早已作出\"，白宫设立的委员会不过是掩盖这一预定结论的\"幌子\"。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3786138",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "OpenAI发布GPT-6.2 Astra与GPT-6.2 Sol：性能大幅提升 成本显著下降",
+              "lead": "OpenAI正式发布两款全新人工智能模型GPT-6.2 Astra和GPT-6.2 Sol，并宣称新模型在编程、科研、专业办公以及计算机操作等多个领域实现显著进步。与此同时，新模型能够以更少的Token消耗完成更多任务，让用户在现有使用额度下获得更高的工作效率。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1586832.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 4
+            },
+            {
+              "title": "算力需求持续强劲，2027年算力芯片供给偏紧，创业板算力ETF嘉实(158056)连续3天净流入",
+              "lead": "2026年11月18日早盘，通信服务、算力租赁等板块概念表现活跃，截至10:28，创业板算力基础设施指数强势上涨1.09%，成分股先进数通上涨8.46%，四会富仕上涨6.53%，宏景科技上涨5.31%。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15344976.html",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol，任务成本显著下降",
+              "lead": "OpenAI 在推特上发了句挺少见的开场白：「有些人一直在非常礼貌地问，有些人就只是问。」然后宣布 GPT-6.2 Astra 和 Sol 上线。 两个模型分工很清楚。Astra 是旗舰，定位「为你最难的项目而建」，在专业工作和科学研究的评测上刷新了自己的记录，而每任务成本不到 GPT-6 Astra 的三分之一。官方的说法是，差别会体现在幻...",
+              "source": "開源中國",
+              "group": "開源中國",
+              "link": "https://www.oschina.net/news/503626/openai-gpt-6-2-astra-sol",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 4
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "以色列议会选举正直党议员卡哈纳出任议长",
+              "lead": "中新社北京11月18日电 综合消息：据《以色列时报》报道，当地时间17日，以色列议会以66票赞成、52票反对的结果，选举正直党议员卡哈纳出任议长，接替利库德集团议员阿米尔·奥哈纳。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-18/10733884.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "英伟达丑闻加深特朗普政府内部裂痕",
+              "lead": "特朗普即将在中国与习近平会晤，白宫内部关于在人工智能领域如何限制中国的问题上分歧公开化。特朗普表示他不想”冒犯中国“，仍然试图淡化黄仁勋事件的国家安全风险。 Kenny Holston/The New York Times 特朗普总统周一承认，财政部长贝森特与商务部长卢特尼克一直存在分歧，争论的焦点是应该采取多严厉的措施堵住中国通过其他国家的数据中心获取先进人工智能芯片的漏洞。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261118/trump-china-ai-chip-policy/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "身体最常受伤、却很少人会刻意锻炼的部位：脚踝",
+              "lead": "运动物理治疗师珍妮薇芙·陶亚（Genevieve Tawiah）分享了她护理关节的秘诀；关节问题占急诊就诊量的 5%。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cwj05r347d0lo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/14f3/live/2e24a220-e0f8-11f1-97b9-9110abfffc70.jpg"
+            },
+            {
+              "title": "10个数字，让你更了解亚洲",
+              "lead": "中美正在亚洲争夺影响力，但亚洲不仅仅是大国竞争的舞台。本文总结的数字可以让我们了解该地区对全球经济的贡献，以及各国如何日益紧密地联系在一起，共同塑造世界。 Pool photo by Ted Aljibe 周一，各国领导人在马尼拉举行的东盟峰会上合影。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/asia-pacific/20261117/asean-trade-security-technology/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "当人人忧心书业，她想出版笑话集——在香港做出版和开新书店的人",
+              "lead": "编按 ：今年，是香港独立书店多事的一年。在书业困境中，仍有人继续出版和开新书店。他们为什么选择在结业潮中开始？ 端传媒推出 「独立书店眼前路」 系列报导，本文为系列第三篇报导；此前，我们专访了几间 香港独立书店，谈及他们的存续状态 ，以及探讨当香港作为华语世界窗口的角色逐渐消逝， 读者如何继续找寻 书的自由 。较早前，我们也已刊发 「我是书店店员」台港争议舆论分析 ，以及 香港独立书店在东京作出新尝试和实验的报导 。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261118-hongkong-indie-bookstores-publishing-future/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/L1008145.jpg"
+            },
+            {
+              "title": "中新网评：虚拟人“带货”，带的必须是真话，守的必须是规矩",
+              "lead": "中新网北京11月18日电(王诗尧)当虚拟人物开始代替真人出镜带货，广告营销也迎来了新的表达方式。然而，虚拟形象可以是数字技术的产物，产品体验却不能靠算法凭空编造。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-18/10733865.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "西藏体彩发布2025年度社会责任报告 筹集公益金3.69亿元",
+              "lead": "本报拉萨11月15日讯(记者 旦增兰泽)近日，记者从“高原筑梦 益彩同行——西藏体彩2025年度社会责任报告”发布会获悉，2025年西藏体彩全年销售体育彩票达15.47亿元，筹集公益金3.69亿元，代扣代缴个人所得税0.15亿元。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-18/10733892.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "CFA中国之队·肇庆国际足球邀请赛：中国队1胜1平收官",
+              "lead": "中新社广东肇庆11月17日电 (刘梦青)2026CFA中国之队·肇庆国际足球邀请赛17日在广东肇庆举行，中国男足2:2战平巴林队。至此，中国队以1胜1平的成绩结束此次邀请赛。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-18/10733830.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "兰合铁路全线铺轨正式启动 预计2027年底通车",
+              "lead": "11月17日，新建兰州至合作铁路在甘肃省临夏州永靖县刘家峡站启动全线铺轨。作为国家“八纵八横”高铁网兰(西)广通道重要组成部分，这条铁路建成后，将结束甘肃省临夏回族自治州、甘南藏族自治州不通铁路的历史，补齐甘肃南部铁路交通短板。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-18/10733887.shtml",
+              "category": "society",
+              "categoryLabel": "民生",
+              "consensus": 2
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "白宫内部对华政策分歧公开化，贝森特日趋鹰派",
+          "lead": "随着关于中美人工智能竞赛以及中国人工智能技术可能对美国经济构成的风险的担忧日益加剧，贝森特的立场变得更加鹰派。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/usa/20261117/bessent-lutnick-china/?utm_source=RSS"
+        },
+        {
+          "title": "科创半导体设备ETF鹏华(589020)交投活跃，政策产业共振，板块景气度持续向上",
+          "lead": "消息面上，工信部批准发布《半导体设备与零部件质量管理体系》行业标准，旨在系统规范半导体设备与零部件全生命周期质量管理。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15345027.html"
+        },
+        {
+          "title": "高雄选战「知识蓝」对决「新潮流」，国民党能复制「韩流」吗？",
+          "lead": "柯志恩以「知识蓝」的姿态拉拢中间选民，支持度大幅追贴深耕高雄20年的赖瑞隆，选情咬紧。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c6n4ex4y9837o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "回归英伟达，黄仁勋要先“干掉董事会”",
+          "lead": "离职第五天，黄仁勋打破沉默。 11月17日周二，黄仁勋发布声明称： “自我离开以来，我看到英伟达的员工、投资者",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3786145"
+        },
+        {
+          "title": "派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等",
+          "lead": "iPhone Duo 测试 2D 人脸解锁功能，松下发布紧凑型电影摄影机 SHX1 等。 查看全文",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "少數派",
+          "link": "https://sspai.com/post/119210"
+        },
+        {
+          "title": "OpenAI发布GPT-6.2 Astra和Sol 强化专业工作与日常任务能力",
+          "lead": "当地时间11月17日，OpenAI发布GPT-6.2 Astra和GPT-6.2 Sol两款模型。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1360,202611183933433098.html"
+        },
+        {
+          "title": "神舟二十四号船箭组合体转运至发射区 首次搭载外籍航天员",
+          "lead": "昨晚，神舟二十四号载人飞船与长征二号F遥二十四运载火箭组合体已转运至发射区，发射场设施设备状态良好。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/science/1586854.htm"
+        },
+        {
+          "title": "兰合铁路全线铺轨正式启动：预计 2027 年底通车，结束甘肃两个自治州不通铁路历史",
+          "lead": "IT之家 11 月 18 日消息，据央视新闻报道， 新建兰州至合作铁路 11 月 17 日在甘肃省临夏州永靖县刘家峡站启动全线铺轨。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/028/632.htm"
+        },
+        {
+          "title": "黄仁勋官宣愿意回归，英伟达董事会：不考虑！",
+          "lead": "辞去英伟达 CEO 职务仅仅五天后，黄仁勋终于公开发声，回应了外界持续发酵的回归呼声。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1689994?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "数说科技：美国可能迎来 AI 立法潮，但先行一步的欧盟成功了吗？",
+          "lead": "编按：「 数说科技 」是端传媒的注册免费栏目，每周三更新。从一个数字出发，用1500字解析科技话题，追踪值得关注的 AI 趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261118-tech-in-numbers-eu-dsa-ai-regulation-challenges-2/"
+        },
+        {
+          "title": "学校禁止手机有助于提高学生成绩",
+          "lead": "美国学生的成绩从十多年前开始下滑，这一时间趋势与智能手机的流行基本一致，引发了对智能手机在学生成绩下滑中所扮演角色的疑问。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85915"
+        },
+        {
+          "title": "瘴气营地的青春性事与死亡|资本主义都这么晚期了 (评论: 瘴气营地的青春性事与死亡)",
+          "lead": "eflysky 评论: 瘴气营地的青春性事与死亡 评价: 还行",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17907993/"
+        },
+        {
+          "title": "特朗普访华前，美国推进新规封堵芯片出口漏洞",
+          "lead": "新规旨在使中国企业更难远程访问英伟达等公司制造的先进芯片。此前，中国企业一直通过东南亚数据中心来租用芯片，相关政策曾在特朗普政府内部引发争论。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/usa/20261117/trump-china-ai-chip-loophole/?utm_source=RSS"
+        },
+        {
+          "title": "科创50ETF平安(589150)标的指数涨近1%，算力市场需求暴涨，国内日均词元调用量已突破500万亿",
+          "lead": "截至2026年11月18日 10:53，科创50ETF平安(589150)标的指数上证科创板50成份指数(000688)上涨0.78%",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15345009.html"
+        },
+        {
+          "title": "中国以AI奇境接待各国领袖，但他们看不到的另一面是什么？",
+          "lead": "离开深圳充满科技感的天际线后，你将会看到习近平治下中国所面临的种种挑战。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "A股三大股指早盘集体转跌，AI硬件侧局部回暖，创新药、贵金属调整，恒指、恒科指齐跌，京东大跌8%",
+          "lead": "英伟达披露第三季度业绩，大幅超出市场预期，盘后股价涨超4%，提振市场信心。亚太股市周三开盘上涨，韩国KOSPI指数涨幅扩大至3%",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3786152"
+        }
+      ],
+      "supplement": {
+        "title": "辉达事件揭晶片走私漏洞：美国为何管不住 AI 晶片？",
+        "lead": "近期，辉达（又称英伟达）创办人黄仁勋因与新加坡企业 Megaspeed 前高层黄乐（Alice Huang）的婚外情，以及涉及中国间谍与 AI 晶片走私的疑云，陷入政治风暴，最终于11月12日辞去执行长职务。 截至目前，虽然还无法确认遭新加坡警方警告的黄乐是否有中国间谍身份、或中国解放军在本案中扮演的角色，但较无争议的事实是：Megaspeed 经由辉达的伺服器合作伙伴 Aivres（中国浪潮旗下的美国子公司",
+        "body": [
+          "近期，辉达（又称英伟达）创办人黄仁勋因与新加坡企业 Megaspeed 前高层黄乐（Alice Huang）的婚外情，以及涉及中国间谍与 AI 晶片走私的疑云，陷入政治风暴，最终于11月12日辞去执行长职务。",
+          "截至目前，虽然还无法确认遭新加坡警方警告的黄乐是否有中国间谍身份、或中国解放军在本案中扮演的角色，但较无争议的事实是：Megaspeed 经由辉达的伺服器合作伙伴 Aivres（中国浪潮旗下的美国子公司，浪潮集团已被列入美国实体清单）购入大量辉达晶片，这些晶片并未经过新加坡，而是直接出口到马来西亚的子公司 Speedmatrix，并透过马来西亚与印尼的资料中心（data center，或称数据中心），把算力出租给中国企业如阿里巴巴。另一方面，虽然目前没有直接证据，但有许多间接迹象暗示辉达晶片可能进一步流入中国：据 报导 ，美方官员曾在马来西亚资料中心发现未拆封设备、且进口与实际部署数量不符；",
+          "据彭博 估算 ，辉达卖给 Megaspeed 的晶片在申报上短少约5万颗。另外，公开资料也显示许多中国大学、甚至受美方管制的军民两用实体，都有取得受管制辉达晶片的管道，虽未必与本案直接相关，却显示晶片走私并非个案。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261118-international-nvidia-ai-chip-export-control-loopholes/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/GettyImages-2278855977-1.jpg"
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 17,
+        "maxGroupShare": 22,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "BBC×2",
+          "界面×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
+        "lead": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free access The decision by St Kitts and Nevis to end a",
+        "body": [
+          "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free access The decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exchange for investment threatens its economy and ability to support people in need, the premier of the island of Nevis has warned.",
+          "On Friday, Terrance Drew, the prime minister of the twin-island Caribbean nation, announced he would wind down the citizenship-by-investment (CBI) programme, after the European Union threatened to end visa-free access for St Kitts and Nevis.",
+          "Continue reading..."
+        ],
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/03f57a225008dd1bc1f3dc849a2f4e634086c7a4/342_0_2918_2334/master/2918.jpg?width=140&quality=85&auto=format&fit=max&s=dc6fc0dfac1be7b487bda0d86f9b5664",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+        "lead": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Sleeve checks and no smartglasses: South Korea races to protect all-important university exams against AI",
+              "lead": "South Korea has been gripped by revelations of AI-aided cheating, just days before more than half a million students are to sit high-stakes entrance exams The integrity of South Korea’s career-defining university",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/5706bb90f88894929de254f870b0a65c4da595c6/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=1ff210b80e3357f8f4811bb0cd6a1273",
+              "consensus": 5
+            },
+            {
+              "title": "Matan Kahana Elected Speaker of Israel’s Parliament",
+              "lead": "Matan Kahana, a lawmaker from Gadi Eisenkot’s party, will take control of the legislative process as the opposition looks to press Prime Minister Benjamin Netanyahu on multiple fronts.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17Israel-Knesset-vzcg/17Israel-Knesset-vzcg-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Japan’s Takaichi faces icy Apec summit as support for China policy slides",
+              "lead": "Japanese Prime Minister Sanae Takaichi arrives at the Apec summit in Shenzhen on Wednesday with public backing for her China policy at its lowest since she took office 13 months ago.",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/week-asia/people/article/3374747/japans-takaichi-faces-icy-apec-summit-support-china-policy-slides",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/793d4d05-aece-49c2-8fa2-d4e41004c59f_113d6d7d.jpg?itok=s0cgwL3e&v=1794908546",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+              "lead": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0369/live/387a8f10-e2ff-11f1-a094-5fdc692f3e33.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Nvidia insists Huang will not return as CEO as it reports strong sales",
+              "lead": "Chip giant raises next year’s financial forecasts as it doubled revenue last quarter",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F32966346-f6a6-4b73-88d7-cb4eb9423aa6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
+              "lead": "",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Deutsche Bank shares drop after reports exposing Epstein payments, Russia dealings",
+              "lead": "Deutsche Bank shares fell more than 6% Tuesday after media reports based on leaked documents detailed the bank's dealings with clients including Russian oligarchs",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/video/20261117-deutsche-bank-shares-drop-after-reports-exposing-epstein-payments-russia-dealings",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://s.france24.com/media/display/a05caed0-e29e-11f1-b9a5-ff16da94d1fe/w:1024/p:16x9/EN-20261117-160145-160405-CS.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Jensen Huang scandal fuels bipartisan push to block AI chip sales to China",
+              "lead": "Congress members are pushing for a series of chip-related export control bills to be included in the annual National Defense Authorization Act.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+              "lead": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+              "lead": "Finnish satellite developer ICEYE announced Tuesday that it is seeking to buy Italian rocket-maker Avio for more than $2.2 billion in a transaction aimed at creating Europe's first true vertically integrated end-to-end",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/VV28_Decollage_plan_large_ZLV-1152x648.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Ruthless Zverev through to ATP Finals knockout stage",
+              "lead": "World number one Alexander Zverev produces a serving masterclass to defeat Ben Shelton and qualify for the ATP Finals knockout stage with a match to spare.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/tennis/articles/c6x2eveyyxp0o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa9e/live/2f3ee070-e2d4-11f1-99ed-7de3e5932968.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "International Ice Hockey Federation website hacked after Russia banned from event",
+              "lead": "The International Ice Hockey Federation's website was targeted in a cyber attack, seemingly in response to Canada's decision to ban Russia from the World Junior Hockey Championship.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cv98x3d7jwndo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f27/live/38d2f5c0-e132-11f1-a204-d95dd4dbb76b.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Liverpool lead Chelsea in Camara race - Wednesday's gossip",
+              "lead": "Liverpool leading Chelsea in race for Monaco's Lamine Camara, Barcelona rule out moves for Virgil van Dijk and Bruno Fernandes, and ex-Crystal Palace winger Wilfried Zaha could rejoin the club.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cvx2xwx604y0o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acd1/live/eaa3d110-e2d2-11f1-99ed-7de3e5932968.png"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Netflix Eyes Return to Cannes After 10 Years as Festival Lobbies for Joel Coen’s ‘Jack of Spades,’ Starring Josh O’Connor",
+              "lead": "The ice appears to be thawing between Netflix and Cannes. The streamer, which hasn’t debuted a film at the festival in almost a decade due to France’s strict rules around theatrical releases",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/global/netflix-return-to-cannes-joel-coen-jack-of-spades-1236948245/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2024/11/Josh-Oconnor.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Longtime Exec Howard Lee Departs as Skydance Confirms New Cable Structure and Division Name Under Channing Dungey",
+              "lead": "Skydance’s merged cable networks has a new division name: Skydance Global Cable Media. Warner Bros. TV Group and U.S. Networks head Channing Dungey also revealed the structure under the new entity",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/news/howard-lee-exits-skydance-global-cable-media-1236951079/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2020/05/tlc-president-howard-lee.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Wine, beer, or spirits? Massive study reveals a surprising health divide",
+              "lead": "A massive study of more than 340,000 adults found that moderate wine drinkers had a 21% lower risk of cardiovascular death, while even light consumption of beer, cider, or spirits was linked to increased risk.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261116015104.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Chinese scientists’ magic comb restores hair growth by nearly 100% in mice study",
+              "lead": "For the more than 1.5 billion people worldwide who suffer from androgenetic alopecia, combing their hair before the mirror each morning is a routine that is often accompanied by quiet anxiety.",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/china/science/article/3374723/chinese-scientists-magic-comb-restores-hair-growth-nearly-100-mice-study",
+              "category": "science",
+              "categoryLabel": "Science",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/eedbe2e7-fc7e-4a5a-9d5e-f0eb4e07e846_4dd0dc34.jpg?itok=94CXeiYA&v=1794905335"
+            },
+            {
+              "title": "Ozempic and Mounjaro may have a surprising effect on your brain",
+              "lead": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
+          "lead": "Knesset’s appointment of Matan Kahana marks step towards reversing",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents"
+        },
+        {
+          "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+          "lead": "The US president said he would be open to a one-on-one meeting with",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Young Filipinos Protest Trump and Marcos Before They Meet",
+          "lead": "Most demonstrators were students who said their government was more",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/17/world/asia/philippines-protest-trump-marcos.html"
+        },
+        {
+          "title": "How Jensen Huang’s family shaped Nvidia’s Megaspeed dealings",
+          "lead": "Daughter and son-in-law come under scrutiny as board launches probe",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/65ff066f-a81c-4d24-95da-73c2d7b83a27?syn-25a6b1a6=1"
+        },
+        {
+          "title": "‘Death is near’: Inside the hoax bomb threats that rattled Europe’s schools and airports",
+          "lead": "In the two weeks after emailed threats on Oct.",
+          "category": "society",
+          "categoryLabel": "Society",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/18/world/hoax-bomb-threats-europe/"
+        },
+        {
+          "title": "Hong Kong begins shift towards fully digitalised share market in 5-year transition plan",
+          "lead": "Hong Kong began its shift to a paperless share market on Tuesday",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/business/markets/article/3374744/hong-kong-begins-shift-towards-fully-digitalised-share-market-5-year-transition-plan"
+        },
+        {
+          "title": "Nvidia shoots down calls for Jensen Huang’s return amid strong earnings",
+          "lead": "Nvidia board chair says chip giant 'does not intend' to reinstate",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss"
+        },
+        {
+          "title": "Jim Cramer’s key takeaway from Nvidia’s first earnings since Huang’s resignation",
+          "lead": "Jim Cramer said Nvidia's blockbuster earnings strengthened his",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/17/cramers-key-takeaway-from-nvidias-first-earnings-since-huangs-resignation.html"
+        },
+        {
+          "title": "Serbia's student-backed MPs take seats in parliament after election win",
+          "lead": "Serbia's Student ⁠List lawmakers entered parliament ​on Tuesday",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/video/20261117-serbia-s-student-backed-mps-take-seats-in-parliament-after-election-win"
+        },
+        {
+          "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+          "lead": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang"
+        },
+        {
+          "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
+          "lead": "Apple's status page confirms its services are facing outages",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/"
+        },
+        {
+          "title": "Google makes it easier to use Gemini without training AI on your data",
+          "lead": "It can be hard to use Google products—or even the Internet itself",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/"
+        },
+        {
+          "title": "ESA’s Hera spacecraft is flying rectangles around NASA’s asteroid crash site",
+          "lead": "Europe’s Hera spacecraft has arrived at the scene of NASA’s historic",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261115085545.htm"
+        },
+        {
+          "title": "Jeff Bezos Was ‘Heavily Involved’ in Casting Robert Pattinson as James Bond and Admits Initial Fears ‘Because He’s Already So Famous’",
+          "lead": "Amazon founder and chairman Jeff Bezos revealed during a recent",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/news/jeff-bezos-involved-casting-robert-pattinson-james-bond-1236950970/"
+        },
+        {
+          "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+          "lead": "The Singapore-based company is suspected of helping to ship high-end",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Leak of 15mn Deutsche Bank files exposes systemic failures",
+          "lead": "Email, internal probes and other documents throw new light on the",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003?syn-25a6b1a6=1"
+        }
+      ],
+      "supplement": {
+        "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
+        "lead": "A surprising Finnish study found that children who spent more time using screens tended to have better cognitive processing abilities as teenagers, challenging the assumption that screen time is always harmful.",
+        "body": [
+          "A surprising Finnish study found that children who spent more time using screens tended to have better cognitive processing abilities as teenagers, challenging the assumption that screen time is always harmful.",
+          "Researchers suggest that what children do on screens may matter more than how much time they spend using them."
+        ],
+        "source": "ScienceDaily",
+        "group": "ScienceDaily",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm",
+        "category": "science",
+        "categoryLabel": "Science",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 14,
+        "categories": 8,
+        "topGroups": [
+          "BBC×5",
+          "ScienceDaily×4",
+          "SCMP×3",
+          "Variety×3",
+          "Guardian×2",
+          "CNBC×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-18T03:25:32.584Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 800,
+        "lang": 455,
+        "fresh": 361,
+        "denoised": 360,
+        "deduped": 352
+      },
+      "en": {
+        "fetched": 800,
+        "lang": 345,
+        "fresh": 325,
+        "denoised": 322,
+        "deduped": 313
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 37,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 17,
+        "maxGroupShare": 22,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "BBC×2",
+          "界面×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 14,
+        "categories": 8,
+        "topGroups": [
+          "BBC×5",
+          "ScienceDaily×4",
+          "SCMP×3",
+          "Variety×3",
+          "Guardian×2",
+          "CNBC×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

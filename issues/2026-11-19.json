@@ -1,0 +1,899 @@
+{
+  "issue": 66,
+  "date": "2026-11-19",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历十月十一 · 立冬",
+    "en": "11th day of the 10th lunar month · Start of Winter"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "床位总量下行，养老院还进得去吗",
+        "lead": "过去很长一段时间，养老床位在增加，养老机构在扩张，“到了晚年有没有一张养老院的床”似乎不是一个需要认真考虑的问题。但《2025年度国家老龄事业发展公报》(以下简称《公报》)给出的数字，让这个问题又浮出水面。",
+        "body": [
+          "过去很长一段时间，养老床位在增加，养老机构在扩张，“到了晚年有没有一张养老院的床”似乎不是一个需要认真考虑的问题。",
+          "但《2025年度国家老龄事业发展公报》(以下简称《公报》)给出的数字，让这个问题又浮出水面。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/sh/2026/11-19/10734527.shtml",
+        "category": "top",
+        "categoryLabel": "要闻"
+      },
+      "secondary": {
+        "title": "APE峰会期间，深圳变“空城”",
+        "lead": "为主办APEC峰会，深圳的学校本周已经停课，地方政府指示企业员工居家办公，许多居民离开了这座城市。峰会期间多条道路封闭，安保举措尤为严密。 Tingshu Wang/Reuters 中国深圳的一条高速公路，摄于周三。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/china/20261119/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文）",
+              "lead": "新华社深圳11月19日电",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734521.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "习近平与高市早苗简短会面，中日关系无解冻迹象",
+              "lead": "这是自一年前中日爆发激烈外交争端以来，两国领导人首次接触。两人简短握手，气氛紧张。专家表示，这次互动不太可能标志着中日关系出现任何实质性解冻。 Pool photo by Iori Sagisawa 周三，在中国深圳举行的亚太经济合作组织峰会欢迎宴会前，日本首相高市早苗（左）与中国领导人习近平握手。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261119/xi-jinping-china-sanae-takaichi-japan/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "美中俄峰会：为何选在深圳麒麟山庄？习仲勋、金正日都曾下榻",
+              "lead": "麒麟山庄离APEC主会场约30分钟车程，三面环山、一面临水，封闭性和安保条件都很好。它也与习近平的父亲习仲勋有渊源，还接待过已故朝鲜领导人金正日。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cqn0dy4ppxp7o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f1ea/live/ab525c80-e326-11f1-baab-4b3b35d174b7.jpg"
+            },
+            {
+              "title": "高雄选战「知识蓝」对决「新潮流」，国民党能复制「韩流」吗？",
+              "lead": "柯志恩以「知识蓝」的姿态拉拢中间选民，支持度大幅追贴深耕高雄20年的赖瑞隆，选情咬紧。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c6n4ex4y9837o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df33/live/318af0f0-e2a0-11f1-99a1-253766e7ad8b.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "11月19日央行开展7675亿元隔夜逆回购操作",
+              "lead": "中新网11月19日电 据中国人民银行网站消息，2026年11月19日中国人民银行以固定利率、数量招标方式开展了7675亿元隔夜逆回购操作，全额满足了一级交易商需求。具体情况如下：",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-19/10734495.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "Anthropic还未上市，20只杠杆ETF已经“抢跑”",
+              "lead": "Anthropic的IPO尚未落地，围绕它的杠杆ETF军备竞赛已经开打。 11月19日，据彭博报道， 包括Direxion、ProShares和GraniteShares在内的多家发行商，已就Anthropic上市后的杠杆敞口产品提交超过20份备案申请，涵盖做多与做空两个方向。 这一切发生在IPO定价之前。与此同时，报道援引知情人士称，Anthropic正在引导潜在投资者预期其发行价将高于指导区间，有望成为有史以来规模最大的IPO。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3786242",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 3
+            },
+            {
+              "title": "OpenAI“狙击”Anthropic？",
+              "lead": "使用成本竟然降了那么多，是OpenAI“转性”了，还是不可一世的Anthropic真的撞到了铁板？",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15349090.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 3
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "中国算力产业高速增长 赋能人工智能发展",
+              "lead": "中新社武汉11月18日电 (记者 梁婷)2026算力互联网大会18日在武汉开幕，中国工业和信息化部信息通信科技委常务副主任兼秘书长韩夏介绍，中国算力产业呈高速增长态势，截至今年9月底，国家算力互联网服务平台已面向全国分配算力标识1198万条，汇聚资源362EFLOPS(每秒进行百亿亿次浮点运算，下同)，赋能人工智能发展。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-18/10734384.shtml",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "科创半导体设备ETF鹏华(589020)标的指数红盘向上，英伟达扩大芯片供应链合作",
+              "lead": "消息面上，日前，英伟达宣布扩大与台积电、矽品精密、景硕科技、三星电机、安靠科技、富士康等供应链企业的合作。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15349455.html",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "联想Legion Go Beam掌机谍照曝光：取消标志性触控板 改用16:9屏幕",
+              "lead": "联想似乎正在为Legion Go掌机系列增加一款更加亲民的产品。近日，Windows Latest曝光了多张疑似联想新款掌上游戏设备的高清图片，显示这款产品可能命名为Legion Go Beam。与现有的Legion Go S相比，新机在操控配置、接口数量和屏幕设计上均有所简化，明显带有降低制造成本的意图。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/game/1587014.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "艾格纳：德国首位女总统？",
+              "lead": "作者：周睿睿",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-19/10734508.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "特朗普抵达深圳：展示友好关系，无视间谍丑闻",
+              "lead": "习近平亲自到机场迎接，两人在红毯上拥抱。特朗普已经表示，他无意提起涉及黄仁勋的这起重大间谍丑闻。此次行程重头戏将是他与习近平、普京的三方会晤。 Doug Mills/The New York Times 周三，特朗普总统与中国国家主席习近平在深圳。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261119/trump-xi-shenzhen-spy-scandal/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "中美俄「三巨头」坐在了一起，世界正滑向大国共管吗？",
+              "lead": "「他们能坐下来，就说明这个世界还没有到第一次或第二次世界大战那个状况。」香港科技大学荣休教授丁学良对BBC说。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cvglr9r243x6o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ace6/live/728fbf50-e353-11f1-acd4-25eaaa5def63.jpg"
+            },
+            {
+              "title": "中加达成贸易协议进一步削减关税，两国关系升温",
+              "lead": "协议以及中加两国领导人展现出的友好关系与目前的加美关系形成鲜明对比。加拿大总理卡尼上任以来一直致力于使加拿大的经济和政治关系多元化，减少对美国的依赖。 Adrian Wyld/The Canadian Press, via Associated Press 加拿大总理马克·卡尼与中国领导人习近平周二在深圳会晤。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261118/carney-china-xi-trade-apec/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "Anthropic 上市：四问 AI 泡沫",
+              "lead": "从6月秘密递表算起，Anthropic 的招股书一拖再拖，其间又赶上6月芯片股暴跌、民主党大胜和黄仁勋事件后 AI 股抛售，上市之路远不如投资人预想的顺利。11月10日，Anthropic 揭晓了发行价区间，对应估值约1.26万亿至1.4万亿美元，比此前传出的2万亿美元低了一截。按区间上限计算，它最多募资约644亿美元，追不上 SpaceX 今年6月创下的750亿美元纪录，很可能与「史上最大 IPO」无缘。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261119-international-anthropic-ipo-ai-bubble/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/GettyImages-2302959415-copy.jpg",
+              "consensus": 3
+            },
+            {
+              "title": "“考古中国”成果上新 揭开哪些历史谜题？",
+              "lead": "国家文物局昨天(18日)发布了长江文明溯源最新考古成果，分别是四川遂宁桃花河遗址、浙江杭州良渚反山遗址、江西九江荞麦岭遗址群岭头上遗址、湖北云梦老虎墩墓地。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-19/10734460.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "年轻人看体育赛事是在看什么 超半数受访青年从竞体赛事中学会了接纳输赢",
+              "lead": "强势横扫、黑马逆袭、百炼成钢……如今，竞技体育赛事吸引了越来越多年轻人的目光。近日，中国青年报社社会调查中心联合问卷网(wenjuan.com)对1048名观看过竞技体育赛事的青年开展的调查显示，竞技对抗带来的悬念与刺激感是受访青年观看赛事的首要原因。篮球、足球、乒乓球是受访青年最青睐的三项竞技项目。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-19/10734473.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "首届黑龙江省高校足球超级联赛落幕 “实体+电竞”融合赛事赋能冰雪文旅",
+              "lead": "中新网哈尔滨11月18日电 (韩雪)11月18日，首届黑龙江省高校足球超级联赛第一阶段H8联赛闭幕式暨颁奖仪式在哈尔滨举办。赛事创新采用“实体足球+足球电竞”虚实融合模式，同步启动后续跨区域赛事，助力黑龙江冰雪文体与青年文旅融合发展。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-18/10734400.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "习近平罕见前往机场迎接特朗普",
+          "lead": "这是习近平担任中国领导人十多年来首次亲自在机场迎接外国政要，此举可能是为了回报此前他访美时特朗普的热情款待。特朗普走下舷梯后，两人握手并拥抱。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/china/20261119/xi-trump-china-arrival/?utm_source=RSS"
+        },
+        {
+          "title": "史上最大IPO周四上市！Anthropic定价83美元，募资超1070亿美元、估值1.5万亿",
+          "lead": "人工智能公司Anthropic完成史上规模最大IPO，以高于发行区间的价格定价，募资总额远超此前所有纪录",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3786222"
+        },
+        {
+          "title": "APEC深圳峰会：习近平亲赴机场迎接特朗普，46年来首次中国元首接机",
+          "lead": "这是中国自1980年以来，首次有最高领导人亲赴机场迎接外国元首。1980年前，华国锋、毛泽东都有多次赴机场迎接外国领袖的历史。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "马斯克突然宣称“我不是MAGA” 并表示美国选举不是金钱游戏",
+          "lead": "埃隆·马斯克似乎正在重新定义自己与美国共和党政治运动MAGA（Make America Great Again，让美国再次伟大）之间的关系。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1587026.htm"
+        },
+        {
+          "title": "今年3000亿中央金融机构注资特别国债全部落地，30年国债ETF博时(511130)近23日合计“吸金”超22亿元",
+          "lead": "截至2026年11月19日10:19，成交额超11亿元，30年国债ETF博时(511130)冲击3连涨。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15349481.html"
+        },
+        {
+          "title": "联想 Legion Go Beam 掌机曝光：无触控板，握把应不可拆卸",
+          "lead": "IT之家 11 月 19 日消息，外媒 Windows Latest 当地时间 18 日曝光了联想 (Legion) 正在开发的",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/029/170.htm"
+        },
+        {
+          "title": "美联储10月会议纪要：几乎所有官员认为仍需进一步加息 AI投资风险受关注",
+          "lead": "当地时间11月18日，美联储公布10月货币政策会议纪要。 纪要显示，几乎所有与会者认为，在基准经济预测下，未来进一步加息可能是适当的",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1344,202611193934604295.html"
+        },
+        {
+          "title": "剑桥词典的 2026 年度单词是“人”",
+          "lead": "随着 AI 不断模糊人与机器之间的界限，全世界开始重新争论何谓“人”。剑桥词典的 2026 年度单词就是“人（human）”。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85927"
+        },
+        {
+          "title": "Manus 成为开源游戏引擎 Godot 白金赞助商",
+          "lead": "Godot 基金会宣布 Manus 成为其白金赞助商。根据其官网的公开信息，白金级赞助商的门槛是每年至少 5 万欧元。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/503657/manus-sponsorship-partners-godot-engine"
+        },
+        {
+          "title": "GTA 6发售：迈阿密如何出租自己的虚拟分身",
+          "lead": "11月19日零时，《GTA VI》正式解锁，玩家时隔多年重返「罪恶都市」。这座虚构城市以迈阿密为原型。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261118-international-miami-vice-city-gta-6/"
+        },
+        {
+          "title": "早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万",
+          "lead": "《GTA 6》今日登陆 PS5 与 Xbox，媒体评分达 99 分 Google 发布 Gemini 4 Neon",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1690255?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "满分的表演 (评论: 可能的爱)",
+          "lead": "次回的厄运 评论: 可能的爱 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17909517/"
+        },
+        {
+          "title": "间谍指控、安全担忧：中美围绕人工智能的紧张局势加剧",
+          "lead": "人工智能的进步已成为中美经济和军事竞争的焦点，但两国对人工智能带来的最大风险有不同看法。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/usa/20261118/trump-china-ai-tensions/?utm_source=RSS"
+        },
+        {
+          "title": "德鲁肯米勒访谈全文：做空铜，“离开”股市，“不敢做多也不敢做空”，现在目标是保本",
+          "lead": "传奇投资人德鲁肯米勒（Stan Druckenmiller）公开表示，他目前几乎清空了权益仓位，进入“资本保全模式”—",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3786247"
+        },
+        {
+          "title": "黄仁勋婚外情掀「中国间谍」迷因：幽默与偏见之间，亚裔女性如何自处？",
+          "lead": "黄仁勋丑闻曝光后，网上涌现大量「中国间谍」、「美人计」笑话。这些看似无伤大雅的时事迷因，却让部分亚裔女性感到困扰。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cvze7n4gp5rro/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "工信部：启动新一批“5G+工业互联网”融合应用试点，加强6G与工业融合的前瞻研究",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15349499.html"
+        }
+      ],
+      "supplement": {
+        "title": "世界缝隙里的华人外卖员，接单、罚款、受伤，直到死亡",
+        "lead": "手机上弹出新的订单提醒，目的地是市中心 Frederick Way 上的一家鸡公煲。老黄只接一两公里内的近单，这一片的中餐馆他闭着眼都找得到。他骑着电动车拐过街角，远远看见店门口围了里三层外三层的人，大多是住在附近学生公寓的留学生，有人举着手机在拍。 老黄没当回事，有人说出事了，他心里想，「墨尔本不天天都这样吗？这有什么好惊奇的？」只觉得这群留学生没见过世面。他 2018 年来澳洲，在农场干过活，在街头卖过艺，后来一直在送外卖。",
+        "body": [
+          "手机上弹出新的订单提醒，目的地是市中心 Frederick Way 上的一家鸡公煲。老黄只接一两公里内的近单，这一片的中餐馆他闭着眼都找得到。他骑着电动车拐过街角，远远看见店门口围了里三层外三层的人，大多是住在附近学生公寓的留学生，有人举着手机在拍。",
+          "老黄没当回事，有人说出事了，他心里想，「墨尔本不天天都这样吗？这有什么好惊奇的？」只觉得这群留学生没见过世面。他 2018 年来澳洲，在农场干过活，在街头卖过艺，后来一直在送外卖。",
+          "不过为了取餐，他不得不挤进人群。警察已拉起封锁线，鸡公煲的门关着。老黄看见店里的地上躺着一个人，露出一节小腿。他问了旁边的人发生了什么，这才知道躺着的是老冯。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261119-international-the-death-of-melbourne-hungrypanda-rider/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/GettyImages-2290574052.jpg"
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 22,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "BBC×3",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "界面×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – live",
+        "lead": "Asked by Fox News about China’s alleged spying operation, president says: ‘We spy on them too. I think we spy better than they do’ Sign up for US breaking News",
+        "body": [
+          "Asked by Fox News about China’s alleged spying operation, president says: ‘We spy on them too.",
+          "I think we spy better than they do’ Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about the wave of tech outages affecting several industries.",
+          "CNN reported that officials said the administration underscored that what has happened is not as a result of cyber-attacks but due to the “hardening and upgrading of our systems ”, including “systems being patched, hardware being applied” . Per CNN, an official added: “It’s good the American people are focused on the need to upgrade our legacy systems.” Continue reading..."
+        ],
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/f837a0e71abfc6b175a106e74b7d986199348ce2/712_0_3621_2898/master/3621.jpg?width=140&quality=85&auto=format&fit=max&s=52b073360cb78c8261904cd31199a12d",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Florida Man Found Guilty in Plot to Kill Haiti’s President",
+        "lead": "Christian Emmanuel Sanon, 67, who was convicted in a Miami court, could now face life in prison over the killing of Jovenel Moïse.",
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/11/18/world/americas/haiti-pastor-assassination-moise.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/11/17/multimedia/18int-haiti-pastor/18int-haiti-pastor-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit",
+              "lead": "The bilateral meeting between the neighbors follows trade gains for Canada’s prime minister this week with China and the Philippines.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-canada-carney-wrap-mjhp/18int-canada-carney-wrap-mjhp-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+              "lead": "Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse A Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges arising",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/1b3676280555bff070a1c0a0c2173ff8053370ab/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=59537ad1f77036983101f1e1e97d1281",
+              "consensus": 5
+            },
+            {
+              "title": "Nvidia turmoil spurs valuation rethink of Japan’s AI shares",
+              "lead": "Chip-related firms Kioxia Holdings and Advantest have tumbled more than 9% each since Jensen Huang's resignation from Nvidia.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/business/2026/11/19/markets/japan-ai-shares-investors-rethink/",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/574892.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Trump, Xi and Putin to hold high-stakes trilateral summit",
+              "lead": "Historic event in southern Chinese city of Shenzhen is culmination of a week of high-stakes diplomacy",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3ca0f7b5-cbd6-496f-ab21-05242b5fbb2d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Who are the investors ready to jump on Anthropic?",
+              "lead": "The BBC's Samira Hussain speaks to a retail investor eagerly waiting for the AI company's stock to go live on Thursday.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d1a/live/8e8f8740-e3b6-11f1-a094-5fdc692f3e33.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+              "lead": "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
+              "lead": "The deal, initially concluded in 2025, will see both sides remove import duties on more than 90 percent of products.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
+              "category": "business",
+              "categoryLabel": "Business"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+              "lead": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "The nation’s largest school districts consider ditching Google Search",
+              "lead": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times .",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+              "lead": "A Ukrainian barrage of missiles and drones collapsed a crucial segment of Russian President Vladimir Putin’s prized Kerch Strait Bridge",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Kerch-Strait-Bridge-smoke-generators-1152x648.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Littler shocked by brilliant Wattimena at Grand Slam",
+              "lead": "Defending champion Luke Littler suffers a shock early exit at the Grand Slam of Darts after a stunning display from Jermaine Wattimena.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/darts/articles/crlyenxw18d7o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5960/live/a91fb6e0-e39b-11f1-9290-8f31de41e6ea.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Prem opens registration for expansion to 12 teams",
+              "lead": "Prem Rugby opens a registration process for teams to apply with the aim of expanding the league to 12 clubs for the 2029-30 season.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cje39nwzryw3o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22d1/live/e971c500-e367-11f1-9f51-4bfc31543510.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Divide and conquer - now maverick Erasmus plans online watchalong",
+              "lead": "Rassie Erasmus is a serial offender when it comes to criticising officials, but he retains huge support in South Africa - and has unique plans for following his team's game against Ireland.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmvg28v20xy0o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2423/live/8de02db0-e364-11f1-9f51-4bfc31543510.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Bottas' stay at Cadillac confirmed for 2027",
+              "lead": "Valtteri Bottas is retained by Cadillac for the 2027 Formula 1 season.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/formula1/articles/cqkgr0elvl5zo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caa0/live/585f6320-e393-11f1-b4f3-9f0685d52a1f.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Chris Pratt to Star in Sci-Fi Family Drama ‘The Traveler,’ Inks First-Look Producing Deal at Paramount (EXCLUSIVE)",
+              "lead": "Chris Pratt is setting up his next sci-fi adventure: starring in Paramount Pictures’ big-screen adaptation of “The Traveler,” based on the novel by Joseph Eckert.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/chris-pratt-the-traveler-paramount-deal-1236952517/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/chris-pratt-the-traveler.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Nagoya animation festival celebrates human-made art",
+              "lead": "Though smaller than the inaugural event, the second Aichi Nagoya International Film Festival was a vibrant gathering of international artists.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/culture/2026/11/19/film/aniaff-nagoya-animation-festival/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/19/574797.jpg"
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "NASA pushes Mars helicopter blades beyond the speed of sound",
+              "lead": "NASA has successfully tested Mars helicopter rotor blades at supersonic speeds, boosting potential lift by 30% and overcoming a major obstacle to more powerful aircraft on the Red Planet.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261117033920.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Autistic brains look surprisingly similar on average. Then scientists looked closer.",
+              "lead": "Scientists discovered that although people with and without autism show surprisingly similar average brain activity, individuals with autism exhibit much greater differences from one another",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261116023344.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
+          "lead": "Anthropic started just five years ago an is now one of the biggest",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Anthropic sets share price at $83 for stock market debut, above expected range",
+          "lead": "Artificial intelligence firm positioned for one of the biggest IPOs",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo"
+        },
+        {
+          "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
+          "lead": "China’s leader, Xi Jinping, earlier hugged President Trump on the",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec"
+        },
+        {
+          "title": "Anthropic raises $81bn in record IPO",
+          "lead": "AI giant’s enlarged deal will surpass SpaceX to become world’s",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1"
+        },
+        {
+          "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal",
+          "lead": "Korean media, gaming and travel stocks surged on hopes of greater",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/19/china-south-korea-trade-deal-films-gaming.html"
+        },
+        {
+          "title": "Osaka governments broadly OK draft design of metropolis plan",
+          "lead": "The plan mainly calls for reorganizing the prefectural capital into",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/19/japan/osaka-metropolis-plan-draft-design/"
+        },
+        {
+          "title": "‘Bride catalogues’ and fake weddings: inside Indonesia’s China marriage trade",
+          "lead": "The practice of trafficking Indonesian women to China for marriage",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/week-asia/people/article/3374952/bride-catalogues-and-fake-weddings-inside-indonesias-china-marriage-trade"
+        },
+        {
+          "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+          "lead": "The Anduril co-founder says outdated technology is leaving systems",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/"
+        },
+        {
+          "title": "Pew Research: Islam on track to become world’s largest religion by 2035",
+          "lead": "The report projects steady increases for both Christianity and Islam",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss"
+        },
+        {
+          "title": "Michelle Monaghan and Justin Theroux to Star in ‘Sleepover’ From Blumhouse Atomic and Universal",
+          "lead": "Michelle Monaghan and Justin Theroux are set to star in “Sleepover”",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/news/michelle-monaghan-justin-theroux-sleepover-blumhouse-atomic-1236952362/"
+        },
+        {
+          "title": "Tiny magnets deep inside the brain could transform Parkinson’s treatment",
+          "lead": "Scientists have developed a new technique that uses magnetic",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261116023354.htm"
+        },
+        {
+          "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+          "lead": "Opening the keynote at its Ignite event, Microsoft CEO Satya Nadella",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
+        },
+        {
+          "title": "Trump’s latest land grab is an AI hub in the Philippines",
+          "lead": "President Donald Trump is welcomed upon his arrival at Villamor Air",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica"
+        },
+        {
+          "title": "Crimean Bridge attacked again, Russian official says",
+          "lead": "The head of Crimea said traffic was suspended after another attack on",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Nvidia accelerates pay rises as interim CEO seeks to lift staff morale",
+          "lead": "Colette Kress addresses ‘all-hands’ meeting as departed founder",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/9ee78a67-fcab-4e43-bee7-09c9244e76b8?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
+          "lead": "India’s inflation, which has been on the rise for 12 straight months",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html"
+        }
+      ],
+      "supplement": {
+        "title": "Pierce Brosnan Welcomes Robert Pattinson Into the James Bond Family: ‘You Are Going to Be Magnificent’",
+        "lead": "Pierce Brosnan, a former James Bond himself, has taken to social media to enthusiastically endorse the newly anointed Robert Pattinson, who was announced as the new 007 on Monday.",
+        "body": [
+          "Pierce Brosnan, a former James Bond himself, has taken to social media to enthusiastically endorse the newly anointed Robert Pattinson, who was announced as the new 007 on Monday.",
+          "“Dear Robert, Welcome to the world of Bond,” Brosnan, who played the character in four films from 1995 to 2002, wrote on Instagram Wednesday.",
+          "“You are […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/news/robert-pattinson-pierce-brosnan-james-bond-1236952519/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/11/MobLand-Season-Two-World-Premiere-Arrivals-2026-Vanity-Fair-Oscar-Party-Hosted-By-Mark-Guiducci-Arrivals-1000.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Japan Times×3",
+          "Variety×3",
+          "ScienceDaily×3",
+          "Guardian×2",
+          "紐約時報×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-19T02:59:17.493Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 800,
+        "lang": 455,
+        "fresh": 373,
+        "denoised": 373,
+        "deduped": 361
+      },
+      "en": {
+        "fetched": 800,
+        "lang": 345,
+        "fresh": 332,
+        "denoised": 329,
+        "deduped": 319
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 22,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "BBC×3",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "界面×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Japan Times×3",
+          "Variety×3",
+          "ScienceDaily×3",
+          "Guardian×2",
+          "紐約時報×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

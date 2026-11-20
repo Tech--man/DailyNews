@@ -1,0 +1,935 @@
+{
+  "issue": 67,
+  "date": "2026-11-20",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历十月十二 · 立冬",
+    "en": "12th day of the 10th lunar month · Start of Winter"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "Anthropic上市 创史上最大IPO融资纪录",
+        "lead": "中新社纽约11月19日电 (记者 王帆)美国人工智能公司Anthropic当地时间19日在纽约纳斯达克证券交易所上市，其首次公开募股(IPO)融资总额超过813亿美元，创下美股史上最大IPO融资规模纪录。",
+        "body": [
+          "中新社纽约11月19日电 (记者 王帆)美国人工智能公司Anthropic当地时间19日在纽约纳斯达克证券交易所上市，其首次公开募股(IPO)融资总额超过813亿美元，创下美股史上最大IPO融资规模纪录。"
+        ],
+        "source": "中新網國際",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gj/2026/11-20/10734997.shtml",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Anthropic创纪录IPO，中国投资者再被排除在外",
+        "lead": "这是史上最大的首次公开募股。此前，SpaceX和OpenAI进行IPO时也将中国投资者拒之门外。随着中美在人工智能领域争夺霸权，双方都在为其本土技术划定红线。 Tingshu Wang/Reuters 随着华盛顿和北京在人工智能领域争夺霸权，双方都在为其本土技术划定红线。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/business/20261120/anthropic-ipo-china-hong-kong/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "Anthropic上市：七位即将成为亿万富翁的创办人",
+              "lead": "开发AI聊天机器人Claude的Anthropic在美国上市，这将使其创办人身价暴增。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cw4gn9359q37o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "APEC峰会期间，深圳变“空城”",
+              "lead": "为主办APEC峰会，深圳的学校本周已经停课，地方政府指示企业员工居家办公，许多居民离开了这座城市。峰会期间多条道路封闭，安保举措尤为严密。 Tingshu Wang/Reuters 中国深圳的一条高速公路，摄于周三。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/china/20261119/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "11月20日投资日历 | 英国-欧盟峰会将于今日在布鲁塞尔举行",
+              "lead": "（1）北京时间11月20日9时，中国人民 银行 公布11月一年期、五年期贷款市场报价利率（LPR）。 （2）第二次欧盟-英国峰会于11月20日在布鲁塞尔举行，英国首相与欧盟委员会主席、欧洲理事会主席会面。 （3）2026虹桥国际科技周于11月20日至22日在上海国家会展中心举办。 （4）博鳌乐城第二届全球 创新药 械博览会暨第二届海南博鳌乐城国际 创新药 械技术大会于11月20日至21日在海南博鳌乐城国际医疗旅游先行区举办。",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://finance.eastmoney.com/news/11848,202611203935660423.html",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "习近平与高市早苗简短会面，中日关系无解冻迹象",
+              "lead": "这是自一年前中日爆发激烈外交争端以来，两国领导人首次接触。两人简短握手，气氛紧张。专家表示，这次互动不太可能标志着中日关系出现任何实质性解冻。 Pool photo by Iori Sagisawa 周三，在中国深圳举行的亚太经济合作组织峰会欢迎宴会前，日本首相高市早苗（左）与中国领导人习近平握手。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261119/xi-jinping-china-sanae-takaichi-japan/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "11月LPR报价出炉：1年期为3.0%，5年期以上为3.5%",
+              "lead": "中新网11月20日电 11月20日，据中国人民银行网站消息，中国人民银行授权全国银行间同业拆借中心公布，2026年11月20日贷款市场报价利率(LPR)为：1年期LPR为3.0%，5年期以上LPR为3.5%。以上LPR在下一次发布LPR之前有效。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-20/10735037.shtml",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 3
+            },
+            {
+              "title": "史上最大IPO开盘狂热不足一小时，Anthropic首秀涨34%后回吐半数涨幅，市值一度突破2万亿",
+              "lead": "AI独角兽Anthropic刷新了SpaceX五个月前才创下的上市募资纪录，登陆美股开盘大涨幅度超过暗盘预计最高水平、将公司市值推升至2万亿美元以上，但狂热很快“退烧”。股价开盘后半小时内较开盘价回落13%、创2008年以来大型美股IPO的最差半小时开局。 美东时间11月19日周四，Anthropic以ANT为股票代码正式在纳斯达克挂牌交易，开盘报111.50美元，较IPO发行价涨约34.3%，盘中最高触及115.10美元",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3786269",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 5
+            },
+            {
+              "title": "史上最大 IPO，Anthropic 上市首日市值达 1.271 万亿美元",
+              "lead": "Anthropic 于 2026 年 11 月 19 日在纳斯达克挂牌上市，股票代码“ANT”。上市首日，其开盘价 111.50 美元，比 83 美元的发行价高出 34%。按开盘价算，估值冲到 2 万亿美元附近——超过了 SpaceX 今年 6 月的上市纪录。 然后一路回落。收盘 97 美元，涨幅缩到 17%，对应市值约 1.3 万亿。同一天，纳斯达克大盘收跌。 这个...",
+              "source": "開源中國",
+              "group": "開源中國",
+              "link": "https://www.oschina.net/news/503693/anthropics-historic-debut-put",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄",
+              "lead": "曝苹果开发 AI 智能体，可写代码、上网、控制应用 Anthropic 上市首日收涨 17%，收盘价 97.17 美元 曝 OpenAI 进军手机领域，富智康获整机组装订单 旅行者 1 号距地球达一光日，信号单程需 24 小时 网易 UU 远程将上线付费会员，基础远控继续免费 樊路远辞任阿里大麦娱乐 CEO，徐宏接任董事会主席 腾讯大幅削减元宝投入，微信小微日活达 3000 万 微软 To Do 将于明年 6 月停用",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1690473?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 5
+            },
+            {
+              "title": "Anthropic创全球最大IPO纪录 全球半导体股集体上涨",
+              "lead": "11月19日，全球半导体股普遍上涨，Anthropic以超出预期的发行价格完成全球规模最大的IPO，提振了市场对人工智能行业及AI基础设施投资前景的信心。截至发稿，美股盘前，美光科技及SK海力士ADR均涨超5%，英特尔、应用材料、泛林集团及迈威尔科技涨幅介于4%至5%之间，AMD上涨3.4%，博通上涨3.2%，德州仪器上涨2.5%，恩智浦上涨2.2%。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1587122.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 5
+            },
+            {
+              "title": "美光：2027 年存储芯片已有 75% 库存售罄，供需形势会比今年更加紧张",
+              "lead": "IT之家 11 月 20 日消息，据科创板日报今日报道，美光科技总裁兼首席技术与产品官 Scott DeBoer 在接受采访时表示，存储芯片的供需在很长一段时间内都无法达到平衡。 他指出，在可预见的未来，供需找不到明确的平衡点， 预计 2027 年供需形势会比 2026 年更加紧张 。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/029/786.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "外媒眼中的“现代化奇迹”，APEC深圳会议展现中国开放创新窗口",
+              "lead": "中新网11月20日电 11月18日至19日，亚太经合组织(APEC)第三十三次领导人非正式会议在深圳举行。随着亚太各经济体领导人和工商界代表齐聚这座中国改革开放的前沿城市，深圳成为国际媒体关注的焦点。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-20/10735057.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "三国元首会晤背后，习近平和普京挑战美国的共同愿景",
+              "lead": "两人都希望挑战美国作为唯一超级大国的地位，重塑世界秩序。没有迹象表明此次峰会将改变他们的反美立场，特朗普也无法与他们建立起他希望的那种友好关系。 Doug Mills/The New York Times 周四，俄罗斯总统普京、中国领导人习近平与特朗普总统在深圳举行了三国领导人的首次正式三边会晤。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261120/xi-putin-trump-meeting-china-russia/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "从仓颉换成汉语拼音：电脑输入法会影响下一代学习中文吗？",
+              "lead": "香港教育局提出小学二年级学生应该初步掌握以「汉语拼音输入法」在电脑上输入中文。打字方式的改变，会如何影响下一代学习语言？",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cxq6e216p7ylo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4a63/live/dcf82fb0-e25b-11f1-8bed-2b9fd907b22d.jpg"
+            },
+            {
+              "title": "如何解读特朗普与习近平的拥抱",
+              "lead": "习近平亲自前往机场迎接特朗普，并与其握手、拥抱，这似乎反映出尽管中美分歧不断扩大，习近平仍希望双方关系稳定。而中方对普京和高市早苗的接待则与此大不相同。 Doug Mills/The New York Times 特朗普周三抵达深圳，他与习近平的拥抱引人注目，分析世界领导人互动的观察人士从中发现了丰富的素材。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261119/xi-trump-hug-shenzhen/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "APEC的特色服饰：从克林顿皮衣到深圳「鲲鹏展翅」丝巾",
+              "lead": "在每一年的亚太经合组织峰会上，人们除了关心哪个国的领导人出席、他们之间的互动和谈话，还有他们大合照时穿了什么。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cmly7er4rze9o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fefc/live/96bdd5d0-e3e7-11f1-99a1-253766e7ad8b.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "Anthropic 上市：四问 AI 泡沫",
+              "lead": "从6月秘密递表算起，Anthropic 的招股书一拖再拖，其间又赶上6月芯片股暴跌、民主党大胜和黄仁勋事件后 AI 股抛售，上市之路远不如投资人预想的顺利。11月10日，Anthropic 揭晓了发行价区间，对应估值约1.26万亿至1.4万亿美元，比此前传出的2万亿美元低了一截。按区间上限计算，它最多募资约644亿美元，追不上 SpaceX 今年6月创下的750亿美元纪录，很可能与「史上最大 IPO」无缘。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261119-international-anthropic-ipo-ai-bubble/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/GettyImages-2302959415-copy.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "抄袭、洗稿事件频发 文学刊物如何守住“原创防线”",
+              "lead": "本报记者 路艳霞",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-20/10735008.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "“冰超”·2026-2027赛季全国冰壶联赛（伊春站）启幕",
+              "lead": "中新网伊春11月19日电(刘璐 崔蕊)19日，“冰超”·2026-2027赛季全国冰壶联赛(伊春站)正式启幕，来自全国17个省(区、市)60支队伍、300余名运动员、教练员相聚“中国林都”，共赴这场冰上之约。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-19/10734925.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "第七届全国乒乓球“业余球王”总决赛开赛 657名选手角逐“球王”荣誉",
+              "lead": "中新网重庆11月19日电(记者 肖江川)19日，第七届“李宁·红双喜杯”全国乒乓球“业余球王”总决赛暨2026年全国业余乒乓球锦标赛在重庆拉开帷幕。来自北京、天津、辽宁、江苏、浙江、江西、香港等地的70支队伍、657名运动员齐聚山城，一决高下。中国乒乓球协会主席王励勤宣布赛事开幕。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-19/10734834.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "中央气象台：未来两天，全国大部降水稀少",
+              "lead": "中新网11月20日电 据中央气象台网站消息，昨日，全国大部降水稀少，山东半岛出现雨雪天气。预计20日，山东半岛仍有较强降雪，关注对交通、城市运行、人体健康等的影响；22日起，西南地区东部、江南、华南等地有降雨，东北地区有降雪，关注对交通运输等的影响。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735007.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            },
+            {
+              "title": "研究发现：大脑的“青春期”能持续到32岁左右",
+              "lead": "研究发现：大脑的“青春期”能持续到32岁左右！30岁，慌啥子嘛……",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-20/10735006.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Anthropic“超级IPO”：过半机构投资者“一股未得”，散户“凶猛买卖”",
+          "lead": "Anthropic史上最大规模IPO在机构与散户之间制造了截然不同的两个世界：超过半数机构投资者颗粒无收",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3786325"
+        },
+        {
+          "title": "刚刚，Anthropic 敲钟上市！史上最大IPO却让硅谷吵翻了",
+          "lead": "刚刚，Anthropic 正式登陆纳斯达克，以「ANT」为股票代码挂牌交易，创下全球史上最大规模 IPO 纪录。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1690375?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "Anthropic登陆纳斯达克 现场出现抗议者",
+          "lead": "纽约当地时间周四（11月19日）上午，美国人工智能公司Anthropic在纽约纳斯达克交易所举行首次公开募股（IPO）敲钟仪式",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1587132.htm"
+        },
+        {
+          "title": "万亿估值Anthropic登陆纳斯达克 资本市场追问回报",
+          "lead": "受资本市场及科技产业瞩目的AI巨头 Anthropic 正式登陆 纳斯达克 。 19日美股开盘",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://stock.eastmoney.com/news/11219,202611203935784869.html"
+        },
+        {
+          "title": "中美俄元首历史性会晤 普京获得外交胜利吗？",
+          "lead": "中国国家主席习近平、美国总统特朗普及俄罗斯总统普京在APEC深圳峰会期间举行首次三方会谈，聚焦乌克兰危机与核军控。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/ck9q84jgpxpjo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "中美俄元首会晤不会成为另一个雅尔塔会议",
+          "lead": "雅尔塔会议长达八天，参与者们为持续近半个世纪的战后秩序奠定了基础。特朗普、习近平和普京的简短会晤可能只是一次被美化的合影活动",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/world/20261119/trump-xi-putin-summit-yalta/?utm_source=RSS"
+        },
+        {
+          "title": "DeepSeek千亿融资落停：完美横店华策是怎么挤进去的？",
+          "lead": "DeepSeek的多模态野心。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15352084.html"
+        },
+        {
+          "title": "摩托罗拉 Razr Flex 宽折叠手机渲染图曝光：绿 / 米色，内 6.9 英寸 / 外 5 英寸屏幕",
+          "lead": "IT之家 11 月 20 日消息，科技媒体 SammyGuru 昨日（11 月 19 日）发布博文，分享了一组渲染图",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/029/799.htm"
+        },
+        {
+          "title": "Anthropic IPO 发行价定了：每股 83 美元",
+          "lead": "Anthropic 把 IPO 发行价定在了每股 83 美元。发行规模 9.8 亿股 A 类普通股",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/503684/anthropic-prices-initial-public-offering"
+        },
+        {
+          "title": "城镇夜空飞过的人造卫星数量超过肉眼可见星星数量",
+          "lead": "在夜晚的任何时刻，中纬度地区城镇上空掠过的人造卫星数量超过 700 颗，很多情况下超过了肉眼可见的星星数量。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85935"
+        },
+        {
+          "title": "「全妆」深圳：APEC灯光秀下的城市与人",
+          "lead": "「今天美甲师不能全部上班呢，亲亲，因为APEC，福田这边管控比较严格。」 收到这条微信时，距离亚太经合组织（APEC）领导人会议开幕还有两天。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261120-mainland-apec-shenzhen-b-side/"
+        },
+        {
+          "title": "咸鱼也能舞狮——评《雄狮少年》 (评论: 雄狮少年)",
+          "lead": "熄灯使者 评论: 雄狮少年 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17911516/"
+        },
+        {
+          "title": "连续第18个月维持不变！11月LPR报价出炉：5年期以上3.5%，1年期3%",
+          "lead": "中国11月贷款市场报价利率（LPR）11月20日出炉，1年期和5年期以上LPR均未调整。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3786332"
+        },
+        {
+          "title": "史上最大IPO落地！Anthropic筹得813亿美元 股价首日收涨17%",
+          "lead": "北京时间周五（11月20日）凌晨00:48， Anthropic 在 纳斯达克 全球精选市场开始交易，股票代码为“ANT”，发行价为83美元",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1354,202611203935472952.html"
+        },
+        {
+          "title": "假装在新西兰、提前请假、抢购主机：粉丝为《GTA 6》做足准备",
+          "lead": "Sensor Tower估计，该游戏透过PlayStation与Xbox平台的预购，已创造11.8亿美元收入。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cmg4659lx27ro/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "特朗普抵达深圳：展示友好关系，无视间谍丑闻",
+          "lead": "习近平亲自到机场迎接，两人在红毯上拥抱。特朗普已经表示，他无意提起涉及黄仁勋的这起重大间谍丑闻。此次行程重头戏将是他与习近平、普京的三方会晤。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/world/20261119/trump-xi-shenzhen-spy-scandal/?utm_source=RSS"
+        }
+      ],
+      "supplement": {
+        "title": "【重磅】德意志银行调查：八问 1500 万份文件外泄",
+        "lead": "编按：「Inside Deutsche Bank」的外泄文件由印度作家、记者 Josy Joseph 和南非调查记者 Khadija Sharife 取得。端传媒是参与这项联合调查的全球50多家媒体之一。媒体质询请致信 press@inside-db.com。本项目的网站为 inside-db.com。 「无聊一点对我们没有坏处」。",
+        "body": [
+          "编按：「Inside Deutsche Bank」的外泄文件由印度作家、记者 Josy Joseph 和南非调查记者 Khadija Sharife 取得。端传媒是参与这项联合调查的全球50多家媒体之一。媒体质询请致信 press@inside-db.com。本项目的网站为 inside-db.com。「无聊一点对我们没有坏处」。2018 年 5 月 24 日，克里斯蒂安·泽温（Christian Sewing）刚刚出任德意志银行（Deutsche Bank，下称德银）首席执行官一个多月，便在法兰克福的股东大会上如此发言。",
+          "他希望这家银行少上头条。那时，这家德国最大的商业银行已因抵押贷款证券、操纵利率、俄罗斯「镜像交易」和反洗钱失职等不当操作接连受罚。而这些行迹大多都可追溯到德银业务的扩张时期。21 世纪初，面对华尔街资本打入欧洲的压力，德银进入全面扩张时期，由负责投行业务的阿克曼（Josef Ackermann）担任 CEO。也是他定下了 2005 年前税前股本回报率 25％ 的军令状。而这一时间，恰逢中国刚刚进入世界市场。",
+          "2001 年签署的入世条款中，中国承诺在 2006 年底前对外资全面开放银行业。中国急于把国有企业和银行送上全球资本市场，便有了引入境外战略投资者的窗口期。2005 年，美国银行出资 30 亿美元入股建设银行，苏格兰皇家银行和高盛牵头的财团也分别入股中国银行和工商银行。德银扩张的野心和中国的需求就此交汇。2005 年 10 月，德银宣布入股华夏银行，持股 9.9％。2006 年，它参与统筹工商银行在香港的上市，成为当时全球规模最大的首次公开募股。2011 年，彭博社给替企业办上市的银行排名，在日本以外的亚洲市场中，德银排行第一。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261120-international-inside-deutsche-bank-mass-file-leak/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/BAD-BANK-W.jpg"
+      },
+      "stats": {
+        "visible": 40,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 20,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "BBC×3",
+          "東方財富×3",
+          "華爾街見聞×3",
+          "端傳媒×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "California targets Nvidia in China AI chip probe",
+        "lead": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+        "body": [
+          "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure."
+        ],
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+        "category": "tech",
+        "categoryLabel": "Technology",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Trump administration asks federal court to dismiss its lawsuit over US Senate election in Alaska – live",
+        "lead": "Democrat Mary Peltola was declared winner earlier this week in highly scrutinized Senate race that featured two Dan Sullivans on the ballot Sign up for the",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/54a728ed2e975155848c4f3d8c0cb7d40a67f7c8/363_0_4528_3623/master/4528.jpg?width=140&quality=85&auto=format&fit=max&s=648414a471444d167dded33dcc654c66",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Some leaders flew private to the APEC summit, but not Mexico’s president.",
+              "lead": "President Claudia Sheinbaum flew commercial, a journey that involved a 15-hour leg. It was a symbol of her government’s commitment to austerity.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/claudia-sheinbaum-mexico-flight-china-apec",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-sheinbaum-flight-gkpq/19trump-summits-sheinbaum-flight-gkpq-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Religious messages US agriculture secretary emailed to staff deemed unconstitutional",
+              "lead": "A federal judge ruled that messages sent by Brooke Rollins to USDA workers suggest Christianity is a shared faith and violate the first amendment Religious messages that US agriculture secretary Brooke Rollins emailed",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/us-news/2026/nov/19/religious-messages-agriculture-secretary-unconstitutional",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/7dd519df3e1df1b3a309c77ef633a2ee0bad8a53/464_0_4624_3701/master/4624.jpg?width=140&quality=85&auto=format&fit=max&s=84c8c29b226204112fe37fa93573ab57",
+              "consensus": 5
+            },
+            {
+              "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+              "lead": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Anthropic shares jump 17% after record Wall Street listing",
+              "lead": "AI group led by Dario Amodei raises $81bn in upsized public offering",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fba6226af-f4f8-483c-8760-bcc717ed25ba.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+              "lead": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Anthropic IPO 'exactly what the markets need', but analysts warn of volatility",
+              "lead": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "US approved sale of Nvidia and AMD chips to Chinese companies",
+              "lead": "Pentagon believes some of the groups were associated with the People’s Liberation Army",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/76342072-2781-4b16-ba3b-816a25214483?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9a262392-02be-4801-9a23-0e8edba92248.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+              "lead": "In October 2025, four Black high school students were sharing Cool Ranch Doritos after football practice, winding down and waiting for their rides home.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Apple may be developing its own AI agent that runs your Mac",
+              "lead": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Apple is hiring engineers to build its own AI agent",
+              "lead": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Unseeded Sykes stuns Humphries in Grand Slam thriller",
+              "lead": "Luke Humphries follows Luke Littler in exiting the Grand Slam of Darts after losing 10-9 to unseeded Tom Sykes in a second-round thriller.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/darts/articles/ckzd9n5996zno?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e1a/live/b0aba780-e467-11f1-99a1-253766e7ad8b.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Pochettino's first Man Utd training session filmed by drone operator",
+              "lead": "Mauricio Pochettino's first Manchester United training session has been filmed by fan with a drone from outside the club's Carrington training ground.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f56/live/0be50c80-e446-11f1-99b6-a35a62fa4264.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Swansea 'acknowledge' Matos move - 23 hours after Strasbourg",
+              "lead": "Swansea City belatedly confirm that boss Vitor Matos has left the Championship club by saying only that they \"acknowledge\" Strasbourg's statement over his move to the French club.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cwz0k3m240y0o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc77/live/fa1dfc90-e428-11f1-bdfb-a33543c4dc85.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Bentonville Film Festival Sets 2027 Dates, Variety’s Producers to Watch Returns for 3rd Year",
+              "lead": "The Bentonville Film Festival will return for its 13th year June 14-20, renewing its partnership with Variety’s 10 Producers to Watch for its third consecutive year.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/bentonville-film-festival-2027-dates-1236953811/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2281818602.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Lakers’ Official History Book Gets $9,600 Limited Edition With Magic Johnson Handprints, Staples Center Hardwood and Rare Artwork",
+              "lead": "The Los Angeles Lakers’ $100 coffee-table book is getting a five-figure upgrade. Luxury art-book publisher Taschen and the Lakers have unveiled two limited-edition versions of “Lakers",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/shopping/news/lakers-photo-book-collectible-deluxe-edition-buy-online-1236953793/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/LA_LAKERS_ART_EDITION_BARNES_LE_GB_ARTPRINT003-X_62188.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists discover a hidden hereditary form of aggressive prostate cancer",
+              "lead": "Scientists have discovered a rare inherited mutation in the CDK12 gene linked to aggressive prostate cancer, with all five identified carriers developing metastatic disease between ages 44 and 62.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261117033911.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Is free will an illusion? New brain research reveals a surprising twist",
+              "lead": "New research reveals that the brain makes free choices and forced decisions using surprisingly similar neural processes, with activity building toward a decision before we act.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Experimental compound burns fat without sacrificing muscle",
+              "lead": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 2
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
+          "lead": "The meeting in China appeared to be largely symbolic.",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec"
+        },
+        {
+          "title": "How did Anthropic's stock market debut unfold?",
+          "lead": "The BBC's Samira Hussain breaks down the AI company's first day as a",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Religion should be removed from terrorism definition under Australian law as it gives ‘false credibility’, watchdog says",
+          "lead": "Independent National Security Legislation Monitor says reference to",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/law/2026/nov/20/religion-should-removed-from-terrorism-definition-australian-law-gives-false-credibility-watchdog-ntwnfb"
+        },
+        {
+          "title": "Law firms that caved to Trump brace for scrutiny from new Congress",
+          "lead": "Firms are hiring outside lawyers as Democrats probe deals they struck",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/4e712188-9dfc-4e2a-b997-3dacde95bf08?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI",
+          "lead": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"
+        },
+        {
+          "title": "Anthropic goes public after blockbuster IPO but fails to revive AI trade",
+          "lead": "Anthropic has become the first pure-play AI developer to be publicly",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/tv-shows/business/20261119-anthropic-goes-public-after-blockbuster-ipo-but-fails-to-revive-ai-trade"
+        },
+        {
+          "title": "AI models favour US and UK accents, score Chinese and Nigerian ones lowest, study finds",
+          "lead": "Ask an artificial intelligence model to grade a job interview or test",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3375132/ai-models-favour-us-and-uk-accents-score-chinese-and-nigerian-ones-lowest-study-finds"
+        },
+        {
+          "title": "U.S. President Donald Trump posthumously pardons Pete Rose",
+          "lead": "MLB Commissioner Rob Manfred posthumously removed Rose from",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/sports/2026/11/20/baseball/mlb/donald-trump-pete-rose-pardon/"
+        },
+        {
+          "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+          "lead": "IconSwapper brings your Mac's app icons to life with real-time data",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/"
+        },
+        {
+          "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+          "lead": "A Ukrainian barrage of missiles and drones collapsed a crucial",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/"
+        },
+        {
+          "title": "Meta’s Muse Charm might cost $300",
+          "lead": "Meta is planning to price the Muse Charm, a little gadget with a",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
+        },
+        {
+          "title": "How ‘Hunger Games’ Stars Jennifer Lawrence, Josh Hutcherson and Woody Harrelson Return for ‘Sunrise on the Reaping’",
+          "lead": "SPOILER ALERT: This article contains spoilers for the ending of",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/news/hunger-games-jennifer-lawrence-sunrise-on-reaping-1236950893/"
+        },
+        {
+          "title": "Something strange is living beneath the skin of deep-sea pigs",
+          "lead": "Scientists have discovered a strange bacterium hiding beneath the",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm"
+        },
+        {
+          "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+          "lead": "Anthropic is the first purely AI company to be publicly listed",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "The Xi, Trump, Putin meeting and the dawn of a post-western world",
+          "lead": "The symbolism was the substance in Shenzhen",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/01dde30c-977c-4f21-8838-4c3955dfacb7?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Cramer says Nvidia’s woes are trumping Anthropic excitement for the rest of the AI trade",
+          "lead": "Jim Cramer warned that Nvidia's leadership crisis is overshadowing",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/19/nvidia-anthropic-ipo-ai-trade.html"
+        }
+      ],
+      "supplement": {
+        "title": "Oscar Predictions: Costume Design — Will the Academy Embrace the Three Distinct Eras of ‘La Bola Negra’?",
+        "lead": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies",
+        "body": [
+          "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis.",
+          "The prediction pages reflect the current standings in the race and do not reflect […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/feature/2027-oscars-best-costume-design-predictions-1236878516/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/11/LA-BOLA-NEGRA-1000_003d90.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×4",
+          "Guardian×2",
+          "FT×2",
+          "Ars Technica×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-20T02:53:04.651Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 801,
+        "lang": 455,
+        "fresh": 364,
+        "denoised": 361,
+        "deduped": 346
+      },
+      "en": {
+        "fetched": 801,
+        "lang": 346,
+        "fresh": 333,
+        "denoised": 332,
+        "deduped": 322
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 40,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 20,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "BBC×3",
+          "東方財富×3",
+          "華爾街見聞×3",
+          "端傳媒×3"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×4",
+          "Guardian×2",
+          "FT×2",
+          "Ars Technica×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

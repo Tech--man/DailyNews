@@ -1,0 +1,928 @@
+{
+  "issue": 68,
+  "date": "2026-11-21",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历十月十三 · 立冬",
+    "en": "13th day of the 10th lunar month · Start of Winter"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "（深圳APEC）出席APEC会议的多国领导人明确表态：坚定恪守一个中国原则",
+        "lead": "中新社深圳11月20日电 (记者 李京泽 国璇)17日至20日，中国国家主席习近平在深圳密集会见来华出席亚太经合组织(APEC)领导人非正式会议的APEC成员经济体领导人。在会见中，多位APEC成员经济体领导人明确表示，坚定恪守一个中国原则。",
+        "body": [
+          "中新社深圳11月20日电 (记者 李京泽 国璇)17日至20日，中国国家主席习近平在深圳密集会见来华出席亚太经合组织(APEC)领导人非正式会议的APEC成员经济体领导人。",
+          "在会见中，多位APEC成员经济体领导人明确表示，坚定恪守一个中国原则。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-21/10735652.shtml",
+        "category": "top",
+        "categoryLabel": "要闻"
+      },
+      "secondary": {
+        "title": "蔚来ES9地平线鎏金特别版正式上市",
+        "lead": "11月21日，蔚来宣布，蔚来ES9地平线鎏金特别版正式上市，售价63.8万元起；采用BaaS电池租用方式购买，售价53万元起。",
+        "source": "界面新聞",
+        "group": "界面",
+        "link": "https://www.jiemian.com/article/15357578.html",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 2
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "2026全国陶瓷行业职业技能竞赛总决赛在河南平顶山举行",
+              "lead": "中新网平顶山11月21日电 (刘鹏 张玥颖)11月20日，2026全国陶瓷行业职业技能竞赛总决赛、中原陶瓷文化之旅暨第二届“雨过天青·平顶山”当代陶瓷系列活动在河南平顶山拉开帷幕。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735646.shtml",
+              "category": "top",
+              "categoryLabel": "要闻"
+            },
+            {
+              "title": "APEC峰会期间，深圳变“空城”",
+              "lead": "为主办APEC峰会，深圳的学校本周已经停课，地方政府指示企业员工居家办公，许多居民离开了这座城市。峰会期间多条道路封闭，安保举措尤为严密。 Tingshu Wang/Reuters 中国深圳的一条高速公路，摄于周三。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/china/20261119/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "台湾「九合一」选举：有哪些看点？蓝绿胜负如何影响2028大选布局？",
+              "lead": "11月28日，台湾将举行「九合一」地方选举。BBC中文走访台北、新北与高雄三大关键战场，解析蓝绿激战、中间选民崛起，以及中国因素对选情的影响。这场选举不只关乎地方治理，也可能为2028年总统大选定下基调。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cmp3vyl0x1x6o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a036/live/c9da6df0-e4f2-11f1-a094-5fdc692f3e33.jpg"
+            },
+            {
+              "title": "Anthropic创纪录IPO，中国投资者再被排除在外",
+              "lead": "这是史上最大的首次公开募股。此前，SpaceX和OpenAI进行IPO时也将中国投资者拒之门外。随着中美在人工智能领域争夺霸权，双方都在为其本土技术划定红线。 Tingshu Wang/Reuters 随着华盛顿和北京在人工智能领域争夺霸权，双方都在为其本土技术划定红线。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261120/anthropic-ipo-china-hong-kong/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "福建漳州核电4号机组三台蒸汽发生器全部吊装就位",
+              "lead": "中新网漳州11月21日电 (记者 张金川)11月20日，华龙一号再传捷报，中核集团旗下中国核电投资控股的漳州核电4号机组三台蒸汽发生器全部精准吊装就位。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-21/10735638.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "网络安全行业或迎史上最大并购：CrowdStrike洽购Zscaler，合并后市值或达2650亿美元",
+              "lead": "网络安全行业或将迎来史上最大规模并购交易之一。CrowdStrike Holdings Inc.正在洽谈收购同行Zscaler Inc.，如果交易达成，双方合并后的市值将达到约2650亿美元。 据彭博社11月20日援引知情人士报道，两家公司正在讨论潜在合并方案，交易可能很快达成。不过，相关磋商仍在进行中，最终能否形成交易尚无定论。 报道没有披露潜在交易的具体报价、支付方式及收购溢价，也没有给出明确的交易时间表。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3786413",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "美总统特使与卡塔尔高官讨论美伊斡旋工作",
+              "lead": "当地时间11月20日，两位知情人士表示，美国总统特朗普特使威特科夫和特朗普的女婿库什纳19日在柏林与卡塔尔高级官员举行会晤，就美国与伊朗之间的斡旋工作进行讨论。卡塔尔首相兼外交大臣穆罕默德及其特使出席。作为美伊之间的关键斡旋方，卡塔尔数周来一直致力于促成一项协议，旨在恢复停火、重启核谈判，并防止战火重燃。特朗普20日在新闻发布会上表示，伊朗想要达成协议，但伊方提出的协议他无法接受。（央视新闻）",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15357599.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "Anthropic研究人员警告：超级AI可能在2027年底出现 未来人类或将永久失去就业竞争力",
+              "lead": "人工智能究竟会在多大程度上改变人类社会？Anthropic内部一名负责AI安全防护的研究人员给出了一个相当激进的预测：到2027年底，人工智能可能在几乎所有专业领域超越人类顶尖专家，而随着这种能力逐渐扩展到整个经济体系，人类甚至可能最终失去通过劳动获得收入的能力，成为永久无法就业的群体。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1587310.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "蔚来 ES9 地平线鎏金特别版上市：24K 鎏金车标，售 63.8 万元起",
+              "lead": "IT之家 11 月 21 日消息，在蔚来品牌及品牌标识发布十周年之际，蔚来 ES9 地平线鎏金特别版正式上市，售价 63.8 万元起；采用 BaaS 电池租用方式购买，售价 53 万元起。 据官方介绍，该车提供 鎏金拂晓、鎏金晨曦、鎏金朗照 配色，搭载鎏金双叠地平线腰线。历经 8 次喷涂、5 次烘烤，多重色漆与清漆层层叠加，再经 12 道工序、109 小时精细打磨。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/030/329.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验",
+              "lead": "曝 Claude 证明黎曼猜想，陶哲轩回应 三星任命手机和存储业务新负责人 余承东更正发布会表述：开车不能睡觉 5499 元起，华为星芒发布首款阔直板手机 OSTA O1 Pro ColorOS 17 上线跨品牌一碰传，可向荣耀、小米、vivo 手机传文件 五月天公布 Vision Pro 演唱会，Apple Store 将提供体验版 海信反超 TCL，重回全球电视出货量第二 SK 海力士拟将铠侠投资转为股权",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "突发：秘鲁发生6.7级地震，首都有震感",
+              "lead": "中新网11月21日电 据外媒援引秘鲁地球物理研究所测定报道，当地时间20日，秘鲁发生6.7级地震，首都利马有震感。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-21/10735617.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "中美俄「三巨头」会晤的台前幕后",
+              "lead": "BBC记者从深圳带你回顾这场中美俄「三巨头」峰会的台前幕后。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cmn0d4pnrj31o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/23d5/live/aabedd10-e4fd-11f1-a094-5fdc692f3e33.jpg"
+            },
+            {
+              "title": "国际法院裁定缅甸对罗辛亚人实施种族灭绝",
+              "lead": "该裁决涉及缅甸对罗辛亚少数民族发动的致命军事行动。2017年，这场行动在数周内造成至少1万人死亡，并迫使75万人逃离家园。这项裁决可能产生广泛影响。 Adam Dean for The New York Times 2017年，罗辛亚难民从缅甸逃往孟加拉国，身后的村庄燃起熊熊大火。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261120/myanmar-genocide-icj-decision-/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "特朗普试图在国际舞台展示权力，在国内却将被迫分享权力",
+              "lead": "特朗普与中俄领导人会晤的盛大画面与他在国内面临的权力格局巨变形成鲜明对比。他试图表明自己在国际上仍是重量级人物，但在华盛顿，他很快就不得不与民主党人分享权力。 Doug Mills/The New York Times 周四在中国深圳举行的三方会晤让特朗普总统获得了一个求之不得的喘息机会。长期以来，他一直对俄罗斯总统普京和中国国家主席习近平这样的威权领导人表示钦佩。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/world/20261120/trump-summit-power/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "英伟达曾申请向中国涉军企业出售芯片，获商务部批准",
+              "lead": "立法者发布的机密信息显示，商务部今年已批准向中国企业出售超过80万枚先进人工智能芯片，其中包括被五角大楼列入中国涉军企业名单的公司。这引发了国会议员的批评。 Manuel Orbegozo for The New York Times 根据国会议员公布的机密信息，美国商务部批准了向中国企业出售人工智能芯片。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261120/nvidia-chips-commerce-china-huang/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "光影为媒回望历史 中国电影博物馆举办电影中的长征专题展",
+              "lead": "中新网北京11月20日电 (记者 徐婧)为纪念中国工农红军长征胜利90周年，由中国电影博物馆策划举办的“光影颂魂 征途永续——电影中的长征专题展”20日开幕。中国电影博物馆立足馆藏红色电影资源，以银幕光影为媒回望英雄史诗，赓续红色血脉。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-20/10735571.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "我是蜡笔小新：「配音员可能会绝种，但如果我是最后一代，我都会感到荣幸」",
+              "lead": "【编者按】「其实你返工有咩做㗎？」——这个问题，你有问过别人或被人问起吗？ 这个来自日常的问题，启发我们开启「返工这回事」这个栏目。在当代社会，工作主宰我们的生活，既定义个人的身份，亦维系社会的「正常」运转，但在「隔行如隔山」的区隔中，我们并不容易看见彼此——从恒常的工作劳动，到行业内的语言词汇、职场文化、人际关系、性别分工、权力层级以至价值体系。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261121-job-inside-out-crayon-shin-chan-voice-actress/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/TKH20260823W673-W-W_2.jpg"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "2026年空手道世界杯在杭州举行 系首次落地中国",
+              "lead": "中新社杭州11月20日电 (张煜欢)2026年空手道世界杯于20日在浙江杭州开幕。来自全球41个国家和地区的79支顶尖队伍齐聚赛场，角逐男子团体型、女子团体型、男子团体组手、女子团体组手四个项目金牌，中国队将参加全部四项比拼。这也是空手道世界杯首次在中国举办。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-20/10735575.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "斯诺克德国大师赛资格赛收官 中国军团六人率先晋级正赛",
+              "lead": "中新社英国维冈11月20日电 当地时间11月19日，2027斯诺克德国大师赛资格赛展开最后一个比赛日的较量。第三轮(64进32)最后八场较量中，中国球手5人出战取得3胜2负，张安达等3人成功晋级，至此，中国军团已有6人率先跻身正赛32强。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-20/10735176.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "第二届文化养老产业交流会在厦门举行",
+              "lead": "中新网厦门11月21日电 (叶艺琳)以“洞见趋势 共生未来”为主题的第二届文化养老产业交流会20日下午在福建厦门举行。来自中国社会福利与养老服务协会、福建省老年事业促进会、高校院所，以及文旅康养、老年教育、智慧科技、养老金融等领域的业界代表齐聚鹭岛，共探积极老龄化背景下文化养老产业高质量发展新路径。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-21/10735630.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "“几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家",
+          "lead": "IT之家 11 月 21 日消息，11 月 15 日在接受 Palisade Research 采访时",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/030/308.htm"
+        },
+        {
+          "title": "2.3万亿美元“灰飞烟灭”！美国芯片股上一次跌这么惨，还是2001年，英伟达已经“跌掉一个亚马逊”",
+          "lead": "AI交易的三大支柱同时松动，美国科技股遭遇猛烈抛售，市场对AI泡沫和经济增长放缓的担忧迅速升温。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3786423"
+        },
+        {
+          "title": "量子计算机“高速内存”全球首次真机实现",
+          "lead": "",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15357560.html"
+        },
+        {
+          "title": "英国女子遭丈夫下药，13年间被陌生男子轮流性侵",
+          "lead": "四名男子性侵一名被其丈夫下药的女子，被裁定性侵罪成。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cx8dv4e080ldo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "中美俄元首会晤：一场展示情谊的盛大表演",
+          "lead": "峰会总共耗时约80分钟，主要成果似乎是各方承诺将继续就和平问题进行对话。但在核武器控制、乌克兰战争或人工智能带来的威胁等问题上",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/world/20261120/trump-xi-putin/?utm_source=RSS"
+        },
+        {
+          "title": "特朗普威胁对海外建设AI数据中心的美企征收“巨额税款” 要求算力基础设施留在美国",
+          "lead": "美国总统唐纳德·特朗普11月20日公开表示，美国政府将阻止美国科技企业在海外建设数据中心",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1587330.htm"
+        },
+        {
+          "title": "Anthropic 的数论学家声称证明黎曼猜想",
+          "lead": "美国数学家 Levent Alpöge 以数论和算术统计方面的工作著称，他目前在 AI 公司 Anthropic 工作。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85949"
+        },
+        {
+          "title": "全球股市“黑色星期五” A股如何更抗跌？多家机构这样说",
+          "lead": "全球股市遭遇“黑色星期五”。11月20日，亚太股市深度调整，日经225指数、韩国KOSPI指数双双跌超5%，A股同样飘绿",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1354,202611203936172352.html"
+        },
+        {
+          "title": "这一周，不漏读：中美俄历史性峰会",
+          "lead": "这一周，全球最受瞩目的外交场合出现在深圳，中、美、俄三个全球主要核武大国的元首坐上同一张谈判桌。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261120-weekly/"
+        },
+        {
+          "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
+          "lead": "买车的时候，要判断一台车好不好，往往是一件很凭直觉的事。 踩一脚油门，推背感会告诉你马力够不够。摸一下中控，指尖会告诉你是不是好用料。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1690596?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "[分享创造] 开源一个 Agent 长期记忆系统：262k 多跳 48.3%，高于 CAR 论文报告的 41%",
+          "lead": "项目地址： https://github.com/jing-ying-dev/whale-ying-memory 大家好，我今年 21 岁",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1258680#reply1"
+        },
+        {
+          "title": "史上最大 IPO，Anthropic 上市首日市值达 1.271 万亿美元",
+          "lead": "Anthropic 于 2026 年 11 月 19 日在纳斯达克挂牌上市，股票代码“ANT”。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/503693/anthropics-historic-debut-put"
+        },
+        {
+          "title": "这故事不叫八仙也能写 (评论: 八仙！)",
+          "lead": "早上坏 评论: 八仙！ 评价: 较差",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17913246/"
+        },
+        {
+          "title": "费城联储主席Paulson：不排除连续加息，但强调“有节奏”",
+          "lead": "费城联储主席Anna Paulson表示，愿意考虑在即将举行的政策会议上连续加息以遏制通胀，但强调美联储应以\"审慎\"步伐推进，给家庭",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3786418"
+        },
+        {
+          "title": "缅甸种族灭绝裁决影响深远的历史意义",
+          "lead": "BBC国际编辑写道，律师将研究冈比亚如何证明缅甸意图实施种族灭绝。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c5n4eylmmg8po/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "三国元首会晤背后，习近平和普京挑战美国的共同愿景",
+          "lead": "两人都希望挑战美国作为唯一超级大国的地位，重塑世界秩序。没有迹象表明此次峰会将改变他们的反美立场",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/world/20261120/xi-putin-trump-meeting-china-russia/?utm_source=RSS"
+        }
+      ],
+      "supplement": {
+        "title": "写在《瘴气营地》之后：21世纪酷儿怪物宣言",
+        "lead": "编按：《瘴气营地的青春性事与死亡》于今年稍早在坎城首映，9月中旬起逐渐进入大陆影迷视野。这部影片以恐怖片的类型语言，回望那些反复将性别越界与怪物形象相连的影像传统，重新触碰跨性别身体的创伤与欲望，也少见地触碰其欣悦。 刚刚过去的11月20日是跨性别追悼日（Transgender Day of Remembrance）。这一天，人们悼念因遭遇反跨性别仇恨与暴力而失去生命的人。",
+        "body": [
+          "编按：《瘴气营地的青春性事与死亡》于今年稍早在坎城首映，9月中旬起逐渐进入大陆影迷视野。这部影片以恐怖片的类型语言，回望那些反复将性别越界与怪物形象相连的影像传统，重新触碰跨性别身体的创伤与欲望，也少见地触碰其欣悦。刚刚过去的11月20日是跨性别追悼日（Transgender Day of Remembrance）。这一天，人们悼念因遭遇反跨性别仇恨与暴力而失去生命的人。当改变世界的努力一次次撞上南墙，在记认逝者、追问暴力与制度责任的同时，思考仍然活著的我们，还可以如何感受体内的历史幽灵，也具有它的政治意义。特约撰稿人火虫子从影片出发，追溯跨性别怪物的历史系谱，书写酷儿怪物宣言。以此，她邀请读者共同想像：长久以来，那些死于非命的身体，被迫以受害者之身进入历史，栖于我们之间。当我们追悼ta们，是否或许也可以尝试更多地去看见，ta们作为欲望著的生命，曾如何参与世界的创造，以此唤起另一种铭记，以此与被标记为怪物的身体，以另一种面貌重新相遇？",
+          "你也曾在某一刻感到自己是个妖怪吗？小时候，他们先是觉得你滑稽，接著根据一种隐密的分类，哄笑著叫你丑八怪、梅超风，或是死人妖。很快他们动起手来，你的课本不翼而飞，桌面被刻满字，手臂常有瘀青。肉体和物件的损害是表面的，你感到有什么才刚萌芽，便在日复一日的校园审判中迅速被抽干生命。长大后你知道了，原来这叫非人化。你开始发声，结识盟友，或是终于成为那个看起来「正常」的人。但你还有一个秘密。不知自己是什么怪物，你只知道你不是他们。",
+          "于是，余下的部分，很容易就被童年旺盛的想像力填满。某天晚上，躺在床上，你开始听见—— 妖在呼吸。不知从哪里冒出来的精灵、黏液、外星人或是什么怪谲生物，穿墙而入，爬满天花板。你对祂的恐惧很快裹挟起眷恋。好害怕，不知为何，却也好安全。看《瘴气营地的青春性事与死亡》时，沉睡于我记忆深处的小妖就这样苏醒。片中，Kris是一名酷儿导演，一个女性主义者，一个无法抵达高潮的人。8岁时，她看了砍杀恐怖系列电影《瘴气营地》的第一部。片中，每当营地迎来新一批营员，跨性别怪物杀手「小死神」（Little Death）便大开杀戒。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261121-camp-miasma-a-queer-monster-manifesto/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/1120-011.jpg"
+      },
+      "stats": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 17,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "界面×2",
+          "BBC×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+        "lead": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "body": [
+          "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
+        ],
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "At APEC Summit, U.S., China and Russia Vow to Increase Oil Supply Amid Global Energy Transition",
+        "lead": "The United States, China and Russia agreed to boost the supply of refined petroleum products, as oil prices spike because of the Iran war.",
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-petroleum-topart-wcmf/19trump-summits-petroleum-topart-wcmf-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
+              "lead": "Prime Minister Andy Burnham and European leaders said they had agreed to remove some of the barriers created when Britain left the European Union.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20int-eu-uk-summit-wtk-wzjf/20int-eu-uk-summit-wtk-wzjf-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "French police officers found guilty of racist assault on black music producer",
+              "lead": "Beating of Michel Zecler in 2020 sparked outrage over police brutality after it was caught on security cameras Three French police officers who beat a black music producer they said was not wearing a face mask during",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/e744f4dacdb4a945886bcb2886956ca9b6a2f39e/797_1_3568_2855/master/3568.jpg?width=140&quality=85&auto=format&fit=max&s=3d8125feb06722ff5542c1d5921cbe88",
+              "consensus": 5
+            },
+            {
+              "title": "China’s top intelligence agency touts ‘common international security’ after summit",
+              "lead": "China’s top intelligence agency has warned that no nation can achieve “absolute security” at the expense of others, underscoring Beijing’s messaging on security just a day after Thursday’s unprecedented China-US-Russia",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/china/politics/article/3375207/chinas-top-intelligence-agency-touts-common-international-security-after-summit",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/5f69c835-7e34-4010-a340-ae601a24c75e_a806bd9c.jpg?itok=IPC8HiOb&v=1795174468",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+              "lead": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Inside Anthropic’s historic IPO",
+              "lead": "Can the low-key company preserve its idiosyncratic culture in the glare of public markets?",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6e648500-b065-4ecc-939b-21b1547a70af.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Anthropic could be tipping point for AI trade. Where investors should go from here",
+              "lead": "The composition of the bull market is taking a new shape. Here's where Wall Street is eyeing opportunities outside of AI",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/20/stock-market-rotation-beyond-ai.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+              "lead": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "California targets Nvidia in China AI chip probe",
+              "lead": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+              "lead": "Researchers planted 2 million digital tripwires in requests sent through a sprawling network of AI services to find out what happened to sensitive information entrusted to them.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+              "lead": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Alcaraz puts aside injury concerns to take apart Cobolli",
+              "lead": "A ruthless Carlos Alcaraz puts aside his injury concerns to dismantle Flavio Cobolli and ensure a perfect record in the ATP Finals group stages.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/tennis/articles/cqrkgn17emr2o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1e5/live/f6e41c50-e4ee-11f1-99a1-253766e7ad8b.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Watch: Inverness and Ayr play out goalless draw",
+              "lead": "Inverness Caledonian Thistle and Ayr United play out a goalless draw in the chilly Highlands.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/c6zxvnzjnne4o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182c/live/c20332e0-e52b-11f1-99a1-253766e7ad8b.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "A men's netball World Cup - not a question of if, but when?",
+              "lead": "England and Jamaica's men's netball teams will act as curtain-raisers for the women's sides in this weekend's Horizon Series in London - and as the sport grows, an inaugural men's World Cup is on the cards.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/netball/articles/c60evgr13deyo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da8e/live/36d953b0-e4d7-11f1-ae38-71bf515761f1.jpg"
+            },
+            {
+              "title": "NFL great Brady could buy Chelsea stake",
+              "lead": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake Capital.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb77/live/3264bae0-e52c-11f1-964d-a1d5fe40573e.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "‘Home Alone’ Director Chris Columbus Said Minutes Before New Sequel Was Announced That Another Movie ‘Can’t Happen’ After Catherine O’Hara’s Death",
+              "lead": "Chris Columbus didn’t know a new “Home Alone” was coming. The director of the 1990 original spoke with Variety minutes before news broke that Disney is developing a new installment with Macaulay Culkin.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/chris-columbus-home-alone-reboot-reaction-catherine-ohara-1236954497/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/2021-SFFILM-Awards-Night-Red-Carpet-And-Celebration-1000.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Melania Trump Calls for ‘Peace’ When Asked About Children in Gaza and Israel at Amazon Series Premiere",
+              "lead": "Amazon Prime Video’s “Melania: The Series” offers a peek into the often-reclusive first lady’s personal life and role inside the White House",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/news/melania-trump-series-gaza-israel-children-peace-amazon-1236954718/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2306006977.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "A decades-old mystery about light could hold the key to faster internet",
+              "lead": "A promising material for ultra-fast optical communications has held a secret for decades, but scientists may have finally cracked it.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261119194544.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Microplastics may be more dangerous than we thought. Scientists just discovered why",
+              "lead": "Microplastics may be doing something far more dangerous than simply accumulating in our bodies. Scientists have discovered that tiny plastic particles can interact with water to generate highly reactive molecules",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            },
+            {
+              "title": "Keto diet slashes liver fat by 67% in just 4 months",
+              "lead": "A new clinical trial found that the ketogenic diet dramatically outperformed Mediterranean and low-fat diets in reducing liver fat and improving metabolic health, even when participants lost similar amounts of weight.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261120070904.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+          "lead": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+        },
+        {
+          "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
+          "lead": "There were no injuries or damage from three incidents that the Polish",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html"
+        },
+        {
+          "title": "Trump considering new Iran strikes as US military warns of strain on forces",
+          "lead": "Officials say indefinite deployments and potential budget cuts risk",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e"
+        },
+        {
+          "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
+          "lead": "Trump said he discussed Jensen Huang with China's Xi.",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html"
+        },
+        {
+          "title": "North Korea’s Kim Jong-un visits school gear factories after apparent Trump snub",
+          "lead": "North Korean leader Kim Jong-un was seen inspecting school equipment",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/asia/east-asia/article/3375305/north-koreas-kim-jong-un-visits-school-gear-factories-after-apparent-trump-snub"
+        },
+        {
+          "title": "Japan wary of U.S., Russia and China holding regular summits",
+          "lead": "Japan is eager to maintain the existing international order",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/21/japan/us-china-russia-summits-japan-wary/"
+        },
+        {
+          "title": "COP31 deal stalls as nations struggle to agree on climate plan",
+          "lead": "COP31 deal stalls as nations struggle to agree on climate plan",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss"
+        },
+        {
+          "title": "Google rolls out new search homepage with AI chat history and no search button",
+          "lead": "Google's flagship search experience is evolving into an AI experience",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+        },
+        {
+          "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+          "lead": "President Donald Trump promised to put a \"tremendous tax\" on",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+        },
+        {
+          "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+          "lead": "Mathematicians are having their minds blown by the latest AI-driven",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+        },
+        {
+          "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+          "lead": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm"
+        },
+        {
+          "title": "‘Godavari’ Director Nikhil Mahajan Turns a Malegaon Carjacking Into Neo-Noir With WAVES Film Bazaar Project ‘Mongoose’",
+          "lead": "Nikhil Mahajan, the Indian National Film Award-winning director of",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/markets-festivals/godavari-director-nikhil-mahajan-carjacking-neo-noir-mongoose-1236954786/"
+        },
+        {
+          "title": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
+          "lead": "President says fight is about preventing Beijing from taking the lead",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1"
+        },
+        {
+          "title": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
+          "lead": "A decline in Anthropic shares weighed on the broader market following",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+        },
+        {
+          "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+          "lead": "The representative in the US House expected to chair the House",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/"
+        },
+        {
+          "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+          "lead": "Anthropic went public on November 19th, 2026.",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+        }
+      ],
+      "supplement": {
+        "title": "Hello Sunshine’s Lauren Neustadter to Leave Reese Witherspoon’s Company at End of Year",
+        "lead": "Lauren Neustadter, president of film and television at Reese Witherspoon’s Hello Sunshine, is set to step down from the company at the end of the year, the collaborators announced on Friday.",
+        "body": [
+          "Lauren Neustadter, president of film and television at Reese Witherspoon’s Hello Sunshine, is set to step down from the company at the end of the year, the collaborators announced on Friday.",
+          "Her exit comes after Hello Sunshine let go of about 50% of its staff last month after Witherspoon and Mediawan partnered to buy the […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/film/news/hello-sunshine-lauren-neustadter-exits-reese-witherspoon-1236954660/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2283017606-e1795213174236.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 17,
+        "maxGroupShare": 18,
+        "categories": 6,
+        "topGroups": [
+          "BBC×7",
+          "Variety×4",
+          "ScienceDaily×4",
+          "Ars Technica×3",
+          "紐約時報×2",
+          "SCMP×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-21T03:01:21.769Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 800,
+        "lang": 455,
+        "fresh": 355,
+        "denoised": 355,
+        "deduped": 337
+      },
+      "en": {
+        "fetched": 800,
+        "lang": 345,
+        "fresh": 331,
+        "denoised": 331,
+        "deduped": 320
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 39,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 17,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "界面×2",
+          "BBC×2"
+        ],
+        "headlineTier": "lead",
+        "headlineConsensus": 1,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 17,
+        "maxGroupShare": 18,
+        "categories": 6,
+        "topGroups": [
+          "BBC×7",
+          "Variety×4",
+          "ScienceDaily×4",
+          "Ars Technica×3",
+          "紐約時報×2",
+          "SCMP×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

@@ -1,0 +1,850 @@
+{
+  "issue": 69,
+  "date": "2026-11-22",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历十月十四 · 小雪",
+    "en": "14th day of the 10th lunar month · Minor Snow"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "神舟二十四号展开全系统合练 备份应急体系如何护航发射？",
+        "lead": "神舟二十四号载人飞行任务各系统昨天(21日)在酒泉卫星发射中心进行发射场区合练。此次合练覆盖火箭、飞船、发射场、测控通信等全要素，标志着任务各系统已完全具备发射条件，发射进入倒计时阶段。",
+        "body": [
+          "神舟二十四号载人飞行任务各系统昨天(21日)在酒泉卫星发射中心进行发射场区合练。",
+          "此次合练覆盖火箭、飞船、发射场、测控通信等全要素，标志着任务各系统已完全具备发射条件，发射进入倒计时阶段。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-22/10735952.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "地球迎来新的「迷你月亮」——它并不孤单",
+        "lead": "地球迎来新迷你卫星，体积极小且仅短暂绕行。同时存在准卫星与幽灵卫星等暂时天体，但皆远不及月球，也无危险。",
+        "source": "BBC中文",
+        "group": "BBC",
+        "link": "https://www.bbc.com/zhongwen/articles/cqy7rg0yyxxko/trad?at_medium=RSS&at_campaign=rss",
+        "category": "world",
+        "categoryLabel": "国际",
+        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6058/live/b11dbc70-ddd3-11f1-9053-236ccb99630c.jpg"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问",
+              "lead": "中新网11月22日电 据商务部网站消息，商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-22/10735951.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 4
+            },
+            {
+              "title": "中美俄「三巨头」会晤的台前幕后",
+              "lead": "BBC记者从深圳带你回顾这场中美俄「三巨头」峰会的台前幕后。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cmn0d4pnrj31o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/31c4/live/230c4ca0-e5a1-11f1-99b6-a35a62fa4264.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "美方拟禁止中国电信运营商直接获取美国互联网电话号码资源，商务部回应",
+              "lead": "",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15358564.html",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 4
+            },
+            {
+              "title": "“拖堂”的气候大会给全世界算了笔账",
+              "lead": "气候大会又“拖堂”了。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-21/10735906.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "下周重磅日程：“美联储最爱通胀指标”、小米、美团、B站、戴尔财报",
+              "lead": "11月22日 - 11月30日当周重磅财经事件一览，以下均为北京时间： 本周美股遭遇年内最猛烈抛售，纳指重挫10.02%抹平年内涨幅，AI投资前景疑虑持续发酵。经历暴跌后，下周进入感恩节缩短交易周，见闻财经日历提醒下周重点关注： 宏观层面聚焦美股企稳之问。 美国10月PCE即“美联储最爱的通胀指标”与三季度GDP修正值下周三同日出炉，机构预期核心PCE同比由3.1%升至3.2%以上，若超预期将加剧加息担忧、继续压制高估值科技股；",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3786441",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "商务部回应 FCC 拟禁止中国电信运营商直接获取美国互联网电话号码资源：违反非歧视和公平竞争原则，坚决反对",
+              "lead": "IT之家 11 月 22 日消息，今日，商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问。 IT之家附主要内容如下： 问：美东时间 11 月 19 日，美国联邦通信委员会（FCC）投票通过有关规则，拟禁止中国电信、中国联通、中国移动等被列入“覆盖清单”的电信运营商直接获取美国互联网电话号码资源。请问商务部对此有何评论？ 答：我们注意到有关情况。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/030/538.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 4
+            },
+            {
+              "title": "联合国“杀手机器人”监管谈判未达预期",
+              "lead": "在联合国日内瓦总部举行的一场关键谈判中，各国代表围绕致命自主武器系统，也被称为“杀手机器人”的监管问题展开激烈讨论。经过持续一周、直至周六凌晨才结束的磋商后，与会国家最终同意启动关于未来监管框架的进一步讨论，但未能就外界期待的具有法律约束力的国际规则达成一致。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1587422.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就",
+              "lead": "困扰人类数学界 167 年的黎曼猜想，迎来最新进展。 就在刚刚，Lean 和 Mathlib 社区发布联合声明，宣布正式认证 Anthropic 数学家 Levent Alpöge 提交的黎曼猜想形式化证明，并表示对其正确性具有充分信心。 从数学家本人宣布成果，到形式化证明社区公开认证，整个过程仅仅过去一天。 更引人关注的是，Alpöge 此前透露，这项研究由他与 AI 模型 Claude 合作完成。",
+              "source": "愛范兒",
+              "group": "愛范兒",
+              "link": "https://www.ifanr.com/1690820?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "中方设备解了我们燃眉之急——委内瑞拉感谢中方支持灾后重建",
+              "lead": "新华社加拉加斯11月20日电 通讯｜中方设备解了我们燃眉之急——委内瑞拉感谢中方支持灾后重建",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-21/10735909.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "台湾「九合一」选举：有哪些看点？蓝绿胜负如何影响2028大选布局？",
+              "lead": "11月28日，台湾将举行「九合一」地方选举。BBC中文走访台北、新北与高雄三大关键战场，解析蓝绿激战、中间选民崛起，以及中国因素对选情的影响。这场选举不只关乎地方治理，也可能为2028年总统大选定下基调。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cmp3vyl0x1x6o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a036/live/c9da6df0-e4f2-11f1-a094-5fdc692f3e33.jpg"
+            },
+            {
+              "title": "菲律宾霍乱病例两周增加69% 卫生部吁保障饮水和食品安全",
+              "lead": "中新网马尼拉11月21日电 菲律宾卫生部20日发布报告称，菲律宾霍乱病例近期有所上升，10月11日至24日较此前两周增加69%。该部门正密切监测厄尔尼诺现象可能带来的饮水安全风险，呼吁公众注意饮用水和食品安全。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-21/10735864.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "浙江：上山国家考古遗址公园暨上山博物馆正式开放",
+              "lead": "中新网金华11月21日电(董易鑫)11月21日，上山国家考古遗址公园暨上山博物馆在浙江省金华市浦江县正式开放。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-21/10735830.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "专访《Compact Disc》导演Rico：出狱后，用摄影机「在伤口上做一场冥想」",
+              "lead": "「我冇嘢讲（我没有话讲）。」 曾因2019年香港反修例运动被捕入狱的王乐尧 Rico，在出狱后拍摄的纪录短片《Compact Disc》中，对著镜头数算自己与友人当日被捕后讲这句话的次数。到底讲了多少次「我冇嘢讲」？那是他们初次被捕时，在警署面对警方盘问时的对答。「我冇嘢讲。」这句话在2019年的香港另具意义：那是当年因抗争而被捕者在律师到达前，为了保障自己法律权利，而在警察面前选择沉默的标准回应。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261122-hongkong-compact-disc/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/---------------Rico-----------------------------------------------------------------copy.jpg"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "全国青少年软式棒垒球校园联赛走进宁夏固原",
+              "lead": "中新网固原11月21日电 (记者 杨迪)11月21日，2026全国青少年软式棒垒球校园联赛·固原分站赛在固原市体育馆正式开赛，来自当地4所小学的8支队伍、百余名少年选手，在赛场上展现协作拼搏的棒球精神。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-21/10735784.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "2026年江西省城市排球联赛在婺源开幕",
+              "lead": "中新网江西婺源11月21日电 (记者 刘力鑫)21日，“运动赣鄱·活力江西”2026年江西省城市排球联赛在婺源县体育中心开幕。来自江西全省11个地级市的19支队伍，合计270名运动员参赛。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-21/10735859.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评",
+          "lead": "近期部分人工智能大模型产品及其运营、推广主体宣称其大模型经过了中医类别医师资格考试试题测试，国家中医药管理局中医师资格认证中心发布声明",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15358558.html"
+        },
+        {
+          "title": "试题经过大模型测试？国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评",
+          "lead": "IT之家 11 月 22 日消息，11 月 21 日晚，国家中医药管理局中医师资格认证中心通过官方公众号发布声明称，该中心从未公开历年真题",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/030/540.htm"
+        },
+        {
+          "title": "上市第二天就“差点破发”！Anthropic的“豪华投行承销团”面临压力",
+          "lead": "史上最大规模IPO在上市次日遭遇剧烈抛售。 人工智能巨头Anthropic（ANT）周五盘中一度大跌15%，最低仅比IPO发行价高出5美分",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3786442"
+        },
+        {
+          "title": "群联展示内置NPU与64GB内存的智能SSD方案 可直接运行AI模型",
+          "lead": "在芝加哥举行的2026年国际超级计算大会（SC26）上，存储控制器厂商群联电子（Phison）展示了一项面向人工智能服务器的新型SSD设计方",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1587420.htm"
+        },
+        {
+          "title": "伟大的 GTA 6，「不好玩」的 GTA 6",
+          "lead": "雷奥奈达最近磁场不太对—— 狭窄的双车道上没有逆行别车的路怒症司机，老太太骑着代步车优哉游哉；人们早起健身、洗澡，吃着白人饭减脂餐；",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1690801?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "A股利好！超60家上市公司密集披露",
+          "lead": "本月初，央行宣布优化股票回购增持再贷款政策，下调股票回购增持再贷款利率0.25个百分点至1%，同时向 银行 提供充足的再贷款额度保障。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://stock.eastmoney.com/news/11215,202611223936862885.html"
+        },
+        {
+          "title": "地球 28 光年外发现一个三星系统",
+          "lead": "天文学家在距离地球 28 光年处发现了一个三星系统，挑战了对恒星演化的现有观念。该系统被命名为 Welopōʻa，包括两颗白矮星和一颗红矮星。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85955"
+        },
+        {
+          "title": "[分享发现] 想也想不到：我昨晚发布在番茄上的短篇小说，早晨 AI 告诉我被盗版了",
+          "lead": "总共发了 7 篇，完读 3，这种数据为啥还会有人盗呢？ 甚至还没给我贡献一个完读 没想到我还有被盗版的一天",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "V2EX",
+          "link": "https://www.v2ex.com/t/1258844#reply0"
+        },
+        {
+          "title": "我是蜡笔小新：「配音员可能会绝种，但如果我是最后一代，我都会感到荣幸」",
+          "lead": "【编者按】「其实你返工有咩做㗎？」——这个问题，你有问过别人或被人问起吗？ 这个来自日常的问题，启发我们开启「返工这回事」这个栏目。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261121-job-inside-out-crayon-shin-chan-voice-actress/"
+        },
+        {
+          "title": "25位华人，赶上Anthropic的财富盛宴",
+          "lead": "伴随这场史诗级IPO，一大批打工人迎来了财富跃迁。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15358462.html"
+        },
+        {
+          "title": "2027见闻历，财经人的桌面必备“神历”",
+          "lead": "本文来自华尔街见闻，欢迎下载APP查看更多",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3782813"
+        },
+        {
+          "title": "写在《瘴气营地》之后：21世纪酷儿怪物宣言",
+          "lead": "编按：《瘴气营地的青春性事与死亡》于今年稍早在坎城首映，9月中旬起逐渐进入大陆影迷视野。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261121-camp-miasma-a-queer-monster-manifesto/"
+        },
+        {
+          "title": "这一周，不漏读：中美俄历史性峰会",
+          "lead": "这一周，全球最受瞩目的外交场合出现在深圳，中、美、俄三个全球主要核武大国的元首坐上同一张谈判桌。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261120-weekly/"
+        }
+      ],
+      "supplement": {
+        "title": "宏福大火一年，消失的窗景",
+        "lead": "（宏福苑大火一年，端传媒将陆续刊出系列报导，敬请读者留意。） 当窗外风景不再是广福公园，朱太太把手作珠仔胶花放在新家的窗台。她的儿子想，她或许在重现亡夫种满花草的窗台，但那朝夕淋花的老伴，却不会回来了。一年前，朱先生的爸爸在宏昌阁家中，因大火离世。 每个家都有一扇窗。窗外是世界，窗内是家。看著窗，我们想出去；回家路上看到窗，却急不及待想回去。 宏福苑的「宏」字，本指屋深响也。在倘大的家中，聚满福气，是对家的期许。但现在，窗外窗内再没分野。",
+        "body": [
+          "（宏福苑大火一年，端传媒将陆续刊出系列报导，敬请读者留意。） 当窗外风景不再是广福公园，朱太太把手作珠仔胶花放在新家的窗台。她的儿子想，她或许在重现亡夫种满花草的窗台，但那朝夕淋花的老伴，却不会回来了。一年前，朱先生的爸爸在宏昌阁家中，因大火离世。每个家都有一扇窗。窗外是世界，窗内是家。看著窗，我们想出去；回家路上看到窗，却急不及待想回去。宏福苑的「宏」字，本指屋深响也。在倘大的家中，聚满福气，是对家的期许。但现在，窗外窗内再没分野。",
+          "心内心外，皆是飘泊。这是宏福苑居民曾共同拥有，但最终失去的海景。图：受访者提供 9月起始，我们找寻宏福苑居民，希望走入他们的现居地拍摄窗口。我们前前后后联络过40位居民，有人一口答应，有人拒绝，也有人未再回复。他们有的因为大火一周年将至，心情很坏，无法受访。有居民一家暂住在亲友物业，不想为亲友带来麻烦。有的则寄居于家人公屋，选择低调过活。最后留影的14个窗口散在香港各处。东至西贡清水湾，南至香港仔渔映楼，西至洪水桥乐翘楼，北至大埔三门仔善楼。一些居民的现居地临近海水。藉著流动的海潮，是否可以就此洄游大埔吐露港？",
+          "在早期的香港发展史里，海景并不是富人独享的景观，宏福苑毗邻吐露港，寻常人家也能在海边组织家庭，建立生活。40年来，2000户居民看著树、看著海，这是他们共同的记忆。接受了原址无法重建，不能再共住大埔的事实，居民开始互相查问大家未来安置的去向，建立起小小的新群组。也许人即使被重创、被分散，仍会尝试拉近彼此，重建群体的生活。一场大火，把一个共同的风景，迸裂成不同的窗口、各异的现实。自此，宏福苑居民的人生将会通往何处？宏仁阁居民刘太于大火失去两只爱猫。她最后仅找回一个猫水兜，放在大埔过渡性房屋善楼的当眼处。摄：林振东/端传媒 Phyllis 婚后由宏昌阁搬到西贡。大火后，她接了哥哥到现在的家居住，她在这里学习蒸鱼给哥哥吃。摄：林振东/端传媒 朱爸爸在宏昌阁的主人房中罹难后，子女在大埔市中心为妈妈租了一个单位。在新居里，朱妈妈和她的日常品都变得形单只影。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261122-hongkong-photo-wang-fuk-court-fire-vanished-window-view/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/window-001.JPG"
+      },
+      "stats": {
+        "visible": 31,
+        "sections": 6,
+        "briefs": 13,
+        "groups": 12,
+        "maxGroupShare": 26,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "端傳媒×5",
+          "BBC×3",
+          "華爾街見聞×3",
+          "IT之家×2",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+        "lead": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+        "body": [
+          "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?"
+        ],
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abb2/live/99a82d30-e4e7-11f1-99a1-253766e7ad8b.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
+        "lead": "A government in office for more than two years is finally forced to take responsibility and seemingly no longer able to blame its Labor predecessors Get our",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/e9bb488d6f56a808e4c08a19e1ddea696735455d/410_0_2606_2085/master/2606.jpg?width=140&quality=85&auto=format&fit=max&s=4f36239acbfcd8f7333ae1e3de2f8bf2",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
+              "lead": "U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-cartel-ticktock-photo1-bpwm/22int-cartel-ticktock-photo1-bpwm-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Fred Nile, former NSW politician and figurehead of the rightwing Christian Democratic party, dies aged 92",
+              "lead": "Controversial figure frequently took positions against drug use, abortion and homosexuality, but in later years supported legislation expunging homosexual convictions Get our daily political email",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/australia-news/2026/nov/22/fred-nile-former-nsw-politician-and-figurehead-of-the-rightwing-christian-democratic-party-dies-aged-92",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/4d437bc81d1032afb812de5027b40b3c646fa358/288_0_3708_2967/master/3708.jpg?width=140&quality=85&auto=format&fit=max&s=9c46201395663fd3ff07fa9733816220",
+              "consensus": 5
+            },
+            {
+              "title": "Xi’s Apec summit speech is a call to cooperation suited to the times",
+              "lead": "In his keynote speech at the Apec CEO Summit in Shenzhen on November 18, President Xi Jinping quoted the ancient Chinese saying “fan yi zhi dao yu shi jie xing”",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/opinion/china-opinion/article/3375061/xis-apec-summit-speech-call-cooperation-suited-times",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/aaca21de-203f-4fd2-ada1-d35b6e756558_d59f815d.jpg?itok=DpKn-0yn&v=1795163413",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Violence erupts in Sinaloa after Mexico captures alleged drug trafficker",
+              "lead": "Fausto Isidro Meza-Flores, known as “El Chapo Isidro”, is on the FBI’s most-wanted list for trafficking drugs into the US",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/90a8d0bd-32c8-471a-8696-e95555e41b78?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe3d4ca97-f0be-4f58-a9b0-0dd8d5ba0468.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+              "lead": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+              "source": "BBC News",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+              "lead": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Europe's cyber weak spot is the everyday businesses nobody thought to protect",
+              "lead": "Known vulnerabilities are leaving everyday businesses increasingly exposed to cyber sabotage, as AI enables cybercriminals to work better and faster.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+              "lead": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "The UN fails to agree on rules regulating ‘killer robots’",
+              "lead": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+              "lead": "Researchers planted 2 million digital tripwires in requests sent through a sprawling network of AI services to find out what happened to sensitive information entrusted to them.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
+              "consensus": 4
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "'We lost two points' - Arteta on 'unacceptable' Newcastle draw",
+              "lead": "Arsenal manager Mikel Arteta says his side squandered the chance to take all three points after their 2-2 draw against Newcastle United at St James' Park.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd03/live/b44acb50-e5e8-11f1-a094-5fdc692f3e33.jpg",
+              "consensus": 4
+            },
+            {
+              "title": "Arsenal go six points clear after lively draw at Newcastle",
+              "lead": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52d9/live/fcb7f580-e5e2-11f1-99a1-253766e7ad8b.jpg",
+              "consensus": 4
+            },
+            {
+              "title": "I wish referee had opportunity to see 'handball' again - Hart",
+              "lead": "Match of the Day pundits Joe Hart and Alan Shearer disagree with Morgan Rogers being penalised for handball, as the Chelsea forward \"didn't make himself bigger\" with the use of his arms in his side's 4-1 defeat to Leeds",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b7c/live/99f4c5e0-e600-11f1-a094-5fdc692f3e33.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Jeff Goldblum Performs a Piano Medley and Reflects on His Career at Marrakech Film Festival: ‘The Stories That We Tell Matter’",
+              "lead": "Jeff Goldblum was honored with a tribute award at the Marrakech Film Festival on Saturday, delighting the audience with a surprise piano performance before reflecting on more than half a century in cinema",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/global/jeff-goldblum-career-marrakech-film-festival-tilda-swinton-1236954972/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2305693351.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Andrew Rannells Was Told to ‘Stay Away’ From Kevin Spacey After Meeting Backstage at ‘The Book of Mormon’; He Then Sent a ‘Handwritten Letter’ ‘Asking Me on a Date’",
+              "lead": "Andrew Rannells recently revealed that Kevin Spacey asked him out while the “Girls” actor was starring in “The Book of Mormon” on Broadway. “I’ve never told this story before.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/news/andrew-rannells-kevin-spacey-date-1236955011/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/La-Bataille-De-Gaulle-Lge-De-Fer-De-Gaulle-Tilting-Iron-Screening-The-79th-Annual-Cannes-Film-Festival-1000.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "AI may not work like the human brain after all, scientists discover",
+              "lead": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+              "lead": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Even scientists can't agree on what science actually is",
+              "lead": "Scientists cannot agree on what science actually is, and a new study finds their views are surprisingly more divided than those of the general public.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261119194541.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+          "lead": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+          "lead": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html"
+        },
+        {
+          "title": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
+          "lead": "Thursday’s byelection in Castle Bromwich will be latest test for",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls"
+        },
+        {
+          "title": "Hong Kong’s Election Committee race: how voting works and new candidates to watch",
+          "lead": "Hong Kong goes to the polls on Sunday for some 5",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/hong-kong/politics/article/3375344/hong-kongs-election-committee-race-how-voting-works-and-new-candidates-watch"
+        },
+        {
+          "title": "As Trump basks in summit pomp, China’s Xi strengthens his hand",
+          "lead": "Xi emerged from a global gathering in China as a statesman who can",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/news/2026/11/22/asia-pacific/politics/trump-china-xi-strength-analysis/"
+        },
+        {
+          "title": "Thousands protest across Europe over living costs and housing",
+          "lead": "Demonstrations in France and Portugal follow youth-led protests over",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss"
+        },
+        {
+          "title": "Here are the top AI agents that can live in your text messages",
+          "lead": "We created a list of the most notable AI agents that can live in your",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+        },
+        {
+          "title": "Actor Awards Predictions: Andrew Garfield, Inde Navarrette and ‘The Odyssey’ Lead an Unsettled Film Race as ‘Widow’s Bay’ and HBO Max Could Rule TV",
+          "lead": "Variety Awards Circuit section is the home for all awards news and",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/lists/2027-sag-actor-awards-predictions/"
+        },
+        {
+          "title": "The FBI and USDA were reportedly hacked",
+          "lead": "Friday, it was reported that both the US Department of Agriculture",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1039543/fbi-usda-hacked"
+        },
+        {
+          "title": "India’s $126bn insurance sector slams proposed commission cap",
+          "lead": "Industry argues regulation would hamper growth of a market that only",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/2e67313b-d6c5-4e62-bd50-14639fe5ef95?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Countries agree to U.N. talks aiming to regulate 'killer robots' by 2028",
+          "lead": "Around 100 countries backed legally binding rules within a short",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/21/countries-agree-to-un-talks-aiming-to-regulate-killer-robots-by-2028.html"
+        },
+        {
+          "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+          "lead": "Astronomers have witnessed a spectacular cosmic collision in the",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm"
+        },
+        {
+          "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+          "lead": "The representative in the US House expected to chair the House",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/"
+        },
+        {
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "lead": "The National Crime Information Center database is used by federal and",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump says reported FBI database hack is ‘not good’",
+          "lead": "The FBI is reportedly investigating a hack of the National Crime",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+        },
+        {
+          "title": "Jennifer Lopez Teases ‘Monster-in-Law’ Sequel With Jane Fonda: ‘We’re Talking About Maybe Doing Another One’",
+          "lead": "Jennifer Lopez and Jane Fonda might reunite for a “Monster-in-Law”",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/news/jennifer-lopez-jane-fonda-monster-in-law-follow-up-1236955143/"
+        }
+      ],
+      "supplement": {
+        "title": "Scientists say the human family tree may need a radical rewrite",
+        "lead": "The human family tree may need a major overhaul. New research from Monash University challenges the traditional classification of our ancient ancestors",
+        "body": [
+          "The human family tree may need a major overhaul.",
+          "New research from Monash University challenges the traditional classification of our ancient ancestors, arguing that species such as Australopithecus and Paranthropus should be grouped within our own genus, Homo.",
+          "As scientists uncover more fossils and analyze evolutionary relationships, the boundaries that once separated these ancient relatives are becoming increasingly difficult to defend."
+        ],
+        "source": "ScienceDaily",
+        "group": "ScienceDaily",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261118074039.htm",
+        "category": "science",
+        "categoryLabel": "Science",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "ScienceDaily×5",
+          "Variety×4",
+          "TechCrunch×3",
+          "Guardian×2",
+          "SCMP×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-22T01:58:04.032Z",
+    "sources": {
+      "configured": 36,
+      "ok": 35,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "豆瓣",
+          "reason": "fetch failed"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 779,
+        "lang": 435,
+        "fresh": 311,
+        "denoised": 310,
+        "deduped": 291
+      },
+      "en": {
+        "fetched": 779,
+        "lang": 344,
+        "fresh": 304,
+        "denoised": 304,
+        "deduped": 297
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 31,
+        "sections": 6,
+        "briefs": 13,
+        "groups": 12,
+        "maxGroupShare": 26,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "端傳媒×5",
+          "BBC×3",
+          "華爾街見聞×3",
+          "IT之家×2",
+          "cnBeta×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 18,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "ScienceDaily×5",
+          "Variety×4",
+          "TechCrunch×3",
+          "Guardian×2",
+          "SCMP×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

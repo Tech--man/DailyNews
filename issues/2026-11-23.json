@@ -1,0 +1,913 @@
+{
+  "issue": 70,
+  "date": "2026-11-23",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历十月十五 · 小雪",
+    "en": "15th day of the 10th lunar month · Minor Snow"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "海军多型舰机将亮相第十六届中国航展",
+        "lead": "中新网11月23日电 据“人民海军”微信公众号消息，北京11月23日(孙飞)12月7日至13日，海军将实装参加在广东珠海举行的第十六届中国国际航空航天博览会，并首次拓展海上维度，增加高栏海上装备展示区，实现海军主战舰艇、新锐舰载机、陆战和无人智能装备陆海空联动、全景式亮相，多型现役装备将首次公开",
+        "body": [
+          "中新网11月23日电 据“人民海军”微信公众号消息，北京11月23日(孙飞)12月7日至13日，海军将实装参加在广东珠海举行的第十六届中国国际航空航天博览会，并首次拓展海上维度，增加高栏海上装备展示区，实现海军主战舰艇、新锐舰载机、陆战和无人智能装备陆海空联动、全景式亮相，多型现役装备将首次公开，全方位展示新时代人民海军转型建设成就。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-23/10736287.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "英伟达丑闻爆发数年前，中国情报机构已将目光瞄准AI芯片",
+        "lead": "多名知情官员透露，中国情报机构获取美国先进芯片的行动至少已持续两年。国安部成立工作组开展“反封锁”工作，收集半导体行业情报，并帮助企业获取芯片。 Florence Lo/Reuters 中国情报机构获取芯片的行动至少已持续两年，相关细节此前未曾见诸报道。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/china/20261123/china-nvidia-spy-chips-state-security/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "最高人民法院、中国侨联联合发布侨益司法保护典型案例",
+              "lead": "中新网11月23日电 据最高人民法院微信公众号消息，11月23日，最高人民法院会同中华全国归国华侨联合会编发5件侨益司法保护典型案例。本批案例的主要特色有：",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/hr/2026/11-23/10736304.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 2
+            },
+            {
+              "title": "黄乐亲属及商业伙伴与中国军工承包商有广泛联系",
+              "lead": "调查发现，黄乐的亲属和商业伙伴与中国国防工业有着广泛联系。这凸显了中国获取英伟达芯片算力的努力与北京希望利用人工智能增强军事实力的目标之间的密切联系。 Pedro Pardo/Agence France-Presse — Getty Images 处于英伟达丑闻中心的女子与中国国防工业及中国人民解放军存在关联。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/technology/20261123/nvidia-alice-huang-chips-china/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "APEC上与习近平、特朗普历史性会晤，对普京是一场重大胜利",
+              "lead": "周四美国、中国和俄罗斯领导人的会晤将为普京（普丁）提供一个重要的舞台——但这并不会让他离赢得乌克兰战争更近一步。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cq702kdw845ro/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/17b2/live/72c78770-e36f-11f1-a094-5fdc692f3e33.jpg"
+            },
+            {
+              "title": "以毒攻毒？道路安全研究人员找 《GTA》帮忙",
+              "lead": "《侠盗猎车手》（GTA）系列中，玩家驾车在虚构城市里横冲直撞、大肆破坏，本来就是游戏乐趣之一。但研究人员却有不同想法。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c8p3vdpxwk5xo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9076/live/00fe2880-de81-11f1-b88b-3f1671ea859d.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "A股周一开盘：超5000只个股飘绿，三大指数集体低开",
+              "lead": "原标题：A股周一开盘：超5000只个股飘绿，三大指数集体低开；黄金股领涨；半导体、传媒、通信设备下跌",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-23/10736270.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "青海省地震局：德令哈局部少量房屋出现轻微震损，均无结构性安全隐患",
+              "lead": "青海省地震局11月23日消息，据中国地震台网正式测定，11月21日18时45分在青海海西州德令哈市发生5.6级地震，震源深度10公里。截至22日20时，最大余震为11月21日18时55分2.8级。德令哈市目前已开展三轮拉网式滚动排查，全面核查各行业、各领域震后安全隐患。经排查，全市无人员伤亡、无房屋倒塌、无重大财产损失及重大安全险情。排查发现局部少量房屋出现轻微震损，均无结构性安全隐患，不影响居住，已全部登记管控、跟踪巡查。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15360333.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "共享数据飞轮！特斯拉FSD v15统一“汽车与机器人视觉”",
+              "lead": "特斯拉自动驾驶系统迎来一次颇具视觉冲击力的升级。 当地时间11月21日，特斯拉开始推送FSD V15.0.1， 新版本不仅引入实时生成式驾驶可视化系统，还升级了底层视觉编码器，将汽车、Robotaxi与人形机器人Optimus的视觉训练进一步打通。 此次升级最引人注目的变化，据追风交易台，野村证券认为，特斯拉正尝试打通自动驾驶汽车与人形机器人的视觉系统，通过共享AI视觉技术和扩大训练数据来源，构建跨产品的数据飞轮。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3786482",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "四部门：鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品",
+              "lead": "国家发展改革委、民政部、国家卫生健康委、教育部印发《“一老一小”服务体系建设实施方案》提出，支持养老、托育机构应用智能管理服务、智慧消防安防等系统，提升管理水平。推动养老机构配置智能健康监测、辅助器具等设备。鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品，支持在养老机构、社区等场景应用或设置体验区。鼓励有条件的地方利用电子政务服务平台等汇总各类信息，为家庭获取上门服务提供便利渠道。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15360220.html",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "高通汽车芯片业务加速扩张 预计2027年有望登顶全球汽车半导体市场",
+              "lead": "多年来，高通一直试图摆脱外界对其过度依赖智能手机业务的印象。最新行业分析显示，这家公司最重要的多元化布局正在提前兑现，其汽车芯片业务已达到约80亿美元的年营收规模，为其在2027年超越英飞凌和恩智浦、成为全球最大汽车半导体供应商创造了有利条件。这一进展恰逢其时，因为受DRAM供应短缺及市场放缓影响，高通的手机业务正面临压力。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1587506.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "东风日产 NX7 定档 11 月 27 日广州车展上市：全系宁德时代电池，预售 12.99 万元起",
+              "lead": "IT之家 11 月 23 日消息，东风日产 N 序列第四款车型 NX7 将于 11 月 27 日在广州车展正式上市，并同步开启交付。 新车已于 11 月 13 日开启预售，共推出三款配置，预售价区间为 12.99 万元至 14.99 万元，定位“智能零压 SUV”，采用大五座布局。 三款车型的预售价分别为：320 Pro 12.99 万元、320 Max 13.99 万元、320 Ultra 激光雷达版 14.99 万元。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/030/774.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "日本熊本县发生4.1级地震 多地有震感",
+              "lead": "中新网11月23日电 据日本广播协会(NHK)报道，当地时间23日2时46分左右，日本熊本县天草、芦北地区发生4.1级地震，震源深度10公里。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-23/10736227.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "Anthropic公司或许已解决重大数学难题：黎曼猜想",
+              "lead": "Anthropic公司或许已解决重大数学难题：黎曼猜想",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cwe85gr487dno/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg"
+            },
+            {
+              "title": "联合国气候变化安塔利亚大会闭幕",
+              "lead": "当地时间22日，《联合国气候变化框架公约》第三十一次缔约方大会(COP31)闭幕，未就政治决定达成一致。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-22/10736214.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "说唱歌手出身尼泊尔新总理首访印度：如何平衡对华关系",
+              "lead": "说唱歌手出身的尼泊尔新总理沙哈首访印度，盼重启关系并争取山洪重建援助，但边界争议与经验不足成考验",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c64gn9jl5lveo/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ce4/live/0cd0ed60-e3e9-11f1-a16c-7de3762c094b.jpg"
+            },
+            {
+              "title": "地球迎来新的「迷你月亮」——它并不孤单",
+              "lead": "地球迎来新迷你卫星，体积极小且仅短暂绕行。同时存在准卫星与幽灵卫星等暂时天体，但皆远不及月球，也无危险。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cqy7rg0yyxxko/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6058/live/b11dbc70-ddd3-11f1-9053-236ccb99630c.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "余烬未熄：宏福苑大火一年大事纪",
+              "lead": "香港如何走过灾后一年？",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261123-hongkong-wang-fuk-court-fire-1year-timeline/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/cover-01.jpg"
+            },
+            {
+              "title": "“观照无形：感知、身体与观测”活动于清华大学艺术博物馆举办",
+              "lead": "中新网北京11月22日电 (记者 高凯)“观照无形：感知、身体与观测”活动日前在清华大学艺术博物馆一层大厅举行。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-22/10736115.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "给阿嬷的情书，像是一首娓娓道来的散文诗，写尽了长情、仗义与岁月 (评论: 给阿嬷的情书)",
+              "lead": "Firework 评论: 给阿嬷的情书 评价: 力荐",
+              "source": "豆瓣",
+              "group": "豆瓣",
+              "link": "https://movie.douban.com/review/17916057/",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "“冰超”2026第三届上合组织冰球比赛在“中国冰球之城”开幕",
+              "lead": "中新社齐齐哈尔11月23日电 (记者 王妮娜)“冰超”2026第三届上海合作组织冰球比赛开幕式22日晚在“中国冰球之城”齐齐哈尔市举行。来自中国、俄罗斯、哈萨克斯坦、乌兹别克斯坦、吉尔吉斯斯坦、塔吉克斯坦6个上合组织相关国家的冰球俱乐部参赛。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-23/10736225.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "速度滑冰世界杯日本带广站：中国队2金3银2铜收官",
+              "lead": "中新社东京11月22日电 国际滑联官网消息，2026-2027赛季速度滑冰世界杯日本带广站22日落幕，北京冬奥会冠军、中国名将高亭宇当日在男子500米第二次比赛中摘银。中国队共获2金3银2铜，位列奖牌榜第二，仅次于传统劲旅荷兰队。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-22/10736207.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "你的孩子会说谎吗？这或许并非坏事",
+          "lead": "父母可能会因为孩子撒谎而生气，但专家解释说，这是孩子人格成长的过程",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/crvg2lyq7dxvo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "出口大涨17.8%背后，一场绕不开的硬仗：中国机器人为何赶在年底“一机一码”？",
+          "lead": "量涨得越快，账越要先记清。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15359469.html"
+        },
+        {
+          "title": "亚太股市补跌美股“黑色星期五”，韩股跌4%，三星电子跌5%，美股期货、黄金齐反弹",
+          "lead": "上周美股AI交易的去杠杆浪潮正从华尔街迅速蔓延至亚太，区域监管机构罕见同步出手护盘。 周一，亚太股市开盘普遍下行",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3786472"
+        },
+        {
+          "title": "OpenAI首席科学家警告：AI最快2027年实现自我进化",
+          "lead": "11月23日，据彭博社报道，OpenAI首席科学家雅库布·帕霍茨基(Jakub Pachocki)提议",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1587524.htm"
+        },
+        {
+          "title": "从北影毕设到院线电影：B站《龙心少女》最新 PV 公布，摔跤社与火药方糖联合制作",
+          "lead": "IT之家 11 月 23 日消息，在昨晚的哔哩哔哩 2026—2027 年国创动画作品发布会上，动画电影《龙心少女》正式官宣",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/030/765.htm"
+        },
+        {
+          "title": "影像：选战舞台，台湾日常",
+          "lead": "2026年台湾九合一地方选举将于11月28日投票。这场选举将选出直辖市长、县市长、各级议员、乡镇市长、直辖市山地原住民区长",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261123-photo-taiwan-election/"
+        },
+        {
+          "title": "华为OSTA星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机",
+          "lead": "经过了一周多的预热和烘焙，华为旗下全新的子品牌「华为OSTA星芒」终于在 11 月 20 日发布了它们的首款旗舰产品：OSTA O1 Pro。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1690613?utm_source=rss&utm_medium=rss&utm_campaign="
+        },
+        {
+          "title": "高盛：明年全球GDP料增2.8% 美联储有望明年底降息",
+          "lead": "高盛 预计，2027年全球实际国内生产总值（GDP）增速为2.8%，略高于该机构对2026年2.7%的预测，但整体风险偏向下行。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://futures.eastmoney.com/news/1512,202611233937048840.html"
+        },
+        {
+          "title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
+          "lead": "美国的 AI 数据中心越来越依赖自己的发电设施供电，而这些发电设施基本上绝大多数使用化石燃料。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85959"
+        },
+        {
+          "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+          "lead": "Anthropic 研究员宣称用 Claude 证明黎曼猜想 OpenAI 公布反蒸馏举措 黄仁勋据称将攻击下属作为管理方式 GTA 6",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "少數派",
+          "link": "https://sspai.com/post/119418"
+        },
+        {
+          "title": "《空枪》：一出癫狂美学的独角戏 (评论: 空枪)",
+          "lead": "西续斯 评论: 空枪 评价: 力荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17917156/"
+        },
+        {
+          "title": "菲律宾宠物火葬场丑闻：死去猫狗尸体出现在直播画面中",
+          "lead": "许多伤心的菲律宾人面临著一个令人痛心的现实：他们的宠物能并没有得到应有的葬礼",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cv62pjg5d533o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "均衡量化主动ETF天弘(158908)上市首日成交价0.955元，后续运作安排和观点来了",
+          "lead": "2026年11月23日，均衡量化主动ETF天弘(158908)正式在深圳证券交易所上市交易。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15360253.html"
+        },
+        {
+          "title": "美银美林：芯片股“触底”需要“利率见顶”，等待“股价不再理会利空”时抄底",
+          "lead": "美银证券认为，利率见顶是费城半导体指数（SOX）形成持久底部的必要条件。 11月20日，据追风交易台消息",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3786476"
+        },
+        {
+          "title": "专访《Compact Disc》导演Rico：出狱后，用摄影机「在伤口上做一场冥想」",
+          "lead": "「我冇嘢讲（我没有话讲）。」 曾因2019年香港反修例运动被捕入狱的王乐尧 Rico，在出狱后拍摄的纪录短片《Compact Disc》中",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261122-hongkong-compact-disc/"
+        },
+        {
+          "title": "怎么又不是扭曲而璀璨呢？ (评论: 空枪)",
+          "lead": "招才猫 评论: 空枪 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17917026/"
+        }
+      ],
+      "supplement": {
+        "title": "「所有政治都是地方政治」：民进党选情为何看涨？",
+        "lead": "凭什么，蔡英文和马英九都做不到的事，赖清德却在下周很有机会做到？ 连续三届全国联合地方选举，现任总统都因为在「期中考」失利而被迫请辞党主席，并引发党内领导变局。再往前推，2010年旧制下举行的五都直辖市长联合改选中，国民党也只能勉强守住席次，总票数则大幅下降，连亲国民党的《中国时报》都 形容 为「惨胜」。",
+        "body": [
+          "凭什么，蔡英文和马英九都做不到的事，赖清德却在下周很有机会做到？",
+          "连续三届全国联合地方选举，现任总统都因为在「期中考」失利而被迫请辞党主席，并引发党内领导变局。再往前推，2010年旧制下举行的五都直辖市长联合改选中，国民党也只能勉强守住席次，总票数则大幅下降，连亲国民党的《中国时报》都 形容 为「惨胜」。",
+          "明明，马、蔡二人都是以过半票数赢得总统大位，反倒赖清德则只获得约40%的得票率，照理来说民意基础更加薄弱、容错空间应该更小，应该更加在劫难逃。为什么，面对这场「期中考」，赖清德却有机会成为首位安全过关的总统？"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261124-taiwan-why-dpp-may-dominate-local-elections/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/IMGL7822-copy-1.jpg"
+      },
+      "stats": {
+        "visible": 39,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 21,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×5",
+          "端傳媒×4",
+          "華爾街見聞×3",
+          "豆瓣×3",
+          "紐約時報×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+        "lead": "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend",
+        "body": [
+          "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response."
+        ],
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-westbank-settler-violence01-photo-vqmk/22int-westbank-settler-violence01-photo-vqmk-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+        "lead": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the f-word failure is not his alone",
+              "lead": "Australia’s climate change minister will face a torrent of criticism over his role, but disagreement over fossil fuels proved an unbridgeable sticking point After delivering a major speech to the UN climate talks in",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/92374d04a6b87ec2995da31768a8015be7e26a0b/313_0_2620_2096/master/2620.jpg?width=140&quality=85&auto=format&fit=max&s=a2cfebe06cc01943cc44eac3f7da72ac",
+              "consensus": 5
+            },
+            {
+              "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+              "lead": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "India’s tech talent meets Singapore’s capital: match made in AI heaven?",
+              "lead": "India may struggle to catch up with the US and China in the race to develop cutting-edge artificial intelligence, but analysts say its growing partnership with Singapore could offer it another path to becoming a major",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/week-asia/economics/article/3375271/indias-tech-talent-meets-singapores-capital-match-made-ai-heaven",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/039e82f2-1b11-4af1-8b4d-6927f77f34fb_c7360325.jpg?itok=j3Jg_1JH&v=1795177332",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "House Democrats to start new Congress with largest majority this century",
+              "lead": "Lawmakers plan to use powers to investigate claims of corruption levelled at Trump administration",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/9d2983a7-196d-4164-a0c1-e262f32fd8c9?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4e31f254-83c3-4d16-a0d8-395c0ca72fc2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+              "lead": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Energy bills will soar - here's how you can ease the pain",
+              "lead": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
+              "consensus": 2
+            },
+            {
+              "title": "Europe’s power market is flashing a warning to its economy",
+              "lead": "Europe's second major energy crisis in less than five years is already taking hold in wholesale markets, and it may soon hit consumers.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/business/2026/11/23/europe-power-market-economy/",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/23/575468.jpg"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "We haven’t seen the last of the major tech outages",
+              "lead": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase .",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+              "lead": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+              "lead": "GLP-1 weight-loss medicines such as Ozempic and Wegovy could affect much more than the waistlines of the people who take them. If widely used",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/agriculture-1152x648.jpg"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Did Liverpool 'get lucky' with red card decision?",
+              "lead": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at Anfield.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97fd/live/e0c07400-e6c9-11f1-99b6-a35a62fa4264.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+              "lead": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de6c/live/aa7667d0-e6bd-11f1-a094-5fdc692f3e33.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+              "lead": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e813/live/77008940-e6bc-11f1-a094-5fdc692f3e33.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "John Turturro Says ‘I Still Consider Myself a Beginner’ as He Gets Marrakech Film Festival Tribute Award: ‘Every Job Is Like a First Love’",
+              "lead": "Though his career has spanned over four decades, John Turturro still feels like it’s just the beginning. The 69-year-old actor and filmmaker was honored with a tribute award at Marrakech Film Festival on Sunday night",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/festivals/john-turturro-marrakech-film-festival-award-still-beginner-1236955255/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/john-turturro.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Don Toliver’s Manchester Concert Evacuated After Suspected Tear Gas Released Into Crowd",
+              "lead": "Don Toliver’s concert at Co-op Live in Manchester, England ended in an evacuation as tear gas was released in the crowd on Sunday. “It is understood that a substance believed to be tear gas was let off in the crowd",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/music/news/don-toliver-manchester-concert-evacuated-tear-gas-1236955605/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2271010272.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Common medications may secretly rewire your gut, with effects lasting for years",
+              "lead": "Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "A mysterious gap hints at black holes born from stars that never exploded",
+              "lead": "Massive stars may be quietly collapsing into black holes without ever producing the spectacular supernova explosions scientists typically expect.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "DNA’s secret sunscreen may have helped life survive on early Earth",
+              "lead": "Scientists have uncovered a surprising reason why early life may have survived Earth's intense ultraviolet radiation: a key component of DNA appears to turn potentially destructive damage into something easier to repair.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261121221128.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+          "lead": "Libya's eastern government says the ship had stopped for fuel and",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
+          "lead": "Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+        },
+        {
+          "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
+          "lead": "Canada has framed the preservation of its boreal forest as a model",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html"
+        },
+        {
+          "title": "Bessent refuses to rule out Huang’s return to Nvidia",
+          "lead": "Treasury secretary says it depends ‘where the buck stops’ as US",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Why has the COP31 climate summit failed to reach agreement?",
+          "lead": "Fossil fuels are at the centre of deep division.",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/11/22/why-has-the-cop31-climate-summit-failed-to-reach-agreement?traffic_source=rss"
+        },
+        {
+          "title": "Defense, AI, high tech: A delicate balance between armies and industry",
+          "lead": "The tricky dilemma entrusts part of armies' futures to private",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/business/2026/11/23/tech/defense-ai-balance-armies-industry/"
+        },
+        {
+          "title": "COP31 climate talks in Turkey collapse",
+          "lead": "EU member states on Sunday objected to adopting an 11th-hour deal",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/video/20261123-cop31-climate-talks-collapse"
+        },
+        {
+          "title": "Russian ship hit by drones in Baltic still smolders as Finland, Estonia help put out blaze",
+          "lead": "The Finnish military has said the strike on the Sparta II on Saturday",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-attack.html"
+        },
+        {
+          "title": "Ina Garten Says She Turned Down ‘Dancing With the Stars’ Because the Thought of Competing Gave Her ‘Nightmares’",
+          "lead": "Celebrity chef Ina Garten will not be cooking up a freestyle for",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/tv/news/ina-garten-dancing-with-the-stars-1236955404/"
+        },
+        {
+          "title": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
+          "lead": "Scientists have developed an AI tool that can uncover hidden warning",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm"
+        },
+        {
+          "title": "Here are the top AI agents that can live in your text messages",
+          "lead": "We created a list of the most notable AI agents that can live in your",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+        },
+        {
+          "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+          "lead": "The Binding of Isaac: Repentance Plus has spent the last few days",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"
+        },
+        {
+          "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+          "lead": "It's a rare thing for a film sequel to match or even surpass its",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/"
+        },
+        {
+          "title": "What's next after no deal at COP31 climate talks?",
+          "lead": "The talks have been the longest-running in the summit's history",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Sanctioned Russian vessel attacked by drones near Finland",
+          "lead": "Finland’s prime minister says ‘war is spilling over into our",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+          "lead": "Saudi Arabia said it destroyed a drone launched by Iran-backed Houthis",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html"
+        }
+      ],
+      "supplement": {
+        "title": "‘Glee’ Star Chris Colfer Says He Forgot Kurt Hummel ‘Meant So Much to People’ Because of the ‘Homophobia and Hatred’ He Experienced During the Show",
+        "lead": "Chris Colfer is opening up about what it meant to play his now-beloved “Glee” character, Kurt Hummel, a month after reuniting on stage with his on-screen love interest and co-star, Darren Criss.",
+        "body": [
+          "Chris Colfer is opening up about what it meant to play his now-beloved “Glee” character, Kurt Hummel, a month after reuniting on stage with his on-screen love interest and co-star, Darren Criss.",
+          "Criss (who played Blaine Anderson on the hit show) and Colfer surprised audiences by performing “Baby It’s Cold Outside,” an homage to their […]"
+        ],
+        "source": "Variety",
+        "group": "Variety",
+        "link": "https://variety.com/2026/tv/news/glee-chris-colfer-kurt-homophobia-1236955465/",
+        "category": "culture",
+        "categoryLabel": "Culture",
+        "image": "https://variety.com/wp-content/uploads/2026/11/TCDGLEE_EC183.jpg",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×4",
+          "紐約時報×2",
+          "Japan Times×2",
+          "The Verge×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-23T02:23:01.049Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 797,
+        "lang": 455,
+        "fresh": 332,
+        "denoised": 332,
+        "deduped": 318
+      },
+      "en": {
+        "fetched": 797,
+        "lang": 342,
+        "fresh": 260,
+        "denoised": 259,
+        "deduped": 252
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 39,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 21,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "BBC×5",
+          "端傳媒×4",
+          "華爾街見聞×3",
+          "豆瓣×3",
+          "紐約時報×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 37,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 14,
+        "categories": 7,
+        "topGroups": [
+          "BBC×5",
+          "Variety×4",
+          "ScienceDaily×4",
+          "紐約時報×2",
+          "Japan Times×2",
+          "The Verge×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

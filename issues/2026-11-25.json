@@ -1,0 +1,902 @@
+{
+  "issue": 72,
+  "date": "2026-11-25",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历十月十七 · 小雪",
+    "en": "17th day of the 10th lunar month · Minor Snow"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
+        "lead": "中新网酒泉11月25日电 (记者 马帅莎)据中国载人航天工程办公室消息，神舟二十四号载人飞船入轨后，于北京时间11月25日11时56分，成功对接于空间站天和核心舱前向端口，整个对接过程历时约3.5小时。",
+        "body": [
+          "中新网酒泉11月25日电 (记者 马帅莎)据中国载人航天工程办公室消息，神舟二十四号载人飞船入轨后，于北京时间11月25日11时56分，成功对接于空间站天和核心舱前向端口，整个对接过程历时约3.5小时。"
+        ],
+        "source": "中國新聞網",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737456.shtml",
+        "category": "top",
+        "categoryLabel": "要闻",
+        "consensus": 4
+      },
+      "secondary": {
+        "title": "黄仁勋重返英伟达，北京喜忧参半",
+        "lead": "分析人士指出，北京或许乐见这位主张对华出售先进芯片的领军人物回归，但这场风波也可能进一步坚定中国寻求芯片自力更生的决心。而英伟达将继续处于美中关系的焦点。 Nvidia, via Agence France-Presse — Getty Images 周一，英伟达的官方X账号发布了黄仁勋重新出任公司首席执行官的照片。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/china/20261125/jensen-huang-nvidia-china/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际",
+        "consensus": 4
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "神舟二十四号载人飞船成功对接于空间站天和核心舱前向端口",
+              "lead": "新华社快讯：神舟二十四号载人飞船成功对接于空间站天和核心舱前向端口。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gn/2026/11-25/10737454.shtml",
+              "category": "top",
+              "categoryLabel": "要闻",
+              "consensus": 4
+            },
+            {
+              "title": "“我犯了一些可怕的错误”：黄仁勋向英伟达员工致歉",
+              "lead": "黄仁勋在英伟达全员会议上承认自己违反了公司行为准则，并表示自己每天接受90分钟心理治疗。他在会议上赞扬特朗普，但否认自己复职是因为总统向董事会施压。 Agence France-Presse — Getty Images 周一，英伟达社交媒体账号发布的一张照片显示，黄仁勋返回了位于加利福尼亚州圣克拉拉的公司总部。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/technology/20261125/jensen-huang-apology-nvidia-ceo/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 2
+            },
+            {
+              "title": "香港宏福苑大火一周年：灾后余生，家在何方？",
+              "lead": "香港宏福苑大火一周年，BBC中文纪录多位难属如何走过灾后一年。这场香港数十年以最致命灾难夺去168条性命，1984户失去家园，包括丧失丈夫与爸爸的Christy一家与父母双亡的苏先生。一年来，灾民一边重建新生活，一边等待调查报告、申请法律援助，一边向年幼孩子解释死亡。调查结论公布后，官员辞职，数十人被捕或起诉。但对许多仍在伤痛中家庭来说，一切远远未及完结。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cqvg261dkxp7o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0dd6/live/7bfeb2f0-e860-11f1-99b6-a35a62fa4264.jpg"
+            },
+            {
+              "title": "我每月花250英镑请人帮我处理生活杂务，而这很值得",
+              "lead": "大西洋两岸忙碌的母亲们正付费请公司代为处理她们的待办事项清单。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cqdr15vp81jno/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5a9/live/c9ce40e0-e7cf-11f1-83ab-9953b30aab1f.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "金观平：递稳跨年政策衔接“交接棒”",
+              "lead": "临近年末，谋划来年经济工作、做好跨年度政策衔接成为宏观调控的重点。近期召开的国务院常务会议提出，要认真研究明年经济工作思路，加强跨年度政策衔接，推动经济持续向好。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-25/10737361.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "阴霾笼罩年底市场！摩根大通：伊朗军事升级、美联储紧缩、政府关门、关税上调、芯片管制一起来了！",
+              "lead": "距离2026年结束还有五周，市场却要同时面对一张密密麻麻的风险清单。 据追风交易台消息，11月19日，摩根大通全球研究主席Joyce Chang率团队在华盛顿与政策制定者、官方债权人及独立智库人士举行了一整天的闭门会议。该行于11月24日发布报告，将会议核心内容整理为\"中期选举后需监测的十大风险\"。 报告开篇基调沉重。分析师写道，\"从华盛顿回来后，我们对中期选举后的风险更加谨慎\"，而那一周几乎每一类资产都在下跌，美债和美元是仅有的例外。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3786649",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "海外网安龙头业绩高增，大模型、Agent防护成为长期重要增量，信息安全ETF嘉实(159613)汇集A股信息安全概念龙头",
+              "lead": "截至2026年11月25日 11:26，中证信息安全主题指数下跌1.02%。成分股方面涨跌互现，华胜天成领涨3.09%，兆日科技上涨2.07%，飞天诚信上涨2.01%；国芯科技领跌，汇顶科技、旋极信息跟跌。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15371635.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "第二十八届中国国际高新技术成果交易会今日启幕，聚焦人工智能与机器人、半导体、低空经济，南方基金司南投顾关注科技产业的成果转化窗口",
+              "lead": "南方基金旗下司南投顾关注科技产业成果转化窗口中的结构性机会，通过基金优选和组合分散，帮助投资者理性看待产业趋势与短期估值之间的关系。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15371671.html",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "3.5 小时直达，神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
+              "lead": "IT之家 11 月 25 日消息，据中国载人航天工程办公室消息，神舟二十四号载人飞船入轨后，于北京时间 2026 年 11 月 25 日 11 时 56 分， 成功对接于空间站天和核心舱前向端口 ，整个对接过程历时约 3.5 小时。 按任务计划，3 名航天员随后将从神舟二十四号载人飞船进入空间站天和核心舱。神舟二十三号航天员乘组已做好迎接神舟二十四号航天员乘组进驻各项准备工作。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/032/017.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 4
+            },
+            {
+              "title": "Google研究人员展示量子芯片在逻辑游戏中胜过经典计算机的案例",
+              "lead": "Google研究人员日前宣布，该公司的实验性量子计算机在一种名为“魔方游戏”的逻辑谜题中，超越了经典计算机所能达到的最佳策略。这项研究已发表于《科学》杂志，为物理学家提供了一次在真实硬件上验证量子“情境性”现象的机会。研究人员认为，这一现象可能是量子计算机未来能力的关键来源。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1587874.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "全球媒体聚焦丨“这次任务是载人航天惠及全球更多群体的新一步”",
+              "lead": "11月24日，神舟二十四号航天员乘组正式亮相，来自巴基斯坦的航天员穆罕默德·齐尚·阿里将以载荷专家身份执行短期飞行任务，成为首个到访中国“天宫”的外籍航天员。对此，多国媒体进行了关注。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-25/10737352.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "上海市委书记陈吉宁被调查",
+              "lead": "陈吉宁曾任清华大学校长、环保部长和北京市长，其背景与习近平的科技优先事项十分契合。很多分析人士曾认为，他有望在习近平的下一届政府中获得晋升。 Pool photo by Carl Court 上海市委书记陈吉宁。他的科学教育背景被认为与中国最高领导人习近平的优先事项相契合。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/china/20261125/shanghai-party-leader-investigation-china-xi/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "宏福苑大火一周年：「这条刺永远都在」，遗属在伤痛中寻找答案",
+              "lead": "对许多家庭来说，道歉只是「最低消费」，他们仍在等一个完整的答案。BBC中文接触了多位遇难者家属，记录他们怎样度过这一年。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c3j4r274lj82o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/56ac/live/daaf9c90-e86c-11f1-a80a-1f378de16ace.jpg"
+            },
+            {
+              "title": "黄仁勋复职凸显特朗普不惜代价力保人工智能发展",
+              "lead": "特朗普动用白宫影响力推动黄仁勋复职，这展示了他为维持AI发展及股市繁荣愿意走多远，以及准备承担多大风险。他的举动以及美国经济对AI行业的过度依赖令外界担忧。 Eric Lee for The New York Times 黄仁勋周一复职担任英伟达首席执行官。特朗普总统在社交媒体上表示，英伟达需要黄仁勋，而美国需要英伟达。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261124/trump-jensen-huang-nvidia/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "端对谈：开票之夜，从三地角度看台湾地方大选",
+              "lead": "2026 年台湾九合一地方选举将于 11 月 28 日投票。在投票截止、开始开票后，我们将在台湾时间下午 5 点于端传媒 YouTube 频道，进行约 2 小时的开票直播对谈。 台湾的开票节目通常是台湾人看台湾：看蓝绿消长、看县市翻转、看这场选举如何影响两年后的总统大选。这次我们想从三个人、三个地方的角度，一起探讨这场地方选举，对台湾以外的华文世界意味著什么？",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261125-taiwan-local-election-live-talk/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/IMGL4746-copy-1.jpg"
+            },
+            {
+              "title": "他们为北京城立一部流动的物候志",
+              "lead": "“京华物候 二十四节气的北京叙事”展示开幕 中国画配AR与短视频让麻雀飞出画框",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-25/10737369.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "田秉毅任中国国家羽毛球队主教练",
+              "lead": "中新社北京11月24日电 据中国羽毛球协会24日消息，为进一步做好2028洛杉矶奥运会备战参赛工作，经过充分酝酿、广泛征求意见，中国羽毛球协会研究决定聘请田秉毅担任中国国家羽毛球队主教练。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-24/10737252.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "中国男子冰球联赛：深圳队力克辽宁沈阳队 收获两连胜",
+              "lead": "中新网深圳11月24日电 (记者 张璐)2026-2027赛季中国男子冰球职业联赛(简称“赛事”)23日在深圳昆仑鸿星冰球俱乐部进行第二轮角逐。最终，深圳昆仑鸿星男子冰球队(简称“深圳队”)以6:5力克辽宁沈阳卡尔美男子冰球队(简称“辽宁沈阳队”)，收获两连胜。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-24/10737167.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "从协商会场到旷野一线 山东地矿画出新时代统战同心圆",
+              "lead": "中新网济南11月25日电 (周艺伟)在山东莱州湾海岸带，“空天地海井”一体化观测体系持续运转；在沂蒙山区，生态监测预警网络守护绿水青山；在新疆天山南北，地质队员发挥技术优势助力边疆建设，促进各民族交往交流交融……一项项攻坚成果的背后，都有党外技术人才、各民族职工与党员同心实干的身影。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-25/10737427.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "从兵工厂小镇到英伟达核心圈：黄乐的人生轨迹与间谍疑云",
+          "lead": "通过走访黄乐的故乡、查阅公司文件和公开资料，并采访十余名熟悉她的人士，时报还原了黄乐的成长背景与人生轨迹。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/china/20261125/nvidia-alice-huang-china/?utm_source=RSS"
+        },
+        {
+          "title": "「不能没有你」：黄仁勋回归，台湾股市的狂欢与半导体「 黑天鹅」风险",
+          "lead": "黄仁勋在美国总统特朗普介入下重掌辉达，台湾股民在台股涨停板的气氛大喊「爸爸回来了」。但「台湾干爹」会再一次变成黑天鹅吗？",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/crp3eqg9l8eeo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "A股三大股指均跌超1%，医药、消费逆势走强，半导体产业链下跌，恒科指盘中涨超2%之后回落，小米涨4%",
+          "lead": "11月25日，A股A股在隔夜美股科技股\"一日游\"式回调的拖累下集体低开，随后盘初震荡收窄，盘中跌幅有所扩大，三大指数午盘均跌超1%",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3786653"
+        },
+        {
+          "title": "费城半导体指数单日回落7.88%，存储芯片集体重挫，南方基金司南投顾关注AI产业链的估值分歧",
+          "lead": "南方基金旗下司南投顾关注AI产业链内部的分化与估值分歧，通过基金优选和组合分散，帮助投资者减少对单一环节价格弹性的过度暴露。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15371653.html"
+        },
+        {
+          "title": "“人类史上最大 IPO”上市不到 1 周就破发，Anthropic 跌破 83 美元发行价",
+          "lead": "IT之家 11 月 25 日消息，彭博社昨日（11 月 24 日）发布博文，报道称“人类史上最大 IPO”上市（11 月 19 日）的",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/031/983.htm"
+        },
+        {
+          "title": "黄仁勋重回英伟达引发审视 投资者敦促重视继任者问题",
+          "lead": "黄仁勋重回英伟达缓解了市场对英伟达领导层稳定性的担忧，同时也减轻了对人工智能行业投资放缓的担忧，但对英伟达内部治理问题的质疑却并未消退。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1587836.htm"
+        },
+        {
+          "title": "祝贺！神舟二十四号载人飞船发射取得圆满成功",
+          "lead": "11月25日，搭载神舟二十四号载人飞船的长征二号F遥二十四运载火箭在酒泉卫星发射中心点火发射。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/1350,202611253939124286.html"
+        },
+        {
+          "title": "数说科技：一个月内1.9亿笔个资外泄，日本资安怎么了？",
+          "lead": "编按：「 数说科技 」是端传媒的注册免费栏目，每周三更新。从一个数字出发，用1500字解析科技话题，追踪值得关注的 AI 趋势。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261125-tech-in-numbers-japan-data-breach-crisis/"
+        },
+        {
+          "title": "基因工程烟草能用于高效合成抗癌药",
+          "lead": "紫杉醇（paclitaxel）是临床上应用最广泛的化疗药物之一，被大量用于治疗乳腺癌、卵巢癌和肺癌等多种恶性肿瘤。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85981"
+        },
+        {
+          "title": "百度大模型文心 5.5 Flash Preview 正式开源",
+          "lead": "百度把文心 5.5 Flash Preview 的权重开放出来了。 11 月 24 日，官方发布开源公告",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/503792"
+        },
+        {
+          "title": "这剧高开低走，诈骗剧来喽，一辈子避雷导演。 (评论: 我的有罪之人)",
+          "lead": "清晏 评论: 我的有罪之人 评价: 还行",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17921600/"
+        },
+        {
+          "title": "美国将Megaspeed列入贸易黑名单",
+          "lead": "Megaspeed正因涉嫌违法向中国走私芯片接受司法部的刑事调查。黄仁勋丑闻的核心人物黄乐曾担任该公司高管。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/business/20261124/trump-administration-megaspeed-trade-blacklist-nvidia/?utm_source=RSS"
+        },
+        {
+          "title": "黄仁勋重掌Nvidia：习近平从特朗普身上看到了什么？",
+          "lead": "黄仁勋戏剧性重返英伟达，不仅让北京看到了影响华盛顿的可能，也让习近平进一步了解特朗普的软肋，以及中国在中美科技与贸易博弈中可以利用的筹码。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cjr4gwxzgyydo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "黄仁勋复职“加速”美国国会“芯片出口管制”立法？",
+          "lead": "巴克莱认为，黄仁勋重返英伟达CEO职位，正在为美国国会推进半导体出口管制立法提供新的政治动能。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3786650"
+        },
+        {
+          "title": "原子芯光完成超亿元天使轮融资",
+          "lead": "中性原子量子计算企业原子芯光近日宣布完成超亿元天使轮融资，由联想之星、上海未来产业基金联合领投，北京中关村资本、徐汇资本、嘉铭浩春、硅港资本",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15371701.html"
+        },
+        {
+          "title": "华尔街开始押注：美联储再这么加息 离猛烈降息不远了？",
+          "lead": "债券交易员正争相对冲以下风险：美联储加息和股市下跌将显著拖累美国经济，迫使美联储最早于明年晚些时候重新转向宽松货币政策。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://forex.eastmoney.com/news/1131,202611253939343866.html"
+        }
+      ],
+      "supplement": {
+        "title": "黄仁勋，一场拿破仑式的复辟",
+        "lead": "他们说，没有黄仁勋的商业手腕和技术能力，就没有辉达（NVIDIA，又译英伟达）今日的荣景，这终究是他从无到有打造的公司，怎么可以逼他出走。他们说，整间公司、乃至整个业界根本没有人能够取代黄仁勋，他对业界生态的掌握不是任何人所能企及。他们说，怎么可以因为一次的误判，就否定他整个人的贡献。",
+        "body": [
+          "他们说，没有黄仁勋的商业手腕和技术能力，就没有辉达（NVIDIA，又译英伟达）今日的荣景，这终究是他从无到有打造的公司，怎么可以逼他出走。他们说，整间公司、乃至整个业界根本没有人能够取代黄仁勋，他对业界生态的掌握不是任何人所能企及。",
+          "他们说，怎么可以因为一次的误判，就否定他整个人的贡献。他们说，从员工、业界到广大投资人，所有人都唯独对他有信心，从特朗普到马斯克都高呼非黄仁勋不可──君不见，黄仁勋复归的消息一出，辉达股价立刻飙涨30%，从美国到台湾再到韩国，困扰投资人的股灾一夕之间拨云见日？",
+          "这些话可能都没有错。问题在于，如果我们基于这些理由支持黄仁勋复辟，我们也会跟1815年的法国菁英一样，全力支持拿破仑二度登基。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261125-international-jensen-huang-as-napoleon-bonaparte/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/GettyImages-2299714527.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "BBC×3",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "界面×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 4,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
+        "lead": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
+        "body": [
+          "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering."
+        ],
+        "source": "NYT World",
+        "group": "紐約時報",
+        "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
+        "lead": "Abelardo de la Espriella to take control of an operation involving scores of security personnel trying to free at least 20 hostages Colombia’s president has",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/f8a8fb8355ddb1ecdb881d8269bc5511bc8d29a1/501_0_4354_3482/master/4354.jpg?width=140&quality=85&auto=format&fit=max&s=dda521c7fce25858e4b1ae7552a3546b",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
+              "lead": "A 2022 Solomon Islands agreement with China had raised concerns it would enable Beijing to establish a military presence on the Pacific island. The new accord precludes such bases.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-Oz-Solomons-01-gzjw/25int-Oz-Solomons-01-gzjw-mediumSquareAt3X.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Breakaway group of 110 clubs deliberately misses Football Queensland registration as revolt over $5 gate fees builds",
+              "lead": "Clubs fail to sign up for 2027 season as disquiet over governing body’s executive grips football community About 100 football clubs, representing hundreds of thousands of players",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/australia-news/2026/nov/25/breakaway-clubs-miss-football-queensland-registration-gate-fee-dispute",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/7bd80ca4510055c7c6a59b57e6cce169acc45f5b/401_0_3919_3137/master/3919.jpg?width=140&quality=85&auto=format&fit=max&s=30f858babcc8284a5bb2fbc64f539fd6",
+              "consensus": 5
+            },
+            {
+              "title": "Japan stocks’ rebound threatened as retail margin losses balloon",
+              "lead": "Unrealized losses on long margin positions averaged 19.7% on Tuesday, hovering near the 20% level associated with a heightened risk of forced selling.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/business/2026/11/25/japan-stocks-retail-losses/",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/575837.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Australia’s inflation rate jumping to 4.9% a ‘very serious moment’ for economy, Chalmers declares",
+              "lead": "Figure up from 4.3% annual rate in September and nearly double Reserve Bank’s official target of 2.5% as Australia’s cost-of-living crisis intensifies Follow our Australia politics live blog for latest updates Get our",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://i.guim.co.uk/img/media/499ada5ed54afcbc41596219521a53ff447827a4/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=36f537dbf9f90ebd0d2fadb83678fdc8",
+              "consensus": 5
+            },
+            {
+              "title": "US preparing to unveil plan for new tariffs on global trading partners",
+              "lead": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Trump readies raft of new tariffs on major economies",
+              "lead": "China, the EU, Japan and South Korea expected to be hit by levies as US president doubles down on trade strategy",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F46bdc873-e498-4e53-8913-0f38120027c7.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "Asia’s stock markets dive as doubts swirl over AI boom",
+              "lead": "Markets fall sharply in Japan, South Korea and Taiwan in latest tech-led sell-off.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+              "lead": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+              "lead": "Most streaming music providers have opted to label AI-generated content on their platforms, and until now, Tidal was one of them. However, the company is about to take a harder stance.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-1152x648.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+              "lead": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Champions League: Real Madrid thrash PSV 5-1 in comeback win as Manchester City held by Napoli",
+              "lead": "Real Madrid extended their winning run to 10 games in all competitions on Tuesday, overturning an early deficit to rout PSV Eindhoven 5-1 in the Champions League",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/sport/20261124-champions-league-real-madrid-thrash-psv-5-1-in-comeback-win-as-manchester-city-held-by-napoli",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://s.france24.com/media/display/16447d6a-e85a-11f1-b652-1991d4929b54/w:1024/p:16x9/AP26328810233650.jpg",
+              "consensus": 2
+            },
+            {
+              "title": "Senegal reinstated as Afcon 2025 winners - 10 months after tournament",
+              "lead": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c6/live/67284a50-e7fa-11f1-ab60-79086b6495b8.jpg",
+              "consensus": 4
+            },
+            {
+              "title": "Women's smaller ball trial extended into second season",
+              "lead": "World Rugby extends the women's 4.5 ball trial for a second season after releasing data showing improvements in several areas of the game and receiving \"overwhelmingly positive\" feedback from players and coaches.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm0l3nlk2zlzo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a13/live/3ce06f80-e808-11f1-95bb-3f37d3e026b0.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "‘Dancing With the Stars’ Crowns Season 35 Winner After Emotional Record-Breaking Finale",
+              "lead": "SPOILER ALERT: This article contains major spoilers for the Nov. 24 finale of “Dancing With the Stars.” Season 35 of “Dancing With the Stars” is officially coming to an end. On Tuesday, Nov.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/tv/news/dancing-with-the-stars-winner-season-35-ezra-frech-1236957201/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/Connor-Rylee.jpg",
+              "consensus": 4
+            },
+            {
+              "title": "Indonesia-France Film Lab Unveils Six Projects as Paris Readies First Southeast Asia Co-Production Forum (EXCLUSIVE)",
+              "lead": "Six Indonesian projects, each from a director-producer pairing working on a debut or sophomore feature, have been chosen for the 2026 Indonesia-France Film Lab X MTN Lab, which runs Nov.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/markets-festivals/indonesia-france-film-lab-projects-paris-forum-1236957588/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/My-Tears-JAFF-project.jpg",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists discover a new type of depression that common antidepressants struggle to treat",
+              "lead": "Researchers have discovered a new subtype of depression that may affect nearly one in four people with severe, recurrent, or persistent depression.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261123005352.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Ancient rocks from the Moon’s far side rewrite the Solar System’s violent past",
+              "lead": "Scientists studying ancient rocks from the Moon’s far side have uncovered surprising evidence that challenges decades of thinking about the Solar System’s violent past.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261121221136.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+          "lead": "The network attacked key figures in the ruling DPP",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion",
+          "lead": "Verdict marks a victory for federal prosecutors after an eight-year",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
+          "lead": "Presidents before him have bailed out companies in times of national",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html"
+        },
+        {
+          "title": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
+          "lead": "Jury finds former police officer guilty of killing couple in Baird’s",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb"
+        },
+        {
+          "title": "Washington to unveil new tariffs after probe on excess factory capacity: sources",
+          "lead": "The duties would partly replace tariffs struck down by the U.S.",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/business/2026/11/25/trump-tariffs-probe-factory-capacity/"
+        },
+        {
+          "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
+          "lead": "Huawei was found guilty of bank fraud, money laundering and trade",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html"
+        },
+        {
+          "title": "Gunmen hold hostages in Colombia supermarket after failed armoured car raid",
+          "lead": "Armed men are holding at least 20 people after releasing 10 from a",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/americas/article/3375682/gunmen-hold-hostages-colombia-supermarket-after-failed-armoured-car-raid"
+        },
+        {
+          "title": "Gunmen hold dozens hostage in Colombia supermarket",
+          "lead": "A group of armed men is holding around 20 people hostage in Cartagena",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss"
+        },
+        {
+          "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+          "lead": "The company said it will still accept songs that were made with AI",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
+        },
+        {
+          "title": "New York jury convicts Huawei of stealing trade secrets",
+          "lead": "A New York jury has found Chinese telecom giant Huawei guilty of",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/americas/20261124-new-york-jury-convicts-huawei-of-stealing-trade-secrets"
+        },
+        {
+          "title": "Huawei found guilty of stealing trade secrets",
+          "lead": "A jury has found Huawei guilty of stealing US trade secrets",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial"
+        },
+        {
+          "title": "Homo erectus lived in the rainforest alongside Denisovans",
+          "lead": "Homo erectus was walking around mainland Asia at least 60",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/"
+        },
+        {
+          "title": "Oscars Visual Effects Top 20 Revealed: Disney Leads With Four Titles as ‘The Odyssey,’ ‘Ramayana,’ ‘Dune: Part Three’ and ‘Wildwood’ Make the Cut (EXCLUSIVE)",
+          "lead": "The Oscar race for visual effects is down to 20",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/awards/oscars-visual-effects-top-20-shortlist-disney-dune-odyssey-1236957450/"
+        },
+        {
+          "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
+          "lead": "A revolutionary new nasal treatment has restored youthful learning",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm"
+        },
+        {
+          "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+          "lead": "The verdict follows a months-long trial in New York.",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Huang says he still does not believe in CEO succession planning at Nvidia",
+          "lead": "Chief executive speaks to staff at first company-wide meeting after",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1"
+        }
+      ],
+      "supplement": {
+        "title": "A black hole the size of an atom could destroy an entire star",
+        "lead": "MIT scientists have discovered that tiny black holes left over from the Big Bang could slowly devour stars from within, eventually triggering spectacular explosions visible across galaxies.",
+        "body": [
+          "MIT scientists have discovered that tiny black holes left over from the Big Bang could slowly devour stars from within, eventually triggering spectacular explosions visible across galaxies.",
+          "Detecting these unusual cosmic events could reveal the existence of primordial black holes and help solve the mystery of dark matter."
+        ],
+        "source": "ScienceDaily",
+        "group": "ScienceDaily",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261122060332.htm",
+        "category": "science",
+        "categoryLabel": "Science",
+        "consensus": 2
+      },
+      "stats": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "ScienceDaily×4",
+          "Guardian×3",
+          "BBC×3",
+          "Variety×3",
+          "紐約時報×2",
+          "Japan Times×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-25T04:49:09.431Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 797,
+        "lang": 455,
+        "fresh": 377,
+        "denoised": 375,
+        "deduped": 361
+      },
+      "en": {
+        "fetched": 797,
+        "lang": 342,
+        "fresh": 329,
+        "denoised": 324,
+        "deduped": 315
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 15,
+        "maxGroupShare": 21,
+        "categories": 7,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "BBC×3",
+          "華爾街見聞×3",
+          "端傳媒×3",
+          "界面×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 4,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 36,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 11,
+        "categories": 7,
+        "topGroups": [
+          "ScienceDaily×4",
+          "Guardian×3",
+          "BBC×3",
+          "Variety×3",
+          "紐約時報×2",
+          "Japan Times×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

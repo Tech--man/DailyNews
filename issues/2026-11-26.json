@@ -1,0 +1,923 @@
+{
+  "issue": 73,
+  "date": "2026-11-26",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历十月十八 · 小雪",
+    "en": "18th day of the 10th lunar month · Minor Snow"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "中国牵头制定！这一国际标准成30余个欧洲国家重要技术参考",
+        "lead": "记者今天从国家数据局了解到，由我国专家牵头制定的人工智能训练数据质量国际标准(ISO/IEC 5259-4:2024)已被欧洲相关机构采纳，成为30余个欧洲国家人工智能合规评估的重要技术参考，将应用于人工智能训练数据采集、标注、质量判断等环节。我国在人工智能国际规则制定中持续发挥重要作用。",
+        "body": [
+          "记者今天从国家数据局了解到，由我国专家牵头制定的人工智能训练数据质量国际标准(ISO/IEC 5259-4:2024)已被欧洲相关机构采纳，成为30余个欧洲国家人工智能合规评估的重要技术参考，将应用于人工智能训练数据采集、标注、质量判断等环节。",
+          "我国在人工智能国际规则制定中持续发挥重要作用。"
+        ],
+        "source": "中新網財經",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-26/10738006.shtml",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "美国宣布对中国、欧盟等加征新关税",
+        "lead": "特朗普政府将这些关税描绘为对不公平贸易行为的回应。新关税针对来自数十个国家的进口商品，包括中国、日本和欧盟成员国。这标志着全球贸易战再次升级。 The New York Times 特朗普总统将第二次依据《1974年贸易法》第301条大规模征收关税。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/business/20261126/trump-tariffs-trade/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "商务部就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问",
+              "lead": "中新网11月26日电 据商务部网站消息，11月26日，商务部新闻发言人就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问。",
+              "source": "中國新聞網",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-26/10737998.shtml",
+              "category": "world",
+              "categoryLabel": "国际",
+              "consensus": 2
+            },
+            {
+              "title": "研究称立场亲北京的AI虚假账号试图影响台湾选情",
+              "lead": "范德堡大学的研究人员开发了一种工具，可以检测出人工智能生成的、与中国政府立场一致的社交媒体帖子。新研究表明中国已开始利用人工智能改进信息战手段。 Lam Yik Fei for The New York Times 2024年台湾总统选举期间，台北的投票点。台湾将于11月28日举行地方选举。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/asia-pacific/20261126/taiwan-elections-misinformation/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "香港宏福苑大火一周年：灾后余生，家在何方？",
+              "lead": "香港宏福苑大火一周年，BBC中文纪录多位难属如何走过灾后一年。这场香港数十年以最致命灾难夺去168条性命，1984户失去家园，包括丧失丈夫与爸爸的Christy一家与父母双亡的苏先生。一年来，灾民一边重建新生活，一边等待调查报告、申请法律援助，一边向年幼孩子解释死亡。调查结论公布后，官员辞职，数十人被捕或起诉。但对许多仍在伤痛中家庭来说，一切远远未及完结。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cqvg261dkxp7o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0dd6/live/7bfeb2f0-e860-11f1-99b6-a35a62fa4264.jpg"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "商务部等8部门关于印发《服务贸易发展“十五五”规划》的通知",
+              "lead": "中新网11月26日电 据商务部网站消息，11月26日，商务部等8部门发布关于印发《服务贸易发展“十五五”规划》的通知，具体内容如下：",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-26/10737955.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "毛利率回升，理想汽车绩后涨超11%！小鹏人形机器人即将硬件量产，港股通汽车ETF汇添富(159210)指数涨超3%！27年展望：关注出口与AI双主线",
+              "lead": "11月26日，港股市场震荡上行，恒生指数涨超1%，汽车板块强劲冲高，港股通汽车ETF汇添富（159210）标的指数涨超3%。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15376196.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "美联储“褐皮书”：全美物价升温范围扩大 12月加息势在必行？",
+              "lead": "美东时间周三，美联储公布全美经济形势调查报告，即“褐皮书”。褐皮书显示，今年11月全美物价压力范围进一步扩大，印证美联储官员对通胀粘性的担忧。 美联储官员将结合这份一线调研信息，在两周后的议息会议上做出利率决议。 市场普遍预期美联储将加息25个基点，为年内第二次加息 。 美国通胀压力持续升温 美联储褐皮书汇总全美企业与消费者一线调研信息，用以研判经济形势。",
+              "source": "東方財富",
+              "group": "東方財富",
+              "link": "http://finance.eastmoney.com/news/1344,202611263940290275.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "创业板算力ETF鹏华(158057)标的指数涨超2.2%，八部门发文推动云计算、大模型服务出海",
+              "lead": "消息面上，商务部等8部门印发《服务贸易发展“十五五”规划》，其中提到，稳妥有序推动云计算、大模型等人工智能相关服务出海，培育人工智能领域服务贸易新业态。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15376172.html",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考",
+              "lead": "IT之家 11 月 26 日消息，据央视新闻今日报道，由我国专家牵头制定的人工智能训练数据质量国际标准（ISO / IEC 5259-4:2024） 已被欧洲相关机构采纳，成为 30 余个欧洲国家人工智能合规评估的重要技术参考 ，将应用于人工智能训练数据采集、标注、质量判断等环节。 我国在人工智能国际规则制定中持续发挥重要作用。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/032/714.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            },
+            {
+              "title": "被宣布即将停产的特斯拉Cybertruck成了美国卖得最快的二手皮卡",
+              "lead": "特斯拉Cybertruck的销量从未达到首席执行官埃隆·马斯克发布时预测的高位，但这款造型前卫、采用不锈钢车身的电动皮卡，正在二手车市场迎来第二春。据美国汽车搜索与研究平台iSeeCars.com的分析，该平台统计了2026年10月超过110万辆车龄一至五年的二手车交易，并按动力类型、车型类别和具体车型计算平均在售天数。",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/tech/1587976.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "欧盟对15家俄罗斯实体实施贸易制裁",
+              "lead": "中新网布鲁塞尔11月26日电(记者 德永健)欧盟25日对俄罗斯发起贸易制裁，将俄罗斯15家实体列为制裁对象。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-26/10737929.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "中国人工智能雄心面临一个严峻问题：去哪里找钱",
+              "lead": "中美企业都需要解决训练AI模型的成本飙升问题，但中国企业面临的是一个更为严峻的融资环境。科技巨头正苦苦应对负现金流问题，投资者对人工智能的热情也已降温。 Qilai Shen for The New York Times 中国深圳繁忙的电子市场。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261126/china-ai-investment-spending/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "白纸运动四年之后，上海青年公共空间去哪儿了？",
+              "lead": "白纸运动四年后，BBC中文对话多位上海酒吧、咖啡店老板和昔日常客、白纸运动亲历者，在他们眼里，青年空间是如何在四年里逐渐消失的。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cwe851kg1kj1o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3706/live/9cf86d60-e7cb-11f1-b4f7-b50a198373f6.jpg"
+            },
+            {
+              "title": "华为在美被判窃取商业机密等罪名成立",
+              "lead": "华为面临12项刑事指控，其中10项被裁定罪名成立，其中包括银行欺诈、串谋窃取商业机密以及串谋欺诈美国；但勒索敲诈共谋罪与串谋妨碍司法公正罪不成立。 Greg Baker/Agence France-Presse — Getty Images 由于华为自2019年以来实际上已被禁止在美国销售产品，这一酝酿已久的裁决或许不会对其命运产生重大影响。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261125/huawei-guilty-new-york/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "聚焦AI短漫剧创作 海南举办大赛助力人才与项目集聚",
+              "lead": "中新网海口11月26日电 (吴璞瑄 李思佳)在海南自由贸易港即将迎来全岛封关运作启动一年之际，海南首届“复兴杯”AI短漫剧创作大赛高校巡讲首站活动25日下午在琼台师范学院举行。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-26/10737944.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "新闻游戏｜真假之间",
+              "lead": "选举假讯息新闻游戏：投票前 72 小时，一则有关选举谣言在群组内传开。你会选择散播，还是拆穿它？",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261126-interactive-election-disinformation-game/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/cover-3x2-1.jpg"
+            },
+            {
+              "title": "断壁残垣的春天 (评论: 小城之春)",
+              "lead": "*~li_il~* 评论: 小城之春 评价: 推荐",
+              "source": "豆瓣",
+              "group": "豆瓣",
+              "link": "https://movie.douban.com/review/17923210/",
+              "category": "culture",
+              "categoryLabel": "文化"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "“冰超”2026第三届上合组织冰球比赛决赛：俄罗斯冶金冰球队成功卫冕",
+              "lead": "中新社齐齐哈尔11月25日电 (记者 王妮娜)“冰超”2026第三届上海合作组织冰球比赛11月25日晚在“中国冰球之城”齐齐哈尔市迎来巅峰对决，俄罗斯冶金冰球队战胜吉尔吉斯斯坦波特冰球队，成功卫冕。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-26/10737867.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "2027中缅瑞丽—木姐跨国半程马拉松报名启动 将恢复境外赛道",
+              "lead": "中新网昆明11月26日电 (罗婕)25日，2027中缅瑞丽—木姐跨国半程马拉松报名正式启动，此次赛事恢复境外赛段，跑者将解锁“一马跑两国”的独特体验。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-26/10737927.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "供给提质、就近可及 托起“一老一小”稳稳的幸福",
+              "lead": "近日，经国务院同意，国家发展改革委、民政部、国家卫生健康委、教育部联合印发《“一老一小”服务体系建设实施方案》并对外公布(以下简称《实施方案》)。该《实施方案》锚定家庭最关切的养老、托育难题，设置清晰可考核的量化指标、配套系统性支撑举措，让带娃、养老两件民生大事，离家庭更近、成本更低、服务更便捷。",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-26/10737951.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "美国官员向国会工作人员通报英伟达事件相关情报",
+          "lead": "官员在简报会上说明了黄乐与中国国安部之间的联系。他们表示，仍未完全弄清黄乐在事件中扮演的角色",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/usa/20261126/intelligence-nvidia-affair-congressional-briefing/?utm_source=RSS"
+        },
+        {
+          "title": "全球商业航天产业正逐步布局太空算力等新方向，航空航天ETF嘉实(159638)布局行业轮动机会",
+          "lead": "截至2026年11月26日 11:06，中证智选航空航天科技指数下跌0.03%。成分股方面涨跌互现，华力创通领涨3.15%",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15376373.html"
+        },
+        {
+          "title": "神舟二十四号成功发射 首位巴基斯坦航天员登中国「天宫」意味什么？",
+          "lead": "这次任务对航天员阿里而言，这是巴基斯坦的荣耀时刻；对中国而言，则是其与美国争夺太空主导地位竞赛中的又一步进展。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cm9w91y0pge7o/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "全球首款 RGB 单芯片：首尔半导体量产新 LCD 背光技术，峰值 3000 尼特、覆盖 100% DCI-P3 色域",
+          "lead": "IT之家 11 月 26 日消息，首尔半导体株式会社（Seoul Semiconductor Co., Ltd.）昨日（11 月 25",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/032/614.htm"
+        },
+        {
+          "title": "科学家发现130岁高龄鱼类仍在美国河流中游弋",
+          "lead": "研究人员发现，一种原产于美国密苏里河的鱼类寿命远超此前认知。如今在蒙大拿州上密苏里河游动的某些蓝吸口鱼可能早在20世纪开始之前就已孵化。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/science/1587972.htm"
+        },
+        {
+          "title": "Robotaxi 即将开启无人运营、机器人脱稿演讲，小鹏科技日迎来了自己的「奇点时刻」",
+          "lead": "时间过得很快，一转眼又到了小鹏科技日，又到了人形机器人 IRON 走上舞台的时候。 去年在同一个舞台上，IRON 靠高度拟人的猫步惊艳全场",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1695212?utm_source=rss&utm_medium=rss&utm_campaign"
+        },
+        {
+          "title": "宏福苑居民的灾后一年，走不出的精神困兽斗",
+          "lead": "11月中一个下午，欧太约定街坊回到宏福苑附近走走。 「我们要挑战龙潭虎穴。」她说。 造成168人死、79伤的宏福苑大火已经过去一年。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261126-hongkong-wang-fuk-court-fire-1year-residents-voices/"
+        },
+        {
+          "title": "研究显示不是所有地区的男性精子数量都大幅下降",
+          "lead": "丹麦的一项研究显示，该国男性精子的数量并非大幅下降，过去 26 年一直维持稳定，甚至少数人还表现出改善的迹象。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=85990"
+        },
+        {
+          "title": "请无偿归还家庭煮夫自由，男性穿衣自由！ (评论: 我的有罪之人)",
+          "lead": "嘎蛋大王 评论: 我的有罪之人 评价: 很差",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17923139/"
+        },
+        {
+          "title": "黄仁勋重返英伟达，北京喜忧参半",
+          "lead": "分析人士指出，北京或许乐见这位主张对华出售先进芯片的领军人物回归，但这场风波也可能进一步坚定中国寻求芯片自力更生的决心。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/china/20261125/jensen-huang-nvidia-china/?utm_source=RSS"
+        },
+        {
+          "title": "美债收益率回落带动黄金反弹，南方基金旗下低费率产品金ETF南方(159834)盘中活跃",
+          "lead": "截至10:40，金ETF南方（159834）盘中换手3.99%，成交7697.39万元，跟踪指数黄金集中定价（SHAU合约）。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15376263.html"
+        },
+        {
+          "title": "BBC事实查核：与中国有关帐号用AI生成影攻击台湾选举候选人",
+          "lead": "一波与中国有关的帐号用AI生成影片，攻击台湾执政党关键人物，包括总统赖清德和台北市长候选人沈伯洋。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/c6rmgvkp322xo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "端LIVE：开票之夜，从三地角度看台湾地方大选",
+          "lead": "2026 年台湾九合一地方选举将于 11 月 28 日投票。在投票截止、开始开票后，我们将在台湾时间下午 5 点于端传媒 YouTube",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261125-taiwan-local-election-live-talk/"
+        },
+        {
+          "title": "A股热点前瞻丨三部委划定2030通信新基建路线图；SpaceX百万颗算力卫星获批；小鹏IRON明年1",
+          "lead": "①6G建设路线图出炉，2030年建成新一代 通信 网； ②华为将展示五层混合键合HBM等先进技术；",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/11874,202611263940220269.html"
+        },
+        {
+          "title": "昆汀：电影只是娱乐，不是艺术 (评论: 克里夫·布斯的惊险再冒险)",
+          "lead": "焱 评论: 克里夫·布斯的惊险再冒险 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17922156/"
+        },
+        {
+          "title": "“我犯了一些可怕的错误”：黄仁勋向英伟达员工致歉",
+          "lead": "黄仁勋在英伟达全员会议上承认自己违反了公司行为准则，并表示自己每天接受90分钟心理治疗。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/technology/20261125/jensen-huang-apology-nvidia-ceo/?utm_source=RSS"
+        }
+      ],
+      "supplement": {
+        "title": "「@meta.ai」召唤术，面对选举资讯操弄，台湾网民与 AI 的魔法对轰",
+        "lead": "2026 年 11 月 28 日，台湾即将迎来九类地方公职人员选举，包含备受关注的台北市市长一职。然而，相比政策议程，流传更广却是不同候选人的轶闻、meme 和卡通形象的短影音。 跨平台的可疑信息正在台湾网路资讯空间快速增长，它们不同于纯粹的「假新闻」，往往意图并不明确，来源与流向也错综复杂。研究者认为，它们构建出一个混乱的信息迷雾，让人们在其中彼此怀疑、对立，「乱成一团」；更严重是，它可能干扰台湾即将到来的民主选举。",
+        "body": [
+          "2026 年 11 月 28 日，台湾即将迎来九类地方公职人员选举，包含备受关注的台北市市长一职。",
+          "然而，相比政策议程，流传更广却是不同候选人的轶闻、meme 和卡通形象的短影音。跨平台的可疑信息正在台湾网路资讯空间快速增长，它们不同于纯粹的「假新闻」，往往意图并不明确，来源与流向也错综复杂。",
+          "研究者认为，它们构建出一个混乱的信息迷雾，让人们在其中彼此怀疑、对立，「乱成一团」；更严重是，它可能干扰台湾即将到来的民主选举。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261126-international-taiwanese-use-meta-ai-to-fight-election-disinformation/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/IMGL0034-copy-3.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 21,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "端傳媒×4",
+          "豆瓣×3",
+          "紐約時報中文×3",
+          "BBC×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "US announces new tariffs on host of countries including China",
+        "lead": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+        "body": [
+          "The new levies would hit many of America's biggest trading partners, including China and the EU."
+        ],
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Bank of Korea raises interest rates amid AI chip boom",
+        "lead": "Third quarter-point increase this year takes benchmark rate to 3.25 per cent",
+        "source": "Financial Times",
+        "group": "FT",
+        "link": "https://www.ft.com/content/823af978-e22b-49a4-a2a1-52867a6520fa",
+        "category": "business",
+        "categoryLabel": "Business",
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fadec4995-dc2e-4f9e-994f-067dce469ae4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "All hostages rescued after Colombian security forces storm supermarket, police say",
+              "lead": "Unclear if ‘hostage-taker’ who was killed may have been a hostage as daylong siege in Cartagena shopping centre ends Colombian police have stormed a supermarket in one of the country’s most popular tourist cities",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/a3585592d60a650e6033ad7e718f5e89458d216d/440_75_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=33ea692d3cf725ee634c71826c01d100",
+              "consensus": 5
+            },
+            {
+              "title": "How to Celebrate Thanksgiving as an Expat",
+              "lead": "From turkeys delivered on motorbikes to foie gras on the table, many American expatriates have adapted the traditional meal to their environs.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/25/world/asia/friendsgiving-thanksgiving-expats.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            },
+            {
+              "title": "Colombian president taunts arrested supermarket hostage-takers",
+              "lead": "Colombia’s president has confronted the men who held 76 people hostage at a Cartagena supermarket.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Stocks advance in Asia after volatile US trading over AI risks",
+              "lead": "Tech shares hit this month by fears over whether an AI boom can be sustained",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff1bd4d3b-316a-4258-ab5b-a9f7fe705ea1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+              "consensus": 5
+            },
+            {
+              "title": "US approves SpaceX plan to send a million data satellites to space",
+              "lead": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd78/live/4cbffd10-e91d-11f1-9108-c5b270b0703d.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Inside India newsletter: Roaring economy, foreign investors’ return and now record auto sales",
+              "lead": "Automakers in India are poised to sell over 30 million vehicles in the financial year ending March 2027.",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/26/india-auto-slaes-economy-suzuki-hyundai-toyota.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "Volatility-weary investors sideswiped as tariff mayhem adds to tech pain",
+              "lead": "The U.S. on Wednesday proposed a series of country-specific tariffs on goods from 14 major trading partners, including India, Japan and the EU.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/business/2026/11/26/markets/volatility-investors-tariff-tech-pain/",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/576056.JPG"
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "FCC approves SpaceX plan to put AI data centers in space",
+              "lead": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+              "lead": "In an extraordinary decision, the Federal Communications Commission on Wednesday granted SpaceX conditional authorization to deploy a constellation of up to 1 million Starmind satellites designed to serve as orbital",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/starmind-1152x648.jpeg",
+              "consensus": 5
+            },
+            {
+              "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+              "lead": "In an announcement on Wednesday , the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative .",
+              "source": "The Verge",
+              "group": "The Verge",
+              "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "Mauricio Pochettino still waiting for first win with United after Champions League draw",
+              "lead": "United is 19th in the Champions League and on course to reach the playoff round.",
+              "source": "Japan Times",
+              "group": "Japan Times",
+              "link": "https://www.japantimes.co.jp/sports/2026/11/26/soccer/manchester-united-lisbon-draw/",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/26/576083.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Match of the Day: Champions League goals, highlights & analysis",
+              "lead": "With Sporting v Man Utd, Club Brugge v Liverpool and Arsenal v Borussia Dortmund",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/iplayer/episode/m0034rj1/uefa-champions-league-match-of-the-day-matchday-5?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp4kbw.jpg",
+              "consensus": 3
+            },
+            {
+              "title": "PSG's perfect Champions League record ends as Roma snatch 2-2 draw with late penalty",
+              "lead": "Donyell Malen's 78th-minute penalty earned Roma a 2-2 draw at Paris Saint-Germain on Wednesday, ending the defending champions' perfect record in this season's Champions League.",
+              "source": "France24",
+              "group": "France24",
+              "link": "https://www.france24.com/en/sport/20261125-psg-s-perfect-champions-league-record-ends-as-roma-snatch-2-2-draw-with-late-penalty",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://s.france24.com/media/display/e2a6672a-e921-11f1-971b-95e072ff0a91/w:1024/p:16x9/AP26329749471569.jpg",
+              "consensus": 3
+            },
+            {
+              "title": "Malen and Roma deny injury-hit PSG in Champions League draw",
+              "lead": "Champions League holders Paris Saint-Germain held to 2-2 draw by Roma as injury-ravaged squad struggle.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/sports/2026/11/25/malen-and-roma-deny-injury-hit-psg-in-champions-league-draw?traffic_source=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "consensus": 3
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "‘Four Seasons In Java’ Review: Indonesia’s Oscar Submission Is a Gorgeous, Slow-Burning Thriller With Elements of Magical Realism",
+              "lead": "A gloriously executed slow burn of a suspense thriller, mixed with magical realism and other genre tropes, “Four Seasons In Java” connects the themes and concerns of Indonesian writer-director Kamila Andini’s previous",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/reviews/four-seasons-in-java-review-1236953446/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/java-1.png",
+              "consensus": 5
+            },
+            {
+              "title": "U2 Salutes Dolly Parton With Recreation of Their ‘Torn’ Duet in NFL Thanksgiving Eve Halftime Show",
+              "lead": "U2 paid tribute to Dolly Parton as part of its halftime performance Wednesday night at the NFL’s first-ever Thanksgiving Eve game. The “duet” between a live Bono and a recording of Parton from last summer was the",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/music/news/u2-nfl-thanksgiving-eve-halftime-show-performance-1236958652/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2306915410.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Scientists discover mysterious lakes more than a mile beneath the Red Sea",
+              "lead": "More than a mile beneath the surface of the Red Sea, scientists have discovered rare underwater lakes that could reveal secrets about Earth's ancient oceans and the possibility of alien life.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Scientists discover a surprising twist in how the body burns calories",
+              "lead": "Researchers have discovered that a drug can significantly increase the body's energy expenditure without clearly activating calorie-burning brown fat.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261124055856.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Common sleep and anxiety drugs could be harming aging brains",
+              "lead": "Nearly one in three older adults with dementia or other cognitive disorders takes potentially harmful medications that can worsen brain function and increase the risk of hospitalization and premature death.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261124055854.htm",
+              "category": "science",
+              "categoryLabel": "Science"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Coalition would privatise Melbourne’s sewage treatment while selling state-owned land and renewables to fund Victorian election promises",
+          "lead": "Liberal and Nationals’ pre-election policy costings also reveal that",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy"
+        },
+        {
+          "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
+          "lead": "One gunman was killed after what the country's president described as",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback",
+          "lead": "Jensen Huang is among the few business leaders to straddle both sides",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1"
+        },
+        {
+          "title": "South African President Wins Reprieve From ‘Farmgate’ Impeachment Investigation",
+          "lead": "A court threw out a report suggesting that Cyril Ramaphosa may have",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/25/world/africa/south-africa-ramaphosa-farmgate.html"
+        },
+        {
+          "title": "US trading partners’ patience wears thin as Trump slaps on new tariffs",
+          "lead": "Major US trading partners and companies on the economic front lines",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/us/economy-trade-business/article/3375819/us-trading-partners-patience-wears-thin-trump-slaps-new-tariffs"
+        },
+        {
+          "title": "U.S. targets China, EU, Japan and others with new tariffs citing overcapacity",
+          "lead": "Tariffs will apply to items from economies the Trump administration",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/business/2026/11/26/us-china-eu-tariffs-overcapacity/"
+        },
+        {
+          "title": "New US tariffs: 'Trump lashing out really indiscriminately', expert says",
+          "lead": "The United States on Wednesday unveiled proposed tariffs on 14",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "France24",
+          "link": "https://www.france24.com/en/tv-shows/a-propos/20261125-new-us-tariffs-trump-lashing-out-really-indiscriminately-expert-says"
+        },
+        {
+          "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+          "lead": "The personal consumption expenditures price index was expected to",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html"
+        },
+        {
+          "title": "US Education Department probes Virginia schools after sexual abuse scandal",
+          "lead": "Virginia schools face scrutiny after revelations of abuse and",
+          "category": "society",
+          "categoryLabel": "Society",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss"
+        },
+        {
+          "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+          "lead": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+        },
+        {
+          "title": "World’s largest trial of robotic knee replacement reveals surprising results",
+          "lead": "Robot-assisted knee replacement surgery offers greater surgical",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261124055904.htm"
+        },
+        {
+          "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+          "lead": "Amazon is on the hook to recall more than 400",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc"
+        },
+        {
+          "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
+          "lead": "In a powerful explosion that launched gray-white clouds over",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/"
+        },
+        {
+          "title": "Microdrama Revenue to Hit $20 Billion in 2026, but Profits Outside China Remain Thin, Media Partners Asia Report Finds",
+          "lead": "Global microdrama revenue will climb 24% to $20 billion in 2026",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/tv/news/microdrama-revenue-20-billion-2026-profits-thin-1236958647/"
+        },
+        {
+          "title": "Australia projected to completely miss 2035 emissions target without new climate policies",
+          "lead": "New official projections show country nearly on track for 2030 goal",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/australia-news/2026/nov/26/australia-projected-to-miss-2035-emissions-targets-climate-policies"
+        },
+        {
+          "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+          "lead": "Hard-right and hard-left candidates dominate the polls ahead of next",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "supplement": {
+        "title": "Astronomers may have discovered a black hole born before the first stars",
+        "lead": "A mysterious object named Phoebe, detected when it briefly magnified a distant star, could be a primordial black hole formed just after the Big Bang.",
+        "body": [
+          "A mysterious object named Phoebe, detected when it briefly magnified a distant star, could be a primordial black hole formed just after the Big Bang.",
+          "With an estimated mass only three times that of the Moon, it may be a 13-billion-year-old cosmic relic that offers new clues to the mystery of dark matter."
+        ],
+        "source": "ScienceDaily",
+        "group": "ScienceDaily",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261122060346.htm",
+        "category": "science",
+        "categoryLabel": "Science",
+        "consensus": 5
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 13,
+        "categories": 8,
+        "topGroups": [
+          "ScienceDaily×5",
+          "BBC×3",
+          "Al Jazeera×3",
+          "Japan Times×3",
+          "Variety×3",
+          "FT×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-26T04:00:30.022Z",
+    "sources": {
+      "configured": 36,
+      "ok": 35,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": [
+        {
+          "name": "華爾街見聞",
+          "reason": "The operation was aborted due to timeout"
+        }
+      ]
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 774,
+        "lang": 430,
+        "fresh": 338,
+        "denoised": 337,
+        "deduped": 315
+      },
+      "en": {
+        "fetched": 774,
+        "lang": 344,
+        "fresh": 334,
+        "denoised": 332,
+        "deduped": 323
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 14,
+        "maxGroupShare": 21,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×4",
+          "端傳媒×4",
+          "豆瓣×3",
+          "紐約時報中文×3",
+          "BBC×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 13,
+        "categories": 8,
+        "topGroups": [
+          "ScienceDaily×5",
+          "BBC×3",
+          "Al Jazeera×3",
+          "Japan Times×3",
+          "Variety×3",
+          "FT×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}

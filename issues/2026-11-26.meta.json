@@ -1,0 +1,71 @@
+{
+  "generatedAt": "2026-11-26T04:00:30.022Z",
+  "sources": {
+    "configured": 36,
+    "ok": 35,
+    "zhSources": 20,
+    "enSources": 16,
+    "failed": [
+      {
+        "name": "華爾街見聞",
+        "reason": "The operation was aborted due to timeout"
+      }
+    ]
+  },
+  "funnels": {
+    "zh": {
+      "fetched": 774,
+      "lang": 430,
+      "fresh": 338,
+      "denoised": 337,
+      "deduped": 315
+    },
+    "en": {
+      "fetched": 774,
+      "lang": 344,
+      "fresh": 334,
+      "denoised": 332,
+      "deduped": 323
+    }
+  },
+  "layout": {
+    "zh": {
+      "visible": 38,
+      "sections": 7,
+      "briefs": 16,
+      "groups": 14,
+      "maxGroupShare": 21,
+      "categories": 6,
+      "topGroups": [
+        "中新社×8",
+        "紐約時報×4",
+        "端傳媒×4",
+        "豆瓣×3",
+        "紐約時報中文×3",
+        "BBC×2"
+      ],
+      "headlineTier": "consensus+lead",
+      "headlineConsensus": 2,
+      "groupCap": 8
+    },
+    "en": {
+      "visible": 38,
+      "sections": 6,
+      "briefs": 16,
+      "groups": 19,
+      "maxGroupShare": 13,
+      "categories": 8,
+      "topGroups": [
+        "ScienceDaily×5",
+        "BBC×3",
+        "Al Jazeera×3",
+        "Japan Times×3",
+        "Variety×3",
+        "FT×2"
+      ],
+      "headlineTier": "consensus+lead",
+      "headlineConsensus": 5,
+      "groupCap": 7
+    }
+  }
+}

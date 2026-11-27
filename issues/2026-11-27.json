@@ -1,0 +1,919 @@
+{
+  "issue": 74,
+  "date": "2026-11-27",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "lunar": {
+    "zh": "农历十月十九 · 小雪",
+    "en": "19th day of the 10th lunar month · Minor Snow"
+  },
+  "editions": {
+    "zh": {
+      "lang": "zh",
+      "headline": {
+        "title": "国家统计局：1-10月份规模以上工业企业利润保持较快增长",
+        "lead": "中新网11月27日电 据国家统计局网站消息，国家统计局工业司首席统计师于卫宁就2026年1—10月份工业企业利润数据进行解读。于卫宁表示，1—10月份，全国工业生产总体平稳，新动能快速成长，带动规模以上工业企业利润同比增长16.0%，较1—9月份加快0.5个百分点，今年以来继续保持两位数增长。",
+        "body": [
+          "中新网11月27日电 据国家统计局网站消息，国家统计局工业司首席统计师于卫宁就2026年1—10月份工业企业利润数据进行解读。",
+          "于卫宁表示，1—10月份，全国工业生产总体平稳，新动能快速成长，带动规模以上工业企业利润同比增长16.0%，较1—9月份加快0.5个百分点，今年以来继续保持两位数增长。",
+          "从三大门类看，采矿业利润增长38.8%，制造业利润增长17.5%，电力、热力、燃气及水生产和供应业利润下降14.8%。10月份，全国规模以上工业企业利润同比增长20.1%，较9月份加快5.7个百分点。"
+        ],
+        "source": "中新網財經",
+        "group": "中新社",
+        "link": "https://www.chinanews.com.cn/cj/2026/11-27/10738543.shtml",
+        "category": "business",
+        "categoryLabel": "财经",
+        "consensus": 2
+      },
+      "secondary": {
+        "title": "特朗普新关税再将矛头指向北京，旨在削弱中国供应链优势",
+        "lead": "特朗普政府以产能过剩为由推出新关税措施，再次凸显了其对削弱中国在供应链中主导地位的重视。在美国政府解释加征关税理由的报告中，中国被提及数百次。 Doug Mills/The New York Times 本月早些时候，特朗普总统与习近平在中国深圳。",
+        "source": "紐約時報中文",
+        "group": "紐約時報",
+        "link": "https://cn.nytimes.com/business/20261127/trump-tariffs-asia/?utm_source=RSS",
+        "category": "world",
+        "categoryLabel": "国际"
+      },
+      "sections": [
+        {
+          "key": "top",
+          "label": "要闻",
+          "articles": [
+            {
+              "title": "巴西副总统：美国对巴西加征新关税完全不合理",
+              "lead": "当地时间11月26日，巴西副总统阿尔克明表示，美国提出对巴西加征的新关税完全不合理，巴西政府将尽全力扭转这一局面。阿尔克明强调，世界上不存在航空领域的关税，航空这样具有战略意义的领域不征收关税是传统。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-27/10738476.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "英伟达暂停向东南亚销售部分芯片，回应政府对华限制措施",
+              "lead": "知情人士透露，马来西亚、新加坡、泰国和印度尼西亚的数据中心运营商已有订单被搁置。上周，美国商务部提出新规，拟限制中国通过东南亚数据中心租用英伟达芯片。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/business/20261127/nvidia-southeast-asia-sales/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "九合一选前反转：沈伯洋破天荒取消台北「选前之夜」，如何影响选情？",
+              "lead": "这是台北市自1994年恢复市长直选以来，首次有民进党参选人不举办选前之夜。有政治学者向BBC中文分析，沈伯洋取消活动可为交通争议「止血」，但同时窒碍了绿营凝聚声势。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/cwz0kymdzdd8o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7fb4/live/8bdc5170-e985-11f1-99b6-a35a62fa4264.jpg"
+            },
+            {
+              "title": "研究称立场亲北京的AI虚假账号试图影响台湾选情",
+              "lead": "范德堡大学的研究人员开发了一种工具，可以检测出人工智能生成的、与中国政府立场一致的社交媒体帖子。新研究表明中国已开始利用人工智能改进信息战手段。 Lam Yik Fei for The New York Times 2024年台湾总统选举期间，台北的投票点。台湾将于11月28日举行地方选举。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/asia-pacific/20261126/taiwan-elections-misinformation/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "财经",
+          "articles": [
+            {
+              "title": "黑龙江哈尔滨：寒地算力蓄势腾飞 东北智算新引擎",
+              "lead": "中新网哈尔滨11月27日电 (记者 田德雨)11月25日，黑龙江省“给力！新引擎”数字经济篇主题采访活动走进哈尔滨算力中心。展示厅内，智慧农业、智慧工业、智慧教育、算力中心等沙盘模型，直观呈现算力赋能各行业数字化应用图景。不远处的机房内，一组组机柜整齐排列，服务器稳定运转。",
+              "source": "中新網財經",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cj/2026/11-27/10738635.shtml",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "美联储褐皮书显示物价压力范围扩大，美国方面表态支持芯片龙头企业稳定管理层，南方基金司南投顾关注海外政策与产业治理的交叉影响",
+              "lead": "南方基金旗下司南投顾关注海外政策与产业治理的交叉影响，通过基金优选和跨市场分散，帮助投资者减少对单一政策与单一事件的过度暴露。",
+              "source": "界面新聞",
+              "group": "界面",
+              "link": "https://www.jiemian.com/article/15381750.html",
+              "category": "business",
+              "categoryLabel": "财经"
+            },
+            {
+              "title": "两股还不够，马斯克加码“撒钱”：每年再送全美儿童一股SpaceX！",
+              "lead": "昨天刚传出要给全美每个孩子送两股SpaceX股票，价值高达约180亿美元。今天，马斯克又在X上直接加码了。 北京时间11月27日，马斯克在X平台回复网友评论时表示： 将每年向所有美国儿童再捐赠一股SpaceX股票。 这意味着，原本就已经刷新纪录的“百亿美元级股权大礼包”，正在从一次性馈赠，变成一项年复一年的长期股权转移。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3786816",
+              "category": "business",
+              "categoryLabel": "财经",
+              "consensus": 3
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "科技",
+          "articles": [
+            {
+              "title": "创业板大涨超3%，科创50暴涨4%，AI算力掀涨停潮，半导体大反弹，恒科指涨3%，科网股集体拉升",
+              "lead": "11月27日，A股震荡上涨，沪指盘初一度下跌，盘中震荡走高，创业板高开高走，盘中一度大涨超4%，科创综指、科创50均涨超4%，得益于AI算力爆发，润和软件20CM涨停，常山北明、拓维信息涨停。半导体板块大反弹，华虹宏力涨超5%。算力硬件拉升，光电路交换机、光模块、光芯片概念股大涨。军工、基本金属、精细化工等板块走强。银行、煤炭、石油天然气等板块陷入调整。",
+              "source": "華爾街見聞",
+              "group": "華爾街見聞",
+              "link": "https://wallstreetcn.com/articles/3786820",
+              "category": "tech",
+              "categoryLabel": "科技"
+            },
+            {
+              "title": "马斯克宣布捐赠加码：每年向美国所有孩子捐赠一股 SpaceX 股票",
+              "lead": "IT之家 11 月 27 日消息， SpaceX 公司当地时间 11 月 25 日发布公告 ，将为每一个现有的特朗普儿童账户各捐赠 1 股新发行的 A 类普通股，帮助美国儿童建立长期储蓄。此外，SpaceX 首席执行官埃隆 · 马斯克还将亲自拿出与所捐赠股票数量相等的股份进行匹配捐赠， 也就是 SpaceX 每捐 1 股，马斯克也捐 1 股 。",
+              "source": "IT之家",
+              "group": "IT之家",
+              "link": "https://www.ithome.com/1/033/220.htm",
+              "category": "tech",
+              "categoryLabel": "科技",
+              "consensus": 3
+            },
+            {
+              "title": "德州发现三千年用于驱赶野牛跳崖的猎场 改写南部大平原考古认知",
+              "lead": "据莱斯大学介绍，考古学家在德州潘汉德尔卡普罗克峡谷州立公园的“夜鹰”遗址发现，原住民群体在大约3000年间反复在同一地点进行集体野牛跳崖狩猎。这是德州第二个经科学证实的野牛跳崖遗址，相关成果发表于《美国古物》杂志。研究由莱斯大学、德州公园与野生动物局、德州理工大学及平原考古研究机构等合作完成，莱斯大学兼职讲师奥古斯特·“格斯”·科斯塔为第一作者。 阅读全文",
+              "source": "cnBeta",
+              "group": "cnBeta",
+              "link": "https://www.cnbeta.com.tw/articles/science/1588126.htm",
+              "category": "tech",
+              "categoryLabel": "科技"
+            }
+          ]
+        },
+        {
+          "key": "world",
+          "label": "国际",
+          "articles": [
+            {
+              "title": "今年三季度欧盟货物贸易进口总额7300亿欧元 中国为最大进口来源国",
+              "lead": "中新网布鲁塞尔11月27日电(记者 德永健)欧盟统计局26日公布今年三季度欧盟货物贸易进出口数据，显示今年三季度欧盟货物贸易进口总额7300亿欧元，中国为欧盟货物贸易最大进口来源国。",
+              "source": "中新網國際",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/gj/2026/11-27/10738559.shtml",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "宏福苑大火一周年：民众纪念逝者，北京警告“以灾乱港”",
+              "lead": "一年前的火灾造成168人遇难，是近80年来香港最致命的火灾。港府未举行官方纪念活动，但民众仍然以自己的方式追思逝者，居民和遇难者家属仍在等待真正的问责。 Chan Long Hei/Associated Press 周四，人们在香港去年发生火灾的公寓楼附近献花。港府表示不会举办悼念活动。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/china/20261127/hong-kong-fire-wang-fuk-court-anniversary/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            },
+            {
+              "title": "失去伊朗石油供应，中国小型炼油厂如何应对？",
+              "lead": "美国对伊朗实施海上封锁，迫使长期依赖廉价伊朗石油的中国独立炼油厂转向伊拉克等产油国，面临成本上升和经营亏损的压力。即使封锁解除，伊朗能否重新赢得这些中国买家，仍取决于油价及美国的制裁政策。",
+              "source": "BBC中文",
+              "group": "BBC",
+              "link": "https://www.bbc.com/zhongwen/articles/c3qj5y7lwrn9o/trad?at_medium=RSS&at_campaign=rss",
+              "category": "world",
+              "categoryLabel": "国际",
+              "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/832e/live/a99e84b0-e789-11f1-a094-5fdc692f3e33.png"
+            },
+            {
+              "title": "77岁华人夫妇被控谋杀女婿：一场失控的家庭悲剧",
+              "lead": "被枪杀的麦金西与妻子陷入激烈的离婚诉讼和子女监护权争夺战，女方父母被指控共同实施谋杀。辩方律师援引对麦金西虐待儿童的指控，称这对夫妇选择杀人是出于安全担忧。 Sarah Dussault/Bay Area News Group, via Associated Press 今年9月，乔纳森·麦金西在都柏林体育场的停车场遭枪击身亡。",
+              "source": "紐約時報中文",
+              "group": "紐約時報",
+              "link": "https://cn.nytimes.com/usa/20261126/jonathan-mckinsey-shooting-in-laws/?utm_source=RSS",
+              "category": "world",
+              "categoryLabel": "国际"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "文化",
+          "articles": [
+            {
+              "title": "“光影相约：洛迦诺80年——瑞中电影对话”开幕活动在京举行",
+              "lead": "中新网北京11月27日电(张焕迪 余昭滢)“光影相约：洛迦诺80年——瑞中电影对话”开幕影片放映活动26日晚在中国电影资料馆艺术影院举行，放映影片《希望之旅》。活动由瑞士驻华大使馆、洛迦诺电影节和中国电影资料馆共同主办。",
+              "source": "中新網文化",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/cul/2026/11-27/10738553.shtml",
+              "category": "culture",
+              "categoryLabel": "文化"
+            },
+            {
+              "title": "台湾选举漫游录：在花莲丰滨问「为什么原乡那么蓝？」",
+              "lead": "10月中，我们在花莲丰滨乡Makotaay（港口）村的巷弄里，对著乡长候选人的海报拍照。一位阿姨拦路，问我们来干甚么。「我们想来了解看看丰滨的选举，为甚么那么『蓝』。」「这关你们什么事！」阿姨摇摇头。",
+              "source": "端傳媒",
+              "group": "端傳媒",
+              "link": "https://theinitium.com/20261127-taiwan-why-hualien-fengbin-is-blue/",
+              "category": "culture",
+              "categoryLabel": "文化",
+              "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/2711_---------_------------_------------.png"
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "体育",
+          "articles": [
+            {
+              "title": "U17世界杯：中国队8:0大胜斐济队 队史第三次晋级淘汰赛",
+              "lead": "中新社北京11月27日电 当地时间11月26日，在卡塔尔多哈举行的2026年U17男足世界杯(世少赛)H组末轮比赛中，中国队以8:0大胜斐济队，最终作为8个成绩最好的小组第三名之一晋级32强。这是中国队继1985和2005年之后，队史第三次晋级世少赛淘汰赛。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-27/10738566.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            },
+            {
+              "title": "U17男足世界杯中国队8-0大胜斐济队 成功晋级32强淘汰赛",
+              "lead": "北京时间11月27日凌晨，2026年U17世界杯小组赛H组第3轮结束争夺，中国U17男足大胜斐济U17男足，以H组第三晋级淘汰赛。",
+              "source": "中新網體育",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/ty/2026/11-27/10738489.shtml",
+              "category": "sport",
+              "categoryLabel": "体育"
+            }
+          ]
+        },
+        {
+          "key": "society",
+          "label": "民生",
+          "articles": [
+            {
+              "title": "黑龙江呼玛县：北疆边境暖夕阳 盘活集体资产办好农村养老",
+              "lead": "中新网大兴安岭11月27日电 题：黑龙江呼玛县：北疆边境暖夕阳 盘活集体资产办好农村养老",
+              "source": "中新網社會",
+              "group": "中新社",
+              "link": "https://www.chinanews.com.cn/sh/2026/11-27/10738555.shtml",
+              "category": "society",
+              "categoryLabel": "民生"
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "高市早苗访问中国时是否遭到冷遇？",
+          "lead": "一些评论人士认为，与其他国家领导人相比，高市上周访问深圳期间遭到冷遇。她下飞机时舱门与舷梯顶部落差较大，机场没有欢呼的人群",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/asia-pacific/20261127/japan-china-takaichi-snubbed/?utm_source=RSS"
+        },
+        {
+          "title": "BBC事实查核：纪录显示，特朗普的帐户今年交易了44次Nvidia股票",
+          "lead": "美国总统财务揭露的审查显示特朗普（川普）的投资组合经常交易Nvidia的股票。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cm62p52417ywo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "年内多家上市公司抢滩半导体材料赛道，半导体材料设备指数强势涨超8%",
+          "lead": "天弘中证半导体材料设备指数（A类：021532；C类：021533）跟踪931743指数，规模约10.04亿元，跟踪误差仅2.85%",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15381756.html"
+        },
+        {
+          "title": "欧央行10月会议纪要：通胀前景恶化，未来或需进一步加息",
+          "lead": "欧洲央行官员在上月举行的会议上认为，随着通胀前景恶化，未来可能需要进一步收紧货币政策。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3786800"
+        },
+        {
+          "title": "联发科技：天玑旗舰智能手机芯片仍正常迭代，2027 年将按既定计划更新",
+          "lead": "IT之家 11 月 27 日消息，据台媒《电子时报》(DIGITIMES) 消息称，联发科技 (MediaTek) 针对近期流言回应称",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "IT之家",
+          "link": "https://www.ithome.com/1/033/222.htm"
+        },
+        {
+          "title": "三星计划2028年前在芯片工厂引入无人车、自动驾驶机器人与机械臂",
+          "lead": "三星电子正计划将机器人技术引入芯片制造流程。该公司已成立一支新的机器人团队，专门开发用于半导体制造的机器人技术。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "cnBeta",
+          "link": "https://www.cnbeta.com.tw/articles/tech/1588110.htm"
+        },
+        {
+          "title": "A股热点前瞻丨广东印发算力发展“十五五”规划；摩根大通上调贵州茅台至超配",
+          "lead": "①广东算力规划明确智算目标，国产算力链获政策加持； ②八部门印发服贸“十五五”规划，数字服务出海空间打开；",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "東方財富",
+          "link": "http://finance.eastmoney.com/news/11874,202611273941268441.html"
+        },
+        {
+          "title": "「请问总编」：AI时代会担心记者工作被替代吗？",
+          "lead": "如果能向总编辑提一个问题，你会问什么？端传媒推出会员限定活动 「请问总编」 线上记者会，邀请你来提问。",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "端傳媒",
+          "link": "https://theinitium.com/20261127-notes-from-eic-can-ai-replace-us/"
+        },
+        {
+          "title": "Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了",
+          "lead": "Anthropic 最近真是流年不利。 一边是顶着史上最大 IPO 的光环上市不到一周就破发",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "愛范兒",
+          "link": "https://www.ifanr.com/1695671?utm_source=rss&utm_medium=rss&utm_campaign"
+        },
+        {
+          "title": "基因编辑猪肾在人体内正常工作一年",
+          "lead": "基因编辑猪肾在人体内正常工作一年。58 岁的美国新罕布什尔州居民 Molly Falco 迎来了接受猪肾移植一周年的重要时刻。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "Solidot",
+          "link": "https://www.solidot.org/story?sid=86003"
+        },
+        {
+          "title": "蚂蚁百灵 Ling-3.2-air 开源发布，提升编程、智能体与多模态能力",
+          "lead": "蚂蚁百灵发布并开源了新一代大模型：Ling-3.2-air，1240 亿总参数，每个 token 只激活 55 亿。",
+          "category": "tech",
+          "categoryLabel": "科技",
+          "source": "開源中國",
+          "link": "https://www.oschina.net/news/503847"
+        },
+        {
+          "title": "11.26.2026 (评论: 圣弗朗西斯之花)",
+          "lead": "十一月 评论: 圣弗朗西斯之花 评价: 推荐",
+          "category": "culture",
+          "categoryLabel": "文化",
+          "source": "豆瓣",
+          "link": "https://movie.douban.com/review/17925319/"
+        },
+        {
+          "title": "美国宣布对中国、欧盟等加征新关税",
+          "lead": "特朗普政府将这些关税描绘为对不公平贸易行为的回应。新关税针对来自数十个国家的进口商品，包括中国、日本和欧盟成员国。这标志着全球贸易战再次升级。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "紐約時報中文",
+          "link": "https://cn.nytimes.com/business/20261126/trump-tariffs-trade/?utm_source=RSS"
+        },
+        {
+          "title": "台湾「九合一」选举：六都市长候选人简介",
+          "lead": "这场选举将影响蓝绿政治版图，六都选情备受关注，包括台北、新北、桃园、台中、台南、高雄，BBC中文整理各地候选人的简介。",
+          "category": "world",
+          "categoryLabel": "国际",
+          "source": "BBC中文",
+          "link": "https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "A股午评：创业板指半日涨3.79%，全市场近百股涨停，华为升腾、半导体、电子化学品等概念走强",
+          "lead": "11月27日，A股三大指数早盘集体上涨，截至午间收盘，上证指数涨0.28%，深证成指涨2.16%，创业板指涨3.79%；北证50涨3.66%。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "界面新聞",
+          "link": "https://www.jiemian.com/article/15381703.html"
+        },
+        {
+          "title": "德银：科技股抛售或将见底，预计明年标普500再涨25%至9000点，美联储或再加息三次",
+          "lead": "德意志银行在最新发布的2027年全球展望中提出，标普500指数有望在2027年底升至9000点。",
+          "category": "business",
+          "categoryLabel": "财经",
+          "source": "華爾街見聞",
+          "link": "https://wallstreetcn.com/articles/3786813"
+        }
+      ],
+      "supplement": {
+        "title": "端对谈｜重看欧洲抗议浪潮：「打砸抢」之外，华语世界忽略了什么？",
+        "lead": "今年9月以来，抗议浪潮席卷欧洲。 在西班牙，一名87岁的老太太被迫搬离住了接近一辈子的公寓，点燃了人们对住房危机的怒火，抗议者在广场上扎营，最终发起全国总罢工。在法国，一场最初关乎教师短缺、校舍老旧、甚至厕所没有厕纸的高中生抗议，迅速蔓延至全国。在义大利，学生、工人与移民二代也走上街头，表达对高昂物价与生活现状的不满。",
+        "body": [
+          "今年9月以来，抗议浪潮席卷欧洲。在西班牙，一名87岁的老太太被迫搬离住了接近一辈子的公寓，点燃了人们对住房危机的怒火，抗议者在广场上扎营，最终发起全国总罢工。在法国，一场最初关乎教师短缺、校舍老旧、甚至厕所没有厕纸的高中生抗议，迅速蔓延至全国。在义大利，学生、工人与移民二代也走上街头，表达对高昂物价与生活现状的不满。10月17日，抗议浪潮达到高峰，多座欧洲城市出现黑衣人打砸抢、洗劫商家的事件，燃烧的汽车、破碎的商店橱窗成为全球媒体竞相报导的画面。",
+          "在华语网路上，「零元购」、「暴动」等词汇也成为许多人理解这波抗议的关键词。过去两个月，端传媒透过多篇现场报导、解读与手记，记录了西班牙的 住房抗争 、法国高中生对「 没有未来 」的愤怒，也从当地华人的视角，探讨了 暴力 与抗议的界线，以及 移民 走上街头的困境。如今，随著抗议浪潮逐渐降温，仍有许多问题值得我们回头思考。这是一场 Z 世代的抗议，还是一场传统意义上的阶级斗争？移民与酷儿在其中扮演了什么角色？",
+          "西班牙、法国和义大利的抗议，又有什么异同？而回到华语世界，我们为何一方面向往民主社会的自由，另一方面却对街头政治中的失序与冲突感到不安？当抗议被剪辑成几段社群媒体上的热门短片，我们又错过了哪些理解欧洲社会的机会？对于生活在欧洲的华人而言，参加当地政治是太过奢侈的目标吗？带著这些问题，端传媒邀请三位分别生活在西班牙、法国和义大利的华人，从各自的观察与经验出发，重新理解这个秋天的欧洲街头。"
+        ],
+        "source": "端傳媒",
+        "group": "端傳媒",
+        "link": "https://theinitium.com/20261127-round-table-europe-protests-beyond-riots/",
+        "category": "culture",
+        "categoryLabel": "文化",
+        "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/GettyImages-2303921590.jpg"
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 21,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "華爾街見聞×4",
+          "端傳媒×3",
+          "BBC×2",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      }
+    },
+    "en": {
+      "lang": "en",
+      "headline": {
+        "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+        "lead": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+        "body": [
+          "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding."
+        ],
+        "source": "BBC News",
+        "group": "BBC",
+        "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+        "category": "top",
+        "categoryLabel": "Top News",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg",
+        "consensus": 5
+      },
+      "secondary": {
+        "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+        "lead": "Statement follows death of sisters, aged 15 and 13, in airstrike on residential apartment in Gaza City Israeli strikes have killed at least 16 schoolchildren",
+        "source": "Guardian World",
+        "group": "Guardian",
+        "link": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
+        "category": "world",
+        "categoryLabel": "World",
+        "image": "https://i.guim.co.uk/img/media/fb6f93363b44e1d9e8b27377c45da23d0f007ce4/215_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=c5008fad4f7aa165fff5115f0adb772f",
+        "consensus": 5
+      },
+      "sections": [
+        {
+          "key": "world",
+          "label": "World",
+          "articles": [
+            {
+              "title": "Heatwaves, floods, fires and rain: weekend of weather extremes expected across Australia",
+              "lead": "As bushfires ravage Flinders Island, Victorians can expect a wet and windy election day as storms forecast on east coast Get our breaking news email",
+              "source": "Guardian World",
+              "group": "Guardian",
+              "link": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia",
+              "category": "world",
+              "categoryLabel": "World",
+              "image": "https://i.guim.co.uk/img/media/fc97543f0720ead81d92285d612a9053401135ee/28_0_805_644/master/805.jpg?width=140&quality=85&auto=format&fit=max&s=f40d056aa224aeae82ec6832a11e9baa",
+              "consensus": 5
+            },
+            {
+              "title": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say",
+              "lead": "The deaths follow a series of strikes on Gulf Arab states that host U.S. military facilities in recent weeks as talks to end the war continue to stall.",
+              "source": "NYT World",
+              "group": "紐約時報",
+              "link": "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            },
+            {
+              "title": "Argentina bars Central Bank from printing money to fund government spending",
+              "lead": "The South American country's Senate also advances proposal to suspend primary elections ahead of 2027 presidential race.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
+              "category": "world",
+              "categoryLabel": "World",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "business",
+          "label": "Business",
+          "articles": [
+            {
+              "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+              "lead": "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline.",
+              "source": "BBC Business",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df47/live/6f07a020-e98c-11f1-9d1c-4dcc8fcde666.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Lula names banker as Brazil finance minister in attempt to calm markets",
+              "lead": "Luiz Carlos Trabuco’s appointment follows a sell-off in the country’s assets",
+              "source": "Financial Times",
+              "group": "FT",
+              "link": "https://www.ft.com/content/94f93408-476b-479c-be0e-d7f7942f9491?syn-25a6b1a6=1",
+              "category": "business",
+              "categoryLabel": "Business",
+              "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F32548483-9983-4c90-8c29-69eb971b529c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+            },
+            {
+              "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+              "lead": "Iran's foreign minister Abbas Araghchi said \"The incident is suspicious and looks like a precooked recipe for war.\"",
+              "source": "CNBC World",
+              "group": "CNBC",
+              "link": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 5
+            },
+            {
+              "title": "What will Trump’s latest tariffs mean for the world?",
+              "lead": "New measures come after previous trade tariffs ruled illegal.",
+              "source": "Al Jazeera",
+              "group": "Al Jazeera",
+              "link": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss",
+              "category": "business",
+              "categoryLabel": "Business",
+              "consensus": 2
+            }
+          ]
+        },
+        {
+          "key": "tech",
+          "label": "Technology",
+          "articles": [
+            {
+              "title": "Will Taiwan’s referendum bring back nuclear power as chips and AI strain the grid?",
+              "lead": "Taiwan’s growing demand for electricity to sustain its semiconductor and AI industries has thrust a nuclear power referendum into the spotlight in Saturday’s local elections.",
+              "source": "SCMP",
+              "group": "SCMP",
+              "link": "https://www.scmp.com/news/china/politics/article/3375975/will-taiwans-referendum-bring-back-nuclear-power-chips-and-ai-strain-grid",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/27/75197653-b6d9-4214-8fe6-54189092a771_1750db51.jpg?itok=dKwxFoAM&v=1795748237",
+              "consensus": 5
+            },
+            {
+              "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+              "lead": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+              "source": "TechCrunch",
+              "group": "TechCrunch",
+              "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "consensus": 5
+            },
+            {
+              "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+              "lead": "Four years ago, NASA dispatched a small spacecraft on a suicide mission to show how humanity might deflect an asteroid on a collision course with Earth.",
+              "source": "Ars Technica",
+              "group": "Ars Technica",
+              "link": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+              "category": "tech",
+              "categoryLabel": "Technology",
+              "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/hera_arrival1-1020x648.jpg",
+              "consensus": 5
+            }
+          ]
+        },
+        {
+          "key": "sport",
+          "label": "Sport",
+          "articles": [
+            {
+              "title": "GB win decider to reach Davis Cup semis for first time since 2019",
+              "lead": "Great Britain advance to the semi-finals of the Davis Cup for the first time since 2019 as Henry Patten and Neal Skupski win a decisive doubles tie against Germany in Bologna.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/tennis/articles/c5m2lvevrk1mo?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/329b/live/596995c0-e9aa-11f1-a094-5fdc692f3e33.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Russell says Verstappen's criticism 'quite amusing'",
+              "lead": "George Russell says Max Verstappen can \"say what he wants\" and that he found the Red Bull driver's criticisms of him after the Las Vegas Grand Prix \"quite amusing\".",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/formula1/articles/c5lykr98yd88o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8256/live/ae2c5130-e9ad-11f1-859a-37130cd3a1d7.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Skupski and Patten win to send GB into Davis Cup semi-finals",
+              "lead": "Great Britain's Neal Skupski and Henry Patten produce a stunning victory against Germany's Kevin Krawietz and Tim Puetz to win the decisive doubles match and secure Great Britain's place in the Davis Cup semi-finals for",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/tennis/videos/cmn0lrjdd9n5o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43dc/live/8cd182e0-e9b1-11f1-99b6-a35a62fa4264.jpg"
+            },
+            {
+              "title": "Calvert-Lewin signs new Leeds deal until 2029",
+              "lead": "England international Dominic Calvert-Lewin signs a new contract to stay with Leeds United until 2029.",
+              "source": "BBC Sport",
+              "group": "BBC",
+              "link": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss",
+              "category": "sport",
+              "categoryLabel": "Sport",
+              "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aba/live/b46ac100-e9ba-11f1-8d2a-f5d2aabc11cb.jpg"
+            }
+          ]
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "articles": [
+            {
+              "title": "Jesse Plemons on the ‘Honor’ of Playing Plutarch in ‘The Hunger Games’ After Philip Seymour Hoffman and Debating Director Francis Lawrence Over the Character’s Motivations",
+              "lead": "“The Hunger Games: Sunrise on the Reaping” might be Haymitch Abernathy’s prequel movie, but Oscar nominee Jesse Plemons was the first person cast in the film.",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/features/hunger-games-jesse-plemons-philip-seymour-hoffman-plutarch-1236957335/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/solstice-unit-250925-00425rc.jpg",
+              "consensus": 5
+            },
+            {
+              "title": "Luca Guadagnino Wants Next Movie to Be a ‘Love Story,’ Confirms ‘American Psycho’ and ‘Separate Rooms’ Not Happening",
+              "lead": "Luca Guadagnino wants to return to romance. Speaking to Variety at the Marrakech Film Festival where he’s presenting “Artificial,” the Italian filmmaker behind “Call Me by Your Name",
+              "source": "Variety",
+              "group": "Variety",
+              "link": "https://variety.com/2026/film/news/luca-guadagnino-next-movie-love-story-1236959119/",
+              "category": "culture",
+              "categoryLabel": "Culture",
+              "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2307025402.jpg",
+              "consensus": 3
+            }
+          ]
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "articles": [
+            {
+              "title": "Common supplements rival antibiotics in treating severe gum disease",
+              "lead": "A combination of omega-3 and low-dose aspirin produced results comparable to antibiotics when used alongside standard treatment for severe gum disease, with benefits persisting long after supplementation ended.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261126033031.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "Deep beneath Australia, hidden caves could unlock the secrets of alien worlds",
+              "lead": "Scientists have solved the mystery of strange trenches scattered across Australia’s vast Nullarbor Plain, revealing an extensive hidden world beneath the surface.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261124055901.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 5
+            },
+            {
+              "title": "The surprising reason women seem better at multitasking than men",
+              "lead": "Men and women appear to be similarly capable of multitasking, but men are more than twice as likely to ignore conversation while juggling multiple activities.",
+              "source": "ScienceDaily",
+              "group": "ScienceDaily",
+              "link": "https://www.sciencedaily.com/releases/2026/11/261125045306.htm",
+              "category": "science",
+              "categoryLabel": "Science",
+              "consensus": 2
+            }
+          ]
+        }
+      ],
+      "briefs": [
+        {
+          "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
+          "lead": "Former Bank of Spain governor chosen to succeed Christine Lagarde",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Guardian World",
+          "link": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president"
+        },
+        {
+          "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+          "lead": "The pair were technicians for German company Rheinmetall",
+          "category": "top",
+          "categoryLabel": "Top News",
+          "source": "BBC News",
+          "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Gérard Depardieu Is Ordered to Stand Trial Over Rape Accusation",
+          "lead": "The actress Charlotte Arnould has accused the French movie star of",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "NYT World",
+          "link": "https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html"
+        },
+        {
+          "title": "WADA president says trust in Russia’s anti-doping system remains ‘very limited’",
+          "lead": "Russia's anti-doping agency, RUSADA, remains noncompliant with the",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "Japan Times",
+          "link": "https://www.japantimes.co.jp/sports/2026/11/27/more-sports/wada-president-russia-trust/"
+        },
+        {
+          "title": "Major storm batters US on Thanksgiving holiday, disrupting flights and power",
+          "lead": "A powerful storm disrupted Thanksgiving celebrations for millions of",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "SCMP",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3375968/major-storm-batters-us-thanksgiving-holiday-disrupting-flights-and-power"
+        },
+        {
+          "title": "Spain's De Cos chosen as next ECB president",
+          "lead": "European leaders have agreed to nominate the former head of the Bank",
+          "category": "world",
+          "categoryLabel": "World",
+          "source": "France24",
+          "link": "https://www.france24.com/en/spain-s-de-cos-chosen-as-next-ecb-president"
+        },
+        {
+          "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
+          "lead": "Trump and NATO chief Mark Rutte urged Russia to avoid actions that",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html"
+        },
+        {
+          "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
+          "lead": "Inflation is top concern for US central bank officials even as",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+          "lead": "The proposed Character.ai bankruptcy sale includes sensitive personal",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+        },
+        {
+          "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+          "lead": "US District Judge Loren AliKhan has blocked the Federal",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "The Verge",
+          "link": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block"
+        },
+        {
+          "title": "Chiwetel Ejiofor on How Stephen Frears’ ‘Dirty Pretty Things’ Led Him to Fall in Love With Film",
+          "lead": "Chiwetel Ejiofor started his film career by doing something that many",
+          "category": "culture",
+          "categoryLabel": "Culture",
+          "source": "Variety",
+          "link": "https://variety.com/2026/film/awards/chiwetel-ejiofor-stephen-frears-dirty-pretty-things-1236959080/"
+        },
+        {
+          "title": "Too much of this common nutrient could be accelerating blood vessel aging",
+          "lead": "Researchers have uncovered a kidney protein that may hold an",
+          "category": "science",
+          "categoryLabel": "Science",
+          "source": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261124055847.htm"
+        },
+        {
+          "title": "Draining peatlands is responsible for a few percent of our global warming",
+          "lead": "Much of the focus for human-caused climate change is on fossil fuels",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "Ars Technica",
+          "link": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/"
+        },
+        {
+          "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+          "lead": "De Cos will lead the ECB into a period of political uncertainty and",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "CNBC World",
+          "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
+        },
+        {
+          "title": "Can AI replace economics PhDs?",
+          "lead": "An interview with Jason Furman, economics professor at Harvard",
+          "category": "business",
+          "categoryLabel": "Business",
+          "source": "Financial Times",
+          "link": "https://www.ft.com/content/e4d14f96-c223-4c80-ad93-28a8a545beb1?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+          "lead": "Nvidia has told manufacturing partners to pause server shipments to",
+          "category": "tech",
+          "categoryLabel": "Technology",
+          "source": "TechCrunch",
+          "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+        }
+      ],
+      "supplement": {
+        "title": "This 345-million-year-old fossil had scientists fooled for decades",
+        "lead": "A famous 345-million-year-old fossil has turned out to be something entirely different from what scientists believed for decades. Advanced X-ray imaging revealed hidden gills and thousands of tiny teeth",
+        "body": [
+          "A famous 345-million-year-old fossil has turned out to be something entirely different from what scientists believed for decades.",
+          "Advanced X-ray imaging revealed hidden gills and thousands of tiny teeth, exposing a primitive aquatic or amphibious creature rather than an early reptile.",
+          "The discovery suggests that several adaptations associated with life on land actually evolved in animals still dependent on water."
+        ],
+        "source": "ScienceDaily",
+        "group": "ScienceDaily",
+        "link": "https://www.sciencedaily.com/releases/2026/11/261125045307.htm",
+        "category": "science",
+        "categoryLabel": "Science",
+        "consensus": 2
+      },
+      "stats": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 16,
+        "categories": 7,
+        "topGroups": [
+          "BBC×6",
+          "ScienceDaily×5",
+          "TechCrunch×3",
+          "Variety×3",
+          "Guardian×2",
+          "Al Jazeera×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  },
+  "meta": {
+    "generatedAt": "2026-11-27T03:58:55.591Z",
+    "sources": {
+      "configured": 36,
+      "ok": 36,
+      "zhSources": 20,
+      "enSources": 16,
+      "failed": []
+    },
+    "funnels": {
+      "zh": {
+        "fetched": 797,
+        "lang": 455,
+        "fresh": 381,
+        "denoised": 381,
+        "deduped": 362
+      },
+      "en": {
+        "fetched": 797,
+        "lang": 342,
+        "fresh": 315,
+        "denoised": 314,
+        "deduped": 303
+      }
+    },
+    "layout": {
+      "zh": {
+        "visible": 38,
+        "sections": 7,
+        "briefs": 16,
+        "groups": 16,
+        "maxGroupShare": 21,
+        "categories": 6,
+        "topGroups": [
+          "中新社×8",
+          "紐約時報×5",
+          "華爾街見聞×4",
+          "端傳媒×3",
+          "BBC×2",
+          "IT之家×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 2,
+        "groupCap": 8
+      },
+      "en": {
+        "visible": 38,
+        "sections": 6,
+        "briefs": 16,
+        "groups": 19,
+        "maxGroupShare": 16,
+        "categories": 7,
+        "topGroups": [
+          "BBC×6",
+          "ScienceDaily×5",
+          "TechCrunch×3",
+          "Variety×3",
+          "Guardian×2",
+          "Al Jazeera×2"
+        ],
+        "headlineTier": "consensus+lead",
+        "headlineConsensus": 5,
+        "groupCap": 7
+      }
+    }
+  }
+}
